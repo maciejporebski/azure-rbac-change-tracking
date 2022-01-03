@@ -11,7 +11,7 @@ $toc += "| Role Name | Role Id |`n| --- | --- |`n"
 
 Write-Host "Fetching RBAC Role Definitions"
 $roleDefinitions = (Get-AzRoleDefinition | Sort-Object -Property 'Name')
-Write-Host "Retrieved $($roleDefinition.Count) roles"
+Write-Host "Retrieved $($roleDefinitions.Count) roles"
 
 foreach ($roleDefinition in $roleDefinitions) {
     Write-Host "Processing role '$($roleDefinition.Name)' with Id '$($roleDefinition.Id)'"

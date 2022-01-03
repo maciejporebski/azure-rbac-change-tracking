@@ -1,0 +1,16 @@
+{
+  "Name": "Key Vault Secrets User",
+  "Id": "4633458b-17de-408a-b874-0445c86b69e6",
+  "IsCustom": false,
+  "Description": "Read secret contents. Only works for key vaults that use the 'Azure role-based access control' permission model.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.KeyVault/vaults/secrets/getSecret/action",
+    "Microsoft.KeyVault/vaults/secrets/readMetadata/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

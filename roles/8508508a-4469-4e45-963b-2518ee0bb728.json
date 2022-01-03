@@ -1,0 +1,20 @@
+{
+  "Name": "AgFood Platform Service Contributor",
+  "Id": "8508508a-4469-4e45-963b-2518ee0bb728",
+  "IsCustom": false,
+  "Description": "Provides contribute access to AgFood Platform Service",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AgFoodPlatform/*/action",
+    "Microsoft.AgFoodPlatform/*/read",
+    "Microsoft.AgFoodPlatform/*/write"
+  ],
+  "NotDataActions": [
+    "Microsoft.AgFoodPlatform/farmers/write",
+    "Microsoft.AgFoodPlatform/deletionJobs/*/write"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

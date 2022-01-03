@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Relay Sender",
+  "Id": "26baccc8-eea7-41f1-98f4-1762cc7f685d",
+  "IsCustom": false,
+  "Description": "Allows for send access to Azure Relay resources.",
+  "Actions": [
+    "Microsoft.Relay/*/wcfRelays/read",
+    "Microsoft.Relay/*/hybridConnections/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Relay/*/send/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

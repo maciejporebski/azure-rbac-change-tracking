@@ -1,0 +1,18 @@
+{
+  "Name": "Spatial Anchors Account Reader",
+  "Id": "5d51204f-eb77-4b1c-b86a-2ec626c49413",
+  "IsCustom": false,
+  "Description": "Lets you locate and read properties of spatial anchors in your account",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.MixedReality/SpatialAnchorsAccounts/discovery/read",
+    "Microsoft.MixedReality/SpatialAnchorsAccounts/properties/read",
+    "Microsoft.MixedReality/SpatialAnchorsAccounts/query/read",
+    "Microsoft.MixedReality/SpatialAnchorsAccounts/submitdiag/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

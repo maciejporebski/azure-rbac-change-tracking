@@ -1,0 +1,21 @@
+{
+  "Name": "Desktop Virtualization Workspace Reader",
+  "Id": "0fa44ee9-7a7d-466b-9bb2-2bf446b1204d",
+  "IsCustom": false,
+  "Description": "Reader of the Desktop Virtualization Workspace.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/workspaces/read",
+    "Microsoft.DesktopVirtualization/applicationgroups/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Lab Services Contributor",
+  "Id": "f69b8690-cc87-41d6-b77a-a4bc3c0a966f",
+  "IsCustom": false,
+  "Description": "The lab services contributor role",
+  "Actions": [
+    "Microsoft.LabServices/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.LabServices/labPlans/createLab/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

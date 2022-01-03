@@ -1,0 +1,15 @@
+{
+  "Name": "Search Index Data Reader",
+  "Id": "1407120a-92aa-4202-b7e9-c0e197c71c8f",
+  "IsCustom": false,
+  "Description": "Grants read access to Azure Cognitive Search index data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Search/searchServices/indexes/documents/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

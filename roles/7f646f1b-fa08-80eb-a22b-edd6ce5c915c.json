@@ -1,0 +1,25 @@
+{
+  "Name": "Experimentation Contributor",
+  "Id": "7f646f1b-fa08-80eb-a22b-edd6ce5c915c",
+  "IsCustom": false,
+  "Description": "Experimentation Contributor",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Experimentation/experimentWorkspaces/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/write",
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/delete",
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/experiment/action",
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/emergencystop/action",
+    "Microsoft.Experimentation/experimentWorkspaces/read",
+    "Microsoft.Experimentation/experimentWorkspaces/write",
+    "Microsoft.Experimentation/experimentWorkspaces/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

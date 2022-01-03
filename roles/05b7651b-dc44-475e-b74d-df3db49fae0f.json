@@ -1,0 +1,18 @@
+{
+  "Name": "Project Babylon Data Source Administrator",
+  "Id": "05b7651b-dc44-475e-b74d-df3db49fae0f",
+  "IsCustom": false,
+  "Description": "The Microsoft.ProjectBabylon data source administrator can manage data sources and data scans. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.ProjectBabylon/accounts/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ProjectBabylon/accounts/scan/read",
+    "Microsoft.ProjectBabylon/accounts/scan/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

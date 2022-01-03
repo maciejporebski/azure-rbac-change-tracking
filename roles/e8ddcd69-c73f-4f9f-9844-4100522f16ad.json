@@ -1,0 +1,17 @@
+{
+  "Name": "Workbook Contributor",
+  "Id": "e8ddcd69-c73f-4f9f-9844-4100522f16ad",
+  "IsCustom": false,
+  "Description": "Can save shared workbooks.",
+  "Actions": [
+    "Microsoft.Insights/workbooks/write",
+    "Microsoft.Insights/workbooks/delete",
+    "Microsoft.Insights/workbooks/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

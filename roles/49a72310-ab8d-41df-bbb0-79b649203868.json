@@ -1,0 +1,20 @@
+{
+  "Name": "Desktop Virtualization Reader",
+  "Id": "49a72310-ab8d-41df-bbb0-79b649203868",
+  "IsCustom": false,
+  "Description": "Reader of Desktop Virtualization.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

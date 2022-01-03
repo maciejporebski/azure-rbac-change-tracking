@@ -1,0 +1,20 @@
+{
+  "Name": "Application Insights Snapshot Debugger",
+  "Id": "08954f03-6346-4c2e-81c0-ec3a5cfae23b",
+  "IsCustom": false,
+  "Description": "Gives user permission to use Application Insights Snapshot Debugger features",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Insights/components/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

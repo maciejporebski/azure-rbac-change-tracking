@@ -1,0 +1,20 @@
+{
+  "Name": "Data Box Contributor",
+  "Id": "add466c9-e687-43fc-8d98-dfcf8d720be5",
+  "IsCustom": false,
+  "Description": "Lets you manage everything under Data Box Service except giving access to others.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Databox/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

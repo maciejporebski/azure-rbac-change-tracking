@@ -1,0 +1,16 @@
+{
+  "Name": "Hierarchy Settings Administrator",
+  "Id": "350f8d15-c687-4448-8ae1-157740a3936d",
+  "IsCustom": false,
+  "Description": "Allows users to edit and delete Hierarchy Settings",
+  "Actions": [
+    "Microsoft.Management/managementGroups/settings/write",
+    "Microsoft.Management/managementGroups/settings/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

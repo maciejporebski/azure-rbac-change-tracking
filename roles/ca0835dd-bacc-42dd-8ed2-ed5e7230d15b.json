@@ -1,0 +1,16 @@
+{
+  "Name": "Object Anchors Account Owner",
+  "Id": "ca0835dd-bacc-42dd-8ed2-ed5e7230d15b",
+  "IsCustom": false,
+  "Description": "Provides user with ingestion capabilities for an object anchors account.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.MixedReality/ObjectAnchorsAccounts/ingest/action",
+    "Microsoft.MixedReality/ObjectAnchorsAccounts/ingest/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

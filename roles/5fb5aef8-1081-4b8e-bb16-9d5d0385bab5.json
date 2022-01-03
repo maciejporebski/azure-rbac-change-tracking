@@ -1,0 +1,20 @@
+{
+  "Name": "Automation Runbook Operator",
+  "Id": "5fb5aef8-1081-4b8e-bb16-9d5d0385bab5",
+  "IsCustom": false,
+  "Description": "Read Runbook properties - to be able to create Jobs of the runbook.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Automation/automationAccounts/runbooks/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

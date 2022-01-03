@@ -1,0 +1,15 @@
+{
+  "Name": "Reader",
+  "Id": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
+  "IsCustom": false,
+  "Description": "View all resources, but does not allow you to make any changes.",
+  "Actions": [
+    "*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

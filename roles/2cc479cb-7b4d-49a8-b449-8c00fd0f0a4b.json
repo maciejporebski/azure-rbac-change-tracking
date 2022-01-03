@@ -1,0 +1,22 @@
+{
+  "Name": "Web Plan Contributor",
+  "Id": "2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b",
+  "IsCustom": false,
+  "Description": "Lets you manage the web plans for websites, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Web/serverFarms/*",
+    "Microsoft.Web/hostingEnvironments/Join/Action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

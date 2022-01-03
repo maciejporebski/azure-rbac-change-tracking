@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Service Bus Data Owner",
+  "Id": "090c5cfd-751d-490a-894a-3ce6f1109419",
+  "IsCustom": false,
+  "Description": "Allows for full access to Azure Service Bus resources.",
+  "Actions": [
+    "Microsoft.ServiceBus/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ServiceBus/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

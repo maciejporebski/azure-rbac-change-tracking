@@ -1,0 +1,16 @@
+{
+  "Name": "Azure Kubernetes Service Cluster User Role",
+  "Id": "4abbcc35-e782-43d8-92c5-2d3f1bd2253f",
+  "IsCustom": false,
+  "Description": "List cluster user credential action.",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/listClusterUserCredential/action",
+    "Microsoft.ContainerService/managedClusters/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

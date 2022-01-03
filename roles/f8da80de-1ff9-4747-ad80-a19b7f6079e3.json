@@ -1,0 +1,15 @@
+{
+  "Name": "AgFood Platform Service Admin",
+  "Id": "f8da80de-1ff9-4747-ad80-a19b7f6079e3",
+  "IsCustom": false,
+  "Description": "Provides admin access to AgFood Platform Service",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AgFoodPlatform/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

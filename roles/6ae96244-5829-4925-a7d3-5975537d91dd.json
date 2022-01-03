@@ -1,0 +1,15 @@
+{
+  "Name": "Azure VM Managed identities restore Contributor",
+  "Id": "6ae96244-5829-4925-a7d3-5975537d91dd",
+  "IsCustom": false,
+  "Description": "Azure VM Managed identities restore Contributors are allowed to perform Azure VM Restores with managed identities both user and system",
+  "Actions": [
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

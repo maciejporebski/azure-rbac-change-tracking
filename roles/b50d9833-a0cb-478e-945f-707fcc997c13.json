@@ -1,0 +1,18 @@
+{
+  "Name": "Disk Restore Operator",
+  "Id": "b50d9833-a0cb-478e-945f-707fcc997c13",
+  "IsCustom": false,
+  "Description": "Provides permission to backup vault to perform disk restore.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Compute/disks/write",
+    "Microsoft.Compute/disks/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

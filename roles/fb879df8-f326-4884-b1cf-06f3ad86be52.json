@@ -1,0 +1,24 @@
+{
+  "Name": "Virtual Machine User Login",
+  "Id": "fb879df8-f326-4884-b1cf-06f3ad86be52",
+  "IsCustom": false,
+  "Description": "View Virtual Machines in the portal and login as a regular user.",
+  "Actions": [
+    "Microsoft.Network/publicIPAddresses/read",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/loadBalancers/read",
+    "Microsoft.Network/networkInterfaces/read",
+    "Microsoft.Compute/virtualMachines/*/read",
+    "Microsoft.HybridCompute/machines/*/read",
+    "Microsoft.HybridConnectivity/endpoints/listCredentials/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Compute/virtualMachines/login/action",
+    "Microsoft.HybridCompute/machines/login/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Application Group Contributor",
+  "Id": "ca6382a4-1721-4bcf-a114-ff0c70227b6b",
+  "IsCustom": false,
+  "Description": "Contributor of the Application Group.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/applicationgroups/*",
+    "Microsoft.DesktopVirtualization/hostpools/read",
+    "Microsoft.DesktopVirtualization/hostpools/sessionhosts/read",
+    "Microsoft.DesktopVirtualization/workspaces/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

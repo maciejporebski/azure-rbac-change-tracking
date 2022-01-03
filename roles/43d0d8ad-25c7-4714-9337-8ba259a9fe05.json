@@ -1,0 +1,17 @@
+{
+  "Name": "Monitoring Reader",
+  "Id": "43d0d8ad-25c7-4714-9337-8ba259a9fe05",
+  "IsCustom": false,
+  "Description": "Can read all monitoring data.",
+  "Actions": [
+    "*/read",
+    "Microsoft.OperationalInsights/workspaces/search/action",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

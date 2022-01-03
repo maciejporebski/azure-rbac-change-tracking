@@ -1,0 +1,17 @@
+{
+  "Name": "SignalR App Server",
+  "Id": "420fcaa2-552c-430f-98ca-3264be4806c7",
+  "IsCustom": false,
+  "Description": "Lets your app server access SignalR Service with AAD auth options.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.SignalRService/SignalR/auth/accessKey/action",
+    "Microsoft.SignalRService/SignalR/serverConnection/write",
+    "Microsoft.SignalRService/SignalR/clientConnection/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

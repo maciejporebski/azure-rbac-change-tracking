@@ -1,0 +1,21 @@
+{
+  "Name": "Load Test Reader",
+  "Id": "3ae3fb29-0000-4ccd-bf80-542e7b26e081",
+  "IsCustom": false,
+  "Description": "View and list all load tests and load test resources but can not make any changes",
+  "Actions": [
+    "Microsoft.LoadTestService/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.LoadTestService/loadtests/readTest/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

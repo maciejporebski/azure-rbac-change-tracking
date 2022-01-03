@@ -1,0 +1,15 @@
+{
+  "Name": "IoT Hub Twin Contributor",
+  "Id": "494bdba2-168f-4f31-a0a1-191d2f7c028c",
+  "IsCustom": false,
+  "Description": "Allows for read and write access to all IoT Hub device and module twins.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Devices/IotHubs/twins/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

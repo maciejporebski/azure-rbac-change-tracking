@@ -1,0 +1,21 @@
+{
+  "Name": "Search Service Contributor",
+  "Id": "7ca78c08-252a-4471-8644-bb5ff32d4ba0",
+  "IsCustom": false,
+  "Description": "Lets you manage Search services, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Search/searchServices/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

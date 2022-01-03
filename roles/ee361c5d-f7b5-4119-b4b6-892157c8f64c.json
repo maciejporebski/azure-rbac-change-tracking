@@ -1,0 +1,15 @@
+{
+  "Name": "Knowledge Consumer",
+  "Id": "ee361c5d-f7b5-4119-b4b6-892157c8f64c",
+  "IsCustom": false,
+  "Description": "Knowledge Read permission to consume Enterprise Graph Knowledge using entity search and graph query",
+  "Actions": [
+    "Microsoft.EnterpriseKnowledgeGraph/services/knowledge/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

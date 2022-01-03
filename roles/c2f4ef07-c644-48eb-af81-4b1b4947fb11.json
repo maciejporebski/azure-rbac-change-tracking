@@ -1,0 +1,15 @@
+{
+  "Name": "AcrDelete",
+  "Id": "c2f4ef07-c644-48eb-af81-4b1b4947fb11",
+  "IsCustom": false,
+  "Description": "acr delete",
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/artifacts/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

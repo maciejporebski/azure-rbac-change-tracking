@@ -1,0 +1,21 @@
+{
+  "Name": "DNS Zone Contributor",
+  "Id": "befefa01-2a29-4197-83a8-272ff33ce314",
+  "IsCustom": false,
+  "Description": "Lets you manage DNS zones and record sets in Azure DNS, but does not let you control who has access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Network/dnsZones/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

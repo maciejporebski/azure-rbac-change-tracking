@@ -1,0 +1,24 @@
+{
+  "Name": "Autonomous Development Platform Data Contributor (Preview)",
+  "Id": "b8b15564-4fa6-4a59-ab12-03e1d9594795",
+  "IsCustom": false,
+  "Description": "Grants permissions to upload and manage new Autonomous Development Platform measurements.",
+  "Actions": [
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/discoveries/*",
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/uploads/*",
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/new/*",
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/measurementCollections/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/new/changeState/action"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

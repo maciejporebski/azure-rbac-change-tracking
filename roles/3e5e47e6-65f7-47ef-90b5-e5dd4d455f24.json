@@ -1,0 +1,17 @@
+{
+  "Name": "Disk Backup Reader",
+  "Id": "3e5e47e6-65f7-47ef-90b5-e5dd4d455f24",
+  "IsCustom": false,
+  "Description": "Provides permission to backup vault to perform disk backup.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Compute/disks/read",
+    "Microsoft.Compute/disks/beginGetAccess/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

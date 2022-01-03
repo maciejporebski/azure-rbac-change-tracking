@@ -1,0 +1,21 @@
+{
+  "Name": "BizTalk Contributor",
+  "Id": "5e3c6656-6cfa-4708-81fe-0de47ac73342",
+  "IsCustom": false,
+  "Description": "Lets you manage BizTalk services, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.BizTalkServices/BizTalk/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

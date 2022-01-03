@@ -1,0 +1,27 @@
+{
+  "Name": "Storage Account Backup Contributor Role",
+  "Id": "e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1",
+  "IsCustom": false,
+  "Description": "Storage Account Backup Contributors are allowed to perform backup and restore of Storage Account.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Authorization/locks/read",
+    "Microsoft.Authorization/locks/write",
+    "Microsoft.Authorization/locks/delete",
+    "Microsoft.Features/features/read",
+    "Microsoft.Features/providers/features/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Storage/operations/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/storageAccounts/blobServices/read",
+    "Microsoft.Storage/storageAccounts/blobServices/write",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Storage/storageAccounts/restoreBlobRanges/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

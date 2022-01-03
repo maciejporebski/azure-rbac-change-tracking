@@ -1,0 +1,21 @@
+{
+  "Name": "Scheduler Job Collections Contributor",
+  "Id": "188a0f2f-5c9e-469b-ae67-2aa5ce574b94",
+  "IsCustom": false,
+  "Description": "Lets you manage Scheduler job collections, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Scheduler/jobcollections/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

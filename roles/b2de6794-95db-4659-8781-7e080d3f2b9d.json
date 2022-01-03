@@ -1,0 +1,15 @@
+{
+  "Name": "Cognitive Services Immersive Reader User",
+  "Id": "b2de6794-95db-4659-8781-7e080d3f2b9d",
+  "IsCustom": false,
+  "Description": "Provides access to create Immersive Reader sessions and call APIs",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/ImmersiveReader/getcontentmodelforreader/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

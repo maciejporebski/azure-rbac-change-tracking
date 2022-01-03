@@ -1,0 +1,17 @@
+{
+  "Name": "Schema Registry Reader (Preview)",
+  "Id": "2c56ea50-c6b3-40a6-83c0-9d98858bc7d2",
+  "IsCustom": false,
+  "Description": "Read and list Schema Registry groups and schemas.",
+  "Actions": [
+    "Microsoft.EventHub/namespaces/schemagroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventHub/namespaces/schemas/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

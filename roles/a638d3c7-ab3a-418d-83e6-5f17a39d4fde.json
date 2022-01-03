@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Event Hubs Data Receiver",
+  "Id": "a638d3c7-ab3a-418d-83e6-5f17a39d4fde",
+  "IsCustom": false,
+  "Description": "Allows receive access to Azure Event Hubs resources.",
+  "Actions": [
+    "Microsoft.EventHub/*/eventhubs/consumergroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventHub/*/receive/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

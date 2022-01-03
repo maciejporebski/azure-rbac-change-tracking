@@ -1,0 +1,23 @@
+{
+  "Name": "Azure Arc Kubernetes Cluster Admin",
+  "Id": "8393591c-06b9-48a2-a542-1bd6b377f6a2",
+  "IsCustom": false,
+  "Description": "Lets you manage all resources in the cluster.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Kubernetes/connectedClusters/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

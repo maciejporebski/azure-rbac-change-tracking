@@ -1,0 +1,20 @@
+{
+  "Name": "PlayFab Contributor",
+  "Id": "0c8b84dc-067c-4039-9615-fa1a4b77c726",
+  "IsCustom": false,
+  "Description": "Provides contributor access to PlayFab resources",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.PlayFab/*/read",
+    "Microsoft.PlayFab/*/write",
+    "Microsoft.PlayFab/*/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

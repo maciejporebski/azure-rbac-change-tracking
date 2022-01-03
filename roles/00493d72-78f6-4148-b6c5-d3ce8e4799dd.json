@@ -1,0 +1,22 @@
+{
+  "Name": "Azure Arc Enabled Kubernetes Cluster User Role",
+  "Id": "00493d72-78f6-4148-b6c5-d3ce8e4799dd",
+  "IsCustom": false,
+  "Description": "List cluster user credentials action.",
+  "Actions": [
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Kubernetes/connectedClusters/listClusterUserCredentials/action",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

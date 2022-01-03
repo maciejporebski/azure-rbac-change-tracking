@@ -1,0 +1,17 @@
+{
+  "Name": "Cognitive Services Custom Vision Contributor",
+  "Id": "c1ff6cc2-c111-46fe-8896-e0ef812ad9f3",
+  "IsCustom": false,
+  "Description": "Full access to the project, including the ability to view, create, edit, or delete projects.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/CustomVision/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

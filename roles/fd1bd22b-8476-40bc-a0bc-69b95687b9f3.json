@@ -1,0 +1,15 @@
+{
+  "Name": "Attestation Reader",
+  "Id": "fd1bd22b-8476-40bc-a0bc-69b95687b9f3",
+  "IsCustom": false,
+  "Description": "Can read the attestation provider properties",
+  "Actions": [
+    "Microsoft.Attestation/attestationProviders/attestation/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

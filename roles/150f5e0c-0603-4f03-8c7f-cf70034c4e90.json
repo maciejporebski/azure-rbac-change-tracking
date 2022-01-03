@@ -1,0 +1,18 @@
+{
+  "Name": "Data Purger",
+  "Id": "150f5e0c-0603-4f03-8c7f-cf70034c4e90",
+  "IsCustom": false,
+  "Description": "Can purge analytics data",
+  "Actions": [
+    "Microsoft.Insights/components/*/read",
+    "Microsoft.Insights/components/purge/action",
+    "Microsoft.OperationalInsights/workspaces/*/read",
+    "Microsoft.OperationalInsights/workspaces/purge/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

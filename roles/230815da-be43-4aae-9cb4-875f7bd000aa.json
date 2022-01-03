@@ -1,0 +1,31 @@
+{
+  "Name": "Cosmos DB Operator",
+  "Id": "230815da-be43-4aae-9cb4-875f7bd000aa",
+  "IsCustom": false,
+  "Description": "Lets you manage Azure Cosmos DB accounts, but not access data in them. Prevents access to account keys and connection strings.",
+  "Actions": [
+    "Microsoft.DocumentDb/databaseAccounts/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Network/virtualNetworks/subnets/joinViaServiceEndpoint/action"
+  ],
+  "NotActions": [
+    "Microsoft.DocumentDB/databaseAccounts/readonlyKeys/*",
+    "Microsoft.DocumentDB/databaseAccounts/regenerateKey/*",
+    "Microsoft.DocumentDB/databaseAccounts/listKeys/*",
+    "Microsoft.DocumentDB/databaseAccounts/listConnectionStrings/*",
+    "Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/write",
+    "Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/delete",
+    "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/write",
+    "Microsoft.DocumentDB/databaseAccounts/sqlRoleAssignments/delete"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

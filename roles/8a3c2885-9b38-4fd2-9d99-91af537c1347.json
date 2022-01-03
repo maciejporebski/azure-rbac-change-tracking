@@ -1,0 +1,18 @@
+{
+  "Name": "Purview Data Curator (Legacy)",
+  "Id": "8a3c2885-9b38-4fd2-9d99-91af537c1347",
+  "IsCustom": false,
+  "Description": "The Microsoft.Purview data curator is a legacy role that can create, read, modify and delete catalog data objects and establish relationships between objects. We have recently deprecated this role from Azure role-based access and introduced a new data curator inside Azure Purview data plane. See https://docs.microsoft.com/azure/purview/catalog-permissions#roles",
+  "Actions": [
+    "Microsoft.Purview/accounts/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Purview/accounts/data/read",
+    "Microsoft.Purview/accounts/data/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

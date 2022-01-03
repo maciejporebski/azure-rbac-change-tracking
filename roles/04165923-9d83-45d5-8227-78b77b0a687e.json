@@ -1,0 +1,19 @@
+{
+  "Name": "SignalR AccessKey Reader",
+  "Id": "04165923-9d83-45d5-8227-78b77b0a687e",
+  "IsCustom": false,
+  "Description": "Read SignalR Service Access Keys",
+  "Actions": [
+    "Microsoft.SignalRService/*/read",
+    "Microsoft.SignalRService/SignalR/listkeys/action",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

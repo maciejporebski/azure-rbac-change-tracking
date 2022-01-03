@@ -1,0 +1,22 @@
+{
+  "Name": "Collaborative Runtime Operator",
+  "Id": "7a6f0e70-c033-4fb1-828c-08514e5f4102",
+  "IsCustom": false,
+  "Description": "Can manage resources created by AICS at runtime",
+  "Actions": [
+    "Microsoft.IndustryDataLifecycle/derivedModels/*",
+    "Microsoft.IndustryDataLifecycle/pipelineSets/*",
+    "Microsoft.IndustryDataLifecycle/modelMappings/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

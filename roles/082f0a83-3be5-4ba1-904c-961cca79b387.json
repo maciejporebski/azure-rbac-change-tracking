@@ -1,0 +1,20 @@
+{
+  "Name": "Desktop Virtualization Contributor",
+  "Id": "082f0a83-3be5-4ba1-904c-961cca79b387",
+  "IsCustom": false,
+  "Description": "Contributor of Desktop Virtualization.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

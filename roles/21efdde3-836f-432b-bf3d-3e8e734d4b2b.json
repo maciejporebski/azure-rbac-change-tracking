@@ -1,0 +1,21 @@
+{
+  "Name": "Desktop Virtualization Workspace Contributor",
+  "Id": "21efdde3-836f-432b-bf3d-3e8e734d4b2b",
+  "IsCustom": false,
+  "Description": "Contributor of the Desktop Virtualization Workspace.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/workspaces/*",
+    "Microsoft.DesktopVirtualization/applicationgroups/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

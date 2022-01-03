@@ -1,0 +1,20 @@
+{
+  "Name": "Cognitive Services Custom Vision Reader",
+  "Id": "93586559-c37d-4a6b-ba08-b9f0940c2d73",
+  "IsCustom": false,
+  "Description": "Read-only actions in the project. Readers can’t create or update the project.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/CustomVision/*/read",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/predictions/query/action"
+  ],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/export/read"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Classic Network Contributor",
+  "Id": "b34d265f-36f7-4a0d-a4d4-e158ca92e90f",
+  "IsCustom": false,
+  "Description": "Lets you manage classic networks, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.ClassicNetwork/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

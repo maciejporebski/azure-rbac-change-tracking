@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Kubernetes Service Cluster Admin Role",
+  "Id": "0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8",
+  "IsCustom": false,
+  "Description": "List cluster admin credential action.",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/listClusterAdminCredential/action",
+    "Microsoft.ContainerService/managedClusters/accessProfiles/listCredential/action",
+    "Microsoft.ContainerService/managedClusters/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

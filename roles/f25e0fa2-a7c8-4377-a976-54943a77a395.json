@@ -1,0 +1,24 @@
+{
+  "Name": "Key Vault Contributor",
+  "Id": "f25e0fa2-a7c8-4377-a976-54943a77a395",
+  "IsCustom": false,
+  "Description": "Lets you manage key vaults, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.KeyVault/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [
+    "Microsoft.KeyVault/locations/deletedVaults/purge/action",
+    "Microsoft.KeyVault/hsmPools/*",
+    "Microsoft.KeyVault/managedHsms/*"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

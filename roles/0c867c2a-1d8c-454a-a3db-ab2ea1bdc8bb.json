@@ -1,0 +1,17 @@
+{
+  "Name": "Storage File Data SMB Share Contributor",
+  "Id": "0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb",
+  "IsCustom": false,
+  "Description": "Allows for read, write, and delete access in Azure Storage file shares over SMB",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/write",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

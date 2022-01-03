@@ -1,0 +1,15 @@
+{
+  "Name": "App Configuration Data Reader",
+  "Id": "516239f1-63e1-4d78-a4de-a74fb236a071",
+  "IsCustom": false,
+  "Description": "Allows read access to App Configuration data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppConfiguration/configurationStores/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

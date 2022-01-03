@@ -1,0 +1,20 @@
+{
+  "Name": "Desktop Virtualization Host Pool Contributor",
+  "Id": "e307426c-f9b6-4e81-87de-d99efb3c32bc",
+  "IsCustom": false,
+  "Description": "Contributor of the Desktop Virtualization Host Pool.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/hostpools/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

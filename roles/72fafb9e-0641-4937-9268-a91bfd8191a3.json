@@ -1,0 +1,24 @@
+{
+  "Name": "Cost Management Reader",
+  "Id": "72fafb9e-0641-4937-9268-a91bfd8191a3",
+  "IsCustom": false,
+  "Description": "Can view cost data and configuration (e.g. budgets, exports)",
+  "Actions": [
+    "Microsoft.Consumption/*/read",
+    "Microsoft.CostManagement/*/read",
+    "Microsoft.Billing/billingPeriods/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Advisor/configurations/read",
+    "Microsoft.Advisor/recommendations/read",
+    "Microsoft.Management/managementGroups/read",
+    "Microsoft.Billing/billingProperty/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

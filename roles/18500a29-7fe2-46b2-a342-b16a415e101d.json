@@ -1,0 +1,15 @@
+{
+  "Name": "Managed HSM contributor",
+  "Id": "18500a29-7fe2-46b2-a342-b16a415e101d",
+  "IsCustom": false,
+  "Description": "Lets you manage managed HSM pools, but not access to them.",
+  "Actions": [
+    "Microsoft.KeyVault/managedHSMs/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

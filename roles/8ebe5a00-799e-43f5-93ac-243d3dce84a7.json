@@ -1,0 +1,15 @@
+{
+  "Name": "Search Index Data Contributor",
+  "Id": "8ebe5a00-799e-43f5-93ac-243d3dce84a7",
+  "IsCustom": false,
+  "Description": "Grants full access to Azure Cognitive Search index data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Search/searchServices/indexes/documents/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

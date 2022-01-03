@@ -1,0 +1,17 @@
+{
+  "Name": "SignalR REST API Reader",
+  "Id": "ddde6b66-c0df-4114-a159-3618637b3035",
+  "IsCustom": false,
+  "Description": "Read-only access to Azure SignalR Service REST APIs",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.SignalRService/SignalR/group/read",
+    "Microsoft.SignalRService/SignalR/clientConnection/read",
+    "Microsoft.SignalRService/SignalR/user/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

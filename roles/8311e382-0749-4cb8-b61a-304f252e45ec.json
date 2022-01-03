@@ -1,0 +1,16 @@
+{
+  "Name": "AcrPush",
+  "Id": "8311e382-0749-4cb8-b61a-304f252e45ec",
+  "IsCustom": false,
+  "Description": "acr push",
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/pull/read",
+    "Microsoft.ContainerRegistry/registries/push/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

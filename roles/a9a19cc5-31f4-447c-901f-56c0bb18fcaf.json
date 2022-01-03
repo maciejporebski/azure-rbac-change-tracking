@@ -1,0 +1,17 @@
+{
+  "Name": "PlayFab Reader",
+  "Id": "a9a19cc5-31f4-447c-901f-56c0bb18fcaf",
+  "IsCustom": false,
+  "Description": "Provides read access to PlayFab resources",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.PlayFab/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

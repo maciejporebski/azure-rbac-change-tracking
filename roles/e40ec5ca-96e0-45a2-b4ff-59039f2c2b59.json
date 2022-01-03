@@ -1,0 +1,22 @@
+{
+  "Name": "Managed Identity Contributor",
+  "Id": "e40ec5ca-96e0-45a2-b4ff-59039f2c2b59",
+  "IsCustom": false,
+  "Description": "Create, Read, Update, and Delete User Assigned Identity",
+  "Actions": [
+    "Microsoft.ManagedIdentity/userAssignedIdentities/read",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/write",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Cognitive Services Language Owner",
+  "Id": "f07febfe-79bc-46b1-8b37-790e26e6e498",
+  "IsCustom": false,
+  "Description": "Has access to all Read, Test, Write, Deploy and Delete functions under Language portal",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.CognitiveServices/accounts/listkeys/action",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/LanguageAuthoring/*",
+    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

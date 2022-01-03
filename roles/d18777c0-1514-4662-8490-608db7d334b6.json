@@ -1,0 +1,15 @@
+{
+  "Name": "Object Understanding Account Reader",
+  "Id": "d18777c0-1514-4662-8490-608db7d334b6",
+  "IsCustom": false,
+  "Description": "Lets you read ingestion jobs for an object understanding account.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.MixedReality/ObjectUnderstandingAccounts/ingest/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

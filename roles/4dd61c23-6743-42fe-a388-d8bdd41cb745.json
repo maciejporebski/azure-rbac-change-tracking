@@ -1,0 +1,16 @@
+{
+  "Name": "Object Understanding Account Owner",
+  "Id": "4dd61c23-6743-42fe-a388-d8bdd41cb745",
+  "IsCustom": false,
+  "Description": "Provides user with ingestion capabilities for Azure Object Understanding.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.MixedReality/ObjectUnderstandingAccounts/ingest/action",
+    "Microsoft.MixedReality/ObjectUnderstandingAccounts/ingest/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Hybrid Server Resource Administrator",
+  "Id": "48b40c6e-82e0-4eb3-90d5-19e40f49b624",
+  "IsCustom": false,
+  "Description": "Can read, write, delete, and re-onboard Hybrid servers to the Hybrid Resource Provider.",
+  "Actions": [
+    "Microsoft.HybridCompute/machines/*",
+    "Microsoft.HybridCompute/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

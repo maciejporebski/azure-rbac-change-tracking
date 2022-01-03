@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Maps Contributor",
+  "Id": "dba33070-676a-4fb0-87fa-064dc56ff7fb",
+  "IsCustom": false,
+  "Description": "Grants access all Azure Maps resource management.",
+  "Actions": [
+    "Microsoft.Maps/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

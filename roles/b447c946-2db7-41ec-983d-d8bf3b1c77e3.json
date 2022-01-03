@@ -1,0 +1,16 @@
+{
+  "Name": "IoT Hub Data Reader",
+  "Id": "b447c946-2db7-41ec-983d-d8bf3b1c77e3",
+  "IsCustom": false,
+  "Description": "Allows for full read access to IoT Hub data-plane properties",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Devices/IotHubs/*/read",
+    "Microsoft.Devices/IotHubs/fileUpload/notifications/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "DICOM Data Owner",
+  "Id": "58a3b984-7adf-4c20-983a-32417c86fbc8",
+  "IsCustom": false,
+  "Description": "Full access to DICOM data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthcareApis/workspaces/dicomservices/resources/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

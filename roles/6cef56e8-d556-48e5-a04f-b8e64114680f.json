@@ -1,0 +1,17 @@
+{
+  "Name": "AcrImageSigner",
+  "Id": "6cef56e8-d556-48e5-a04f-b8e64114680f",
+  "IsCustom": false,
+  "Description": "acr image signer",
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/sign/write"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/trustedCollections/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

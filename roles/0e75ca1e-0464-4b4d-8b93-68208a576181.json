@@ -1,0 +1,18 @@
+{
+  "Name": "Cognitive Services Speech Contributor",
+  "Id": "0e75ca1e-0464-4b4d-8b93-68208a576181",
+  "IsCustom": false,
+  "Description": "Full access to Speech projects, including read, write and delete all entities, for real-time speech recognition and batch transcription tasks, real-time speech synthesis and long audio tasks, custom speech and custom voice.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/SpeechServices/*",
+    "Microsoft.CognitiveServices/accounts/CustomVoice/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Managed Application Operator Role",
+  "Id": "c7393b34-138c-406f-901b-d8cf2b17e6ae",
+  "IsCustom": false,
+  "Description": "Lets you read and perform actions on Managed Application resources",
+  "Actions": [
+    "*/read",
+    "Microsoft.Solutions/applications/read",
+    "Microsoft.Solutions/*/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

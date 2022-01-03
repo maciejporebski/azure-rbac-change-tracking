@@ -1,0 +1,22 @@
+{
+  "Name": "Redis Cache Contributor",
+  "Id": "e0f68234-74aa-48ed-b826-c38b57376e17",
+  "IsCustom": false,
+  "Description": "Lets you manage Redis caches, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Cache/register/action",
+    "Microsoft.Cache/redis/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

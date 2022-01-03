@@ -1,0 +1,15 @@
+{
+  "Name": "Grafana Admin",
+  "Id": "22926164-76b3-42b3-bc55-97df8dab3e41",
+  "IsCustom": false,
+  "Description": "Built-in Grafana admin role",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Dashboard/grafana/ActAsGrafanaAdmin/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "DocumentDB Account Contributor",
+  "Id": "5bd9cd88-fe45-4216-938b-f97437e15450",
+  "IsCustom": false,
+  "Description": "Lets you manage DocumentDB accounts, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.DocumentDb/databaseAccounts/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Network/virtualNetworks/subnets/joinViaServiceEndpoint/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

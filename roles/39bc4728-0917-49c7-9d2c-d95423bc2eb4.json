@@ -1,0 +1,28 @@
+{
+  "Name": "Security Reader",
+  "Id": "39bc4728-0917-49c7-9d2c-d95423bc2eb4",
+  "IsCustom": false,
+  "Description": "Security Reader Role",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/read",
+    "Microsoft.operationalInsights/workspaces/*/read",
+    "Microsoft.Resources/deployments/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Security/*/read",
+    "Microsoft.IoTSecurity/*/read",
+    "Microsoft.Support/*/read",
+    "Microsoft.Security/iotDefenderSettings/packageDownloads/action",
+    "Microsoft.Security/iotDefenderSettings/downloadManagerActivation/action",
+    "Microsoft.Security/iotSensors/downloadResetPassword/action",
+    "Microsoft.IoTSecurity/defenderSettings/packageDownloads/action",
+    "Microsoft.IoTSecurity/defenderSettings/downloadManagerActivation/action",
+    "Microsoft.Management/managementGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "AnyBuild Builder",
+  "Id": "a2138dac-4907-4679-a376-736901ed8ad8",
+  "IsCustom": false,
+  "Description": "Basic user role for AnyBuild. This role allows listing of agent information and execution of remote build capabilities.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AnyBuild/clusters/build/write",
+    "Microsoft.AnyBuild/clusters/build/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

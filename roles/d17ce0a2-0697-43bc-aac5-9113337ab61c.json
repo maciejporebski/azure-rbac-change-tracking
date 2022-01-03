@@ -1,0 +1,16 @@
+{
+  "Name": "WorkloadBuilder Migration Agent Role",
+  "Id": "d17ce0a2-0697-43bc-aac5-9113337ab61c",
+  "IsCustom": false,
+  "Description": "WorkloadBuilder Migration Agent Role.",
+  "Actions": [
+    "Microsoft.WorkloadBuilder/migrationAgents/Read",
+    "Microsoft.WorkloadBuilder/migrationAgents/Write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Reservation Purchaser",
+  "Id": "f7b75c60-3036-4b75-91c3-6b41c27c1689",
+  "IsCustom": false,
+  "Description": "Lets you purchase reservations",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Capacity/register/action",
+    "Microsoft.Compute/register/action",
+    "Microsoft.SQL/register/action",
+    "Microsoft.Consumption/register/action",
+    "Microsoft.Capacity/catalogs/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Consumption/reservationRecommendations/read",
+    "Microsoft.Support/supporttickets/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

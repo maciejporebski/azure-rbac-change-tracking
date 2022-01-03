@@ -1,0 +1,17 @@
+{
+  "Name": "Attestation Contributor",
+  "Id": "bbf86eb8-f7b4-4cce-96e4-18cddf81d86e",
+  "IsCustom": false,
+  "Description": "Can read write or delete the attestation provider instance",
+  "Actions": [
+    "Microsoft.Attestation/attestationProviders/attestation/read",
+    "Microsoft.Attestation/attestationProviders/attestation/write",
+    "Microsoft.Attestation/attestationProviders/attestation/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

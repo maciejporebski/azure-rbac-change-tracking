@@ -1,0 +1,21 @@
+{
+  "Name": "New Relic APM Account Contributor",
+  "Id": "5d28c62d-5b37-4476-8438-e587778df237",
+  "IsCustom": false,
+  "Description": "Lets you manage New Relic Application Performance Management accounts and applications, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "NewRelic.APM/accounts/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

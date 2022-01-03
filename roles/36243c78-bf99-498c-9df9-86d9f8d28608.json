@@ -1,0 +1,21 @@
+{
+  "Name": "Resource Policy Contributor",
+  "Id": "36243c78-bf99-498c-9df9-86d9f8d28608",
+  "IsCustom": false,
+  "Description": "Users with rights to create/modify resource policy, create support ticket and read resources/hierarchy.",
+  "Actions": [
+    "*/read",
+    "Microsoft.Authorization/policyassignments/*",
+    "Microsoft.Authorization/policydefinitions/*",
+    "Microsoft.Authorization/policyexemptions/*",
+    "Microsoft.Authorization/policysetdefinitions/*",
+    "Microsoft.PolicyInsights/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

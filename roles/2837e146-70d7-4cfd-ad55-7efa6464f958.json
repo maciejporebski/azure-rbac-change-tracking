@@ -1,0 +1,19 @@
+{
+  "Name": "CodeSigning Certificate Profile Signer",
+  "Id": "2837e146-70d7-4cfd-ad55-7efa6464f958",
+  "IsCustom": false,
+  "Description": "Sign files with a certificate profile. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CodeSigning/certificateProfiles/Sign/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

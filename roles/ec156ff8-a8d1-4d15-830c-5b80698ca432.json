@@ -1,0 +1,22 @@
+{
+  "Name": "CDN Profile Contributor",
+  "Id": "ec156ff8-a8d1-4d15-830c-5b80698ca432",
+  "IsCustom": false,
+  "Description": "Can manage CDN profiles and their endpoints, but can’t grant access to other users.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Cdn/edgenodes/read",
+    "Microsoft.Cdn/operationresults/*",
+    "Microsoft.Cdn/profiles/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

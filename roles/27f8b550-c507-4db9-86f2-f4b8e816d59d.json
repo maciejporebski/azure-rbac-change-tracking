@@ -1,0 +1,19 @@
+{
+  "Name": "Autonomous Development Platform Data Owner (Preview)",
+  "Id": "27f8b550-c507-4db9-86f2-f4b8e816d59d",
+  "IsCustom": false,
+  "Description": "Grants full access to Autonomous Development Platform data.",
+  "Actions": [
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

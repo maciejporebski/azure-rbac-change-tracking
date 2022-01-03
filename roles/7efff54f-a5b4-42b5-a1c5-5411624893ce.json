@@ -1,0 +1,26 @@
+{
+  "Name": "Disk Snapshot Contributor",
+  "Id": "7efff54f-a5b4-42b5-a1c5-5411624893ce",
+  "IsCustom": false,
+  "Description": "Provides permission to backup vault to manage disk snapshots.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Compute/snapshots/delete",
+    "Microsoft.Compute/snapshots/write",
+    "Microsoft.Compute/snapshots/read",
+    "Microsoft.Compute/snapshots/beginGetAccess/action",
+    "Microsoft.Compute/snapshots/endGetAccess/action",
+    "Microsoft.Compute/disks/beginGetAccess/action",
+    "Microsoft.Storage/storageAccounts/listkeys/action",
+    "Microsoft.Storage/storageAccounts/write",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Storage/storageAccounts/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

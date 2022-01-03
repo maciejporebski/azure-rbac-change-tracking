@@ -1,0 +1,17 @@
+{
+  "Name": "Schema Registry Contributor (Preview)",
+  "Id": "5dffeca3-4936-4216-b2bc-10343a5abb25",
+  "IsCustom": false,
+  "Description": "Read, write, and delete Schema Registry groups and schemas.",
+  "Actions": [
+    "Microsoft.EventHub/namespaces/schemagroups/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventHub/namespaces/schemas/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

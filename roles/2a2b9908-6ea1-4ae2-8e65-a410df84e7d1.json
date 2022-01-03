@@ -1,0 +1,18 @@
+{
+  "Name": "Storage Blob Data Reader",
+  "Id": "2a2b9908-6ea1-4ae2-8e65-a410df84e7d1",
+  "IsCustom": false,
+  "Description": "Allows for read access to Azure Storage blob containers and data",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/storageAccounts/blobServices/generateUserDelegationKey/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

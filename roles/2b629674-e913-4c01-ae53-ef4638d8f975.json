@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Event Hubs Data Sender",
+  "Id": "2b629674-e913-4c01-ae53-ef4638d8f975",
+  "IsCustom": false,
+  "Description": "Allows send access to Azure Event Hubs resources.",
+  "Actions": [
+    "Microsoft.EventHub/*/eventhubs/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventHub/*/send/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

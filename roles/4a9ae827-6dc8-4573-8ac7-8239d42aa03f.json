@@ -1,0 +1,22 @@
+{
+  "Name": "Tag Contributor",
+  "Id": "4a9ae827-6dc8-4573-8ac7-8239d42aa03f",
+  "IsCustom": false,
+  "Description": "Lets you manage tags on entities, without providing access to the entities themselves.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/resources/read",
+    "Microsoft.Resources/subscriptions/resources/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*",
+    "Microsoft.Resources/tags/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

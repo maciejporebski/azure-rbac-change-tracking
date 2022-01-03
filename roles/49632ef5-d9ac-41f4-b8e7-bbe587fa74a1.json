@@ -1,0 +1,18 @@
+{
+  "Name": "Experimentation Reader",
+  "Id": "49632ef5-d9ac-41f4-b8e7-bbe587fa74a1",
+  "IsCustom": false,
+  "Description": "Experimentation Reader",
+  "Actions": [
+    "Microsoft.Experimentation/experimentWorkspaces/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Experimentation/experimentWorkspaces/read",
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

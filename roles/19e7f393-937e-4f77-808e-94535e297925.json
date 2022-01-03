@@ -1,0 +1,17 @@
+{
+  "Name": "Storage Queue Data Reader",
+  "Id": "19e7f393-937e-4f77-808e-94535e297925",
+  "IsCustom": false,
+  "Description": "Allows for read access to Azure Storage queues and queue messages",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/queueServices/queues/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/queueServices/queues/messages/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

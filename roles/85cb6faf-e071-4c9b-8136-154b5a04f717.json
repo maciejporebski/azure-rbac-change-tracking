@@ -1,0 +1,22 @@
+{
+  "Name": "Kubernetes Extension Contributor",
+  "Id": "85cb6faf-e071-4c9b-8136-154b5a04f717",
+  "IsCustom": false,
+  "Description": "Can create, update, get, list and delete Kubernetes Extensions, and get extension async operations",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.KubernetesConfiguration/extensions/write",
+    "Microsoft.KubernetesConfiguration/extensions/read",
+    "Microsoft.KubernetesConfiguration/extensions/delete",
+    "Microsoft.KubernetesConfiguration/extensions/operations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

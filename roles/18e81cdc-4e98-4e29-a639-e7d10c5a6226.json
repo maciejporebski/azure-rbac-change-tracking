@@ -1,0 +1,20 @@
+{
+  "Name": "Cognitive Services LUIS Reader",
+  "Id": "18e81cdc-4e98-4e29-a639-e7d10c5a6226",
+  "IsCustom": false,
+  "Description": "Has access to Read and Test functions under LUIS.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/LUIS/*/read",
+    "Microsoft.CognitiveServices/accounts/LUIS/apps/testdatasets/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

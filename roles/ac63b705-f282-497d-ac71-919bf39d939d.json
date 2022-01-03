@@ -1,0 +1,16 @@
+{
+  "Name": "Management Group Reader",
+  "Id": "ac63b705-f282-497d-ac71-919bf39d939d",
+  "IsCustom": false,
+  "Description": "Management Group Reader Role",
+  "Actions": [
+    "Microsoft.Management/managementGroups/read",
+    "Microsoft.Management/managementGroups/subscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

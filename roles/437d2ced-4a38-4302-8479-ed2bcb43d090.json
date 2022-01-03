@@ -1,0 +1,19 @@
+{
+  "Name": "Blueprint Operator",
+  "Id": "437d2ced-4a38-4302-8479-ed2bcb43d090",
+  "IsCustom": false,
+  "Description": "Can assign existing published blueprints, but cannot create new blueprints. NOTE: this only works if the assignment is done with a user-assigned managed identity.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Blueprint/blueprintAssignments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Azure Connected SQL Server Onboarding",
+  "Id": "e8113dce-c529-4d33-91fa-e9b972617508",
+  "IsCustom": false,
+  "Description": "Microsoft.AzureArcData service role to access the resources of Microsoft.AzureArcData stored with RPSAAS.",
+  "Actions": [
+    "Microsoft.AzureArcData/sqlServerInstances/read",
+    "Microsoft.AzureArcData/sqlServerInstances/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "API Management Service Reader Role",
+  "Id": "71522526-b88f-4d52-b57f-d31fc3546d0d",
+  "IsCustom": false,
+  "Description": "Read-only access to service and APIs",
+  "Actions": [
+    "Microsoft.ApiManagement/service/*/read",
+    "Microsoft.ApiManagement/service/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [
+    "Microsoft.ApiManagement/service/users/keys/read"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

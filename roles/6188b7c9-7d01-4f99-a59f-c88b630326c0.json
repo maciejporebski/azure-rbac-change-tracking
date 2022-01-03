@@ -1,0 +1,20 @@
+{
+  "Name": "Experimentation Metric Contributor",
+  "Id": "6188b7c9-7d01-4f99-a59f-c88b630326c0",
+  "IsCustom": false,
+  "Description": "Allows for creation, writes and reads to the metric set via the metrics service APIs.",
+  "Actions": [
+    "Microsoft.Experimentation/experimentWorkspaces/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/read",
+    "Microsoft.Experimentation/experimentWorkspaces/experimentationGroups/metricwrite/action",
+    "Microsoft.Experimentation/experimentWorkspaces/metricwrite/action",
+    "Microsoft.Experimentation/experimentWorkspaces/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

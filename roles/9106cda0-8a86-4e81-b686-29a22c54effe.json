@@ -1,0 +1,21 @@
+{
+  "Name": "ClearDB MySQL DB Contributor",
+  "Id": "9106cda0-8a86-4e81-b686-29a22c54effe",
+  "IsCustom": false,
+  "Description": "Lets you manage ClearDB MySQL databases, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "successbricks.cleardb/databases/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

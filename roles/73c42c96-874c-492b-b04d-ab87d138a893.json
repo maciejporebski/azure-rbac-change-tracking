@@ -1,0 +1,20 @@
+{
+  "Name": "Log Analytics Reader",
+  "Id": "73c42c96-874c-492b-b04d-ab87d138a893",
+  "IsCustom": false,
+  "Description": "Log Analytics Reader can view and search all monitoring data as well as and view monitoring settings, including viewing the configuration of Azure diagnostics on all Azure resources.",
+  "Actions": [
+    "*/read",
+    "Microsoft.OperationalInsights/workspaces/analytics/query/action",
+    "Microsoft.OperationalInsights/workspaces/search/action",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [
+    "Microsoft.OperationalInsights/workspaces/sharedKeys/read"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

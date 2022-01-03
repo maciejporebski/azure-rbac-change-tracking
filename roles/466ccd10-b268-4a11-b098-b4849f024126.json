@@ -1,0 +1,36 @@
+{
+  "Name": "Cognitive Services QnA Maker Reader",
+  "Id": "466ccd10-b268-4a11-b098-b4849f024126",
+  "IsCustom": false,
+  "Description": "Let’s you read and test a KB only.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/download/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker/knowledgebases/generateanswer/action",
+    "Microsoft.CognitiveServices/accounts/QnAMaker/alterations/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker/endpointkeys/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker/endpointsettings/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/download/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker.v2/knowledgebases/generateanswer/action",
+    "Microsoft.CognitiveServices/accounts/QnAMaker.v2/alterations/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker.v2/endpointkeys/read",
+    "Microsoft.CognitiveServices/accounts/QnAMaker.v2/endpointsettings/read",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnAMaker/knowledgebases/read",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnAMaker/knowledgebases/download/read",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnAMaker/knowledgebases/generateanswer/action",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnAMaker/alterations/read",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnAMaker/endpointkeys/read",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnAMaker/endpointsettings/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

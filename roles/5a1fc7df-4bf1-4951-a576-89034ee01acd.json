@@ -1,0 +1,16 @@
+{
+  "Name": "FHIR Data Contributor",
+  "Id": "5a1fc7df-4bf1-4951-a576-89034ee01acd",
+  "IsCustom": false,
+  "Description": "Role allows user or principal full access to FHIR Data",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthcareApis/services/fhir/resources/*",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

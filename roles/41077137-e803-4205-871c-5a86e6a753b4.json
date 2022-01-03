@@ -1,0 +1,19 @@
+{
+  "Name": "Blueprint Contributor",
+  "Id": "41077137-e803-4205-871c-5a86e6a753b4",
+  "IsCustom": false,
+  "Description": "Can manage blueprint definitions, but not assign them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Blueprint/blueprints/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

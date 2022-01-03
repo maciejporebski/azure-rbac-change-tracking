@@ -1,0 +1,22 @@
+{
+  "Name": "Desktop Virtualization User Session Operator",
+  "Id": "ea4bfff8-7fb4-485a-aadd-d4129a0ffaa6",
+  "IsCustom": false,
+  "Description": "Operator of the Desktop Virtualization Uesr Session.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/hostpools/read",
+    "Microsoft.DesktopVirtualization/hostpools/sessionhosts/read",
+    "Microsoft.DesktopVirtualization/hostpools/sessionhosts/usersessions/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

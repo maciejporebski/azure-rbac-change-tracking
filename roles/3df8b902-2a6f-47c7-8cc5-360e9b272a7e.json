@@ -1,0 +1,22 @@
+{
+  "Name": "Remote Rendering Administrator",
+  "Id": "3df8b902-2a6f-47c7-8cc5-360e9b272a7e",
+  "IsCustom": false,
+  "Description": "Provides user with conversion, manage session, rendering and diagnostics capabilities for Azure Remote Rendering",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.MixedReality/RemoteRenderingAccounts/convert/action",
+    "Microsoft.MixedReality/RemoteRenderingAccounts/convert/read",
+    "Microsoft.MixedReality/RemoteRenderingAccounts/convert/delete",
+    "Microsoft.MixedReality/RemoteRenderingAccounts/managesessions/read",
+    "Microsoft.MixedReality/RemoteRenderingAccounts/managesessions/action",
+    "Microsoft.MixedReality/RemoteRenderingAccounts/managesessions/delete",
+    "Microsoft.MixedReality/RemoteRenderingAccounts/render/read",
+    "Microsoft.MixedReality/RemoteRenderingAccounts/diagnostic/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

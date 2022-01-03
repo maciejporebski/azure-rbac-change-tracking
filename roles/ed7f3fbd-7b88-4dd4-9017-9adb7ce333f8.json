@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Kubernetes Service Contributor Role",
+  "Id": "ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8",
+  "IsCustom": false,
+  "Description": "Grants access to read and write Azure Kubernetes Service clusters",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/read",
+    "Microsoft.ContainerService/managedClusters/write",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

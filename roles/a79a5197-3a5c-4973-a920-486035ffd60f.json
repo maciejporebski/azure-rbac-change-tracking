@@ -1,0 +1,15 @@
+{
+  "Name": "Grafana Editor",
+  "Id": "a79a5197-3a5c-4973-a920-486035ffd60f",
+  "IsCustom": false,
+  "Description": "Built-in Grafana Editor role",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Dashboard/grafana/ActAsGrafanaEditor/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

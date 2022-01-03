@@ -1,0 +1,15 @@
+{
+  "Name": "Device Provisioning Service Data Contributor",
+  "Id": "dfce44e4-17b7-4bd1-a6d1-04996ec95633",
+  "IsCustom": false,
+  "Description": "Allows for full access to Device Provisioning Service data-plane operations.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Devices/provisioningServices/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

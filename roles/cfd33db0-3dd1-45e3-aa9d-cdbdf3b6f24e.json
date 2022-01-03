@@ -1,0 +1,17 @@
+{
+  "Name": "Support Request Contributor",
+  "Id": "cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e",
+  "IsCustom": false,
+  "Description": "Lets you create and manage Support requests",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

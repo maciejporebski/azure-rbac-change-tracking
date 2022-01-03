@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Digital Twins Data Reader",
+  "Id": "d57506d4-4c8d-48b1-8587-93c323f6a5a3",
+  "IsCustom": false,
+  "Description": "Read-only role for Digital Twins data-plane properties",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DigitalTwins/digitaltwins/read",
+    "Microsoft.DigitalTwins/digitaltwins/relationships/read",
+    "Microsoft.DigitalTwins/eventroutes/read",
+    "Microsoft.DigitalTwins/models/read",
+    "Microsoft.DigitalTwins/query/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

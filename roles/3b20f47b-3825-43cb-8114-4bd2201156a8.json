@@ -1,0 +1,19 @@
+{
+  "Name": "Cognitive Services Metrics Advisor User",
+  "Id": "3b20f47b-3825-43cb-8114-4bd2201156a8",
+  "IsCustom": false,
+  "Description": "Access to the project.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/MetricsAdvisor/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/MetricsAdvisor/stats/*"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

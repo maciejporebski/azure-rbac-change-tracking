@@ -1,0 +1,17 @@
+{
+  "Name": "Managed Applications Reader",
+  "Id": "b9331d33-8a36-4f8c-b097-4f54124fdb44",
+  "IsCustom": false,
+  "Description": "Lets you read resources in a managed app and request JIT access.",
+  "Actions": [
+    "*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Solutions/jitRequests/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

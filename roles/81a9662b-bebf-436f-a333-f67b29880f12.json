@@ -1,0 +1,16 @@
+{
+  "Name": "Storage Account Key Operator Service Role",
+  "Id": "81a9662b-bebf-436f-a333-f67b29880f12",
+  "IsCustom": false,
+  "Description": "Storage Account Key Operators are allowed to list and regenerate keys on Storage Accounts",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/listkeys/action",
+    "Microsoft.Storage/storageAccounts/regeneratekey/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

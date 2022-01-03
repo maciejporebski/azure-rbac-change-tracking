@@ -1,0 +1,20 @@
+{
+  "Name": "EventGrid Contributor",
+  "Id": "1e241071-0855-49ea-94dc-649edcd759de",
+  "IsCustom": false,
+  "Description": "Lets you manage EventGrid operations.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.EventGrid/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

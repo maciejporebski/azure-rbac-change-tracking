@@ -1,0 +1,16 @@
+{
+  "Name": "Storage Queue Data Message Processor",
+  "Id": "8a0f0c08-91a1-4084-bc3d-661d67233fed",
+  "IsCustom": false,
+  "Description": "Allows for peek, receive, and delete access to Azure Storage queue messages",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/queueServices/queues/messages/read",
+    "Microsoft.Storage/storageAccounts/queueServices/queues/messages/process/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

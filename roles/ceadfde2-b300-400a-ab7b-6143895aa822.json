@@ -1,0 +1,21 @@
+{
+  "Name": "Desktop Virtualization Host Pool Reader",
+  "Id": "ceadfde2-b300-400a-ab7b-6143895aa822",
+  "IsCustom": false,
+  "Description": "Reader of the Desktop Virtualization Host Pool.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/hostpools/*/read",
+    "Microsoft.DesktopVirtualization/hostpools/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

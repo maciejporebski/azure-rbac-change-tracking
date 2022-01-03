@@ -1,0 +1,20 @@
+{
+  "Name": "Cognitive Services LUIS Owner",
+  "Id": "f72c8140-2111-481c-87ff-72b910f6e3f8",
+  "IsCustom": false,
+  "Description": " Has access to all Read, Test, Write, Deploy and Delete functions under LUIS",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.CognitiveServices/accounts/listkeys/action",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/LUIS/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Intelligent Systems Account Contributor",
+  "Id": "03a6d094-3444-4b3d-88af-7477090a9e5e",
+  "IsCustom": false,
+  "Description": "Lets you manage Intelligent Systems accounts, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.IntelligentSystems/accounts/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

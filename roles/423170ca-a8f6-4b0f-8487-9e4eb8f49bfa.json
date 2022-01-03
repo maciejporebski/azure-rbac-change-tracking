@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Maps Data Reader",
+  "Id": "423170ca-a8f6-4b0f-8487-9e4eb8f49bfa",
+  "IsCustom": false,
+  "Description": "Grants access to read map related data from an Azure maps account.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Maps/accounts/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

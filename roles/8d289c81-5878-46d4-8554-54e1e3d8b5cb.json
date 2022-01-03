@@ -1,0 +1,34 @@
+{
+  "Name": "Microsoft Sentinel Reader",
+  "Id": "8d289c81-5878-46d4-8554-54e1e3d8b5cb",
+  "IsCustom": false,
+  "Description": "Microsoft Sentinel Reader",
+  "Actions": [
+    "Microsoft.SecurityInsights/*/read",
+    "Microsoft.SecurityInsights/dataConnectorsCheckRequirements/action",
+    "Microsoft.SecurityInsights/threatIntelligence/indicators/query/action",
+    "Microsoft.SecurityInsights/threatIntelligence/queryIndicators/action",
+    "Microsoft.OperationalInsights/workspaces/analytics/query/action",
+    "Microsoft.OperationalInsights/workspaces/*/read",
+    "Microsoft.OperationalInsights/workspaces/LinkedServices/read",
+    "Microsoft.OperationalInsights/workspaces/savedSearches/read",
+    "Microsoft.OperationsManagement/solutions/read",
+    "Microsoft.OperationalInsights/workspaces/query/read",
+    "Microsoft.OperationalInsights/workspaces/query/*/read",
+    "Microsoft.OperationalInsights/querypacks/*/read",
+    "Microsoft.OperationalInsights/workspaces/dataSources/read",
+    "Microsoft.Insights/workbooks/read",
+    "Microsoft.Insights/myworkbooks/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

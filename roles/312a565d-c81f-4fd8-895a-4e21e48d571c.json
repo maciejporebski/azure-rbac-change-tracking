@@ -1,0 +1,21 @@
+{
+  "Name": "API Management Service Contributor",
+  "Id": "312a565d-c81f-4fd8-895a-4e21e48d571c",
+  "IsCustom": false,
+  "Description": "Can manage service and the APIs",
+  "Actions": [
+    "Microsoft.ApiManagement/service/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

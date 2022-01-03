@@ -1,0 +1,16 @@
+{
+  "Name": "FHIR Data Converter",
+  "Id": "a1705bd2-3a8f-45a5-8683-466fcfd5cc24",
+  "IsCustom": false,
+  "Description": "Role allows user or principal to convert data from legacy format to FHIR",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthcareApis/services/fhir/resources/convertData/action",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/convertData/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

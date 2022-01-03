@@ -1,0 +1,15 @@
+{
+  "Name": "Desktop Virtualization User",
+  "Id": "1d18fff3-a72a-46b5-b4a9-0b38a3cd7e63",
+  "IsCustom": false,
+  "Description": "Allows user to use the applications in an application group.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DesktopVirtualization/applicationGroups/useApplications/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

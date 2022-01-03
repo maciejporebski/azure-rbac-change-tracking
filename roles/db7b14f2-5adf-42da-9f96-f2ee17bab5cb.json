@@ -1,0 +1,16 @@
+{
+  "Name": "CosmosBackupOperator",
+  "Id": "db7b14f2-5adf-42da-9f96-f2ee17bab5cb",
+  "IsCustom": false,
+  "Description": "Can submit restore request for a Cosmos DB database or a container for an account",
+  "Actions": [
+    "Microsoft.DocumentDB/databaseAccounts/backup/action",
+    "Microsoft.DocumentDB/databaseAccounts/restore/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "App Configuration Data Owner",
+  "Id": "5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b",
+  "IsCustom": false,
+  "Description": "Allows full access to App Configuration data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppConfiguration/configurationStores/*/read",
+    "Microsoft.AppConfiguration/configurationStores/*/write",
+    "Microsoft.AppConfiguration/configurationStores/*/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

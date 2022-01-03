@@ -1,0 +1,26 @@
+{
+  "Name": "Website Contributor",
+  "Id": "de139f84-1756-47ae-9be6-808fbbe84772",
+  "IsCustom": false,
+  "Description": "Lets you manage websites (not web plans), but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Insights/components/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Web/certificates/*",
+    "Microsoft.Web/listSitesAssignedToHostName/read",
+    "Microsoft.Web/serverFarms/join/action",
+    "Microsoft.Web/serverFarms/read",
+    "Microsoft.Web/sites/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

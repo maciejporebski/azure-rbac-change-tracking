@@ -1,0 +1,15 @@
+{
+  "Name": "Workbook Reader",
+  "Id": "b279062a-9be3-42a0-92ae-8b3cf002ec4d",
+  "IsCustom": false,
+  "Description": "Can read workbooks.",
+  "Actions": [
+    "microsoft.insights/workbooks/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

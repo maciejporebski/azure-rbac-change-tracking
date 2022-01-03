@@ -1,0 +1,17 @@
+{
+  "Name": "Integration Service Environment Contributor",
+  "Id": "a41e2c5b-bd99-4a07-88f4-9bf657a760b8",
+  "IsCustom": false,
+  "Description": "Lets you manage integration service environments, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Support/*",
+    "Microsoft.Logic/integrationServiceEnvironments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

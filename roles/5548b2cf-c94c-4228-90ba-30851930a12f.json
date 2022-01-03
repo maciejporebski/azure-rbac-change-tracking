@@ -1,0 +1,18 @@
+{
+  "Name": "Microsoft.Kubernetes connected cluster role",
+  "Id": "5548b2cf-c94c-4228-90ba-30851930a12f",
+  "IsCustom": false,
+  "Description": "Microsoft.Kubernetes connected cluster role.",
+  "Actions": [
+    "Microsoft.Kubernetes/connectedClusters/read",
+    "Microsoft.Kubernetes/connectedClusters/write",
+    "Microsoft.Kubernetes/connectedClusters/delete",
+    "Microsoft.Kubernetes/registeredSubscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

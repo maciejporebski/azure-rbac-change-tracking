@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Spring Cloud Config Server Reader",
+  "Id": "d04c6db6-4947-4782-9e91-30a88feb7be7",
+  "IsCustom": false,
+  "Description": "Allow read access to Azure Spring Cloud Config Server",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppPlatform/Spring/configService/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

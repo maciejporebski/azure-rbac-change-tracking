@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Relay Listener",
+  "Id": "26e0b698-aa6d-4085-9386-aadae190014d",
+  "IsCustom": false,
+  "Description": "Allows for listen access to Azure Relay resources.",
+  "Actions": [
+    "Microsoft.Relay/*/wcfRelays/read",
+    "Microsoft.Relay/*/hybridConnections/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Relay/*/listen/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

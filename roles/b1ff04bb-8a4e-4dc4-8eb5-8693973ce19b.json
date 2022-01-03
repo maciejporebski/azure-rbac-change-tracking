@@ -1,0 +1,24 @@
+{
+  "Name": "Azure Kubernetes Service RBAC Cluster Admin",
+  "Id": "b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b",
+  "IsCustom": false,
+  "Description": "Lets you manage all resources in the cluster.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.ContainerService/managedClusters/listClusterUserCredential/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerService/managedClusters/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Cognitive Services Custom Vision Trainer",
+  "Id": "0a5ae4ab-0d65-4eeb-be61-29fc9b54394b",
+  "IsCustom": false,
+  "Description": "View, edit projects and train the models, including the ability to publish, unpublish, export the models. Trainers can’t create or delete the project.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/CustomVision/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/action",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/delete",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/import/action",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/export/read"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Storage Table Data Reader",
+  "Id": "76199698-9eea-4c19-bc75-cec21354c6b6",
+  "IsCustom": false,
+  "Description": "Allows for read access to Azure Storage tables and entities",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/tableServices/tables/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/tableServices/tables/entities/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

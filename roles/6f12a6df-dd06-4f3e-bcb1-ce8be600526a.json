@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Stack Registration Owner",
+  "Id": "6f12a6df-dd06-4f3e-bcb1-ce8be600526a",
+  "IsCustom": false,
+  "Description": "Lets you manage Azure Stack registrations.",
+  "Actions": [
+    "Microsoft.AzureStack/edgeSubscriptions/read",
+    "Microsoft.AzureStack/registrations/products/*/action",
+    "Microsoft.AzureStack/registrations/products/read",
+    "Microsoft.AzureStack/registrations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

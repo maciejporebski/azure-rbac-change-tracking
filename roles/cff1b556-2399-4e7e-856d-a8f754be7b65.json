@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Spring Cloud Service Registry Reader",
+  "Id": "cff1b556-2399-4e7e-856d-a8f754be7b65",
+  "IsCustom": false,
+  "Description": "Allow read access to Azure Spring Cloud Service Registry",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppPlatform/Spring/eurekaService/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

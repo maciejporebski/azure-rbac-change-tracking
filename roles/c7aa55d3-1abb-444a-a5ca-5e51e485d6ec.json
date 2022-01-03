@@ -1,0 +1,18 @@
+{
+  "Name": "Integration Service Environment Developer",
+  "Id": "c7aa55d3-1abb-444a-a5ca-5e51e485d6ec",
+  "IsCustom": false,
+  "Description": "Allows developers to create and update workflows, integration accounts and API connections in integration service environments.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Support/*",
+    "Microsoft.Logic/integrationServiceEnvironments/read",
+    "Microsoft.Logic/integrationServiceEnvironments/*/join/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

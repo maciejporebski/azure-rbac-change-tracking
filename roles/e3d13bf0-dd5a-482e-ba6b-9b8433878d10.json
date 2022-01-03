@@ -1,0 +1,24 @@
+{
+  "Name": "Security Manager (Legacy)",
+  "Id": "e3d13bf0-dd5a-482e-ba6b-9b8433878d10",
+  "IsCustom": false,
+  "Description": "This is a legacy role. Please use Security Administrator instead",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.ClassicCompute/*/read",
+    "Microsoft.ClassicCompute/virtualMachines/*/write",
+    "Microsoft.ClassicNetwork/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Security/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

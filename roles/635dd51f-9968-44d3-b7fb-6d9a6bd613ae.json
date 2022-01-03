@@ -1,0 +1,15 @@
+{
+  "Name": "AzureML Metrics Writer (preview)",
+  "Id": "635dd51f-9968-44d3-b7fb-6d9a6bd613ae",
+  "IsCustom": false,
+  "Description": "Lets you write metrics to AzureML workspace",
+  "Actions": [
+    "Microsoft.MachineLearningServices/workspaces/metrics/*/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

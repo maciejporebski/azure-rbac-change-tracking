@@ -1,0 +1,29 @@
+{
+  "Name": "Media Services Media Operator",
+  "Id": "e4395492-1534-4db2-bedf-88c14621589c",
+  "IsCustom": false,
+  "Description": "Create, read, modify, and delete Assets, Asset Filters, Streaming Locators, and Jobs; read-only access to other Media Services resources.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Insights/metrics/read",
+    "Microsoft.Insights/metricDefinitions/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Media/mediaservices/*/read",
+    "Microsoft.Media/mediaservices/assets/*",
+    "Microsoft.Media/mediaservices/assets/assetfilters/*",
+    "Microsoft.Media/mediaservices/streamingLocators/*",
+    "Microsoft.Media/mediaservices/transforms/jobs/*"
+  ],
+  "NotActions": [
+    "Microsoft.Media/mediaservices/assets/getEncryptionKey/action",
+    "Microsoft.Media/mediaservices/streamingLocators/listContentKeys/action"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Purview Data Reader (Legacy)",
+  "Id": "ff100721-1b9d-43d8-af52-42b69c1272db",
+  "IsCustom": false,
+  "Description": "The Microsoft.Purview data reader is a legacy role that can read catalog data objects. We have recently deprecated this role from Azure role-based access and introduced a new data reader inside Azure Purview data plane. See https://docs.microsoft.com/azure/purview/catalog-permissions#roles",
+  "Actions": [
+    "Microsoft.Purview/accounts/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Purview/accounts/data/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

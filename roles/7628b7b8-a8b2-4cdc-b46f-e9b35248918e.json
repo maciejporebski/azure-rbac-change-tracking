@@ -1,0 +1,21 @@
+{
+  "Name": "Cognitive Services Language Reader",
+  "Id": "7628b7b8-a8b2-4cdc-b46f-e9b35248918e",
+  "IsCustom": false,
+  "Description": "Has access to Read and Test functions under Language portal",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/LanguageAuthoring/*/read",
+    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/*/read",
+    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/export/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Storage Blob Data Owner",
+  "Id": "b7e6dc6d-f1e8-4753-8033-0f276bb0955b",
+  "IsCustom": false,
+  "Description": "Allows for full access to Azure Storage blob containers and data, including assigning POSIX access control.",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/*",
+    "Microsoft.Storage/storageAccounts/blobServices/generateUserDelegationKey/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

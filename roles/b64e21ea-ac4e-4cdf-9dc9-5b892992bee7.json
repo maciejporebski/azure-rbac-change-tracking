@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Connected Machine Onboarding",
+  "Id": "b64e21ea-ac4e-4cdf-9dc9-5b892992bee7",
+  "IsCustom": false,
+  "Description": "Can onboard Azure Connected Machines.",
+  "Actions": [
+    "Microsoft.HybridCompute/machines/read",
+    "Microsoft.HybridCompute/machines/write",
+    "Microsoft.HybridCompute/privateLinkScopes/read",
+    "Microsoft.GuestConfiguration/guestConfigurationAssignments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Data Factory Contributor",
+  "Id": "673868aa-7521-48a0-acc6-0f60742d39f5",
+  "IsCustom": false,
+  "Description": "Create and manage data factories, as well as child resources within them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.DataFactory/dataFactories/*",
+    "Microsoft.DataFactory/factories/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.EventGrid/eventSubscriptions/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

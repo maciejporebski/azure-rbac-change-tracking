@@ -1,0 +1,22 @@
+{
+  "Name": "Device Update Reader",
+  "Id": "e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f",
+  "IsCustom": false,
+  "Description": "Gives you read access to management and content operations, but does not allow making changes",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Insights/alertRules/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DeviceUpdate/accounts/instances/updates/read",
+    "Microsoft.DeviceUpdate/accounts/instances/management/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

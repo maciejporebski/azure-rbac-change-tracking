@@ -1,0 +1,17 @@
+{
+  "Name": "Blockchain Member Node Access (Preview)",
+  "Id": "31a002a1-acaf-453e-8a5b-297c9ca1ea24",
+  "IsCustom": false,
+  "Description": "Allows for access to Blockchain Member nodes",
+  "Actions": [
+    "Microsoft.Blockchain/blockchainMembers/transactionNodes/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Blockchain/blockchainMembers/transactionNodes/connect/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

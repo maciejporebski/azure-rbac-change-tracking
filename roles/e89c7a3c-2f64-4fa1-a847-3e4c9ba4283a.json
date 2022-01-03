@@ -1,0 +1,15 @@
+{
+  "Name": "DICOM Data Reader",
+  "Id": "e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a",
+  "IsCustom": false,
+  "Description": "Read and search DICOM data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthcareApis/workspaces/dicomservices/resources/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Microsoft Sentinel Automation Contributor",
+  "Id": "f4c81013-99ee-4d62-a7ee-b3f1f648599a",
+  "IsCustom": false,
+  "Description": "Microsoft Sentinel Automation Contributor",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Logic/workflows/triggers/read",
+    "Microsoft.Logic/workflows/triggers/listCallbackUrl/action",
+    "Microsoft.Logic/workflows/runs/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

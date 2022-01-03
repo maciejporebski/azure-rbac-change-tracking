@@ -1,0 +1,21 @@
+{
+  "Name": "EventGrid Data Sender",
+  "Id": "d5a91429-5739-47e2-a06b-3470a27159e7",
+  "IsCustom": false,
+  "Description": "Allows send access to event grid events.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.EventGrid/topics/read",
+    "Microsoft.EventGrid/domains/read",
+    "Microsoft.EventGrid/partnerNamespaces/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventGrid/events/send/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

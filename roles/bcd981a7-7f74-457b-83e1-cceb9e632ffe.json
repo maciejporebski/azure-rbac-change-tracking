@@ -1,0 +1,20 @@
+{
+  "Name": "Azure Digital Twins Data Owner",
+  "Id": "bcd981a7-7f74-457b-83e1-cceb9e632ffe",
+  "IsCustom": false,
+  "Description": "Full access role for Digital Twins data-plane",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DigitalTwins/eventroutes/*",
+    "Microsoft.DigitalTwins/digitaltwins/*",
+    "Microsoft.DigitalTwins/digitaltwins/commands/*",
+    "Microsoft.DigitalTwins/digitaltwins/relationships/*",
+    "Microsoft.DigitalTwins/models/*",
+    "Microsoft.DigitalTwins/query/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

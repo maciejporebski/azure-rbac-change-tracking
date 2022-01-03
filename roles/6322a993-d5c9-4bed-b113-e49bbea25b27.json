@@ -1,0 +1,26 @@
+{
+  "Name": "Cognitive Services LUIS Writer",
+  "Id": "6322a993-d5c9-4bed-b113-e49bbea25b27",
+  "IsCustom": false,
+  "Description": "Has access to all Read, Test, and Write functions under LUIS",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/LUIS/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/LUIS/apps/delete",
+    "Microsoft.CognitiveServices/accounts/LUIS/apps/move/action",
+    "Microsoft.CognitiveServices/accounts/LUIS/apps/publish/action",
+    "Microsoft.CognitiveServices/accounts/LUIS/apps/settings/write",
+    "Microsoft.CognitiveServices/accounts/LUIS/apps/azureaccounts/action",
+    "Microsoft.CognitiveServices/accounts/LUIS/apps/azureaccounts/delete"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "AcrQuarantineWriter",
+  "Id": "c8d4ff99-41c3-41a8-9f60-21dfdad59608",
+  "IsCustom": false,
+  "Description": "acr quarantine data writer",
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/quarantine/read",
+    "Microsoft.ContainerRegistry/registries/quarantine/write"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/quarantinedArtifacts/read",
+    "Microsoft.ContainerRegistry/registries/quarantinedArtifacts/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

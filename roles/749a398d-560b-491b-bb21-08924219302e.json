@@ -1,0 +1,21 @@
+{
+  "Name": "Load Test Contributor",
+  "Id": "749a398d-560b-491b-bb21-08924219302e",
+  "IsCustom": false,
+  "Description": "View, create, update, delete and execute load tests. View and list load test resources but can not make any changes.",
+  "Actions": [
+    "Microsoft.LoadTestService/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.LoadTestService/loadtests/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

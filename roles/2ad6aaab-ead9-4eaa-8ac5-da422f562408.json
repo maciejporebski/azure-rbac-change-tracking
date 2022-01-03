@@ -1,0 +1,21 @@
+{
+  "Name": "Desktop Virtualization Session Host Operator",
+  "Id": "2ad6aaab-ead9-4eaa-8ac5-da422f562408",
+  "IsCustom": false,
+  "Description": "Operator of the Desktop Virtualization Session Host.",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/hostpools/read",
+    "Microsoft.DesktopVirtualization/hostpools/sessionhosts/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

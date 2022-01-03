@@ -1,0 +1,25 @@
+{
+  "Name": "Cognitive Services Custom Vision Deployment",
+  "Id": "5c4089e1-6d96-4d2f-b296-c1bc7137275f",
+  "IsCustom": false,
+  "Description": "Publish, unpublish or export models. Deployment can view the project but can’t update.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/CustomVision/*/read",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/predictions/*",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/iterations/publish/*",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/iterations/export/*",
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/quicktest/*",
+    "Microsoft.CognitiveServices/accounts/CustomVision/classify/*",
+    "Microsoft.CognitiveServices/accounts/CustomVision/detect/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/CustomVision/projects/export/read"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

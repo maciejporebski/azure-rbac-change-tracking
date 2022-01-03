@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Service Bus Data Receiver",
+  "Id": "4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0",
+  "IsCustom": false,
+  "Description": "Allows for receive access to Azure Service Bus resources.",
+  "Actions": [
+    "Microsoft.ServiceBus/*/queues/read",
+    "Microsoft.ServiceBus/*/topics/read",
+    "Microsoft.ServiceBus/*/topics/subscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ServiceBus/*/receive/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

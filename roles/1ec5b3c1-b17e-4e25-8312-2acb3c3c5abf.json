@@ -1,0 +1,18 @@
+{
+  "Name": "Stream Analytics Query Tester",
+  "Id": "1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf",
+  "IsCustom": false,
+  "Description": "Lets you perform query testing without creating a stream analytics job first",
+  "Actions": [
+    "Microsoft.StreamAnalytics/locations/TestQuery/action",
+    "Microsoft.StreamAnalytics/locations/OperationResults/read",
+    "Microsoft.StreamAnalytics/locations/SampleInput/action",
+    "Microsoft.StreamAnalytics/locations/CompileQuery/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

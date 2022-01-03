@@ -1,0 +1,19 @@
+{
+  "Name": "Autonomous Development Platform Data Reader (Preview)",
+  "Id": "d63b75f7-47ea-4f27-92ac-e0d173aaf093",
+  "IsCustom": false,
+  "Description": "Grants read access to Autonomous Development Platform data.",
+  "Actions": [
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AutonomousDevelopmentPlatform/accounts/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

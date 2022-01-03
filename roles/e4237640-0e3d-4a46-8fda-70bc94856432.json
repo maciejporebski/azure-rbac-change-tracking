@@ -1,0 +1,23 @@
+{
+  "Name": "Device Update Deployments Administrator",
+  "Id": "e4237640-0e3d-4a46-8fda-70bc94856432",
+  "IsCustom": false,
+  "Description": "Gives you full access to management operations",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Insights/alertRules/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DeviceUpdate/accounts/instances/management/read",
+    "Microsoft.DeviceUpdate/accounts/instances/management/write",
+    "Microsoft.DeviceUpdate/accounts/instances/management/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

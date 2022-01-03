@@ -1,0 +1,21 @@
+{
+  "Name": "Load Test Owner",
+  "Id": "45bb0b16-2f0c-4e78-afaa-a07599b003f6",
+  "IsCustom": false,
+  "Description": "Execute all operations on load test resources and load tests",
+  "Actions": [
+    "Microsoft.LoadTestService/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.LoadTestService/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -4,13 +4,13 @@
   "IsCustom": false,
   "Description": "Grants read access to Autonomous Development Platform data.",
   "Actions": [
-    "Microsoft.AutonomousDevelopmentPlatform/accounts/*/read",
+    "Microsoft.AutonomousDevelopmentPlatform/*/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.AutonomousDevelopmentPlatform/accounts/*/read"
+    "Microsoft.AutonomousDevelopmentPlatform/*/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

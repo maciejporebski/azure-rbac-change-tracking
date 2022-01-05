@@ -10,7 +10,8 @@
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.Insights/Metrics/Write"
+    "Microsoft.Insights/Metrics/Write",
+    "Microsoft.Insights/Telemetry/Write"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

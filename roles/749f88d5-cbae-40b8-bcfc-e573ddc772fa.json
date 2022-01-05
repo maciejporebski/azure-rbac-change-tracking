@@ -24,6 +24,7 @@
     "Microsoft.Insights/scheduledqueryrules/*",
     "Microsoft.Insights/webtests/*",
     "Microsoft.Insights/workbooks/*",
+    "Microsoft.Insights/workbooktemplates/*",
     "Microsoft.Insights/privateLinkScopes/*",
     "Microsoft.Insights/privateLinkScopeOperationStatuses/*",
     "Microsoft.OperationalInsights/workspaces/write",

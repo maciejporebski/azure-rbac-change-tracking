@@ -1,8 +1,8 @@
 {
-  "Name": "Purview Data Source Administrator (Legacy)",
+  "Name": "Purview role 2 (Deprecated)",
   "Id": "200bba9e-f0c8-430f-892b-6f0794863803",
   "IsCustom": false,
-  "Description": "The Microsoft.Purview data source administrator is a legacy role that can manage data sources and data scans. We have recently deprecated this role from Azure role-based access and introduced a new data source admin inside Azure Purview data plane. See https://docs.microsoft.com/azure/purview/catalog-permissions#roles",
+  "Description": "Deprecated role.",
   "Actions": [
     "Microsoft.Purview/accounts/read"
   ],

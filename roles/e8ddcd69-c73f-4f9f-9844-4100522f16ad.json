@@ -6,7 +6,10 @@
   "Actions": [
     "Microsoft.Insights/workbooks/write",
     "Microsoft.Insights/workbooks/delete",
-    "Microsoft.Insights/workbooks/read"
+    "Microsoft.Insights/workbooks/read",
+    "Microsoft.Insights/workbooktemplates/write",
+    "Microsoft.Insights/workbooktemplates/delete",
+    "Microsoft.Insights/workbooktemplates/read"
   ],
   "NotActions": [],
   "DataActions": [],

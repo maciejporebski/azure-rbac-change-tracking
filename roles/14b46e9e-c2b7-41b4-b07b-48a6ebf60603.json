@@ -17,7 +17,8 @@
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.KeyVault/vaults/keys/*"
+    "Microsoft.KeyVault/vaults/keys/*",
+    "Microsoft.KeyVault/vaults/keyrotationpolicies/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

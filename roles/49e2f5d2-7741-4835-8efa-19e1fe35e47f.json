@@ -12,7 +12,8 @@
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.DeviceUpdate/accounts/instances/management/read"
+    "Microsoft.DeviceUpdate/accounts/instances/management/read",
+    "Microsoft.DeviceUpdate/accounts/instances/updates/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

@@ -14,7 +14,8 @@
   "DataActions": [
     "Microsoft.DeviceUpdate/accounts/instances/management/read",
     "Microsoft.DeviceUpdate/accounts/instances/management/write",
-    "Microsoft.DeviceUpdate/accounts/instances/management/delete"
+    "Microsoft.DeviceUpdate/accounts/instances/management/delete",
+    "Microsoft.DeviceUpdate/accounts/instances/updates/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

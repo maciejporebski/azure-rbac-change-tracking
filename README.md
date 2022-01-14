@@ -173,6 +173,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Grafana Editor](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) | [a79a5197-3a5c-4973-a920-486035ffd60f](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) |
 | [Grafana Viewer](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) | [60921a7e-fef1-4a43-9b16-a26c52ad4769](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) |
 | [Graph Owner](roles/b60367af-1334-4454-b71e-769d9a4f83d9.json) | [b60367af-1334-4454-b71e-769d9a4f83d9](roles/b60367af-1334-4454-b71e-769d9a4f83d9.json) |
+| [Guest Configuration Resource Contributor](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) | [088ab73d-1256-47ae-bea9-9de8e7131f31](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) |
 | [HDInsight Cluster Operator](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) | [61ed4efc-fab3-44fd-b111-e24485cc132a](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) |
 | [HDInsight Domain Services Contributor](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) | [8d8d5a11-05d3-4bda-a417-a08778121c7c](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |

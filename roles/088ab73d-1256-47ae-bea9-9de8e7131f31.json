@@ -1,0 +1,17 @@
+{
+  "Name": "Guest Configuration Resource Contributor",
+  "Id": "088ab73d-1256-47ae-bea9-9de8e7131f31",
+  "IsCustom": false,
+  "Description": "Grants access to read or write to Guest Configuration resources.",
+  "Actions": [
+    "Microsoft.GuestConfiguration/guestConfigurationAssignments/write",
+    "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
+    "Microsoft.GuestConfiguration/guestConfigurationAssignments/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

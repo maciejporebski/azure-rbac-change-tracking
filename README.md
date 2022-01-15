@@ -39,6 +39,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc Kubernetes Writer](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) | [5b999177-9696-4545-85c7-50de3797e5a1](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) |
 | [Azure Arc VMware Administrator role ](roles/ddc140ed-e463-4246-9145-7c664192013f.json) | [ddc140ed-e463-4246-9145-7c664192013f](roles/ddc140ed-e463-4246-9145-7c664192013f.json) |
 | [Azure Arc VMware Private Cloud User](roles/ce551c02-7c42-47e0-9deb-e3b6fc3a9a83.json) | [ce551c02-7c42-47e0-9deb-e3b6fc3a9a83](roles/ce551c02-7c42-47e0-9deb-e3b6fc3a9a83.json) |
+| [Azure Arc VMware Private Clouds Onboarding](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) | [67d33e57-3129-45e6-bb0b-7cc522f762fa](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) |
 | [Azure Arc VMware VM Contributor](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) | [b748a06d-6150-4f8a-aaa9-ce3940cd96cb](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) |
 | [Azure Connected Machine Onboarding](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) | [b64e21ea-ac4e-4cdf-9dc9-5b892992bee7](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) |
 | [Azure Connected Machine Resource Administrator](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) | [cd570a14-e51a-42ad-bac8-bafd67325302](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) |

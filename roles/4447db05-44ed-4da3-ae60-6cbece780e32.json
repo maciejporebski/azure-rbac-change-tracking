@@ -1,0 +1,19 @@
+{
+  "Name": "Chamber User",
+  "Id": "4447db05-44ed-4da3-ae60-6cbece780e32",
+  "IsCustom": false,
+  "Description": "Lets you view everything under your HPC Workbench chamber, but not make any changes.",
+  "Actions": [
+    "Microsoft.HpcWorkbench/instances/chambers/*/read",
+    "Microsoft.HpcWorkbench/instances/consortiums/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

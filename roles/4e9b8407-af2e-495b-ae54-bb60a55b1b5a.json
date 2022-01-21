@@ -1,0 +1,20 @@
+{
+  "Name": "Chamber Admin",
+  "Id": "4e9b8407-af2e-495b-ae54-bb60a55b1b5a",
+  "IsCustom": false,
+  "Description": "Lets you manage everything under your HPC Workbench chamber.",
+  "Actions": [
+    "Microsoft.HpcWorkbench/*/read",
+    "Microsoft.HpcWorkbench/instances/chambers/*",
+    "Microsoft.HpcWorkbench/instances/consortiums/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

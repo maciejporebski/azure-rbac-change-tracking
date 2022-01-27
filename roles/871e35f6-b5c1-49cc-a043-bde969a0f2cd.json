@@ -8,6 +8,7 @@
     "Microsoft.Cdn/edgenodes/read",
     "Microsoft.Cdn/operationresults/*",
     "Microsoft.Cdn/profiles/endpoints/*/read",
+    "Microsoft.Cdn/profiles/afdendpoints/validateCustomDomain/action",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",

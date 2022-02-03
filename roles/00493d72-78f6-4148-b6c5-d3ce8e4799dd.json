@@ -11,7 +11,8 @@
     "Microsoft.Kubernetes/connectedClusters/listClusterUserCredentials/action",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Support/*"
+    "Microsoft.Support/*",
+    "Microsoft.Kubernetes/connectedClusters/listClusterUserCredential/action"
   ],
   "NotActions": [],
   "DataActions": [],

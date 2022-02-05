@@ -321,6 +321,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Web PubSub Service Owner (Preview)](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) | [12cf5a90-567b-43ae-8102-96cf46c7d9b4](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) |
 | [Web PubSub Service Reader (Preview)](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) | [bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) |
 | [Website Contributor](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) | [de139f84-1756-47ae-9be6-808fbbe84772](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) |
+| [Windows Admin Center Administrator Login](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) | [a6333a3e-0164-44c3-b281-7a577aff287f](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) |
 | [Workbook Contributor](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) | [e8ddcd69-c73f-4f9f-9844-4100522f16ad](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) |
 | [Workbook Reader](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) | [b279062a-9be3-42a0-92ae-8b3cf002ec4d](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) |
 | [WorkloadBuilder Migration Agent Role](roles/d17ce0a2-0697-43bc-aac5-9113337ab61c.json) | [d17ce0a2-0697-43bc-aac5-9113337ab61c](roles/d17ce0a2-0697-43bc-aac5-9113337ab61c.json) |

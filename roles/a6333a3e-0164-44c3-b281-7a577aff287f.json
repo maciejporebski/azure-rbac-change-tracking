@@ -1,0 +1,17 @@
+{
+  "Name": "Windows Admin Center Administrator Login",
+  "Id": "a6333a3e-0164-44c3-b281-7a577aff287f",
+  "IsCustom": false,
+  "Description": "Let's you manage the OS of your resource via Windows Admin Center as an administrator.",
+  "Actions": [
+    "Microsoft.HybridCompute/machines/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HybridCompute/machines/WACLoginAsAdmin/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

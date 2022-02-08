@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Kubernetes Service Policy Add-on Deployment",
+  "Id": "18ed5180-3e48-46fd-8541-4ea054d57064",
+  "IsCustom": false,
+  "Description": "Deploy the Azure Policy add-on on Azure Kubernetes Service clusters",
+  "Actions": [
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

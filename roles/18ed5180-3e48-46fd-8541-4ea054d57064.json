@@ -4,7 +4,10 @@
   "IsCustom": false,
   "Description": "Deploy the Azure Policy add-on on Azure Kubernetes Service clusters",
   "Actions": [
-    "Microsoft.Resources/deployments/*"
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Network/virtualNetworks/subnets/join/action",
+    "Microsoft.Network/publicIPPrefixes/join/action",
+    "Microsoft.Network/publicIPAddresses/join/action"
   ],
   "NotActions": [],
   "DataActions": [],

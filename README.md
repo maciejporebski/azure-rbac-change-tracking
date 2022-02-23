@@ -160,6 +160,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Disk Snapshot Contributor](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) | [7efff54f-a5b4-42b5-a1c5-5411624893ce](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) |
 | [DNS Zone Contributor](roles/befefa01-2a29-4197-83a8-272ff33ce314.json) | [befefa01-2a29-4197-83a8-272ff33ce314](roles/befefa01-2a29-4197-83a8-272ff33ce314.json) |
 | [DocumentDB Account Contributor](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) | [5bd9cd88-fe45-4216-938b-f97437e15450](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) |
+| [Domain Services Contributor](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) | [eeaeda52-9324-47f6-8069-5d5bade478b2](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) |
+| [Domain Services Reader](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) | [361898ef-9ed1-48c2-849c-a832951106bb](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) |
 | [EventGrid Contributor](roles/1e241071-0855-49ea-94dc-649edcd759de.json) | [1e241071-0855-49ea-94dc-649edcd759de](roles/1e241071-0855-49ea-94dc-649edcd759de.json) |
 | [EventGrid Data Sender](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) | [d5a91429-5739-47e2-a06b-3470a27159e7](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) |
 | [EventGrid EventSubscription Contributor](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) | [428e0ff0-5e57-4d9c-a221-2c70d0e0a443](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) |

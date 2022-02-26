@@ -158,6 +158,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Disk Pool Operator](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) | [60fc6e62-5479-42d4-8bf4-67625fcc2840](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) |
 | [Disk Restore Operator](roles/b50d9833-a0cb-478e-945f-707fcc997c13.json) | [b50d9833-a0cb-478e-945f-707fcc997c13](roles/b50d9833-a0cb-478e-945f-707fcc997c13.json) |
 | [Disk Snapshot Contributor](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) | [7efff54f-a5b4-42b5-a1c5-5411624893ce](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) |
+| [DNS Resolver Contributor](roles/0f2ebee7-ffd4-4fc0-b3b7-664099fdad5d.json) | [0f2ebee7-ffd4-4fc0-b3b7-664099fdad5d](roles/0f2ebee7-ffd4-4fc0-b3b7-664099fdad5d.json) |
 | [DNS Zone Contributor](roles/befefa01-2a29-4197-83a8-272ff33ce314.json) | [befefa01-2a29-4197-83a8-272ff33ce314](roles/befefa01-2a29-4197-83a8-272ff33ce314.json) |
 | [DocumentDB Account Contributor](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) | [5bd9cd88-fe45-4216-938b-f97437e15450](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) |
 | [Domain Services Contributor](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) | [eeaeda52-9324-47f6-8069-5d5bade478b2](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) |

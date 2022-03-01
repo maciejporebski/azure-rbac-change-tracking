@@ -131,6 +131,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Box Reader](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) | [028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) |
 | [Data Factory Contributor](roles/673868aa-7521-48a0-acc6-0f60742d39f5.json) | [673868aa-7521-48a0-acc6-0f60742d39f5](roles/673868aa-7521-48a0-acc6-0f60742d39f5.json) |
 | [Data Lake Analytics Developer](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) | [47b7735b-770e-4598-a7da-8b91488b4c88](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) |
+| [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
 | [Desktop Virtualization Application Group Contributor](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) | [86240b0e-9422-4c43-887b-b61143f32ba8](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) |
 | [Desktop Virtualization Application Group Reader](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) | [aebf23d0-b568-4e86-b8f9-fe83a2c6ab55](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) |

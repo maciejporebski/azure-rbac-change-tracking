@@ -41,7 +41,9 @@
     "Microsoft.Network/networkSecurityGroups/join/action",
     "Microsoft.Network/routeTables/join/action",
     "Microsoft.Network/serviceEndpointPolicies/join/action",
+    "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",
+    "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],

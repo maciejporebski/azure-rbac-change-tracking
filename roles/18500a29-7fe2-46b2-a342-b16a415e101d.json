@@ -4,7 +4,11 @@
   "IsCustom": false,
   "Description": "Lets you manage managed HSM pools, but not access to them.",
   "Actions": [
-    "Microsoft.KeyVault/managedHSMs/*"
+    "Microsoft.KeyVault/managedHSMs/*",
+    "Microsoft.KeyVault/deletedManagedHsms/read",
+    "Microsoft.KeyVault/locations/deletedManagedHsms/read",
+    "Microsoft.KeyVault/locations/deletedManagedHsms/purge/action",
+    "Microsoft.KeyVault/locations/managedHsmOperationResults/read"
   ],
   "NotActions": [],
   "DataActions": [],

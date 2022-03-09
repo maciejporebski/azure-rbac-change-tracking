@@ -37,7 +37,8 @@
     "Microsoft.WorkloadMonitor/monitors/*",
     "Microsoft.AlertsManagement/smartDetectorAlertRules/*",
     "Microsoft.AlertsManagement/actionRules/*",
-    "Microsoft.AlertsManagement/smartGroups/*"
+    "Microsoft.AlertsManagement/smartGroups/*",
+    "Microsoft.AlertsManagement/migrateFromSmartDetection/*"
   ],
   "NotActions": [],
   "DataActions": [],

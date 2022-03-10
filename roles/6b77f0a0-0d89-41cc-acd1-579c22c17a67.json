@@ -1,0 +1,17 @@
+{
+  "Name": "AgFood Platform Sensor Partner Contributor",
+  "Id": "6b77f0a0-0d89-41cc-acd1-579c22c17a67",
+  "IsCustom": false,
+  "Description": "Provides contribute access to manage sensor related entities in AgFood Platform Service",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AgFoodPlatform/sensorPartnerScope/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.AgFoodPlatform/sensorPartnerScope/sensors/delete"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -2,7 +2,7 @@
   "Name": "DNS Resolver Contributor",
   "Id": "0f2ebee7-ffd4-4fc0-b3b7-664099fdad5d",
   "IsCustom": false,
-  "Description": "Lets you manage DNS resolver resources",
+  "Description": "Lets you manage DNS resolver resources.",
   "Actions": [
     "Microsoft.Network/dnsResolvers/read",
     "Microsoft.Network/dnsResolvers/write",

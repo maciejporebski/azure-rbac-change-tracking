@@ -7,7 +7,9 @@
     "Microsoft.Resources/deployments/*",
     "Microsoft.Network/virtualNetworks/subnets/join/action",
     "Microsoft.Network/publicIPPrefixes/join/action",
-    "Microsoft.Network/publicIPAddresses/join/action"
+    "Microsoft.Network/publicIPAddresses/join/action",
+    "Microsoft.Compute/diskEncryptionSets/read",
+    "Microsoft.Compute/proximityPlacementGroups/write"
   ],
   "NotActions": [],
   "DataActions": [],

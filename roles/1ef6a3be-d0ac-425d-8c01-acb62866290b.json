@@ -1,0 +1,15 @@
+{
+  "Name": "Compute Gallery Sharing Admin",
+  "Id": "1ef6a3be-d0ac-425d-8c01-acb62866290b",
+  "IsCustom": false,
+  "Description": "This role allows user to share gallery to another subscription/tenant or share it to the public.",
+  "Actions": [
+    "Microsoft.Compute/galleries/share/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

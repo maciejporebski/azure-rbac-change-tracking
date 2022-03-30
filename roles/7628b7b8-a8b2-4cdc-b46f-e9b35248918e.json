@@ -12,9 +12,16 @@
   "DataActions": [
     "Microsoft.CognitiveServices/accounts/LanguageAuthoring/*/read",
     "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/*/read",
-    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/export/action"
+    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/projects/export/action",
+    "Microsoft.CognitiveServices/accounts/Language/*/read",
+    "Microsoft.CognitiveServices/accounts/Language/*/projects/export/action",
+    "Microsoft.CognitiveServices/accounts/Language/query-text/action",
+    "Microsoft.CognitiveServices/accounts/Language/query-knowledgebases/action",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/*"
   ],
-  "NotDataActions": [],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/*"
+  ],
   "AssignableScopes": [
     "/"
   ]

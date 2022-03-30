@@ -12,9 +12,13 @@
   "NotActions": [],
   "DataActions": [
     "Microsoft.CognitiveServices/accounts/LanguageAuthoring/*",
-    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/*"
+    "Microsoft.CognitiveServices/accounts/ConversationalLanguageUnderstanding/*",
+    "Microsoft.CognitiveServices/accounts/Language/*",
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/*"
   ],
-  "NotDataActions": [],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/TextAnalytics/QnaMaker/*"
+  ],
   "AssignableScopes": [
     "/"
   ]

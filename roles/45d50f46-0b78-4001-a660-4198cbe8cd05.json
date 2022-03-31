@@ -1,0 +1,25 @@
+{
+  "Name": "DevCenter Dev Box User",
+  "Id": "45d50f46-0b78-4001-a660-4198cbe8cd05",
+  "IsCustom": false,
+  "Description": "Provides access to create and manage dev boxes.",
+  "Actions": [
+    "Microsoft.Fidalgo/projects/read",
+    "Microsoft.Fidalgo/projects/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Fidalgo/projects/users/virtualMachines/userStop/action",
+    "Microsoft.Fidalgo/projects/users/virtualMachines/userStart/action",
+    "Microsoft.Fidalgo/projects/users/virtualMachines/userGetRdpFileContent/action",
+    "Microsoft.Fidalgo/projects/users/virtualMachines/userRead/action",
+    "Microsoft.Fidalgo/projects/users/virtualMachines/userWrite/action",
+    "Microsoft.Fidalgo/projects/users/virtualMachines/userDelete/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

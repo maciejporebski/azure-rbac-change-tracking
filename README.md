@@ -147,6 +147,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Desktop Virtualization Workspace Contributor](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) | [21efdde3-836f-432b-bf3d-3e8e734d4b2b](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) |
 | [Desktop Virtualization Workspace Reader](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) | [0fa44ee9-7a7d-466b-9bb2-2bf446b1204d](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) |
 | [DevCenter Dev Box User](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) | [45d50f46-0b78-4001-a660-4198cbe8cd05](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) |
+| [DevCenter Project Admin](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) | [331c37c6-af14-46d9-b9f4-e1909e1b95a0](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) |
 | [Device Provisioning Service Data Contributor](roles/dfce44e4-17b7-4bd1-a6d1-04996ec95633.json) | [dfce44e4-17b7-4bd1-a6d1-04996ec95633](roles/dfce44e4-17b7-4bd1-a6d1-04996ec95633.json) |
 | [Device Provisioning Service Data Reader](roles/10745317-c249-44a1-a5ce-3a4353c0bbd8.json) | [10745317-c249-44a1-a5ce-3a4353c0bbd8](roles/10745317-c249-44a1-a5ce-3a4353c0bbd8.json) |
 | [Device Update Administrator](roles/02ca0879-e8e4-47a5-a61e-5c618b76e64a.json) | [02ca0879-e8e4-47a5-a61e-5c618b76e64a](roles/02ca0879-e8e4-47a5-a61e-5c618b76e64a.json) |

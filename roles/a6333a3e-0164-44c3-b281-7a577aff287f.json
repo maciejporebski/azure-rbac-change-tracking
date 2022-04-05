@@ -5,6 +5,9 @@
   "Description": "Let's you manage the OS of your resource via Windows Admin Center as an administrator.",
   "Actions": [
     "Microsoft.HybridCompute/machines/*/read",
+    "Microsoft.HybridCompute/machines/extensions/*",
+    "Microsoft.HybridCompute/machines/upgradeExtensions/action",
+    "Microsoft.HybridCompute/operations/read",
     "Microsoft.Network/networkInterfaces/read",
     "Microsoft.Network/loadBalancers/read",
     "Microsoft.Network/publicIPAddresses/read",

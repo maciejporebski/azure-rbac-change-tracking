@@ -325,6 +325,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |
 | [Virtual Machine Contributor](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) | [9980e02c-c2be-4d73-94e8-173b1dc7cf3c](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) |
+| [Virtual Machine Local User Login](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) | [602da2ba-a5c2-41da-b01d-5360126ab525](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) |
 | [Virtual Machine User Login](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) | [fb879df8-f326-4884-b1cf-06f3ad86be52](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) |
 | [Web Plan Contributor](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) | [2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) |
 | [Web PubSub Service Owner (Preview)](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) | [12cf5a90-567b-43ae-8102-96cf46c7d9b4](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) |

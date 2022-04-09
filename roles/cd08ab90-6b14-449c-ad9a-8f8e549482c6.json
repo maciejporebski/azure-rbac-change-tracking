@@ -1,0 +1,20 @@
+{
+  "Name": "Scheduled Patching Contributor",
+  "Id": "cd08ab90-6b14-449c-ad9a-8f8e549482c6",
+  "IsCustom": false,
+  "Description": "Provides access to manage maintenance configurations with maintenance scope InGuestPatch and corresponding configuration assignments",
+  "Actions": [
+    "Microsoft.Maintenance/configurationAssignments/maintenanceScope/InGuestPatch/read",
+    "Microsoft.Maintenance/configurationAssignments/maintenanceScope/InGuestPatch/write",
+    "Microsoft.Maintenance/configurationAssignments/maintenanceScope/InGuestPatch/delete",
+    "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/read",
+    "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/write",
+    "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

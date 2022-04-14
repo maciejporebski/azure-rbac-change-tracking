@@ -302,7 +302,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SQL Managed Instance Contributor](roles/4939a1f6-9ae0-4e48-a1e0-f2cbe897382d.json) | [4939a1f6-9ae0-4e48-a1e0-f2cbe897382d](roles/4939a1f6-9ae0-4e48-a1e0-f2cbe897382d.json) |
 | [SQL Security Manager](roles/056cd41c-7e88-42e1-933e-88ba6a50c9c3.json) | [056cd41c-7e88-42e1-933e-88ba6a50c9c3](roles/056cd41c-7e88-42e1-933e-88ba6a50c9c3.json) |
 | [SQL Server Contributor](roles/6d8ee4ec-f05a-4a1d-8b00-a9b17e38b437.json) | [6d8ee4ec-f05a-4a1d-8b00-a9b17e38b437](roles/6d8ee4ec-f05a-4a1d-8b00-a9b17e38b437.json) |
-| [Storage Account Backup Contributor Role](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) | [e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) |
+| [Storage Account Backup Contributor](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) | [e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) |
 | [Storage Account Contributor](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) | [17d1049b-9a84-46fb-8f53-869881c3d3ab](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) |
 | [Storage Account Key Operator Service Role](roles/81a9662b-bebf-436f-a333-f67b29880f12.json) | [81a9662b-bebf-436f-a333-f67b29880f12](roles/81a9662b-bebf-436f-a333-f67b29880f12.json) |
 | [Storage Blob Data Contributor](roles/ba92f5b4-2d11-453d-a403-e96b0029c9fe.json) | [ba92f5b4-2d11-453d-a403-e96b0029c9fe](roles/ba92f5b4-2d11-453d-a403-e96b0029c9fe.json) |

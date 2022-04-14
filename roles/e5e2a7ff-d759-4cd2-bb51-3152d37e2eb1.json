@@ -1,8 +1,8 @@
 {
-  "Name": "Storage Account Backup Contributor Role",
+  "Name": "Storage Account Backup Contributor",
   "Id": "e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1",
   "IsCustom": false,
-  "Description": "Storage Account Backup Contributors are allowed to perform backup and restore of Storage Account.",
+  "Description": "Lets you perform backup and restore operations using Azure Backup on the storage account.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Authorization/locks/read",

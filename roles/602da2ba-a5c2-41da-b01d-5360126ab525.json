@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "View Virtual Machines in the portal and login as a local user configured on the arc server",
   "Actions": [
-    "Microsoft.HybridCompute/machines/*/read"
+    "Microsoft.HybridCompute/machines/*/read",
+    "Microsoft.HybridConnectivity/endpoints/listCredentials/action"
   ],
   "NotActions": [],
   "DataActions": [],

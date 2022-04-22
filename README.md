@@ -179,6 +179,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR Data Contributor](roles/5a1fc7df-4bf1-4951-a576-89034ee01acd.json) | [5a1fc7df-4bf1-4951-a576-89034ee01acd](roles/5a1fc7df-4bf1-4951-a576-89034ee01acd.json) |
 | [FHIR Data Converter](roles/a1705bd2-3a8f-45a5-8683-466fcfd5cc24.json) | [a1705bd2-3a8f-45a5-8683-466fcfd5cc24](roles/a1705bd2-3a8f-45a5-8683-466fcfd5cc24.json) |
 | [FHIR Data Exporter](roles/3db33094-8700-4567-8da5-1501d4e7e843.json) | [3db33094-8700-4567-8da5-1501d4e7e843](roles/3db33094-8700-4567-8da5-1501d4e7e843.json) |
+| [FHIR Data Importer](roles/4465e953-8ced-4406-a58e-0f6e3f3b530b.json) | [4465e953-8ced-4406-a58e-0f6e3f3b530b](roles/4465e953-8ced-4406-a58e-0f6e3f3b530b.json) |
 | [FHIR Data Reader](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) | [4c8d0bbc-75d3-4935-991f-5f3c56d81508](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) |
 | [FHIR Data Writer](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) | [3f88fce4-5892-4214-ae73-ba5294559913](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |

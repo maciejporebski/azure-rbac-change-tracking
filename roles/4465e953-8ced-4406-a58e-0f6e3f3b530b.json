@@ -1,0 +1,16 @@
+{
+  "Name": "FHIR Data Importer",
+  "Id": "4465e953-8ced-4406-a58e-0f6e3f3b530b",
+  "IsCustom": false,
+  "Description": "Role allows user or principal to read and import FHIR Data",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/read",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/import/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

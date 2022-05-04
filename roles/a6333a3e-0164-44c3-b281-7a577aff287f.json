@@ -18,7 +18,8 @@
     "Microsoft.Network/networkSecurityGroups/securityRules/read",
     "Microsoft.Network/networkSecurityGroups/securityRules/write",
     "Microsoft.HybridConnectivity/endpoints/write",
-    "Microsoft.HybridConnectivity/endpoints/read"
+    "Microsoft.HybridConnectivity/endpoints/read",
+    "Microsoft.HybridConnectivity/endpoints/listManagedProxyDetails/action"
   ],
   "NotActions": [],
   "DataActions": [

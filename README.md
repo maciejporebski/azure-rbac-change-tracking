@@ -38,6 +38,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc Kubernetes Cluster Admin](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) | [8393591c-06b9-48a2-a542-1bd6b377f6a2](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) |
 | [Azure Arc Kubernetes Viewer](roles/63f0a09d-1495-4db4-a681-037d84835eb4.json) | [63f0a09d-1495-4db4-a681-037d84835eb4](roles/63f0a09d-1495-4db4-a681-037d84835eb4.json) |
 | [Azure Arc Kubernetes Writer](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) | [5b999177-9696-4545-85c7-50de3797e5a1](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) |
+| [Azure Arc ScVmm Administrator role](roles/a92dfd61-77f9-4aec-a531-19858b406c87.json) | [a92dfd61-77f9-4aec-a531-19858b406c87](roles/a92dfd61-77f9-4aec-a531-19858b406c87.json) |
+| [Azure Arc ScVmm Private Cloud User](roles/c0781e91-8102-4553-8951-97c6d4243cda.json) | [c0781e91-8102-4553-8951-97c6d4243cda](roles/c0781e91-8102-4553-8951-97c6d4243cda.json) |
+| [Azure Arc ScVmm Private Clouds Onboarding](roles/6aac74c4-6311-40d2-bbdd-7d01e7c6e3a9.json) | [6aac74c4-6311-40d2-bbdd-7d01e7c6e3a9](roles/6aac74c4-6311-40d2-bbdd-7d01e7c6e3a9.json) |
+| [Azure Arc ScVmm VM Contributor](roles/e582369a-e17b-42a5-b10c-874c387c530b.json) | [e582369a-e17b-42a5-b10c-874c387c530b](roles/e582369a-e17b-42a5-b10c-874c387c530b.json) |
 | [Azure Arc VMware Administrator role ](roles/ddc140ed-e463-4246-9145-7c664192013f.json) | [ddc140ed-e463-4246-9145-7c664192013f](roles/ddc140ed-e463-4246-9145-7c664192013f.json) |
 | [Azure Arc VMware Private Cloud User](roles/ce551c02-7c42-47e0-9deb-e3b6fc3a9a83.json) | [ce551c02-7c42-47e0-9deb-e3b6fc3a9a83](roles/ce551c02-7c42-47e0-9deb-e3b6fc3a9a83.json) |
 | [Azure Arc VMware Private Clouds Onboarding](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) | [67d33e57-3129-45e6-bb0b-7cc522f762fa](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) |

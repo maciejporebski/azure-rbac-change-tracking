@@ -4,7 +4,9 @@
   "IsCustom": false,
   "Description": "Full access to Speech projects, including read, write and delete all entities, for real-time speech recognition and batch transcription tasks, real-time speech synthesis and long audio tasks, custom speech and custom voice.",
   "Actions": [
-    "Microsoft.CognitiveServices/*/read"
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
   ],
   "NotActions": [],
   "DataActions": [

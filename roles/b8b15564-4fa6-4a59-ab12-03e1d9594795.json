@@ -15,6 +15,7 @@
     "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurements/states/new/*",
     "Microsoft.AutonomousDevelopmentPlatform/accounts/dataPools/measurementCollections/*",
     "Microsoft.AutonomousDevelopmentPlatform/accounts/measurementCollections/*",
+    "Microsoft.AutonomousDevelopmentPlatform/workspaces/read",
     "Microsoft.AutonomousDevelopmentPlatform/workspaces/discoveries/*",
     "Microsoft.AutonomousDevelopmentPlatform/workspaces/uploads/*",
     "Microsoft.AutonomousDevelopmentPlatform/workspaces/measurements/states/new/*",

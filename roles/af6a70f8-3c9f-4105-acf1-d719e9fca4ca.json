@@ -1,0 +1,15 @@
+{
+  "Name": "Elastic San Reader",
+  "Id": "af6a70f8-3c9f-4105-acf1-d719e9fca4ca",
+  "IsCustom": false,
+  "Description": "Read Azure Elastic SAN and all sub-resources",
+  "Actions": [
+    "Microsoft.ElasticSan/elasticSans/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

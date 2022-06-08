@@ -1,0 +1,22 @@
+{
+  "Name": "VM Scanner Operator",
+  "Id": "d24ecba3-c1f4-40fa-a7bb-4588a071e8fd",
+  "IsCustom": false,
+  "Description": "Role that provides access to disk snapshot for security analysis.",
+  "Actions": [
+    "Microsoft.Compute/disks/read",
+    "Microsoft.Compute/disks/beginGetAccess/action",
+    "Microsoft.Compute/virtualMachines/instanceView/read",
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.Compute/virtualMachineScaleSets/instanceView/read",
+    "Microsoft.Compute/virtualMachineScaleSets/read",
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/read",
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/instanceView/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

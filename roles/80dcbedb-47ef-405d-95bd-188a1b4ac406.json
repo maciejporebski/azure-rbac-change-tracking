@@ -8,7 +8,8 @@
     "Microsoft.ResourceHealth/availabilityStatuses/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.ElasticSan/elasticSans/*"
+    "Microsoft.ElasticSan/elasticSans/*",
+    "Microsoft.ElasticSan/locations/*"
   ],
   "NotActions": [],
   "DataActions": [],

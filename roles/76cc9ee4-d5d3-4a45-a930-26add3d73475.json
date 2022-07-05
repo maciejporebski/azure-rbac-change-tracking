@@ -1,0 +1,17 @@
+{
+  "Name": "Access Review Operator Service Role",
+  "Id": "76cc9ee4-d5d3-4a45-a930-26add3d73475",
+  "IsCustom": false,
+  "Description": "Lets you grant Access Review System app permissions to discover and revoke access as needed by the access review process.",
+  "Actions": [
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleAssignments/delete",
+    "Microsoft.Management/getEntities/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

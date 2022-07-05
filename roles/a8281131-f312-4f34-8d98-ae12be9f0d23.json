@@ -1,0 +1,15 @@
+{
+  "Name": "Elastic San Volume Group Owner",
+  "Id": "a8281131-f312-4f34-8d98-ae12be9f0d23",
+  "IsCustom": false,
+  "Description": "Lets you manage a volume group in elastic san account",
+  "Actions": [
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

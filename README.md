@@ -146,10 +146,13 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Desktop Virtualization Contributor](roles/082f0a83-3be5-4ba1-904c-961cca79b387.json) | [082f0a83-3be5-4ba1-904c-961cca79b387](roles/082f0a83-3be5-4ba1-904c-961cca79b387.json) |
 | [Desktop Virtualization Host Pool Contributor](roles/e307426c-f9b6-4e81-87de-d99efb3c32bc.json) | [e307426c-f9b6-4e81-87de-d99efb3c32bc](roles/e307426c-f9b6-4e81-87de-d99efb3c32bc.json) |
 | [Desktop Virtualization Host Pool Reader](roles/ceadfde2-b300-400a-ab7b-6143895aa822.json) | [ceadfde2-b300-400a-ab7b-6143895aa822](roles/ceadfde2-b300-400a-ab7b-6143895aa822.json) |
+| [Desktop Virtualization Power On Contributor](roles/489581de-a3bd-480d-9518-53dea7416b33.json) | [489581de-a3bd-480d-9518-53dea7416b33](roles/489581de-a3bd-480d-9518-53dea7416b33.json) |
+| [Desktop Virtualization Power On Off Contributor](roles/40c5ff49-9181-41f8-ae61-143b0e78555e.json) | [40c5ff49-9181-41f8-ae61-143b0e78555e](roles/40c5ff49-9181-41f8-ae61-143b0e78555e.json) |
 | [Desktop Virtualization Reader](roles/49a72310-ab8d-41df-bbb0-79b649203868.json) | [49a72310-ab8d-41df-bbb0-79b649203868](roles/49a72310-ab8d-41df-bbb0-79b649203868.json) |
 | [Desktop Virtualization Session Host Operator](roles/2ad6aaab-ead9-4eaa-8ac5-da422f562408.json) | [2ad6aaab-ead9-4eaa-8ac5-da422f562408](roles/2ad6aaab-ead9-4eaa-8ac5-da422f562408.json) |
 | [Desktop Virtualization User](roles/1d18fff3-a72a-46b5-b4a9-0b38a3cd7e63.json) | [1d18fff3-a72a-46b5-b4a9-0b38a3cd7e63](roles/1d18fff3-a72a-46b5-b4a9-0b38a3cd7e63.json) |
 | [Desktop Virtualization User Session Operator](roles/ea4bfff8-7fb4-485a-aadd-d4129a0ffaa6.json) | [ea4bfff8-7fb4-485a-aadd-d4129a0ffaa6](roles/ea4bfff8-7fb4-485a-aadd-d4129a0ffaa6.json) |
+| [Desktop Virtualization Virtual Machine Contributor](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) | [a959dbd1-f747-45e3-8ba6-dd80f235f97c](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) |
 | [Desktop Virtualization Workspace Contributor](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) | [21efdde3-836f-432b-bf3d-3e8e734d4b2b](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) |
 | [Desktop Virtualization Workspace Reader](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) | [0fa44ee9-7a7d-466b-9bb2-2bf446b1204d](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) |
 | [DevCenter Dev Box User](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) | [45d50f46-0b78-4001-a660-4198cbe8cd05](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) |

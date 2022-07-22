@@ -4,7 +4,10 @@
   "IsCustom": false,
   "Description": "Lets you manage a volume group in elastic san account",
   "Actions": [
-    "Microsoft.ElasticSan/elasticSans/volumeGroups/*"
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read",
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/*",
+    "Microsoft.ElasticSan/locations/asyncoperations/read"
   ],
   "NotActions": [],
   "DataActions": [],

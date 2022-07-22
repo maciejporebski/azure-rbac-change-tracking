@@ -4,6 +4,10 @@
   "IsCustom": false,
   "Description": "Read Azure Elastic SAN and all sub-resources",
   "Actions": [
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.ElasticSan/elasticSans/*/read"
   ],
   "NotActions": [],

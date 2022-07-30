@@ -1,0 +1,16 @@
+{
+  "Name": "Code Signing Identity Verifier",
+  "Id": "4339b7cf-9826-4e41-b4ed-c7f4505dac08",
+  "IsCustom": false,
+  "Description": "Manage identity or business verification requests. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CodeSigning/IdentityVerification/Read",
+    "Microsoft.CodeSigning/IdentityVerification/Write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

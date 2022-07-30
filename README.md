@@ -102,6 +102,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Classic Storage Account Key Operator Service Role](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) | [985d6b00-f706-48f5-a6fe-d0ca12fb668d](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) |
 | [Classic Virtual Machine Contributor](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) | [d73bb868-a0df-4d4d-bd69-98a00b01fccb](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) |
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
+| [Code Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
 | [CodeSigning Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
 | [Cognitive Services Contributor](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) | [25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) |
 | [Cognitive Services Custom Vision Contributor](roles/c1ff6cc2-c111-46fe-8896-e0ef812ad9f3.json) | [c1ff6cc2-c111-46fe-8896-e0ef812ad9f3](roles/c1ff6cc2-c111-46fe-8896-e0ef812ad9f3.json) |

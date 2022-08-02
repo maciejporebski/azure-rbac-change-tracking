@@ -21,7 +21,10 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*"
   ],
-  "NotActions": [],
+  "NotActions": [
+    "Microsoft.SecurityInsights/ConfidentialWatchlists/*",
+    "Microsoft.OperationalInsights/workspaces/query/ConfidentialWatchlist/*"
+  ],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [

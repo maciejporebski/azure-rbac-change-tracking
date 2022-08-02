@@ -34,7 +34,9 @@
   ],
   "NotActions": [
     "Microsoft.SecurityInsights/cases/*/Delete",
-    "Microsoft.SecurityInsights/incidents/*/Delete"
+    "Microsoft.SecurityInsights/incidents/*/Delete",
+    "Microsoft.SecurityInsights/ConfidentialWatchlists/*",
+    "Microsoft.OperationalInsights/workspaces/query/ConfidentialWatchlist/*"
   ],
   "DataActions": [],
   "NotDataActions": [],

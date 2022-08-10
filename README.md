@@ -338,6 +338,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Test Base Reader](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) | [15e0f5a1-3450-4248-8e25-e2afe88a9e85](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) |
 | [Traffic Manager Contributor](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) | [a4b10055-b0c7-44c2-b00f-c7b5b3550cf7](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |
+| [Video Indexer Restricted Viewer](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) | [a2c4a527-7dc0-4ee3-897b-403ade70fafb](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |
 | [Virtual Machine Contributor](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) | [9980e02c-c2be-4d73-94e8-173b1dc7cf3c](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) |
 | [Virtual Machine Local User Login](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) | [602da2ba-a5c2-41da-b01d-5360126ab525](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) |

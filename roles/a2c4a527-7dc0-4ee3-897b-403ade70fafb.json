@@ -1,0 +1,20 @@
+{
+  "Name": "Video Indexer Restricted Viewer",
+  "Id": "a2c4a527-7dc0-4ee3-897b-403ade70fafb",
+  "IsCustom": false,
+  "Description": "Has access to view and search through all video's insights and transcription in the Video Indexer portal. No access to model customization, embedding of widget, downloading videos, or sharing the account.",
+  "Actions": [
+    "Microsoft.VideoIndexer/*/read",
+    "Microsoft.VideoIndexer/accounts/*/action"
+  ],
+  "NotActions": [
+    "Microsoft.VideoIndexer/*/write",
+    "Microsoft.VideoIndexer/*/delete",
+    "Microsoft.VideoIndexer/accounts/generateAccessToken/action"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

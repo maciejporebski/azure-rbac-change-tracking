@@ -1,0 +1,15 @@
+{
+  "Name": "Monitoring Data Reader",
+  "Id": "b0d8363b-8ddd-447d-831f-62ca05bff136",
+  "IsCustom": false,
+  "Description": "Can read all monitoring data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Monitor/accounts/data/metrics/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

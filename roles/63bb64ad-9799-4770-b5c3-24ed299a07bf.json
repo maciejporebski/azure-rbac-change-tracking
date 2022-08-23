@@ -1,0 +1,16 @@
+{
+  "Name": "Azure Kubernetes Fleet Manager Contributor Role",
+  "Id": "63bb64ad-9799-4770-b5c3-24ed299a07bf",
+  "IsCustom": false,
+  "Description": "Grants access to read and write Azure Kubernetes Fleet Manager clusters",
+  "Actions": [
+    "Microsoft.ContainerService/fleets/*",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

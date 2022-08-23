@@ -56,6 +56,11 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
 | [Azure Event Hubs Data Sender](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) | [2b629674-e913-4c01-ae53-ef4638d8f975](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) |
+| [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
+| [Azure Kubernetes Fleet Manager RBAC Admin](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) | [434fb43a-c01c-447e-9f67-c3ad923cfaba](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) |
+| [Azure Kubernetes Fleet Manager RBAC Cluster Admin](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) | [18ab4d3d-a1bf-4477-8ad9-8359bc988f69](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) |
+| [Azure Kubernetes Fleet Manager RBAC Reader](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) | [30b27cfc-9c84-438e-b0ce-70e35255df80](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) |
+| [Azure Kubernetes Fleet Manager RBAC Writer](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) | [5af6afb3-c06c-4fa4-8848-71a8aee05683](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) |
 | [Azure Kubernetes Service Cluster Admin Role](roles/0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8.json) | [0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8](roles/0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8.json) |
 | [Azure Kubernetes Service Cluster User Role](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) | [4abbcc35-e782-43d8-92c5-2d3f1bd2253f](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) |
 | [Azure Kubernetes Service Contributor Role](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) | [ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) |

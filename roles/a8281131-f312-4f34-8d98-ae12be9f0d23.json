@@ -1,8 +1,8 @@
 {
-  "Name": "Elastic San Volume Group Owner",
+  "Name": "Elastic SAN Volume Group Owner",
   "Id": "a8281131-f312-4f34-8d98-ae12be9f0d23",
   "IsCustom": false,
-  "Description": "Lets you manage a volume group in elastic san account",
+  "Description": "Allows for full access to a volume group in Azure Elastic SAN including changing network security policies to unblock data path access",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/read",
     "Microsoft.Authorization/roleDefinitions/read",

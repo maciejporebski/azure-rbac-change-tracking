@@ -1,8 +1,8 @@
 {
-  "Name": "Elastic San Reader",
+  "Name": "Elastic SAN Reader",
   "Id": "af6a70f8-3c9f-4105-acf1-d719e9fca4ca",
   "IsCustom": false,
-  "Description": "Read Azure Elastic SAN and all sub-resources",
+  "Description": "Allows for control path read access to Azure Elastic SAN",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/read",
     "Microsoft.Authorization/roleDefinitions/read",

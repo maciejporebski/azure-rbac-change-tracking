@@ -1,0 +1,16 @@
+{
+  "Name": "Kubernetes Namespace User",
+  "Id": "ba79058c-0414-4a34-9e42-c3399d80cd5a",
+  "IsCustom": false,
+  "Description": "Allows a user to read namespace resources and retrieve kubeconfig for the cluster",
+  "Actions": [
+    "Microsoft.KubernetesConfiguration/namespaces/read",
+    "Microsoft.KubernetesConfiguration/namespaces/listUserCredential/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

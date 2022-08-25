@@ -229,6 +229,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Knowledge Consumer](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) | [ee361c5d-f7b5-4119-b4b6-892157c8f64c](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) |
 | [Kubernetes Cluster - Azure Arc Onboarding](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) | [34e09817-6cbe-4d01-b1a2-e0eac5743d41](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) |
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |
+| [Kubernetes Namespace User](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) | [ba79058c-0414-4a34-9e42-c3399d80cd5a](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) |
 | [Lab Assistant](roles/ce40b423-cede-4313-a93f-9b28290b72e1.json) | [ce40b423-cede-4313-a93f-9b28290b72e1](roles/ce40b423-cede-4313-a93f-9b28290b72e1.json) |
 | [Lab Contributor](roles/5daaa2af-1fe8-407c-9122-bba179798270.json) | [5daaa2af-1fe8-407c-9122-bba179798270](roles/5daaa2af-1fe8-407c-9122-bba179798270.json) |
 | [Lab Creator](roles/b97fb8bc-a8b2-4522-a38b-dd33c7e65ead.json) | [b97fb8bc-a8b2-4522-a38b-dd33c7e65ead](roles/b97fb8bc-a8b2-4522-a38b-dd33c7e65ead.json) |

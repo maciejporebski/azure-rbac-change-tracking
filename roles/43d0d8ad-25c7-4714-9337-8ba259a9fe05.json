@@ -9,9 +9,7 @@
     "Microsoft.Support/*"
   ],
   "NotActions": [],
-  "DataActions": [
-    "Microsoft.Monitor/accounts/data/metrics/read"
-  ],
+  "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

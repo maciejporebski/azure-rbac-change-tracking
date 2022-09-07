@@ -291,6 +291,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Remote Rendering Client](roles/d39065c4-c120-43c9-ab0a-63eed9795f0a.json) | [d39065c4-c120-43c9-ab0a-63eed9795f0a](roles/d39065c4-c120-43c9-ab0a-63eed9795f0a.json) |
 | [Reservation Purchaser](roles/f7b75c60-3036-4b75-91c3-6b41c27c1689.json) | [f7b75c60-3036-4b75-91c3-6b41c27c1689](roles/f7b75c60-3036-4b75-91c3-6b41c27c1689.json) |
 | [Resource Policy Contributor](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) | [36243c78-bf99-498c-9df9-86d9f8d28608](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) |
+| [Role Based Access Control Administrator (Preview)](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) | [f58310d9-a9f6-439a-9e8d-f62e7b41a168](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) |
 | [Scheduled Patching Contributor](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) | [cd08ab90-6b14-449c-ad9a-8f8e549482c6](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) |
 | [Scheduler Job Collections Contributor](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) | [188a0f2f-5c9e-469b-ae67-2aa5ce574b94](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) |
 | [Schema Registry Contributor (Preview)](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) | [5dffeca3-4936-4216-b2bc-10343a5abb25](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) |

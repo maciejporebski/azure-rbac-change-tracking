@@ -43,9 +43,7 @@
     "Microsoft.AlertsManagement/migrateFromSmartDetection/*"
   ],
   "NotActions": [],
-  "DataActions": [
-    "microsoft.monitor/accounts/data/metrics/read"
-  ],
+  "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

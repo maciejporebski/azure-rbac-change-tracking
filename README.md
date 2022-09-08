@@ -343,6 +343,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Stream Analytics Query Tester](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) | [1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) |
 | [Support Request Contributor](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) | [cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) |
 | [Tag Contributor](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) | [4a9ae827-6dc8-4573-8ac7-8239d42aa03f](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) |
+| [Template Spec Contributor](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) | [1c9b6475-caf0-4164-b5a1-2142a7116f4b](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) |
+| [Template Spec Reader](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) | [392ae280-861d-42bd-9ea5-08ee6d83b80e](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) |
 | [Test Base Reader](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) | [15e0f5a1-3450-4248-8e25-e2afe88a9e85](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) |
 | [Traffic Manager Contributor](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) | [a4b10055-b0c7-44c2-b00f-c7b5b3550cf7](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |

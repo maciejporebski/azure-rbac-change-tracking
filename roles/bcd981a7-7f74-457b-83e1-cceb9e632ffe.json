@@ -6,10 +6,11 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.DigitalTwins/eventroutes/*",
     "Microsoft.DigitalTwins/digitaltwins/*",
     "Microsoft.DigitalTwins/digitaltwins/commands/*",
     "Microsoft.DigitalTwins/digitaltwins/relationships/*",
+    "Microsoft.DigitalTwins/eventroutes/*",
+    "Microsoft.DigitalTwins/jobs/*",
     "Microsoft.DigitalTwins/models/*",
     "Microsoft.DigitalTwins/query/*"
   ],

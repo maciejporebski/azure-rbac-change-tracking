@@ -1,0 +1,15 @@
+{
+  "Name": "Template Spec Reader",
+  "Id": "392ae280-861d-42bd-9ea5-08ee6d83b80e",
+  "IsCustom": false,
+  "Description": "Allows read access to Template Specs at the assigned scope.",
+  "Actions": [
+    "Microsoft.Resources/templateSpecs/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

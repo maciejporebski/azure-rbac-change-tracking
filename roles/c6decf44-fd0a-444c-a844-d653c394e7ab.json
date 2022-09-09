@@ -1,0 +1,20 @@
+{
+  "Name": "Data Labeling - Labeler",
+  "Id": "c6decf44-fd0a-444c-a844-d653c394e7ab",
+  "IsCustom": false,
+  "Description": "Can label data in Labeling.",
+  "Actions": [
+    "Microsoft.MachineLearningServices/workspaces/read",
+    "Microsoft.MachineLearningServices/workspaces/experiments/runs/read",
+    "Microsoft.MachineLearningServices/workspaces/labeling/projects/read",
+    "Microsoft.MachineLearningServices/workspaces/labeling/projects/summary/read",
+    "Microsoft.MachineLearningServices/workspaces/labeling/labels/read",
+    "Microsoft.MachineLearningServices/workspaces/labeling/labels/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

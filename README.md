@@ -144,6 +144,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Box Contributor](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) | [add466c9-e687-43fc-8d98-dfcf8d720be5](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) |
 | [Data Box Reader](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) | [028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) |
 | [Data Factory Contributor](roles/673868aa-7521-48a0-acc6-0f60742d39f5.json) | [673868aa-7521-48a0-acc6-0f60742d39f5](roles/673868aa-7521-48a0-acc6-0f60742d39f5.json) |
+| [Data Labeling - Labeler](roles/c6decf44-fd0a-444c-a844-d653c394e7ab.json) | [c6decf44-fd0a-444c-a844-d653c394e7ab](roles/c6decf44-fd0a-444c-a844-d653c394e7ab.json) |
 | [Data Lake Analytics Developer](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) | [47b7735b-770e-4598-a7da-8b91488b4c88](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) |
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |

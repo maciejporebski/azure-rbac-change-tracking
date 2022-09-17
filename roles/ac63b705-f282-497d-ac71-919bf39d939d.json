@@ -5,7 +5,8 @@
   "Description": "Management Group Reader Role",
   "Actions": [
     "Microsoft.Management/managementGroups/read",
-    "Microsoft.Management/managementGroups/subscriptions/read"
+    "Microsoft.Management/managementGroups/subscriptions/read",
+    "Microsoft.Authorization/*/read"
   ],
   "NotActions": [],
   "DataActions": [],

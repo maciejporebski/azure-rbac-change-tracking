@@ -260,6 +260,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Media Services Streaming Endpoints Administrator](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) | [99dba123-b5fe-44d5-874c-ced7199a5804](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) |
 | [Microsoft Sentinel Automation Contributor](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) | [f4c81013-99ee-4d62-a7ee-b3f1f648599a](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) |
 | [Microsoft Sentinel Contributor](roles/ab8e14d6-4a74-4a29-9ba8-549422addade.json) | [ab8e14d6-4a74-4a29-9ba8-549422addade](roles/ab8e14d6-4a74-4a29-9ba8-549422addade.json) |
+| [Microsoft Sentinel Playbook Operator](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) | [51d6186e-6489-4900-b93f-92e23144cca5](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) |
 | [Microsoft Sentinel Reader](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) | [8d289c81-5878-46d4-8554-54e1e3d8b5cb](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) |
 | [Microsoft Sentinel Responder](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) | [3e150937-b8fe-4cfb-8069-0eaf05ecd056](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |

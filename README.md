@@ -79,6 +79,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Service Bus Data Owner](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) | [090c5cfd-751d-490a-894a-3ce6f1109419](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) |
 | [Azure Service Bus Data Receiver](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) | [4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) |
 | [Azure Service Bus Data Sender](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) | [69a216fc-b8fb-44d8-bc22-1f3c2cd27a39](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) |
+| [Azure Spring Apps Connect Role](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) | [80558df3-64f9-4c0f-b32d-e5094b036b0b](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) |
+| [Azure Spring Apps Remote Debugging Role](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) | [a99b0159-1064-4c22-a57b-c9b3caa1c054](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) |
 | [Azure Spring Cloud Config Server Contributor](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) | [a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) |
 | [Azure Spring Cloud Config Server Reader](roles/d04c6db6-4947-4782-9e91-30a88feb7be7.json) | [d04c6db6-4947-4782-9e91-30a88feb7be7](roles/d04c6db6-4947-4782-9e91-30a88feb7be7.json) |
 | [Azure Spring Cloud Data Reader](roles/b5537268-8956-4941-a8f0-646150406f0c.json) | [b5537268-8956-4941-a8f0-646150406f0c](roles/b5537268-8956-4941-a8f0-646150406f0c.json) |
@@ -263,6 +265,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Sentinel Playbook Operator](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) | [51d6186e-6489-4900-b93f-92e23144cca5](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) |
 | [Microsoft Sentinel Reader](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) | [8d289c81-5878-46d4-8554-54e1e3d8b5cb](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) |
 | [Microsoft Sentinel Responder](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) | [3e150937-b8fe-4cfb-8069-0eaf05ecd056](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) |
+| [Microsoft.DevCenter Deployment Environments User](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) | [18e40d4e-8d2e-438d-97e1-9528336e149c](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |

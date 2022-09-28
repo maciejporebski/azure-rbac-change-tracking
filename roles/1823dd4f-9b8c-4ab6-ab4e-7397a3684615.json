@@ -1,0 +1,16 @@
+{
+  "Name": "AzureML Registry User",
+  "Id": "1823dd4f-9b8c-4ab6-ab4e-7397a3684615",
+  "IsCustom": false,
+  "Description": "Can perform all actions on Machine Learning Services Registry assets as well as get Registry resources.",
+  "Actions": [
+    "Microsoft.MachineLearningServices/registries/read",
+    "Microsoft.MachineLearningServices/registries/assets/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

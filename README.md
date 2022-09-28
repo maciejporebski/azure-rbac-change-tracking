@@ -88,8 +88,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
 | [Azure VM Managed identities restore Contributor](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) | [6ae96244-5829-4925-a7d3-5975537d91dd](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) |
+| [AzureML Compute Operator](roles/e503ece1-11d0-4e8e-8e2c-7a6c3bf38815.json) | [e503ece1-11d0-4e8e-8e2c-7a6c3bf38815](roles/e503ece1-11d0-4e8e-8e2c-7a6c3bf38815.json) |
 | [AzureML Data Scientist](roles/f6c7c914-8db3-469d-8ca1-694a8f32e121.json) | [f6c7c914-8db3-469d-8ca1-694a8f32e121](roles/f6c7c914-8db3-469d-8ca1-694a8f32e121.json) |
 | [AzureML Metrics Writer (preview)](roles/635dd51f-9968-44d3-b7fb-6d9a6bd613ae.json) | [635dd51f-9968-44d3-b7fb-6d9a6bd613ae](roles/635dd51f-9968-44d3-b7fb-6d9a6bd613ae.json) |
+| [AzureML Registry User](roles/1823dd4f-9b8c-4ab6-ab4e-7397a3684615.json) | [1823dd4f-9b8c-4ab6-ab4e-7397a3684615](roles/1823dd4f-9b8c-4ab6-ab4e-7397a3684615.json) |
 | [Backup Contributor](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) | [5e467623-bb1f-42f4-a55d-6e525e11384b](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) |
 | [Backup Operator](roles/00c29273-979b-4161-815c-10b084fb9324.json) | [00c29273-979b-4161-815c-10b084fb9324](roles/00c29273-979b-4161-815c-10b084fb9324.json) |
 | [Backup Reader](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) | [a795c7a0-d4a2-40c1-ae25-d81f01202912](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) |

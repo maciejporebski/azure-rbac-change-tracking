@@ -1,0 +1,16 @@
+{
+  "Name": "AzureML Compute Operator",
+  "Id": "e503ece1-11d0-4e8e-8e2c-7a6c3bf38815",
+  "IsCustom": false,
+  "Description": "Can access and perform CRUD operations on Machine Learning Services managed compute resources (including Notebook VMs).",
+  "Actions": [
+    "Microsoft.MachineLearningServices/workspaces/computes/*",
+    "Microsoft.MachineLearningServices/workspaces/notebooks/vm/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

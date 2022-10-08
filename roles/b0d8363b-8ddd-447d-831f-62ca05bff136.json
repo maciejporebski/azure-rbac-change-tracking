@@ -2,7 +2,7 @@
   "Name": "Monitoring Data Reader",
   "Id": "b0d8363b-8ddd-447d-831f-62ca05bff136",
   "IsCustom": false,
-  "Description": "Can read all monitoring data.",
+  "Description": "Can access the data in an Azure Monitor Workspace.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

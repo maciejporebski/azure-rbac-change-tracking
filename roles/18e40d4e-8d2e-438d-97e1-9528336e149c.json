@@ -1,14 +1,15 @@
 {
-  "Name": "Microsoft.DevCenter Deployment Environments User",
+  "Name": "Deployment Environments User",
   "Id": "18e40d4e-8d2e-438d-97e1-9528336e149c",
   "IsCustom": false,
-  "Description": "Microsoft.DevCenter Deployment Environments User.",
+  "Description": "Provides access to manage environment resources.",
   "Actions": [
     "Microsoft.DevCenter/projects/read",
     "Microsoft.DevCenter/projects/*/read",
     "Microsoft.Fidalgo/projects/read",
     "Microsoft.Fidalgo/projects/*/read",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Authorization/*/read"
   ],
   "NotActions": [
     "Microsoft.DevCenter/projects/pools/read",

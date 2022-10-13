@@ -5,12 +5,9 @@
   "Description": "Allows read-only access to see most objects in a namespace. It does not allow viewing roles or role bindings. This role does not allow viewing Secrets, since reading the contents of Secrets enables access to ServiceAccount credentials in the namespace, which would allow API access as any ServiceAccount in the namespace (a form of privilege escalation). Applying this role at cluster scope will give access across all namespaces.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/write",
     "Microsoft.Resources/subscriptions/operationresults/read",
     "Microsoft.Resources/subscriptions/read",
-    "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Support/*"
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [

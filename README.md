@@ -152,6 +152,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Lake Analytics Developer](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) | [47b7735b-770e-4598-a7da-8b91488b4c88](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) |
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
+| [Deployment Environments User](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) | [18e40d4e-8d2e-438d-97e1-9528336e149c](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) |
 | [Desktop Virtualization Application Group Contributor](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) | [86240b0e-9422-4c43-887b-b61143f32ba8](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) |
 | [Desktop Virtualization Application Group Reader](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) | [aebf23d0-b568-4e86-b8f9-fe83a2c6ab55](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) |
 | [Desktop Virtualization Contributor](roles/082f0a83-3be5-4ba1-904c-961cca79b387.json) | [082f0a83-3be5-4ba1-904c-961cca79b387](roles/082f0a83-3be5-4ba1-904c-961cca79b387.json) |
@@ -267,7 +268,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Sentinel Playbook Operator](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) | [51d6186e-6489-4900-b93f-92e23144cca5](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) |
 | [Microsoft Sentinel Reader](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) | [8d289c81-5878-46d4-8554-54e1e3d8b5cb](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) |
 | [Microsoft Sentinel Responder](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) | [3e150937-b8fe-4cfb-8069-0eaf05ecd056](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) |
-| [Microsoft.DevCenter Deployment Environments User](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) | [18e40d4e-8d2e-438d-97e1-9528336e149c](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |

@@ -5,12 +5,9 @@
   "Description": "Lets you manage all resources under cluster/namespace, except update or delete resource quotas and namespaces.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/write",
     "Microsoft.Resources/subscriptions/operationresults/read",
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Support/*",
     "Microsoft.ContainerService/managedClusters/listClusterUserCredential/action"
   ],
   "NotActions": [],

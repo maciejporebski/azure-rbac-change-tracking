@@ -4,7 +4,6 @@
   "IsCustom": false,
   "Description": "Microsoft Sentinel Playbook Operator",
   "Actions": [
-    "Microsoft.SecurityInsights/*/read",
     "Microsoft.Logic/workflows/read",
     "Microsoft.Logic/workflows/triggers/listCallbackUrl/action"
   ],

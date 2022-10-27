@@ -130,6 +130,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services LUIS Writer](roles/6322a993-d5c9-4bed-b113-e49bbea25b27.json) | [6322a993-d5c9-4bed-b113-e49bbea25b27](roles/6322a993-d5c9-4bed-b113-e49bbea25b27.json) |
 | [Cognitive Services Metrics Advisor Administrator](roles/cb43c632-a144-4ec5-977c-e80c4affc34a.json) | [cb43c632-a144-4ec5-977c-e80c4affc34a](roles/cb43c632-a144-4ec5-977c-e80c4affc34a.json) |
 | [Cognitive Services Metrics Advisor User](roles/3b20f47b-3825-43cb-8114-4bd2201156a8.json) | [3b20f47b-3825-43cb-8114-4bd2201156a8](roles/3b20f47b-3825-43cb-8114-4bd2201156a8.json) |
+| [Cognitive Services OpenAI Contributor](roles/a001fd3d-188f-4b5d-821b-7da978bf7442.json) | [a001fd3d-188f-4b5d-821b-7da978bf7442](roles/a001fd3d-188f-4b5d-821b-7da978bf7442.json) |
+| [Cognitive Services OpenAI User](roles/5e0bd9bd-7b93-4f28-af87-19fc36ad61bd.json) | [5e0bd9bd-7b93-4f28-af87-19fc36ad61bd](roles/5e0bd9bd-7b93-4f28-af87-19fc36ad61bd.json) |
 | [Cognitive Services QnA Maker Editor](roles/f4cc2bf9-21be-47a1-bdf1-5c5804381025.json) | [f4cc2bf9-21be-47a1-bdf1-5c5804381025](roles/f4cc2bf9-21be-47a1-bdf1-5c5804381025.json) |
 | [Cognitive Services QnA Maker Reader](roles/466ccd10-b268-4a11-b098-b4849f024126.json) | [466ccd10-b268-4a11-b098-b4849f024126](roles/466ccd10-b268-4a11-b098-b4849f024126.json) |
 | [Cognitive Services Speech Contributor](roles/0e75ca1e-0464-4b4d-8b93-68208a576181.json) | [0e75ca1e-0464-4b4d-8b93-68208a576181](roles/0e75ca1e-0464-4b4d-8b93-68208a576181.json) |
@@ -206,6 +208,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR Data Importer](roles/4465e953-8ced-4406-a58e-0f6e3f3b530b.json) | [4465e953-8ced-4406-a58e-0f6e3f3b530b](roles/4465e953-8ced-4406-a58e-0f6e3f3b530b.json) |
 | [FHIR Data Reader](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) | [4c8d0bbc-75d3-4935-991f-5f3c56d81508](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) |
 | [FHIR Data Writer](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) | [3f88fce4-5892-4214-ae73-ba5294559913](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) |
+| [FHIR SMART User](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) | [4ba50f17-9666-485c-a643-ff00808643f0](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |
 | [Grafana Editor](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) | [a79a5197-3a5c-4973-a920-486035ffd60f](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) |
 | [Grafana Viewer](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) | [60921a7e-fef1-4a43-9b16-a26c52ad4769](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) |

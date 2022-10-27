@@ -1,0 +1,19 @@
+{
+  "Name": "Cognitive Services OpenAI Contributor",
+  "Id": "a001fd3d-188f-4b5d-821b-7da978bf7442",
+  "IsCustom": false,
+  "Description": "Full access including the ability to fine-tune, deploy and generate text",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/OpenAI/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

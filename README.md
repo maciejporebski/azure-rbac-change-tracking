@@ -87,6 +87,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Service Registry Contributor](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) | [f5880b48-c26d-48be-b172-7927bfa1c8f1](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) |
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
+| [Azure Traffic Controller Configuration Manager](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) | [fbc52c3f-28ad-4303-a892-8a056630b8f1](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) |
 | [Azure VM Managed identities restore Contributor](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) | [6ae96244-5829-4925-a7d3-5975537d91dd](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) |
 | [AzureML Compute Operator](roles/e503ece1-11d0-4e8e-8e2c-7a6c3bf38815.json) | [e503ece1-11d0-4e8e-8e2c-7a6c3bf38815](roles/e503ece1-11d0-4e8e-8e2c-7a6c3bf38815.json) |
 | [AzureML Data Scientist](roles/f6c7c914-8db3-469d-8ca1-694a8f32e121.json) | [f6c7c914-8db3-469d-8ca1-694a8f32e121](roles/f6c7c914-8db3-469d-8ca1-694a8f32e121.json) |

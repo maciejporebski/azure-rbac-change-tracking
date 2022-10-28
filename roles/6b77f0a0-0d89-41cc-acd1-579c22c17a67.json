@@ -6,10 +6,10 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.AgFoodPlatform/sensorPartnerScope/*"
+    "Microsoft.AgFoodPlatform/farmBeats/sensorPartnerScope/*"
   ],
   "NotDataActions": [
-    "Microsoft.AgFoodPlatform/sensorPartnerScope/sensors/delete"
+    "Microsoft.AgFoodPlatform/farmBeats/sensorPartnerScope/sensors/delete"
   ],
   "AssignableScopes": [
     "/"

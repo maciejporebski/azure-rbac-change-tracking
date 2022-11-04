@@ -4,6 +4,7 @@
   "IsCustom": false,
   "Description": "Sign files with a certificate profile. This role is in preview and subject to change.",
   "Actions": [
+    "Microsoft.CodeSigning/*/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"

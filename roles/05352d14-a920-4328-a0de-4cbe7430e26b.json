@@ -1,0 +1,25 @@
+{
+  "Name": "Azure Center for SAP solutions reader",
+  "Id": "05352d14-a920-4328-a0de-4cbe7430e26b",
+  "IsCustom": false,
+  "Description": "This role provides read access to all capabilities of Azure Center for SAP solutions.",
+  "Actions": [
+    "Microsoft.Workloads/sapvirtualInstances/*/read",
+    "Microsoft.Workloads/Locations/*/action",
+    "Microsoft.Workloads/Operations/read",
+    "Microsoft.Workloads/Locations/OperationStatuses/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourcegroups/deployments/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

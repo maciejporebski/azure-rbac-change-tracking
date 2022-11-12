@@ -1,0 +1,28 @@
+{
+  "Name": "Azure Center for SAP solutions administrator",
+  "Id": "7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7",
+  "IsCustom": false,
+  "Description": "This role provides read and write access to all capabilities of Azure Center for SAP solutions.",
+  "Actions": [
+    "Microsoft.Workloads/sapvirtualInstances/*/read",
+    "Microsoft.Workloads/sapVirtualInstances/write",
+    "Microsoft.Workloads/sapVirtualInstances/delete",
+    "Microsoft.Workloads/Locations/*/action",
+    "Microsoft.Workloads/Locations/OperationStatuses/read",
+    "Microsoft.Workloads/sapVirtualInstances/start/action",
+    "Microsoft.Workloads/sapVirtualInstances/stop/action",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourcegroups/deployments/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

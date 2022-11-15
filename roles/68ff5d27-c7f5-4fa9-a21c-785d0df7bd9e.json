@@ -1,0 +1,16 @@
+{
+  "Name": "Impact Reader",
+  "Id": "68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e",
+  "IsCustom": false,
+  "Description": "Allows read-only access to reported impacts and impact categories",
+  "Actions": [
+    "Microsoft.Impact/WorkloadImpacts/read",
+    "Microsoft.Impact/ImpactCategories/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

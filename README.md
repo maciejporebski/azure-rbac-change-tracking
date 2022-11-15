@@ -223,6 +223,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
+| [Impact Reader](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) | [68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) |
+| [Impact Reporter](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) | [36e80216-a7e8-4f42-a7e1-f12c98cbaf8a](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) |
 | [Integration Service Environment Contributor](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) | [a41e2c5b-bd99-4a07-88f4-9bf657a760b8](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) |
 | [Integration Service Environment Developer](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) | [c7aa55d3-1abb-444a-a5ca-5e51e485d6ec](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) |
 | [Intelligent Systems Account Contributor](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) | [03a6d094-3444-4b3d-88af-7477090a9e5e](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) |

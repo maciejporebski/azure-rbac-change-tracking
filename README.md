@@ -53,6 +53,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Center for SAP solutions service role](roles/aabbc5dd-1af0-458b-a942-81af88f9c138.json) | [aabbc5dd-1af0-458b-a942-81af88f9c138](roles/aabbc5dd-1af0-458b-a942-81af88f9c138.json) |
 | [Azure Connected Machine Onboarding](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) | [b64e21ea-ac4e-4cdf-9dc9-5b892992bee7](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) |
 | [Azure Connected Machine Resource Administrator](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) | [cd570a14-e51a-42ad-bac8-bafd67325302](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) |
+| [Azure Connected Machine Resource Manager](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) | [f5819b54-e033-4d82-ac66-4fec3cbf3f4c](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) |
 | [Azure Connected SQL Server Onboarding](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) | [e8113dce-c529-4d33-91fa-e9b972617508](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
@@ -65,6 +66,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Fleet Manager RBAC Reader](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) | [30b27cfc-9c84-438e-b0ce-70e35255df80](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) |
 | [Azure Kubernetes Fleet Manager RBAC Writer](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) | [5af6afb3-c06c-4fa4-8848-71a8aee05683](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) |
 | [Azure Kubernetes Service Cluster Admin Role](roles/0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8.json) | [0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8](roles/0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8.json) |
+| [Azure Kubernetes Service Cluster Monitoring User](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) | [1afdec4b-e479-420e-99e7-f82237c7c5e6](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) |
 | [Azure Kubernetes Service Cluster User Role](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) | [4abbcc35-e782-43d8-92c5-2d3f1bd2253f](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) |
 | [Azure Kubernetes Service Contributor Role](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) | [ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) |
 | [Azure Kubernetes Service Policy Add-on Deployment](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) | [18ed5180-3e48-46fd-8541-4ea054d57064](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) |

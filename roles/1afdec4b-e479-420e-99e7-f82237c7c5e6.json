@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Kubernetes Service Cluster Monitoring User",
+  "Id": "1afdec4b-e479-420e-99e7-f82237c7c5e6",
+  "IsCustom": false,
+  "Description": "List cluster monitoring user credential action.",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/listClusterMonitoringUserCredential/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

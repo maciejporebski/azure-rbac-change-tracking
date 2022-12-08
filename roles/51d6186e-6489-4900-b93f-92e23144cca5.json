@@ -5,7 +5,9 @@
   "Description": "Microsoft Sentinel Playbook Operator",
   "Actions": [
     "Microsoft.Logic/workflows/read",
-    "Microsoft.Logic/workflows/triggers/listCallbackUrl/action"
+    "Microsoft.Logic/workflows/triggers/listCallbackUrl/action",
+    "Microsoft.Web/sites/hostruntime/webhooks/api/workflows/triggers/listCallbackUrl/action",
+    "Microsoft.Web/sites/read"
   ],
   "NotActions": [],
   "DataActions": [],

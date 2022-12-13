@@ -5,6 +5,7 @@
   "Description": "Can read workbooks.",
   "Actions": [
     "microsoft.insights/workbooks/read",
+    "microsoft.insights/workbooks/revisions/read",
     "microsoft.insights/workbooktemplates/read"
   ],
   "NotActions": [],

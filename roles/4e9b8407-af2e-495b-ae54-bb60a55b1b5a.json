@@ -2,17 +2,21 @@
   "Name": "Chamber Admin",
   "Id": "4e9b8407-af2e-495b-ae54-bb60a55b1b5a",
   "IsCustom": false,
-  "Description": "Lets you manage everything under your HPC Workbench chamber.",
+  "Description": "Lets you manage everything under your Modeling and Simulation Workbench chamber.",
   "Actions": [
-    "Microsoft.HpcWorkbench/*/read",
-    "Microsoft.HpcWorkbench/instances/chambers/*",
-    "Microsoft.HpcWorkbench/instances/consortiums/*/read",
+    "Microsoft.ModSimWorkbench/*/read",
+    "Microsoft.ModSimWorkbench/instances/chambers/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
-  "NotActions": [],
-  "DataActions": [],
+  "NotActions": [
+    "Microsoft.ModSimWorkbench/instances/chambers/fileRequests/manage/action"
+  ],
+  "DataActions": [
+    "Microsoft.ModSimWorkbench/instances/chambers/upload/action",
+    "Microsoft.ModSimWorkbench/instances/chambers/files/*"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

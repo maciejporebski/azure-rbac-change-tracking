@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Usage Billing Data Sender",
+  "Id": "f0310ce6-e953-4cf8-b892-fb1c87eaf7f6",
+  "IsCustom": false,
+  "Description": "Azure Usage Billing shared BuiltIn role to be used for all Customer Account Authentication",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.UsageBilling/accounts/inputs/send/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Front Door Domain Reader",
+  "Id": "0f99d363-226e-4dca-9920-b807cf8e1a5f",
+  "IsCustom": false,
+  "Description": "Can view Azure Front Door domains, but can't make changes.",
+  "Actions": [
+    "Microsoft.Cdn/operationresults/profileresults/customdomainresults/read",
+    "Microsoft.Cdn/profiles/customdomains/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

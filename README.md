@@ -49,8 +49,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc VMware Private Clouds Onboarding](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) | [67d33e57-3129-45e6-bb0b-7cc522f762fa](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) |
 | [Azure Arc VMware VM Contributor](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) | [b748a06d-6150-4f8a-aaa9-ce3940cd96cb](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) |
 | [Azure Center for SAP solutions administrator](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) | [7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) |
+| [Azure Center for SAP solutions Management role](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) | [6d949e1d-41e2-46e3-8920-c6e4f31a8310](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) |
 | [Azure Center for SAP solutions reader](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) | [05352d14-a920-4328-a0de-4cbe7430e26b](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) |
 | [Azure Center for SAP solutions service role](roles/aabbc5dd-1af0-458b-a942-81af88f9c138.json) | [aabbc5dd-1af0-458b-a942-81af88f9c138](roles/aabbc5dd-1af0-458b-a942-81af88f9c138.json) |
+| [Azure Center for SAP solutions Service role for management](roles/0105a6b0-4bb9-43d2-982a-12806f9faddb.json) | [0105a6b0-4bb9-43d2-982a-12806f9faddb](roles/0105a6b0-4bb9-43d2-982a-12806f9faddb.json) |
 | [Azure Connected Machine Onboarding](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) | [b64e21ea-ac4e-4cdf-9dc9-5b892992bee7](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) |
 | [Azure Connected Machine Resource Administrator](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) | [cd570a14-e51a-42ad-bac8-bafd67325302](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) |
 | [Azure Connected Machine Resource Manager](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) | [f5819b54-e033-4d82-ac66-4fec3cbf3f4c](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) |
@@ -60,6 +62,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
 | [Azure Event Hubs Data Sender](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) | [2b629674-e913-4c01-ae53-ef4638d8f975](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) |
+| [Azure Front Door Domain Contributor](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) | [0ab34830-df19-4f8c-b84e-aa85b8afa6e8](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) |
+| [Azure Front Door Domain Reader](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) | [0f99d363-226e-4dca-9920-b807cf8e1a5f](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) |
+| [Azure Front Door Secret Contributor](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) | [3f2eb865-5811-4578-b90a-6fc6fa0df8e5](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) |
+| [Azure Front Door Secret Reader](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) | [0db238c4-885e-4c4f-a933-aa2cef684fca](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) |
 | [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
 | [Azure Kubernetes Fleet Manager RBAC Admin](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) | [434fb43a-c01c-447e-9f67-c3ad923cfaba](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Admin](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) | [18ab4d3d-a1bf-4477-8ad9-8359bc988f69](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) |
@@ -91,6 +97,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Data Reader](roles/b5537268-8956-4941-a8f0-646150406f0c.json) | [b5537268-8956-4941-a8f0-646150406f0c](roles/b5537268-8956-4941-a8f0-646150406f0c.json) |
 | [Azure Spring Cloud Service Registry Contributor](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) | [f5880b48-c26d-48be-b172-7927bfa1c8f1](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) |
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
+| [Azure Stack HCI registration role](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
 | [Azure Traffic Controller Configuration Manager](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) | [fbc52c3f-28ad-4303-a892-8a056630b8f1](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) |
 | [Azure Usage Billing Data Sender](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) | [f0310ce6-e953-4cf8-b892-fb1c87eaf7f6](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) |

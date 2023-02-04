@@ -1,0 +1,13 @@
+{
+  "Name": "Azure Center for SAP solutions Management role",
+  "Id": "6d949e1d-41e2-46e3-8920-c6e4f31a8310",
+  "IsCustom": false,
+  "Description": "This role has permissions which allow users to register existing systems, view and manage systems.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "List cluster monitoring user credential action.",
   "Actions": [
-    "Microsoft.ContainerService/managedClusters/listClusterMonitoringUserCredential/action"
+    "Microsoft.ContainerService/managedClusters/listClusterMonitoringUserCredential/action",
+    "Microsoft.ContainerService/managedClusters/read"
   ],
   "NotActions": [],
   "DataActions": [],

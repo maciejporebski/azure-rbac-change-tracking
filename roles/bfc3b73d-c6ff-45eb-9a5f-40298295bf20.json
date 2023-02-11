@@ -1,0 +1,20 @@
+{
+  "Name": "LocalRulestacksAdministrator role",
+  "Id": "bfc3b73d-c6ff-45eb-9a5f-40298295bf20",
+  "IsCustom": false,
+  "Description": "Allows users to create, modify, describe, or delete Rulestacks.",
+  "Actions": [
+    "PaloAltoNetworks.Cloudngfw/localRulestacks/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Insights/alertRules/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

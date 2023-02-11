@@ -5,17 +5,17 @@
   "Description": "Lets you manage everything under your Modeling and Simulation Workbench chamber.",
   "Actions": [
     "Microsoft.ModSimWorkbench/*/read",
-    "Microsoft.ModSimWorkbench/instances/chambers/*",
+    "Microsoft.ModSimWorkbench/workbenches/chambers/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [
-    "Microsoft.ModSimWorkbench/instances/chambers/fileRequests/manage/action"
+    "Microsoft.ModSimWorkbench/workbenches/chambers/fileRequests/manage/action"
   ],
   "DataActions": [
-    "Microsoft.ModSimWorkbench/instances/chambers/upload/action",
-    "Microsoft.ModSimWorkbench/instances/chambers/files/*"
+    "Microsoft.ModSimWorkbench/workbenches/chambers/upload/action",
+    "Microsoft.ModSimWorkbench/workbenches/chambers/files/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

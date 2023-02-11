@@ -1,0 +1,23 @@
+{
+  "Name": "LocalNGFirewallAdministrator role",
+  "Id": "a8835c7d-b5cb-47fa-b6f0-65ea10ce07a2",
+  "IsCustom": false,
+  "Description": "Allows user to create, modify, describe, or delete NGFirewalls.",
+  "Actions": [
+    "PaloAltoNetworks.Cloudngfw/firewalls/*",
+    "PaloAltoNetworks.Cloudngfw/localRulestacks/read",
+    "PaloAltoNetworks.Cloudngfw/globalRulestacks/read",
+    "PaloAltoNetworks.Cloudngfw/Locations/operationStatuses/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

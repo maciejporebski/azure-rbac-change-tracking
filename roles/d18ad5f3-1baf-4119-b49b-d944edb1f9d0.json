@@ -1,0 +1,18 @@
+{
+  "Name": "MySQL Backup And Export Operator",
+  "Id": "d18ad5f3-1baf-4119-b49b-d944edb1f9d0",
+  "IsCustom": false,
+  "Description": "Grants full access to manage backup and export resources",
+  "Actions": [
+    "Microsoft.DBforMySQL/flexibleServers/validateBackup/action",
+    "Microsoft.DBforMySQL/flexibleServers/backupAndExport/action",
+    "Microsoft.DBforMySQL/locations/operationResults/read",
+    "Microsoft.DBforMySQL/locations/azureAsyncOperation/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

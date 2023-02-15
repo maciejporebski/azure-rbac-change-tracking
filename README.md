@@ -267,6 +267,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Load Test Contributor](roles/749a398d-560b-491b-bb21-08924219302e.json) | [749a398d-560b-491b-bb21-08924219302e](roles/749a398d-560b-491b-bb21-08924219302e.json) |
 | [Load Test Owner](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) | [45bb0b16-2f0c-4e78-afaa-a07599b003f6](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) |
 | [Load Test Reader](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) | [3ae3fb29-0000-4ccd-bf80-542e7b26e081](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) |
+| [LocalNGFirewallAdministrator role](roles/a8835c7d-b5cb-47fa-b6f0-65ea10ce07a2.json) | [a8835c7d-b5cb-47fa-b6f0-65ea10ce07a2](roles/a8835c7d-b5cb-47fa-b6f0-65ea10ce07a2.json) |
+| [LocalRulestacksAdministrator role](roles/bfc3b73d-c6ff-45eb-9a5f-40298295bf20.json) | [bfc3b73d-c6ff-45eb-9a5f-40298295bf20](roles/bfc3b73d-c6ff-45eb-9a5f-40298295bf20.json) |
 | [Log Analytics Contributor](roles/92aaf0da-9dab-42b6-94a3-d43ce8d16293.json) | [92aaf0da-9dab-42b6-94a3-d43ce8d16293](roles/92aaf0da-9dab-42b6-94a3-d43ce8d16293.json) |
 | [Log Analytics Reader](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) | [73c42c96-874c-492b-b04d-ab87d138a893](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) |
 | [Logic App Contributor](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) | [87a39d53-fc1b-424a-814c-f7e04687dc9e](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) |
@@ -295,6 +297,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
 | [Monitoring Metrics Publisher](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) | [3913510d-42f4-4e42-8a64-420c390055eb](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) |
 | [Monitoring Reader](roles/43d0d8ad-25c7-4714-9337-8ba259a9fe05.json) | [43d0d8ad-25c7-4714-9337-8ba259a9fe05](roles/43d0d8ad-25c7-4714-9337-8ba259a9fe05.json) |
+| [MySQL Backup And Export Operator](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) | [d18ad5f3-1baf-4119-b49b-d944edb1f9d0](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) |
 | [Network Contributor](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) | [4d97b98b-1d4f-4787-a291-c67834d212e7](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) |
 | [New Relic APM Account Contributor](roles/5d28c62d-5b37-4476-8438-e587778df237.json) | [5d28c62d-5b37-4476-8438-e587778df237](roles/5d28c62d-5b37-4476-8438-e587778df237.json) |
 | [Object Anchors Account Owner](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) | [ca0835dd-bacc-42dd-8ed2-ed5e7230d15b](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) |

@@ -1,0 +1,18 @@
+{
+  "Name": "Kubernetes Agentless Operator",
+  "Id": "d5a2ae44-610b-4500-93be-660a0c5f5ca6",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for Cloud access to Azure Kubernetes Services",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/write",
+    "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/read",
+    "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/delete",
+    "Microsoft.ContainerService/managedClusters/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

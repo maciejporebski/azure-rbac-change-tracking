@@ -109,7 +109,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Backup Contributor](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) | [5e467623-bb1f-42f4-a55d-6e525e11384b](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) |
 | [Backup Operator](roles/00c29273-979b-4161-815c-10b084fb9324.json) | [00c29273-979b-4161-815c-10b084fb9324](roles/00c29273-979b-4161-815c-10b084fb9324.json) |
 | [Backup Reader](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) | [a795c7a0-d4a2-40c1-ae25-d81f01202912](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) |
-| [Bayer Ag Powered Services CWUM Solution User Role](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
+| [Bayer Ag Powered Services CWUM Solution Service Role](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
 | [Bayer Ag Powered Services GDU Solution](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) | [c4bc862a-3b64-4a35-a021-a380c159b042](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) |
 | [Bayer Ag Powered Services Imagery Solution](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) | [ef29765d-0d37-4119-a4f8-f9f9902c9588](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) |
 | [Billing Reader](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) | [fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) |

@@ -62,6 +62,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
 | [Azure Event Hubs Data Sender](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) | [2b629674-e913-4c01-ae53-ef4638d8f975](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) |
+| [Azure Extension for SQL Server Deployment](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) | [7392c568-9289-4bde-aaaa-b7131215889d](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) |
 | [Azure Front Door Domain Contributor](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) | [0ab34830-df19-4f8c-b84e-aa85b8afa6e8](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) |
 | [Azure Front Door Domain Reader](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) | [0f99d363-226e-4dca-9920-b807cf8e1a5f](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) |
 | [Azure Front Door Secret Contributor](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) | [3f2eb865-5811-4578-b90a-6fc6fa0df8e5](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) |

@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Extension for SQL Server Deployment",
+  "Id": "7392c568-9289-4bde-aaaa-b7131215889d",
+  "IsCustom": false,
+  "Description": "Microsoft.AzureArcData service role to enable deployment of Azure Extension for SQL Server",
+  "Actions": [
+    "Microsoft.Resources/deployments/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

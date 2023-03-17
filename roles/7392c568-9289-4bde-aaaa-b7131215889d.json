@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "Microsoft.AzureArcData service role to enable deployment of Azure Extension for SQL Server",
   "Actions": [
-    "Microsoft.Resources/deployments/write"
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.HybridCompute/machines/extensions/write"
   ],
   "NotActions": [],
   "DataActions": [],

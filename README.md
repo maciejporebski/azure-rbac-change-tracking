@@ -19,6 +19,12 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [API Management Service Contributor](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) | [312a565d-c81f-4fd8-895a-4e21e48d571c](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) |
 | [API Management Service Operator Role](roles/e022efe7-f5ba-4159-bbe4-b44f577e9b61.json) | [e022efe7-f5ba-4159-bbe4-b44f577e9b61](roles/e022efe7-f5ba-4159-bbe4-b44f577e9b61.json) |
 | [API Management Service Reader Role](roles/71522526-b88f-4d52-b57f-d31fc3546d0d.json) | [71522526-b88f-4d52-b57f-d31fc3546d0d](roles/71522526-b88f-4d52-b57f-d31fc3546d0d.json) |
+| [API Management Service Workspace API Developer](roles/9565a273-41b9-4368-97d2-aeb0c976a9b3.json) | [9565a273-41b9-4368-97d2-aeb0c976a9b3](roles/9565a273-41b9-4368-97d2-aeb0c976a9b3.json) |
+| [API Management Service Workspace API Product Manager](roles/d59a3e9c-6d52-4a5a-aeed-6bf3cf0e31da.json) | [d59a3e9c-6d52-4a5a-aeed-6bf3cf0e31da](roles/d59a3e9c-6d52-4a5a-aeed-6bf3cf0e31da.json) |
+| [API Management Workspace API Developer](roles/56328988-075d-4c6a-8766-d93edd6725b6.json) | [56328988-075d-4c6a-8766-d93edd6725b6](roles/56328988-075d-4c6a-8766-d93edd6725b6.json) |
+| [API Management Workspace API Product Manager](roles/73c2c328-d004-4c5e-938c-35c6f5679a1f.json) | [73c2c328-d004-4c5e-938c-35c6f5679a1f](roles/73c2c328-d004-4c5e-938c-35c6f5679a1f.json) |
+| [API Management Workspace Contributor](roles/0c34c906-8d99-4cb7-8bb7-33f5b0a1a799.json) | [0c34c906-8d99-4cb7-8bb7-33f5b0a1a799](roles/0c34c906-8d99-4cb7-8bb7-33f5b0a1a799.json) |
+| [API Management Workspace Reader](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) | [ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) |
 | [App Configuration Data Owner](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) | [5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) |
 | [App Configuration Data Reader](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) | [516239f1-63e1-4d78-a4de-a74fb236a071](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) |
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |

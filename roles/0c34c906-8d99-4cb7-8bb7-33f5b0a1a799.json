@@ -1,0 +1,16 @@
+{
+  "Name": "API Management Workspace Contributor",
+  "Id": "0c34c906-8d99-4cb7-8bb7-33f5b0a1a799",
+  "IsCustom": false,
+  "Description": "Can manage the workspace and view, but not modify its members. This role should be assigned on the workspace scope.",
+  "Actions": [
+    "Microsoft.ApiManagement/service/workspaces/*",
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

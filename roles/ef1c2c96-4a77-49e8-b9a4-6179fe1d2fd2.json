@@ -1,0 +1,16 @@
+{
+  "Name": "API Management Workspace Reader",
+  "Id": "ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2",
+  "IsCustom": false,
+  "Description": "Has read-only access to entities in the workspace. This role should be assigned on the workspace scope.",
+  "Actions": [
+    "Microsoft.ApiManagement/service/workspaces/*/read",
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

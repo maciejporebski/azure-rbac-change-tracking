@@ -1,0 +1,20 @@
+{
+  "Name": "Windows365NetworkInterfaceContributor",
+  "Id": "1f135831-5bbe-4924-9016-264044c00788",
+  "IsCustom": false,
+  "Description": "Create NICs and join it to virtual machine in another tenant. This role is used in Windows365 scenarios.",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourcegroups/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/deployments/delete",
+    "Microsoft.Resources/deployments/operations/read",
+    "Microsoft.Resources/deployments/operationstatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

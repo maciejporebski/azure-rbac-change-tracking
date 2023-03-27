@@ -1,0 +1,17 @@
+{
+  "Name": "Windows365SubscriptionReader",
+  "Id": "3d55a8f6-4133-418d-8051-facdb1735758",
+  "IsCustom": false,
+  "Description": "Read subscriptions, images, azure firewalls. This role is used in Windows365 scenarios.",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

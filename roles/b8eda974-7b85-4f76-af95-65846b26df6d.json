@@ -1,0 +1,13 @@
+{
+  "Name": "Storage File Data Privileged Reader",
+  "Id": "b8eda974-7b85-4f76-af95-65846b26df6d",
+  "IsCustom": false,
+  "Description": "Customer has read access on Azure Storage file shares.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

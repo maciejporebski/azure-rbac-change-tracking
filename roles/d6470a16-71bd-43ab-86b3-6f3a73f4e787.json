@@ -1,0 +1,16 @@
+{
+  "Name": "Azure Maps Power BI Service Role",
+  "Id": "d6470a16-71bd-43ab-86b3-6f3a73f4e787",
+  "IsCustom": false,
+  "Description": "This role can be used to assign read and batch actions on Azure Maps.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Maps/accounts/services/*/read",
+    "Microsoft.Maps/accounts/services/batch/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

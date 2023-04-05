@@ -90,6 +90,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Maps Contributor](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) | [dba33070-676a-4fb0-87fa-064dc56ff7fb](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) |
 | [Azure Maps Data Contributor](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) | [8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) |
 | [Azure Maps Data Reader](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) | [423170ca-a8f6-4b0f-8487-9e4eb8f49bfa](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) |
+| [Azure Maps Power BI Service Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |

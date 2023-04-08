@@ -5,7 +5,14 @@
   "Description": "Customer has read, write, delete and modify NTFS permission access on Azure Storage file shares.",
   "Actions": [],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/write",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/delete",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/modifypermissions/action",
+    "Microsoft.Storage/storageAccounts/fileServices/readFileBackupSemantics/action",
+    "Microsoft.Storage/storageAccounts/fileServices/writeFileBackupSemantics/action"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

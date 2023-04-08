@@ -1,5 +1,5 @@
 {
-  "Name": "Web PubSub Service Reader (Preview)",
+  "Name": "Web PubSub Service Reader",
   "Id": "bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf",
   "IsCustom": false,
   "Description": "Read-only access to Azure Web PubSub Service REST APIs",

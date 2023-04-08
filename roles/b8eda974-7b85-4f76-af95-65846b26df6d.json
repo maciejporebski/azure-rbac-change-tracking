@@ -5,7 +5,10 @@
   "Description": "Customer has read access on Azure Storage file shares.",
   "Actions": [],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read",
+    "Microsoft.Storage/storageAccounts/fileServices/readFileBackupSemantics/action"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

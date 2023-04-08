@@ -402,8 +402,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Virtual Machine User Login](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) | [fb879df8-f326-4884-b1cf-06f3ad86be52](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) |
 | [VM Scanner Operator](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |
 | [Web Plan Contributor](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) | [2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) |
-| [Web PubSub Service Owner (Preview)](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) | [12cf5a90-567b-43ae-8102-96cf46c7d9b4](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) |
-| [Web PubSub Service Reader (Preview)](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) | [bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) |
+| [Web PubSub Service Owner](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) | [12cf5a90-567b-43ae-8102-96cf46c7d9b4](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) |
+| [Web PubSub Service Reader](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) | [bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) |
 | [Website Contributor](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) | [de139f84-1756-47ae-9be6-808fbbe84772](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) |
 | [Windows Admin Center Administrator Login](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) | [a6333a3e-0164-44c3-b281-7a577aff287f](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) |
 | [Windows365NetworkInterfaceContributor](roles/1f135831-5bbe-4924-9016-264044c00788.json) | [1f135831-5bbe-4924-9016-264044c00788](roles/1f135831-5bbe-4924-9016-264044c00788.json) |

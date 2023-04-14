@@ -25,6 +25,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [API Management Workspace API Product Manager](roles/73c2c328-d004-4c5e-938c-35c6f5679a1f.json) | [73c2c328-d004-4c5e-938c-35c6f5679a1f](roles/73c2c328-d004-4c5e-938c-35c6f5679a1f.json) |
 | [API Management Workspace Contributor](roles/0c34c906-8d99-4cb7-8bb7-33f5b0a1a799.json) | [0c34c906-8d99-4cb7-8bb7-33f5b0a1a799](roles/0c34c906-8d99-4cb7-8bb7-33f5b0a1a799.json) |
 | [API Management Workspace Reader](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) | [ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) |
+| [App Compliance Automation Administrator](roles/0f37683f-2463-46b6-9ce7-9b788b988ba2.json) | [0f37683f-2463-46b6-9ce7-9b788b988ba2](roles/0f37683f-2463-46b6-9ce7-9b788b988ba2.json) |
+| [App Compliance Automation Reader](roles/ffc6bbe0-e443-4c3b-bf54-26581bb2f78e.json) | [ffc6bbe0-e443-4c3b-bf54-26581bb2f78e](roles/ffc6bbe0-e443-4c3b-bf54-26581bb2f78e.json) |
 | [App Configuration Data Owner](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) | [5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) |
 | [App Configuration Data Reader](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) | [516239f1-63e1-4d78-a4de-a74fb236a071](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) |
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |

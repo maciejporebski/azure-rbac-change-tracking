@@ -1,0 +1,15 @@
+{
+  "Name": "App Compliance Automation Administrator",
+  "Id": "0f37683f-2463-46b6-9ce7-9b788b988ba2",
+  "IsCustom": false,
+  "Description": "App Compliance Automation Administrator Role",
+  "Actions": [
+    "Microsoft.AppComplianceAutomation/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

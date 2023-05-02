@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Sphere Contributor",
+  "Id": "8b9dfcab-4b77-4632-a6df-94bd07820648",
+  "IsCustom": false,
+  "Description": "Allows user read and write access to Azure Sphere resources.",
+  "Actions": [
+    "Microsoft.AzureSphere/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

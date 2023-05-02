@@ -100,6 +100,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Service Bus Data Owner](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) | [090c5cfd-751d-490a-894a-3ce6f1109419](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) |
 | [Azure Service Bus Data Receiver](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) | [4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) |
 | [Azure Service Bus Data Sender](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) | [69a216fc-b8fb-44d8-bc22-1f3c2cd27a39](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) |
+| [Azure Sphere Contributor](roles/8b9dfcab-4b77-4632-a6df-94bd07820648.json) | [8b9dfcab-4b77-4632-a6df-94bd07820648](roles/8b9dfcab-4b77-4632-a6df-94bd07820648.json) |
 | [Azure Spring Apps Connect Role](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) | [80558df3-64f9-4c0f-b32d-e5094b036b0b](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) |
 | [Azure Spring Apps Remote Debugging Role](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) | [a99b0159-1064-4c22-a57b-c9b3caa1c054](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) |
 | [Azure Spring Cloud Config Server Contributor](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) | [a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) |

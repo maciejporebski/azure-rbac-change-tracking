@@ -1,0 +1,27 @@
+{
+  "Name": "Azure Sphere Publisher",
+  "Id": "6d994134-994b-4a59-9974-f479f0b227fb",
+  "IsCustom": false,
+  "Description": "Allows user to read and download Azure Sphere resources and upload images.",
+  "Actions": [
+    "Microsoft.AzureSphere/*/read",
+    "Microsoft.AzureSphere/catalogs/countDevices/action",
+    "Microsoft.AzureSphere/catalogs/listDeviceGroups/action",
+    "Microsoft.AzureSphere/catalogs/listDeviceInsights/action",
+    "Microsoft.AzureSphere/catalogs/listDevices/action",
+    "Microsoft.AzureSphere/catalogs/products/countDevices/action",
+    "Microsoft.AzureSphere/catalogs/products/deviceGroups/countDevices/action",
+    "Microsoft.AzureSphere/catalogs/products/deviceGroups/devices/generateCapabilityImage/action",
+    "Microsoft.AzureSphere/catalogs/certificates/retrieveProofOfPossessionNonce/action",
+    "Microsoft.AzureSphere/catalogs/certificates/retrieveCertChain/action",
+    "Microsoft.AzureSphere/catalogs/images/write",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

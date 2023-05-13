@@ -1,0 +1,18 @@
+{
+  "Name": "SaaS Hub Contributor",
+  "Id": "e9b8712a-cbcf-4ea7-b0f7-e71b803401e6",
+  "IsCustom": false,
+  "Description": "SaaS Hub contributor can manage SaaS Hub resource",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.SaaSHub/cloudservices/read",
+    "Microsoft.SaaSHub/cloudservices/write",
+    "Microsoft.SaaSHub/cloudservices/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Cognitive Search Serverless Data Contributor",
+  "Id": "7ac06ca7-21ca-47e3-a67b-cbd6e6223baf",
+  "IsCustom": false,
+  "Description": "Create, read, modify and delete Cognitive Search serverless index schema and documents. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveSearch/indexes/schema/*",
+    "Microsoft.CognitiveSearch/indexes/documents/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

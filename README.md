@@ -91,8 +91,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service RBAC Writer](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) | [a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) |
 | [Azure Maps Contributor](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) | [dba33070-676a-4fb0-87fa-064dc56ff7fb](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) |
 | [Azure Maps Data Contributor](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) | [8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) |
+| [Azure Maps Data Read and Batch Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
 | [Azure Maps Data Reader](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) | [423170ca-a8f6-4b0f-8487-9e4eb8f49bfa](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) |
-| [Azure Maps Power BI Service Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
@@ -143,6 +143,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
 | [Code Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
 | [Code Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
+| [Cognitive Search Serverless Data Contributor](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
+| [Cognitive Search Serverless Data Reader](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) | [79b01272-bf9f-4f4c-9517-5506269cf524](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) |
 | [Cognitive Services Contributor](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) | [25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) |
 | [Cognitive Services Custom Vision Contributor](roles/c1ff6cc2-c111-46fe-8896-e0ef812ad9f3.json) | [c1ff6cc2-c111-46fe-8896-e0ef812ad9f3](roles/c1ff6cc2-c111-46fe-8896-e0ef812ad9f3.json) |
 | [Cognitive Services Custom Vision Deployment](roles/5c4089e1-6d96-4d2f-b296-c1bc7137275f.json) | [5c4089e1-6d96-4d2f-b296-c1bc7137275f](roles/5c4089e1-6d96-4d2f-b296-c1bc7137275f.json) |

@@ -10,6 +10,7 @@
     "Microsoft.Authorization/policyexemptions/*",
     "Microsoft.Authorization/policysetdefinitions/*",
     "Microsoft.PolicyInsights/*",
+    "Microsoft.Resources/deployments/*",
     "Microsoft.Support/*"
   ],
   "NotActions": [],

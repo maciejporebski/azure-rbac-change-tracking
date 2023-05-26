@@ -1,0 +1,34 @@
+{
+  "Name": "Community Owner Role",
+  "Id": "5e28a61e-8040-49db-b175-bb5b88af6239",
+  "IsCustom": false,
+  "Description": "Community Owner Role to access the resources of Microsoft.Mission stored with RPSAAS.",
+  "Actions": [
+    "Microsoft.Mission/register/action",
+    "Microsoft.Mission/unregister/action",
+    "Microsoft.Mission/Locations/OperationStatuses/read",
+    "Microsoft.Mission/Locations/OperationStatuses/write",
+    "Microsoft.Mission/Operations/read",
+    "Microsoft.Mission/catalogs/read",
+    "Microsoft.Mission/catalogs/write",
+    "Microsoft.Mission/catalogs/delete",
+    "Microsoft.Mission/communities/read",
+    "Microsoft.Mission/communities/write",
+    "Microsoft.Mission/communities/delete",
+    "Microsoft.Mission/internalConnections/read",
+    "Microsoft.Mission/internalConnections/write",
+    "Microsoft.Mission/internalConnections/delete",
+    "Microsoft.Mission/virtualEnclaves/read",
+    "Microsoft.Mission/virtualEnclaves/write",
+    "Microsoft.Mission/virtualEnclaves/delete",
+    "Microsoft.Mission/virtualEnclaves/workloads/read",
+    "Microsoft.Mission/virtualEnclaves/workloads/write",
+    "Microsoft.Mission/virtualEnclaves/workloads/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

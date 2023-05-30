@@ -2,9 +2,12 @@
   "Name": "App Compliance Automation Reader",
   "Id": "ffc6bbe0-e443-4c3b-bf54-26581bb2f78e",
   "IsCustom": false,
-  "Description": "App Compliance Automation Reader Role",
+  "Description": "Read, download the reports objects and related other resource objects.",
   "Actions": [
-    "Microsoft.AppComplianceAutomation/*/read"
+    "Microsoft.AppComplianceAutomation/*/read",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/storageAccounts/blobServices/read"
   ],
   "NotActions": [],
   "DataActions": [],

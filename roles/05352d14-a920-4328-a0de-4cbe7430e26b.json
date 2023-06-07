@@ -4,6 +4,8 @@
   "IsCustom": false,
   "Description": "This role provides read access to all capabilities of Azure Center for SAP solutions.",
   "Actions": [
+    "Microsoft.Advisor/configurations/read",
+    "Microsoft.Advisor/recommendations/read",
     "Microsoft.Workloads/sapvirtualInstances/*/read",
     "Microsoft.Workloads/Locations/*/action",
     "Microsoft.Workloads/Operations/read",

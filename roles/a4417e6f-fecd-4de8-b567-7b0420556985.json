@@ -18,7 +18,8 @@
   "NotActions": [],
   "DataActions": [
     "Microsoft.KeyVault/vaults/certificatecas/*",
-    "Microsoft.KeyVault/vaults/certificates/*"
+    "Microsoft.KeyVault/vaults/certificates/*",
+    "Microsoft.KeyVault/vaults/certificatecontacts/write"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

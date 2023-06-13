@@ -243,6 +243,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR Data Reader](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) | [4c8d0bbc-75d3-4935-991f-5f3c56d81508](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) |
 | [FHIR Data Writer](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) | [3f88fce4-5892-4214-ae73-ba5294559913](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) |
 | [FHIR SMART User](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) | [4ba50f17-9666-485c-a643-ff00808643f0](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) |
+| [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |
 | [Grafana Editor](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) | [a79a5197-3a5c-4973-a920-486035ffd60f](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) |
 | [Grafana Viewer](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) | [60921a7e-fef1-4a43-9b16-a26c52ad4769](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) |

@@ -1,0 +1,18 @@
+{
+  "Name": "Firmware Analysis Admin",
+  "Id": "9c1607d1-791d-4c68-885d-c7b7aaff7c8a",
+  "IsCustom": false,
+  "Description": "Upload and analyze firmware images in Defender for IoT",
+  "Actions": [
+    "Microsoft.IoTFirmwareDefense/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

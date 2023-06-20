@@ -6,7 +6,8 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.DesktopVirtualization/applicationGroups/useApplications/action"
+    "Microsoft.DesktopVirtualization/applicationGroups/useApplications/action",
+    "Microsoft.DesktopVirtualization/appAttachPackages/useApplications/action"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

@@ -386,6 +386,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage Blob Data Owner](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) | [b7e6dc6d-f1e8-4753-8033-0f276bb0955b](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) |
 | [Storage Blob Data Reader](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) | [2a2b9908-6ea1-4ae2-8e65-a410df84e7d1](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) |
 | [Storage Blob Delegator](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) | [db58b8e5-c6ad-4a2a-8342-4190687cbf4a](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) |
+| [Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Storage File Data Privileged Contributor](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) | [69566ab7-960f-475b-8e7c-b3118f30c6bd](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) |
 | [Storage File Data Privileged Reader](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) | [b8eda974-7b85-4f76-af95-65846b26df6d](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) |
 | [Storage File Data SMB Share Contributor](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) | [0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) |

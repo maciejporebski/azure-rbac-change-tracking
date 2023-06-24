@@ -417,8 +417,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Web PubSub Service Reader](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) | [bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) |
 | [Website Contributor](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) | [de139f84-1756-47ae-9be6-808fbbe84772](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) |
 | [Windows Admin Center Administrator Login](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) | [a6333a3e-0164-44c3-b281-7a577aff287f](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) |
-| [Windows365NetworkInterfaceContributor](roles/1f135831-5bbe-4924-9016-264044c00788.json) | [1f135831-5bbe-4924-9016-264044c00788](roles/1f135831-5bbe-4924-9016-264044c00788.json) |
-| [Windows365NetworkUser](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) | [7eabc9a4-85f7-4f71-b8ab-75daaccc1033](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) |
+| [Windows365 Network Interface Contributor](roles/1f135831-5bbe-4924-9016-264044c00788.json) | [1f135831-5bbe-4924-9016-264044c00788](roles/1f135831-5bbe-4924-9016-264044c00788.json) |
+| [Windows365 Network User](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) | [7eabc9a4-85f7-4f71-b8ab-75daaccc1033](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) |
 | [Windows365SubscriptionReader](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) | [3d55a8f6-4133-418d-8051-facdb1735758](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) |
 | [Workbook Contributor](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) | [e8ddcd69-c73f-4f9f-9844-4100522f16ad](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) |
 | [Workbook Reader](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) | [b279062a-9be3-42a0-92ae-8b3cf002ec4d](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) |

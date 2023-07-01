@@ -1,8 +1,8 @@
 {
-  "Name": "Azure Traffic Controller Configuration Manager",
+  "Name": "AppGw for Containers Configuration Manager",
   "Id": "fbc52c3f-28ad-4303-a892-8a056630b8f1",
   "IsCustom": false,
-  "Description": "Allows access to traffic controller resource. Also allows all confiuration Updates on traffic controller",
+  "Description": "Allows access and configuration updates to Application Gateway for Containers resource.",
   "Actions": [
     "Microsoft.ServiceNetworking/trafficControllers/read",
     "Microsoft.ServiceNetworking/trafficControllers/write",

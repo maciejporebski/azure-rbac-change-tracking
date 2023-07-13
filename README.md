@@ -188,6 +188,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Lake Analytics Developer](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) | [47b7735b-770e-4598-a7da-8b91488b4c88](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) |
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
+| [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Deployment Environments User](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) | [18e40d4e-8d2e-438d-97e1-9528336e149c](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) |
 | [Desktop Virtualization Application Group Contributor](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) | [86240b0e-9422-4c43-887b-b61143f32ba8](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) |
 | [Desktop Virtualization Application Group Reader](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) | [aebf23d0-b568-4e86-b8f9-fe83a2c6ab55](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) |
@@ -225,6 +226,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [DocumentDB Account Contributor](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) | [5bd9cd88-fe45-4216-938b-f97437e15450](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) |
 | [Domain Services Contributor](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) | [eeaeda52-9324-47f6-8069-5d5bade478b2](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) |
 | [Domain Services Reader](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) | [361898ef-9ed1-48c2-849c-a832951106bb](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) |
+| [Elastic SAN Network Admin](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) | [fa6cecf6-5db3-4c43-8470-c540bcb4eafa](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) |
 | [Elastic SAN Owner](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) | [80dcbedb-47ef-405d-95bd-188a1b4ac406](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) |
 | [Elastic SAN Reader](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) | [af6a70f8-3c9f-4105-acf1-d719e9fca4ca](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
@@ -386,7 +388,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage Blob Data Owner](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) | [b7e6dc6d-f1e8-4753-8033-0f276bb0955b](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) |
 | [Storage Blob Data Reader](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) | [2a2b9908-6ea1-4ae2-8e65-a410df84e7d1](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) |
 | [Storage Blob Delegator](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) | [db58b8e5-c6ad-4a2a-8342-4190687cbf4a](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) |
-| [Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Storage File Data Privileged Contributor](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) | [69566ab7-960f-475b-8e7c-b3118f30c6bd](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) |
 | [Storage File Data Privileged Reader](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) | [b8eda974-7b85-4f76-af95-65846b26df6d](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) |
 | [Storage File Data SMB Share Contributor](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) | [0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) |

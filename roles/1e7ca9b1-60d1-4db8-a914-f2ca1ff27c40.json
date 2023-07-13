@@ -1,11 +1,17 @@
 {
-  "Name": "Storage Data Scanner",
+  "Name": "Defender for Storage Data Scanner",
   "Id": "1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40",
   "IsCustom": false,
-  "Description": "Grants all permissions needed for a storage data scanner.",
-  "Actions": [],
+  "Description": "Grants access to read blobs and update index tags. This role is used by the data scanner of Defender for Storage.",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read"
+  ],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/write",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/read"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

@@ -1,0 +1,15 @@
+{
+  "Name": "Compute Diagnostics Role",
+  "Id": "df2711a6-406d-41cf-b366-b0250bff9ad1",
+  "IsCustom": false,
+  "Description": "Grants permissions to execute diagnostics provided by Compute Diagnostic Service for Compute Resources.",
+  "Actions": [
+    "Microsoft.Compute/disks/beginGetAccess/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

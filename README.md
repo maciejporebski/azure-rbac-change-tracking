@@ -172,7 +172,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Collaborative Data Contributor](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) | [daa9e50b-21df-454c-94a6-a8050adab352](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) |
 | [Collaborative Runtime Operator](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) | [7a6f0e70-c033-4fb1-828c-08514e5f4102](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) |
 | [Community Owner Role](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) | [5e28a61e-8040-49db-b175-bb5b88af6239](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) |
-| [Compute Diagnostics Role](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) | [df2711a6-406d-41cf-b366-b0250bff9ad1](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) |
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |

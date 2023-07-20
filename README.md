@@ -168,6 +168,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services QnA Maker Reader](roles/466ccd10-b268-4a11-b098-b4849f024126.json) | [466ccd10-b268-4a11-b098-b4849f024126](roles/466ccd10-b268-4a11-b098-b4849f024126.json) |
 | [Cognitive Services Speech Contributor](roles/0e75ca1e-0464-4b4d-8b93-68208a576181.json) | [0e75ca1e-0464-4b4d-8b93-68208a576181](roles/0e75ca1e-0464-4b4d-8b93-68208a576181.json) |
 | [Cognitive Services Speech User](roles/f2dc8367-1007-4938-bd23-fe263f013447.json) | [f2dc8367-1007-4938-bd23-fe263f013447](roles/f2dc8367-1007-4938-bd23-fe263f013447.json) |
+| [Cognitive Services Usages Reader](roles/bba48692-92b0-4667-a9ad-c31c7b334ac2.json) | [bba48692-92b0-4667-a9ad-c31c7b334ac2](roles/bba48692-92b0-4667-a9ad-c31c7b334ac2.json) |
 | [Cognitive Services User](roles/a97b65f3-24c7-4388-baec-2e87135dc908.json) | [a97b65f3-24c7-4388-baec-2e87135dc908](roles/a97b65f3-24c7-4388-baec-2e87135dc908.json) |
 | [Collaborative Data Contributor](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) | [daa9e50b-21df-454c-94a6-a8050adab352](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) |
 | [Collaborative Runtime Operator](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) | [7a6f0e70-c033-4fb1-828c-08514e5f4102](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) |

@@ -4,8 +4,6 @@
   "IsCustom": false,
   "Description": "Allows access to create Private Endpoints on SAN resources, and to read SAN resources",
   "Actions": [
-    "Microsoft.Authorization/roleAssignments/read",
-    "Microsoft.Authorization/roleDefinitions/read",
     "Microsoft.ElasticSan/elasticSans/*/read",
     "Microsoft.ElasticSan/elasticSans/PrivateEndpointConnectionsApproval/action",
     "Microsoft.ElasticSan/elasticSans/privateEndpointConnections/write",

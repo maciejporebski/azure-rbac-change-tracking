@@ -1,8 +1,8 @@
 {
-  "Name": "Windows365 Network Interface Contributor",
+  "Name": "Windows 365 Network Interface Contributor",
   "Id": "1f135831-5bbe-4924-9016-264044c00788",
   "IsCustom": false,
-  "Description": "Create NICs and join it to virtual machine in another tenant. This role is used in Windows365 scenarios.",
+  "Description": "This role is used by Windows 365 to provision required network resources and join Microsoft-hosted VMs to network interfaces.",
   "Actions": [
     "Microsoft.Resources/subscriptions/resourcegroups/read",
     "Microsoft.Resources/deployments/read",

@@ -62,6 +62,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Center for SAP solutions reader](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) | [05352d14-a920-4328-a0de-4cbe7430e26b](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) |
 | [Azure Center for SAP solutions service role](roles/aabbc5dd-1af0-458b-a942-81af88f9c138.json) | [aabbc5dd-1af0-458b-a942-81af88f9c138](roles/aabbc5dd-1af0-458b-a942-81af88f9c138.json) |
 | [Azure Center for SAP solutions Service role for management](roles/0105a6b0-4bb9-43d2-982a-12806f9faddb.json) | [0105a6b0-4bb9-43d2-982a-12806f9faddb](roles/0105a6b0-4bb9-43d2-982a-12806f9faddb.json) |
+| [Azure Connected Machine Onboarding](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) | [b64e21ea-ac4e-4cdf-9dc9-5b892992bee7](roles/b64e21ea-ac4e-4cdf-9dc9-5b892992bee7.json) |
+| [Azure Connected Machine Resource Administrator](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) | [cd570a14-e51a-42ad-bac8-bafd67325302](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) |
+| [Azure Connected Machine Resource Manager](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) | [f5819b54-e033-4d82-ac66-4fec3cbf3f4c](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) |
 | [Azure Connected SQL Server Onboarding](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) | [e8113dce-c529-4d33-91fa-e9b972617508](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
@@ -416,9 +419,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Web PubSub Service Owner](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) | [12cf5a90-567b-43ae-8102-96cf46c7d9b4](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) |
 | [Web PubSub Service Reader](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) | [bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) |
 | [Website Contributor](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) | [de139f84-1756-47ae-9be6-808fbbe84772](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) |
-| [Windows 365 Network Interface Contributor](roles/1f135831-5bbe-4924-9016-264044c00788.json) | [1f135831-5bbe-4924-9016-264044c00788](roles/1f135831-5bbe-4924-9016-264044c00788.json) |
-| [Windows 365 Network User](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) | [7eabc9a4-85f7-4f71-b8ab-75daaccc1033](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) |
 | [Windows Admin Center Administrator Login](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) | [a6333a3e-0164-44c3-b281-7a577aff287f](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) |
+| [Windows365 Network Interface Contributor](roles/1f135831-5bbe-4924-9016-264044c00788.json) | [1f135831-5bbe-4924-9016-264044c00788](roles/1f135831-5bbe-4924-9016-264044c00788.json) |
+| [Windows365 Network User](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) | [7eabc9a4-85f7-4f71-b8ab-75daaccc1033](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) |
 | [Windows365SubscriptionReader](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) | [3d55a8f6-4133-418d-8051-facdb1735758](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) |
 | [Workbook Contributor](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) | [e8ddcd69-c73f-4f9f-9844-4100522f16ad](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) |
 | [Workbook Reader](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) | [b279062a-9be3-42a0-92ae-8b3cf002ec4d](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) |

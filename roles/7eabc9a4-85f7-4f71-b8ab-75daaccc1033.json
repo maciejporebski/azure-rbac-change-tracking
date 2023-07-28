@@ -1,8 +1,8 @@
 {
-  "Name": "Windows 365 Network User",
+  "Name": "Windows365 Network User",
   "Id": "7eabc9a4-85f7-4f71-b8ab-75daaccc1033",
   "IsCustom": false,
-  "Description": "This role is used by Windows 365 to read virtual networks and join the designated virtual networks.",
+  "Description": "Read the virtual network informations, and join the virtual network to virtual machine in another tenant. This role is used in Windows365 scenarios.",
   "Actions": [
     "Microsoft.Network/virtualNetworks/read",
     "Microsoft.Network/virtualNetworks/subnets/read",

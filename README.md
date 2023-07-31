@@ -354,7 +354,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Schema Registry Reader (Preview)](roles/2c56ea50-c6b3-40a6-83c0-9d98858bc7d2.json) | [2c56ea50-c6b3-40a6-83c0-9d98858bc7d2](roles/2c56ea50-c6b3-40a6-83c0-9d98858bc7d2.json) |
 | [Search Index Data Contributor](roles/8ebe5a00-799e-43f5-93ac-243d3dce84a7.json) | [8ebe5a00-799e-43f5-93ac-243d3dce84a7](roles/8ebe5a00-799e-43f5-93ac-243d3dce84a7.json) |
 | [Search Index Data Reader](roles/1407120a-92aa-4202-b7e9-c0e197c71c8f.json) | [1407120a-92aa-4202-b7e9-c0e197c71c8f](roles/1407120a-92aa-4202-b7e9-c0e197c71c8f.json) |
-| [Search Parameter Manager](roles/a02f7c31-354d-4106-865a-deedf37fa038.json) | [a02f7c31-354d-4106-865a-deedf37fa038](roles/a02f7c31-354d-4106-865a-deedf37fa038.json) |
 | [Search Service Contributor](roles/7ca78c08-252a-4471-8644-bb5ff32d4ba0.json) | [7ca78c08-252a-4471-8644-bb5ff32d4ba0](roles/7ca78c08-252a-4471-8644-bb5ff32d4ba0.json) |
 | [Security Admin](roles/fb1c8493-542b-48eb-b624-b4c8fea62acd.json) | [fb1c8493-542b-48eb-b624-b4c8fea62acd](roles/fb1c8493-542b-48eb-b624-b4c8fea62acd.json) |
 | [Security Assessment Contributor](roles/612c2aa1-cb24-443b-ac28-3ab7272de6f5.json) | [612c2aa1-cb24-443b-ac28-3ab7272de6f5](roles/612c2aa1-cb24-443b-ac28-3ab7272de6f5.json) |

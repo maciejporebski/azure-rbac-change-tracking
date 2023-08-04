@@ -1,0 +1,21 @@
+{
+  "Name": "PostgreSQL Flexible Server Long Term Retention Backup Role",
+  "Id": "c088a766-074b-43ba-90d4-1fb21feae531",
+  "IsCustom": false,
+  "Description": "Role to allow backup vault to access PostgreSQL Flexible Server Resource APIs for Long Term Retention Backup.",
+  "Actions": [
+    "Microsoft.DBforPostgreSQL/flexibleServers/ltrBackupOperations/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/ltrPreBackup/action",
+    "Microsoft.DBforPostgreSQL/flexibleServers/startLtrBackup/action",
+    "Microsoft.DBforPostgreSQL/locations/azureAsyncOperation/read",
+    "Microsoft.DBforPostgreSQL/locations/operationResults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

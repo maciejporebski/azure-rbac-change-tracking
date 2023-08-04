@@ -331,6 +331,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [PlayFab Contributor](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) | [0c8b84dc-067c-4039-9615-fa1a4b77c726](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) |
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
+| [PostgreSQL Flexible Server Long Term Retention Backup Role](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) | [c088a766-074b-43ba-90d4-1fb21feae531](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) |
 | [Private DNS Zone Contributor](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) | [b12aa53e-6015-4669-85d0-8515ebb3ae7f](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) |
 | [Project Babylon Data Curator](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) | [9ef4ef9c-a049-46b0-82ab-dd8ac094c889](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) |
 | [Project Babylon Data Reader](roles/c8d896ba-346d-4f50-bc1d-7d1c84130446.json) | [c8d896ba-346d-4f50-bc1d-7d1c84130446](roles/c8d896ba-346d-4f50-bc1d-7d1c84130446.json) |

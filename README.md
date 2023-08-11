@@ -296,6 +296,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Log Analytics Reader](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) | [73c42c96-874c-492b-b04d-ab87d138a893](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) |
 | [Logic App Contributor](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) | [87a39d53-fc1b-424a-814c-f7e04687dc9e](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) |
 | [Logic App Operator](roles/515c2055-d9d4-4321-b1b9-bd0c9a0f79fe.json) | [515c2055-d9d4-4321-b1b9-bd0c9a0f79fe](roles/515c2055-d9d4-4321-b1b9-bd0c9a0f79fe.json) |
+| [Logic Apps Standard Contributor (Preview)](roles/ad710c24-b039-4e85-a019-deb4a06e8570.json) | [ad710c24-b039-4e85-a019-deb4a06e8570](roles/ad710c24-b039-4e85-a019-deb4a06e8570.json) |
+| [Logic Apps Standard Developer (Preview)](roles/523776ba-4eb2-4600-a3c8-f2dc93da4bdb.json) | [523776ba-4eb2-4600-a3c8-f2dc93da4bdb](roles/523776ba-4eb2-4600-a3c8-f2dc93da4bdb.json) |
+| [Logic Apps Standard Operator (Preview)](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) | [b70c96e9-66fe-4c09-b6e7-c98e69c98555](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) |
+| [Logic Apps Standard Reader (Preview)](roles/4accf36b-2c05-432f-91c8-5c532dff4c73.json) | [4accf36b-2c05-432f-91c8-5c532dff4c73](roles/4accf36b-2c05-432f-91c8-5c532dff4c73.json) |
 | [Managed Application Contributor Role](roles/641177b8-a67a-45b9-a033-47bc880bb21e.json) | [641177b8-a67a-45b9-a033-47bc880bb21e](roles/641177b8-a67a-45b9-a033-47bc880bb21e.json) |
 | [Managed Application Operator Role](roles/c7393b34-138c-406f-901b-d8cf2b17e6ae.json) | [c7393b34-138c-406f-901b-d8cf2b17e6ae](roles/c7393b34-138c-406f-901b-d8cf2b17e6ae.json) |
 | [Managed Applications Reader](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) | [b9331d33-8a36-4f8c-b097-4f54124fdb44](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) |

@@ -20,7 +20,8 @@
     "Microsoft.CognitiveServices/accounts/CustomVoice/*/read",
     "Microsoft.CognitiveServices/accounts/CustomVoice/evaluations/*",
     "Microsoft.CognitiveServices/accounts/CustomVoice/longaudiosynthesis/*",
-    "Microsoft.CognitiveServices/accounts/AudioContentCreation/*"
+    "Microsoft.CognitiveServices/accounts/AudioContentCreation/*",
+    "Microsoft.CognitiveServices/accounts/VideoTranslation/*"
   ],
   "NotDataActions": [
     "Microsoft.CognitiveServices/accounts/CustomVoice/datasets/files/read",

@@ -12,7 +12,8 @@
   "DataActions": [
     "Microsoft.CognitiveServices/accounts/SpeechServices/*",
     "Microsoft.CognitiveServices/accounts/CustomVoice/*",
-    "Microsoft.CognitiveServices/accounts/AudioContentCreation/*"
+    "Microsoft.CognitiveServices/accounts/AudioContentCreation/*",
+    "Microsoft.CognitiveServices/accounts/VideoTranslation/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

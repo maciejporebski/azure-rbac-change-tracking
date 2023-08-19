@@ -9,7 +9,10 @@
     "Microsoft.HealthcareApis/services/fhir/resources/*",
     "Microsoft.HealthcareApis/workspaces/fhirservices/resources/*"
   ],
-  "NotDataActions": [],
+  "NotDataActions": [
+    "Microsoft.HealthcareApis/services/fhir/resources/smart/action",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/smart/action"
+  ],
   "AssignableScopes": [
     "/"
   ]

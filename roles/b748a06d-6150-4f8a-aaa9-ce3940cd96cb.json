@@ -5,6 +5,7 @@
   "Description": "Arc VMware VM Contributor has permissions to perform all VM actions.",
   "Actions": [
     "Microsoft.ConnectedVMwarevSphere/virtualmachines/*",
+    "Microsoft.ConnectedVMwarevSphere/virtualmachineinstances/*",
     "Microsoft.Insights/AlertRules/Write",
     "Microsoft.Insights/AlertRules/Delete",
     "Microsoft.Insights/AlertRules/Read",

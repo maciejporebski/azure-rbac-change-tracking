@@ -4,9 +4,7 @@
   "IsCustom": false,
   "Description": "Grants permissions to execute diagnostics provided by Compute Diagnostic Service for Compute Resources.",
   "Actions": [
-    "Microsoft.Authorization/*/read",
-    "Microsoft.Compute/disks/beginGetAccess/action",
-    "Microsoft.Compute/virtualmachinescalesets/disks/beginGetAccess/action"
+    "Microsoft.Compute/disks/beginGetAccess/action"
   ],
   "NotActions": [],
   "DataActions": [],

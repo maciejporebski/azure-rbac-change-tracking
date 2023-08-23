@@ -267,7 +267,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [IoT Hub Data Reader](roles/b447c946-2db7-41ec-983d-d8bf3b1c77e3.json) | [b447c946-2db7-41ec-983d-d8bf3b1c77e3](roles/b447c946-2db7-41ec-983d-d8bf3b1c77e3.json) |
 | [IoT Hub Registry Contributor](roles/4ea46cd5-c1b2-4a8e-910b-273211f9ce47.json) | [4ea46cd5-c1b2-4a8e-910b-273211f9ce47](roles/4ea46cd5-c1b2-4a8e-910b-273211f9ce47.json) |
 | [IoT Hub Twin Contributor](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) | [494bdba2-168f-4f31-a0a1-191d2f7c028c](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) |
-| [IPAM Pool Contributor](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) | [7b3e853f-ad5d-4fb5-a7b8-56a3581c7037](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) |
 | [Key Vault Administrator](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) | [00482a5a-887f-4fb3-b363-3b7fe8e74483](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) |
 | [Key Vault Certificates Officer](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) | [a4417e6f-fecd-4de8-b567-7b0420556985](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) |
 | [Key Vault Contributor](roles/f25e0fa2-a7c8-4377-a976-54943a77a395.json) | [f25e0fa2-a7c8-4377-a976-54943a77a395](roles/f25e0fa2-a7c8-4377-a976-54943a77a395.json) |

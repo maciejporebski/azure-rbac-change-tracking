@@ -1,0 +1,17 @@
+{
+  "Name": "SpatialMapsAccounts Account Owner",
+  "Id": "e9c9ed2b-2a99-4071-b2ff-5b113ebf73a1",
+  "IsCustom": false,
+  "Description": "Lets you manage data in your account, including deleting them",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.MixedReality/spatialMapsAccounts/read",
+    "Microsoft.MixedReality/spatialMapsAccounts/delete",
+    "Microsoft.MixedReality/spatialMapsAccounts/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

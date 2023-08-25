@@ -255,6 +255,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Guest Configuration Resource Contributor](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) | [088ab73d-1256-47ae-bea9-9de8e7131f31](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) |
 | [HDInsight Cluster Operator](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) | [61ed4efc-fab3-44fd-b111-e24485cc132a](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) |
 | [HDInsight Domain Services Contributor](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) | [8d8d5a11-05d3-4bda-a417-a08778121c7c](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) |
+| [HDInsight on AKS Cluster Admin](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) | [fd036e6b-1266-47a0-b0bb-a05d04831731](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
@@ -383,6 +384,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Spatial Anchors Account Contributor](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) | [8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) |
 | [Spatial Anchors Account Owner](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) | [70bbe301-9835-447d-afdd-19eb3167307c](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) |
 | [Spatial Anchors Account Reader](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) | [5d51204f-eb77-4b1c-b86a-2ec626c49413](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) |
+| [SpatialMapsAccounts Account Owner](roles/e9c9ed2b-2a99-4071-b2ff-5b113ebf73a1.json) | [e9c9ed2b-2a99-4071-b2ff-5b113ebf73a1](roles/e9c9ed2b-2a99-4071-b2ff-5b113ebf73a1.json) |
 | [SQL DB Contributor](roles/9b7fa17d-e63e-47b0-bb0a-15c516ac86ec.json) | [9b7fa17d-e63e-47b0-bb0a-15c516ac86ec](roles/9b7fa17d-e63e-47b0-bb0a-15c516ac86ec.json) |
 | [SQL Managed Instance Contributor](roles/4939a1f6-9ae0-4e48-a1e0-f2cbe897382d.json) | [4939a1f6-9ae0-4e48-a1e0-f2cbe897382d](roles/4939a1f6-9ae0-4e48-a1e0-f2cbe897382d.json) |
 | [SQL Security Manager](roles/056cd41c-7e88-42e1-933e-88ba6a50c9c3.json) | [056cd41c-7e88-42e1-933e-88ba6a50c9c3](roles/056cd41c-7e88-42e1-933e-88ba6a50c9c3.json) |

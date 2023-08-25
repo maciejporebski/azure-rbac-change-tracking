@@ -5,6 +5,14 @@
   "Description": "Full access including the ability to fine-tune, deploy and generate text",
   "Actions": [
     "Microsoft.CognitiveServices/*/read",
+    "Microsoft.CognitiveServices/accounts/deployments/write",
+    "Microsoft.CognitiveServices/accounts/deployments/delete",
+    "Microsoft.CognitiveServices/accounts/raiPolicies/read",
+    "Microsoft.CognitiveServices/accounts/raiPolicies/write",
+    "Microsoft.CognitiveServices/accounts/raiPolicies/delete",
+    "Microsoft.CognitiveServices/accounts/commitmentplans/read",
+    "Microsoft.CognitiveServices/accounts/commitmentplans/write",
+    "Microsoft.CognitiveServices/accounts/commitmentplans/delete",
     "Microsoft.Authorization/roleAssignments/read",
     "Microsoft.Authorization/roleDefinitions/read"
   ],

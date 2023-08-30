@@ -2,7 +2,7 @@
   "Name": "Logic Apps Standard Operator (Preview)",
   "Id": "b70c96e9-66fe-4c09-b6e7-c98e69c98555",
   "IsCustom": false,
-  "Description": "Access a logic app standard and all workflows and resubmit/enable/disable workflow/configure api connections and network. But no changes in the workflow.",
+  "Description": "You can enable, resubmit, and disable workflows as well as create connections. You can't edit workflows or settings.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",

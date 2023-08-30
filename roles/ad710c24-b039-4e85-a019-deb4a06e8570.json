@@ -2,7 +2,7 @@
   "Name": "Logic Apps Standard Contributor (Preview)",
   "Id": "ad710c24-b039-4e85-a019-deb4a06e8570",
   "IsCustom": false,
-  "Description": "Let you manage all aspects of logic app standard app, but no change of ownership",
+  "Description": "You can manage all aspects of a Standard logic app and workflows. You can't change access or ownership.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",

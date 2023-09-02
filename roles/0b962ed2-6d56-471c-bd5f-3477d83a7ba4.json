@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Resource Notifications System Topics Subscriber",
+  "Id": "0b962ed2-6d56-471c-bd5f-3477d83a7ba4",
+  "IsCustom": false,
+  "Description": "Lets you create system topics and event subscriptions on all system topics exposed currently and in the future by Azure Resource Notifications",
+  "Actions": [
+    "Microsoft.ResourceNotifications/systemTopics/subscribeToResources/action",
+    "Microsoft.ResourceNotifications/systemTopics/subscribeToHealthResources/action",
+    "Microsoft.ResourceNotifications/systemTopics/subscribeToMaintenanceResources/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -98,7 +98,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
 | [Azure Relay Sender](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) | [26baccc8-eea7-41f1-98f4-1762cc7f685d](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) |
-| [Azure Resource Notifications System Topics Subscriber](roles/0b962ed2-6d56-471c-bd5f-3477d83a7ba4.json) | [0b962ed2-6d56-471c-bd5f-3477d83a7ba4](roles/0b962ed2-6d56-471c-bd5f-3477d83a7ba4.json) |
 | [Azure Service Bus Data Owner](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) | [090c5cfd-751d-490a-894a-3ce6f1109419](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) |
 | [Azure Service Bus Data Receiver](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) | [4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) |
 | [Azure Service Bus Data Sender](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) | [69a216fc-b8fb-44d8-bc22-1f3c2cd27a39](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) |
@@ -257,7 +256,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [HDInsight Cluster Operator](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) | [61ed4efc-fab3-44fd-b111-e24485cc132a](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) |
 | [HDInsight Domain Services Contributor](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) | [8d8d5a11-05d3-4bda-a417-a08778121c7c](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) |
 | [HDInsight on AKS Cluster Admin](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) | [fd036e6b-1266-47a0-b0bb-a05d04831731](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) |
-| [HDInsight on AKS Cluster Pool Admin](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) | [7656b436-37d4-490a-a4ab-d39f838f0042](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |

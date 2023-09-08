@@ -232,7 +232,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Network Admin](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) | [fa6cecf6-5db3-4c43-8470-c540bcb4eafa](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) |
 | [Elastic SAN Owner](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) | [80dcbedb-47ef-405d-95bd-188a1b4ac406](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) |
 | [Elastic SAN Reader](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) | [af6a70f8-3c9f-4105-acf1-d719e9fca4ca](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) |
+| [Elastic SAN Snapshot Exporter](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) | [1c4770c0-34f7-4110-a1ea-a5855cc7a939](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
+| [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
 | [EventGrid Contributor](roles/1e241071-0855-49ea-94dc-649edcd759de.json) | [1e241071-0855-49ea-94dc-649edcd759de](roles/1e241071-0855-49ea-94dc-649edcd759de.json) |
 | [EventGrid Data Sender](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) | [d5a91429-5739-47e2-a06b-3470a27159e7](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) |
 | [EventGrid EventSubscription Contributor](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) | [428e0ff0-5e57-4d9c-a221-2c70d0e0a443](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) |

@@ -1,0 +1,26 @@
+{
+  "Name": "Elastic SAN Volume Importer",
+  "Id": "90e8b822-3e73-47b5-868a-787dc80c008f",
+  "IsCustom": false,
+  "Description": "Allows for Importing Elastic San Volume",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/*/read",
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/volumes/write",
+    "Microsoft.ElasticSan/locations/*",
+    "Microsoft.Compute/locations/*",
+    "Microsoft.Compute/disks/read",
+    "Microsoft.Compute/disks/beginGetAccess/action",
+    "Microsoft.Compute/disks/endGetAccess/action",
+    "Microsoft.Compute/snapshots/read",
+    "Microsoft.Compute/snapshots/beginGetAccess/action",
+    "Microsoft.Compute/snapshots/endGetAccess/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

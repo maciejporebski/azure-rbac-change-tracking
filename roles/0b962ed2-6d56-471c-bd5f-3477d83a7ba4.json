@@ -6,7 +6,9 @@
   "Actions": [
     "Microsoft.ResourceNotifications/systemTopics/subscribeToResources/action",
     "Microsoft.ResourceNotifications/systemTopics/subscribeToHealthResources/action",
-    "Microsoft.ResourceNotifications/systemTopics/subscribeToMaintenanceResources/action"
+    "Microsoft.ResourceNotifications/systemTopics/subscribeToMaintenanceResources/action",
+    "Microsoft.EventGrid/eventSubscriptions/write",
+    "Microsoft.EventGrid/systemTopics/eventSubscriptions/write"
   ],
   "NotActions": [],
   "DataActions": [],

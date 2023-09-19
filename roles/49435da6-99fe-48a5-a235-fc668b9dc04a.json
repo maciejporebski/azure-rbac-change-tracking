@@ -1,0 +1,33 @@
+{
+  "Name": "Community Contributor Role",
+  "Id": "49435da6-99fe-48a5-a235-fc668b9dc04a",
+  "IsCustom": false,
+  "Description": "Community Contributor Role to access the resources of Microsoft.Mission stored with RPSAAS.",
+  "Actions": [
+    "Microsoft.Mission/register/action",
+    "Microsoft.Mission/unregister/action",
+    "Microsoft.Mission/Locations/OperationStatuses/read",
+    "Microsoft.Mission/Locations/OperationStatuses/write",
+    "Microsoft.Mission/Operations/read",
+    "Microsoft.Mission/catalogs/read",
+    "Microsoft.Mission/catalogs/write",
+    "Microsoft.Mission/communities/read",
+    "Microsoft.Mission/communities/write",
+    "Microsoft.Mission/internalConnections/read",
+    "Microsoft.Mission/internalConnections/write",
+    "Microsoft.Mission/externalConnections/read",
+    "Microsoft.Mission/externalConnections/write",
+    "Microsoft.Mission/virtualEnclaves/read",
+    "Microsoft.Mission/virtualEnclaves/write",
+    "Microsoft.Mission/virtualEnclaves/endpoints/read",
+    "Microsoft.Mission/virtualEnclaves/endpoints/write",
+    "Microsoft.Mission/virtualEnclaves/workloads/read",
+    "Microsoft.Mission/virtualEnclaves/workloads/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

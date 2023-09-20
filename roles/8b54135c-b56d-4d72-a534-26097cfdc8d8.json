@@ -1,0 +1,23 @@
+{
+  "Name": "Key Vault Data Access Administrator (preview)",
+  "Id": "8b54135c-b56d-4d72-a534-26097cfdc8d8",
+  "IsCustom": false,
+  "Description": "Add or remove key vault data plane role assignments and read resources of all types, except secrets. Includes an ABAC condition to constrain role assignments.",
+  "Actions": [
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Management/managementGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Support/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

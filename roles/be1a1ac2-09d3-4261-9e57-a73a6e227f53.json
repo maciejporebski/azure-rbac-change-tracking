@@ -1,0 +1,19 @@
+{
+  "Name": "Procurement Contributor",
+  "Id": "be1a1ac2-09d3-4261-9e57-a73a6e227f53",
+  "IsCustom": false,
+  "Description": "Lets you manage the procurement of products and services.",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.SaaSHub/cloudservices/read",
+    "Microsoft.SaaSHub/cloudservices/write",
+    "Microsoft.SaaSHub/cloudservices/delete",
+    "Microsoft.SaaSHub/register/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

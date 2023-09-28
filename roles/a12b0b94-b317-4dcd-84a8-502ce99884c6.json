@@ -1,0 +1,15 @@
+{
+  "Name": "EventGrid TopicSpaces Publisher",
+  "Id": "a12b0b94-b317-4dcd-84a8-502ce99884c6",
+  "IsCustom": false,
+  "Description": "Lets you publish messages on topicspaces.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventGrid/topicSpaces/publish/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

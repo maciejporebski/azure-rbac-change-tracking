@@ -1,0 +1,18 @@
+{
+  "Name": "Data Boundary Tenant Administrator",
+  "Id": "d1a38570-4b05-4d70-b8e4-1100bcf76d12",
+  "IsCustom": false,
+  "Description": "Allows tenant level administration for data boundaries.",
+  "Actions": [
+    "Microsoft.Resources/dataBoundaries/write",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

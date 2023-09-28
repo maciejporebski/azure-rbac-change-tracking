@@ -185,6 +185,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [CosmosRestoreOperator](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) | [5432c526-bc82-444a-b7ba-57c5b0b5b34f](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) |
 | [Cost Management Contributor](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) | [434105ed-43f6-45c7-a02f-909b2ba83430](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) |
 | [Cost Management Reader](roles/72fafb9e-0641-4937-9268-a91bfd8191a3.json) | [72fafb9e-0641-4937-9268-a91bfd8191a3](roles/72fafb9e-0641-4937-9268-a91bfd8191a3.json) |
+| [Data Boundary Tenant Administrator](roles/d1a38570-4b05-4d70-b8e4-1100bcf76d12.json) | [d1a38570-4b05-4d70-b8e4-1100bcf76d12](roles/d1a38570-4b05-4d70-b8e4-1100bcf76d12.json) |
 | [Data Box Contributor](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) | [add466c9-e687-43fc-8d98-dfcf8d720be5](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) |
 | [Data Box Reader](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) | [028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) |
 | [Data Factory Contributor](roles/673868aa-7521-48a0-acc6-0f60742d39f5.json) | [673868aa-7521-48a0-acc6-0f60742d39f5](roles/673868aa-7521-48a0-acc6-0f60742d39f5.json) |
@@ -240,6 +241,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [EventGrid Data Sender](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) | [d5a91429-5739-47e2-a06b-3470a27159e7](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) |
 | [EventGrid EventSubscription Contributor](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) | [428e0ff0-5e57-4d9c-a221-2c70d0e0a443](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) |
 | [EventGrid EventSubscription Reader](roles/2414bbcf-6497-4faf-8c65-045460748405.json) | [2414bbcf-6497-4faf-8c65-045460748405](roles/2414bbcf-6497-4faf-8c65-045460748405.json) |
+| [EventGrid TopicSpaces Publisher](roles/a12b0b94-b317-4dcd-84a8-502ce99884c6.json) | [a12b0b94-b317-4dcd-84a8-502ce99884c6](roles/a12b0b94-b317-4dcd-84a8-502ce99884c6.json) |
+| [EventGrid TopicSpaces Subscriber](roles/4b0f2fd7-60b4-4eca-896f-4435034f8bf5.json) | [4b0f2fd7-60b4-4eca-896f-4435034f8bf5](roles/4b0f2fd7-60b4-4eca-896f-4435034f8bf5.json) |
 | [Experimentation Administrator](roles/7f646f1b-fa08-80eb-a33b-edd6ce5c915c.json) | [7f646f1b-fa08-80eb-a33b-edd6ce5c915c](roles/7f646f1b-fa08-80eb-a33b-edd6ce5c915c.json) |
 | [Experimentation Contributor](roles/7f646f1b-fa08-80eb-a22b-edd6ce5c915c.json) | [7f646f1b-fa08-80eb-a22b-edd6ce5c915c](roles/7f646f1b-fa08-80eb-a22b-edd6ce5c915c.json) |
 | [Experimentation Metric Contributor](roles/6188b7c9-7d01-4f99-a59f-c88b630326c0.json) | [6188b7c9-7d01-4f99-a59f-c88b630326c0](roles/6188b7c9-7d01-4f99-a59f-c88b630326c0.json) |

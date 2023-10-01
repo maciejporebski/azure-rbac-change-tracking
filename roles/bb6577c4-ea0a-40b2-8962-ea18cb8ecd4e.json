@@ -1,0 +1,15 @@
+{
+  "Name": "DeID Realtime Data User",
+  "Id": "bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e",
+  "IsCustom": false,
+  "Description": "Execute requests against DeID realtime endpoint. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthDataAIServices/DeidServices/Realtime/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

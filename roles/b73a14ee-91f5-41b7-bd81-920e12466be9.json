@@ -1,0 +1,18 @@
+{
+  "Name": "DeID Batch Data Reader",
+  "Id": "b73a14ee-91f5-41b7-bd81-920e12466be9",
+  "IsCustom": false,
+  "Description": "Read DeID batch jobs. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthDataAIServices/DeidServices/Batch/read"
+  ],
+  "NotDataActions": [
+    "Microsoft.HealthDataAIServices/DeidServices/Batch/write",
+    "Microsoft.HealthDataAIServices/DeidServices/Batch/delete"
+  ],
+  "AssignableScopes": [
+    "/"
+  ]
+}

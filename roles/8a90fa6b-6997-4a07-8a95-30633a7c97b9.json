@@ -1,0 +1,17 @@
+{
+  "Name": "DeID Batch Data Owner",
+  "Id": "8a90fa6b-6997-4a07-8a95-30633a7c97b9",
+  "IsCustom": false,
+  "Description": "Create and manage DeID batch jobs. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthDataAIServices/DeidServices/Batch/write",
+    "Microsoft.HealthDataAIServices/DeidServices/Batch/delete",
+    "Microsoft.HealthDataAIServices/DeidServices/Batch/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -131,6 +131,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Blockchain Member Node Access (Preview)](roles/31a002a1-acaf-453e-8a5b-297c9ca1ea24.json) | [31a002a1-acaf-453e-8a5b-297c9ca1ea24](roles/31a002a1-acaf-453e-8a5b-297c9ca1ea24.json) |
 | [Blueprint Contributor](roles/41077137-e803-4205-871c-5a86e6a753b4.json) | [41077137-e803-4205-871c-5a86e6a753b4](roles/41077137-e803-4205-871c-5a86e6a753b4.json) |
 | [Blueprint Operator](roles/437d2ced-4a38-4302-8479-ed2bcb43d090.json) | [437d2ced-4a38-4302-8479-ed2bcb43d090](roles/437d2ced-4a38-4302-8479-ed2bcb43d090.json) |
+| [Carbon Optimization Reader](roles/fa0d39e6-28e5-40cf-8521-1eb320653a4c.json) | [fa0d39e6-28e5-40cf-8521-1eb320653a4c](roles/fa0d39e6-28e5-40cf-8521-1eb320653a4c.json) |
 | [CDN Endpoint Contributor](roles/426e0c7f-0c7e-4658-b36f-ff54d6c29b45.json) | [426e0c7f-0c7e-4658-b36f-ff54d6c29b45](roles/426e0c7f-0c7e-4658-b36f-ff54d6c29b45.json) |
 | [CDN Endpoint Reader](roles/871e35f6-b5c1-49cc-a043-bde969a0f2cd.json) | [871e35f6-b5c1-49cc-a043-bde969a0f2cd](roles/871e35f6-b5c1-49cc-a043-bde969a0f2cd.json) |
 | [CDN Profile Contributor](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) | [ec156ff8-a8d1-4d15-830c-5b80698ca432](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) |

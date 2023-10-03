@@ -1,0 +1,15 @@
+{
+  "Name": "Carbon Optimization Reader",
+  "Id": "fa0d39e6-28e5-40cf-8521-1eb320653a4c",
+  "IsCustom": false,
+  "Description": "Allow read access to Azure Carbon Optimization data",
+  "Actions": [
+    "Microsoft.Carbon/carbonEmissionReports/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

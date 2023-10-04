@@ -3,7 +3,13 @@
   "Id": "4b0f2fd7-60b4-4eca-896f-4435034f8bf5",
   "IsCustom": false,
   "Description": "Lets you subscribe messages on topicspaces.",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.EventGrid/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
   "NotActions": [],
   "DataActions": [
     "Microsoft.EventGrid/topicSpaces/subscribe/action"

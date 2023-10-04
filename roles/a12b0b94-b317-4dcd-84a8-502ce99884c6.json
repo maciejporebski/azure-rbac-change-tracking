@@ -3,7 +3,13 @@
   "Id": "a12b0b94-b317-4dcd-84a8-502ce99884c6",
   "IsCustom": false,
   "Description": "Lets you publish messages on topicspaces.",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.EventGrid/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
   "NotActions": [],
   "DataActions": [
     "Microsoft.EventGrid/topicSpaces/publish/action"

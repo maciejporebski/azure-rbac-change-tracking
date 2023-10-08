@@ -1,0 +1,18 @@
+{
+  "Name": "Landing Zone Management Owner",
+  "Id": "38863829-c2a4-4f8d-b1d2-2e325973ebc7",
+  "IsCustom": false,
+  "Description": "Microsoft.Sovereign Landing Zone Management Owner allowing to review and modify Landing Zone Configurations as well as reading and adding Landing Zone Registrations. Also enables read-access to policies and management groups for enabling the full user experience of the Sovereign Services RP in the Azure Portal (as otherwise some elements might not be accessible to end users).",
+  "Actions": [
+    "Microsoft.Sovereign/landingZoneConfigurations/*",
+    "Microsoft.Sovereign/landingZoneRegistrations/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

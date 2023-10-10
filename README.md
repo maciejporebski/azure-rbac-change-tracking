@@ -302,6 +302,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Lab Operator](roles/a36e6959-b6be-4b12-8e9f-ef4b474d304d.json) | [a36e6959-b6be-4b12-8e9f-ef4b474d304d](roles/a36e6959-b6be-4b12-8e9f-ef4b474d304d.json) |
 | [Lab Services Contributor](roles/f69b8690-cc87-41d6-b77a-a4bc3c0a966f.json) | [f69b8690-cc87-41d6-b77a-a4bc3c0a966f](roles/f69b8690-cc87-41d6-b77a-a4bc3c0a966f.json) |
 | [Lab Services Reader](roles/2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc.json) | [2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc](roles/2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc.json) |
+| [Landing Zone Management Owner](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) | [38863829-c2a4-4f8d-b1d2-2e325973ebc7](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) |
 | [Load Test Contributor](roles/749a398d-560b-491b-bb21-08924219302e.json) | [749a398d-560b-491b-bb21-08924219302e](roles/749a398d-560b-491b-bb21-08924219302e.json) |
 | [Load Test Owner](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) | [45bb0b16-2f0c-4e78-afaa-a07599b003f6](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) |
 | [Load Test Reader](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) | [3ae3fb29-0000-4ccd-bf80-542e7b26e081](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) |

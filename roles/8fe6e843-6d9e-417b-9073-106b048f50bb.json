@@ -1,0 +1,16 @@
+{
+  "Name": "Landing Zone Management Reader",
+  "Id": "8fe6e843-6d9e-417b-9073-106b048f50bb",
+  "IsCustom": false,
+  "Description": "Microsoft.Sovereign Landing Zone Management Reader allowing to review Landing Zone Configurations and corresponding Registrations without the ability to modify. Also enables read-access to policies and management groups for enabling the full user experience of the Sovereign Services RP in the Azure Portal (as otherwise some elements might not be accessible to end users).",
+  "Actions": [
+    "Microsoft.Sovereign/landingZoneConfigurations/read",
+    "Microsoft.Sovereign/landingZoneRegistrations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

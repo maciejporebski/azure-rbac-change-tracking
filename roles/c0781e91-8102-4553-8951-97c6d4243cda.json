@@ -36,7 +36,8 @@
     "microsoft.scvmm/clouds/deploy/action",
     "microsoft.scvmm/clouds/Read",
     "Microsoft.ExtendedLocation/customLocations/Read",
-    "Microsoft.ExtendedLocation/customLocations/deploy/action"
+    "Microsoft.ExtendedLocation/customLocations/deploy/action",
+    "Microsoft.ExtendedLocation/customLocations/enabledresourcetypes/read"
   ],
   "NotActions": [],
   "DataActions": [],

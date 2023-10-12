@@ -8,7 +8,15 @@
     "Microsoft.SaaSHub/cloudservices/read",
     "Microsoft.SaaSHub/cloudservices/write",
     "Microsoft.SaaSHub/cloudservices/delete",
-    "Microsoft.SaaSHub/register/action"
+    "Microsoft.SaaSHub/register/action",
+    "Microsoft.SaaS/resources/read",
+    "Microsoft.SaaS/resources/write",
+    "Microsoft.SaaS/resources/delete",
+    "Microsoft.SaaS/register/action",
+    "Microsoft.ProfessionalService/resources/read",
+    "Microsoft.ProfessionalService/resources/write",
+    "Microsoft.ProfessionalService/resources/delete",
+    "Microsoft.ProfessionalService/register/action"
   ],
   "NotActions": [],
   "DataActions": [],

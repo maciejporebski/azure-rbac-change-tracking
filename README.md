@@ -66,6 +66,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Connected Machine Resource Administrator](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) | [cd570a14-e51a-42ad-bac8-bafd67325302](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) |
 | [Azure Connected Machine Resource Manager](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) | [f5819b54-e033-4d82-ac66-4fec3cbf3f4c](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) |
 | [Azure Connected SQL Server Onboarding](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) | [e8113dce-c529-4d33-91fa-e9b972617508](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) |
+| [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |

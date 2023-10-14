@@ -91,6 +91,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service RBAC Cluster Admin](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) | [b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) |
 | [Azure Kubernetes Service RBAC Reader](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) | [7f6c6a51-bcf8-42ba-9220-52d62157d7db](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) |
 | [Azure Kubernetes Service RBAC Writer](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) | [a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) |
+| [Azure Machine Learning Workspace Connection Secrets Reader](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) | [ea01e6af-a1c1-4350-9563-ad00f8c72ec5](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) |
 | [Azure Maps Contributor](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) | [dba33070-676a-4fb0-87fa-064dc56ff7fb](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) |
 | [Azure Maps Data Contributor](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) | [8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) |
 | [Azure Maps Data Read and Batch Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |

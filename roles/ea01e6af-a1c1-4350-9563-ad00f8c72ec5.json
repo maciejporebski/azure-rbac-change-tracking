@@ -1,0 +1,16 @@
+{
+  "Name": "Azure Machine Learning Workspace Connection Secrets Reader",
+  "Id": "ea01e6af-a1c1-4350-9563-ad00f8c72ec5",
+  "IsCustom": false,
+  "Description": "Can list workspace connection secrets",
+  "Actions": [
+    "Microsoft.MachineLearningServices/workspaces/connections/listsecrets/action",
+    "Microsoft.MachineLearningServices/workspaces/metadata/secrets/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

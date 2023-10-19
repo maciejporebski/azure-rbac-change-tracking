@@ -100,6 +100,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
 | [Azure Relay Sender](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) | [26baccc8-eea7-41f1-98f4-1762cc7f685d](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) |
+| [Azure Resource Bridge Deployment Role](roles/7b1f81f9-4196-4058-8aae-762e593270df.json) | [7b1f81f9-4196-4058-8aae-762e593270df](roles/7b1f81f9-4196-4058-8aae-762e593270df.json) |
 | [Azure Resource Notifications System Topics Subscriber](roles/0b962ed2-6d56-471c-bd5f-3477d83a7ba4.json) | [0b962ed2-6d56-471c-bd5f-3477d83a7ba4](roles/0b962ed2-6d56-471c-bd5f-3477d83a7ba4.json) |
 | [Azure Service Bus Data Owner](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) | [090c5cfd-751d-490a-894a-3ce6f1109419](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) |
 | [Azure Service Bus Data Receiver](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) | [4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) |
@@ -114,6 +115,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Data Reader](roles/b5537268-8956-4941-a8f0-646150406f0c.json) | [b5537268-8956-4941-a8f0-646150406f0c](roles/b5537268-8956-4941-a8f0-646150406f0c.json) |
 | [Azure Spring Cloud Service Registry Contributor](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) | [f5880b48-c26d-48be-b172-7927bfa1c8f1](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) |
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
+| [Azure Stack HCI Device Management Role](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) | [865ae368-6a45-4bd1-8fbf-0d5151f56fc1](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) |
 | [Azure Stack HCI registration role](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
 | [Azure Usage Billing Data Sender](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) | [f0310ce6-e953-4cf8-b892-fb1c87eaf7f6](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) |

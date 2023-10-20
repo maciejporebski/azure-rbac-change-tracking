@@ -117,6 +117,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
 | [Azure Stack HCI Device Management Role](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) | [865ae368-6a45-4bd1-8fbf-0d5151f56fc1](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) |
 | [Azure Stack HCI registration role](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
+| [Azure Stack HCI VM Reader](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) | [4b3fe76c-f777-4d24-a2d7-b027b0f7b273](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
 | [Azure Usage Billing Data Sender](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) | [f0310ce6-e953-4cf8-b892-fb1c87eaf7f6](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) |
 | [Azure VM Managed identities restore Contributor](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) | [6ae96244-5829-4925-a7d3-5975537d91dd](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) |

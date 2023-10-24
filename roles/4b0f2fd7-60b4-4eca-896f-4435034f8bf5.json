@@ -5,7 +5,7 @@
   "Description": "Lets you subscribe messages on topicspaces.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.EventGrid/*",
+    "Microsoft.EventGrid/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"

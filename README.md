@@ -44,6 +44,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Autonomous Development Platform Data Reader (Preview)](roles/d63b75f7-47ea-4f27-92ac-e0d173aaf093.json) | [d63b75f7-47ea-4f27-92ac-e0d173aaf093](roles/d63b75f7-47ea-4f27-92ac-e0d173aaf093.json) |
 | [Avere Contributor](roles/4f8fab4f-1852-4a58-a46a-8eaf358af14a.json) | [4f8fab4f-1852-4a58-a46a-8eaf358af14a](roles/4f8fab4f-1852-4a58-a46a-8eaf358af14a.json) |
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
+| [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure Arc Enabled Kubernetes Cluster User Role](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) | [00493d72-78f6-4148-b6c5-d3ce8e4799dd](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) |
 | [Azure Arc Kubernetes Admin](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) | [dffb1e0c-446f-4dde-a09f-99eb5cc68b96](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) |
 | [Azure Arc Kubernetes Cluster Admin](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) | [8393591c-06b9-48a2-a542-1bd6b377f6a2](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) |
@@ -117,6 +118,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
 | [Azure Stack HCI Device Management Role](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) | [865ae368-6a45-4bd1-8fbf-0d5151f56fc1](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) |
 | [Azure Stack HCI registration role](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
+| [Azure Stack HCI VM Contributor](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) | [874d1c73-6003-4e60-a13a-cb31ea190a85](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) |
+| [Azure Stack HCI VM Reader](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) | [4b3fe76c-f777-4d24-a2d7-b027b0f7b273](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
 | [Azure Usage Billing Data Sender](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) | [f0310ce6-e953-4cf8-b892-fb1c87eaf7f6](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) |
 | [Azure VM Managed identities restore Contributor](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) | [6ae96244-5829-4925-a7d3-5975537d91dd](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) |

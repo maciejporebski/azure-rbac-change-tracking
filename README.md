@@ -444,6 +444,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Video Indexer Restricted Viewer](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) | [a2c4a527-7dc0-4ee3-897b-403ade70fafb](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |
 | [Virtual Machine Contributor](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) | [9980e02c-c2be-4d73-94e8-173b1dc7cf3c](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) |
+| [Virtual Machine Data Access Administrator (preview)](roles/66f75aeb-eabe-4b70-9f1e-c350c4c9ad04.json) | [66f75aeb-eabe-4b70-9f1e-c350c4c9ad04](roles/66f75aeb-eabe-4b70-9f1e-c350c4c9ad04.json) |
 | [Virtual Machine Local User Login](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) | [602da2ba-a5c2-41da-b01d-5360126ab525](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) |
 | [Virtual Machine User Login](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) | [fb879df8-f326-4884-b1cf-06f3ad86be52](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) |
 | [VM Scanner Operator](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |

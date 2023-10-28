@@ -1,0 +1,27 @@
+{
+  "Name": "EventGrid Data Contributor",
+  "Id": "1d8c3fe3-8864-474b-8749-01e3783e8157",
+  "IsCustom": false,
+  "Description": "Allows send and receive access to event grid events.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.EventGrid/eventSubscriptions/read",
+    "Microsoft.EventGrid/topicTypes/eventSubscriptions/read",
+    "Microsoft.EventGrid/locations/eventSubscriptions/read",
+    "Microsoft.EventGrid/locations/topicTypes/eventSubscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.EventGrid/topics/read",
+    "Microsoft.EventGrid/domains/read",
+    "Microsoft.EventGrid/partnerNamespaces/read",
+    "Microsoft.EventGrid/namespaces/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventGrid/events/send/action",
+    "Microsoft.EventGrid/events/receive/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

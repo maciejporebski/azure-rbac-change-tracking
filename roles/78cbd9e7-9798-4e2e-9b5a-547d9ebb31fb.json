@@ -1,0 +1,23 @@
+{
+  "Name": "EventGrid Data Receiver",
+  "Id": "78cbd9e7-9798-4e2e-9b5a-547d9ebb31fb",
+  "IsCustom": false,
+  "Description": "Allows receive access to event grid events.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.EventGrid/eventSubscriptions/read",
+    "Microsoft.EventGrid/topicTypes/eventSubscriptions/read",
+    "Microsoft.EventGrid/locations/eventSubscriptions/read",
+    "Microsoft.EventGrid/locations/topicTypes/eventSubscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.EventGrid/namespaces/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.EventGrid/events/receive/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

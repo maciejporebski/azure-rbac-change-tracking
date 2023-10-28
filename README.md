@@ -250,6 +250,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
 | [EventGrid Contributor](roles/1e241071-0855-49ea-94dc-649edcd759de.json) | [1e241071-0855-49ea-94dc-649edcd759de](roles/1e241071-0855-49ea-94dc-649edcd759de.json) |
+| [EventGrid Data Contributor](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) | [1d8c3fe3-8864-474b-8749-01e3783e8157](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) |
+| [EventGrid Data Receiver](roles/78cbd9e7-9798-4e2e-9b5a-547d9ebb31fb.json) | [78cbd9e7-9798-4e2e-9b5a-547d9ebb31fb](roles/78cbd9e7-9798-4e2e-9b5a-547d9ebb31fb.json) |
 | [EventGrid Data Sender](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) | [d5a91429-5739-47e2-a06b-3470a27159e7](roles/d5a91429-5739-47e2-a06b-3470a27159e7.json) |
 | [EventGrid EventSubscription Contributor](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) | [428e0ff0-5e57-4d9c-a221-2c70d0e0a443](roles/428e0ff0-5e57-4d9c-a221-2c70d0e0a443.json) |
 | [EventGrid EventSubscription Reader](roles/2414bbcf-6497-4faf-8c65-045460748405.json) | [2414bbcf-6497-4faf-8c65-045460748405](roles/2414bbcf-6497-4faf-8c65-045460748405.json) |

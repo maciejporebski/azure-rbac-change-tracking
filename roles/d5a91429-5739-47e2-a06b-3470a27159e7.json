@@ -8,8 +8,7 @@
     "Microsoft.EventGrid/topics/read",
     "Microsoft.EventGrid/domains/read",
     "Microsoft.EventGrid/partnerNamespaces/read",
-    "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.EventGrid/namespaces/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [

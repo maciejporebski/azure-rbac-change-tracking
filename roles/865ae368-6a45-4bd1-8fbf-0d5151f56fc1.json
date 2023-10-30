@@ -5,7 +5,8 @@
   "Description": "Microsoft.AzureStackHCI Device Management Role",
   "Actions": [
     "Microsoft.AzureStackHCI/Clusters/*",
-    "Microsoft.AzureStackHCI/EdgeDevices/*"
+    "Microsoft.AzureStackHCI/EdgeDevices/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [],

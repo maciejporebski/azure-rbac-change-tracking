@@ -1,0 +1,16 @@
+{
+  "Name": "Azure AI Inference Deployment Operator",
+  "Id": "3afb7f49-54cb-416e-8c09-6dc049efa503",
+  "IsCustom": false,
+  "Description": "Can perform all actions required to create a resource deployment within a resource group.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

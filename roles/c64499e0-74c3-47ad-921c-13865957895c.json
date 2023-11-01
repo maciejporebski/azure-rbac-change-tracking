@@ -1,0 +1,16 @@
+{
+  "Name": "Advisor Reviews Reader",
+  "Id": "c64499e0-74c3-47ad-921c-13865957895c",
+  "IsCustom": false,
+  "Description": "View reviews for a workload and recommendations linked to them.",
+  "Actions": [
+    "Microsoft.Advisor/resiliencyReviews/read",
+    "Microsoft.Advisor/triageRecommendations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

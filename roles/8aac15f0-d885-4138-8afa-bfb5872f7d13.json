@@ -1,0 +1,23 @@
+{
+  "Name": "Advisor Reviews Contributor",
+  "Id": "8aac15f0-d885-4138-8afa-bfb5872f7d13",
+  "IsCustom": false,
+  "Description": "View reviews for a workload and triage recommendations linked to them.",
+  "Actions": [
+    "Microsoft.Advisor/resiliencyReviews/read",
+    "Microsoft.Advisor/triageRecommendations/read",
+    "Microsoft.Advisor/triageRecommendations/approve/action",
+    "Microsoft.Advisor/triageRecommendations/reject/action",
+    "Microsoft.Advisor/triageRecommendations/reset/action",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -2,7 +2,7 @@
   "Name": "Virtual Machine Data Access Administrator (preview)",
   "Id": "66f75aeb-eabe-4b70-9f1e-c350c4c9ad04",
   "IsCustom": false,
-  "Description": "Add or remove virtual machine data plane role assignments. Includes an ABAC condition to constrain role assignments.",
+  "Description": "Manage access to Virtual Machines by adding or removing role assignments for the Virtual Machine Administrator Login and Virtual Machine User Login roles. Includes an ABAC condition to constrain role assignments.",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Authorization/roleAssignments/delete",

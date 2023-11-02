@@ -4,6 +4,7 @@
   "IsCustom": false,
   "Description": "Azure Resource Bridge Deployment Role",
   "Actions": [
+    "Microsoft.AzureStackHCI/Register/Action",
     "Microsoft.ResourceConnector/register/action",
     "Microsoft.ResourceConnector/appliances/read",
     "Microsoft.ResourceConnector/appliances/write",
@@ -17,13 +18,17 @@
     "Microsoft.ExtendedLocation/customLocations/read",
     "Microsoft.ExtendedLocation/customLocations/write",
     "Microsoft.ExtendedLocation/customLocations/delete",
+    "Microsoft.HybridConnectivity/register/action",
+    "Microsoft.Kubernetes/register/action",
     "Microsoft.KubernetesConfiguration/register/action",
     "Microsoft.KubernetesConfiguration/extensions/write",
     "Microsoft.KubernetesConfiguration/extensions/read",
     "Microsoft.KubernetesConfiguration/extensions/delete",
     "Microsoft.KubernetesConfiguration/extensions/operations/read",
     "Microsoft.KubernetesConfiguration/namespaces/read",
-    "Microsoft.KubernetesConfiguration/operations/read"
+    "Microsoft.KubernetesConfiguration/operations/read",
+    "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
+    "Microsoft.HybridContainerService/register/action"
   ],
   "NotActions": [],
   "DataActions": [],

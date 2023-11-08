@@ -12,6 +12,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AcrQuarantineWriter](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) | [c8d4ff99-41c3-41a8-9f60-21dfdad59608](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) |
 | [Advisor Reviews Contributor](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) | [8aac15f0-d885-4138-8afa-bfb5872f7d13](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) |
 | [Advisor Reviews Reader](roles/c64499e0-74c3-47ad-921c-13865957895c.json) | [c64499e0-74c3-47ad-921c-13865957895c](roles/c64499e0-74c3-47ad-921c-13865957895c.json) |
+| [AgFood Platform Dataset Admin](roles/a8d4b70f-0fb9-4f72-b267-b87b2f990aec.json) | [a8d4b70f-0fb9-4f72-b267-b87b2f990aec](roles/a8d4b70f-0fb9-4f72-b267-b87b2f990aec.json) |
 | [AgFood Platform Sensor Partner Contributor](roles/6b77f0a0-0d89-41cc-acd1-579c22c17a67.json) | [6b77f0a0-0d89-41cc-acd1-579c22c17a67](roles/6b77f0a0-0d89-41cc-acd1-579c22c17a67.json) |
 | [AgFood Platform Service Admin](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) | [f8da80de-1ff9-4747-ad80-a19b7f6079e3](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) |
 | [AgFood Platform Service Contributor](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) | [8508508a-4469-4e45-963b-2518ee0bb728](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) |

@@ -1,0 +1,16 @@
+{
+  "Name": "AgFood Platform Dataset Admin",
+  "Id": "a8d4b70f-0fb9-4f72-b267-b87b2f990aec",
+  "IsCustom": false,
+  "Description": "Provides access to Dataset APIs",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AgFoodPlatform/farmBeats/datasets/*",
+    "Microsoft.AgFoodPlatform/farmBeats/datasetRecords/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

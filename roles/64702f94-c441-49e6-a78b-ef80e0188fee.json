@@ -8,6 +8,7 @@
     "Microsoft.MachineLearningServices/workspaces/*/action",
     "Microsoft.MachineLearningServices/workspaces/*/delete",
     "Microsoft.MachineLearningServices/workspaces/*/write",
+    "Microsoft.MachineLearningServices/locations/*/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*"
   ],

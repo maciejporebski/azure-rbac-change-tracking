@@ -3,7 +3,9 @@
   "Id": "65a14201-8f6c-4c28-bec4-12619c5a9aaa",
   "IsCustom": false,
   "Description": "Built-in role that allows a Connected Cluster managed identity to call the checkAccess API",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.Authorization/*/read"
+  ],
   "NotActions": [],
   "DataActions": [],
   "NotDataActions": [],

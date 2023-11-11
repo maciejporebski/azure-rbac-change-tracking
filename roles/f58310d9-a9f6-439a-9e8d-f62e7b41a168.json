@@ -1,5 +1,5 @@
 {
-  "Name": "Role Based Access Control Administrator (Preview)",
+  "Name": "Role Based Access Control Administrator",
   "Id": "f58310d9-a9f6-439a-9e8d-f62e7b41a168",
   "IsCustom": false,
   "Description": "Manage access to Azure resources by assigning roles using Azure RBAC. This role does not allow you to manage access using other ways, such as Azure Policy.",

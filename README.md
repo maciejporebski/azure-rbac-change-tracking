@@ -120,8 +120,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Data Reader](roles/b5537268-8956-4941-a8f0-646150406f0c.json) | [b5537268-8956-4941-a8f0-646150406f0c](roles/b5537268-8956-4941-a8f0-646150406f0c.json) |
 | [Azure Spring Cloud Service Registry Contributor](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) | [f5880b48-c26d-48be-b172-7927bfa1c8f1](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) |
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
+| [Azure Stack HCI Administrator](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
 | [Azure Stack HCI Device Management Role](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) | [865ae368-6a45-4bd1-8fbf-0d5151f56fc1](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) |
-| [Azure Stack HCI registration role](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
 | [Azure Stack HCI VM Contributor](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) | [874d1c73-6003-4e60-a13a-cb31ea190a85](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) |
 | [Azure Stack HCI VM Reader](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) | [4b3fe76c-f777-4d24-a2d7-b027b0f7b273](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
@@ -384,7 +384,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Remote Rendering Client](roles/d39065c4-c120-43c9-ab0a-63eed9795f0a.json) | [d39065c4-c120-43c9-ab0a-63eed9795f0a](roles/d39065c4-c120-43c9-ab0a-63eed9795f0a.json) |
 | [Reservation Purchaser](roles/f7b75c60-3036-4b75-91c3-6b41c27c1689.json) | [f7b75c60-3036-4b75-91c3-6b41c27c1689](roles/f7b75c60-3036-4b75-91c3-6b41c27c1689.json) |
 | [Resource Policy Contributor](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) | [36243c78-bf99-498c-9df9-86d9f8d28608](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) |
-| [Role Based Access Control Administrator (Preview)](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) | [f58310d9-a9f6-439a-9e8d-f62e7b41a168](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) |
+| [Role Based Access Control Administrator](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) | [f58310d9-a9f6-439a-9e8d-f62e7b41a168](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) |
 | [SaaS Hub Contributor](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) | [e9b8712a-cbcf-4ea7-b0f7-e71b803401e6](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) |
 | [Scheduled Patching Contributor](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) | [cd08ab90-6b14-449c-ad9a-8f8e549482c6](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) |
 | [Scheduler Job Collections Contributor](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) | [188a0f2f-5c9e-469b-ae67-2aa5ce574b94](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) |

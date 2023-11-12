@@ -6,22 +6,17 @@
   "Actions": [
     "Microsoft.DevCenter/projects/read",
     "Microsoft.DevCenter/projects/*/read",
-    "Microsoft.Fidalgo/projects/read",
-    "Microsoft.Fidalgo/projects/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Authorization/*/read"
   ],
   "NotActions": [
     "Microsoft.DevCenter/projects/pools/read",
-    "Microsoft.Fidalgo/projects/pools/read",
     "Microsoft.DevCenter/projects/pools/schedules/read"
   ],
   "DataActions": [
-    "Microsoft.DevCenter/projects/users/environments/adminRead/action",
+    "Microsoft.DevCenter/projects/users/environments/userRead/action",
     "Microsoft.DevCenter/projects/users/environments/userWrite/action",
     "Microsoft.DevCenter/projects/users/environments/userDelete/action",
-    "Microsoft.DevCenter/projects/users/environments/adminAction/action",
-    "Microsoft.DevCenter/projects/users/environments/adminActionRead/action",
     "Microsoft.DevCenter/projects/users/environments/userActionManage/action",
     "Microsoft.DevCenter/projects/users/environments/userOutputsRead/action"
   ],

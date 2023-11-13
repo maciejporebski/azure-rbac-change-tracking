@@ -16,14 +16,7 @@
     "Microsoft.ProfessionalService/resources/read",
     "Microsoft.ProfessionalService/resources/write",
     "Microsoft.ProfessionalService/resources/delete",
-    "Microsoft.ProfessionalService/register/action",
-    "Microsoft.BillingBenefits/register/action",
-    "Microsoft.BillingBenefits/maccs/read",
-    "Microsoft.BillingBenefits/maccs/write",
-    "Microsoft.BillingBenefits/maccs/delete",
-    "Microsoft.BillingBenefits/maccs/cancel/action",
-    "Microsoft.BillingBenefits/maccs/chargeShortfall/action",
-    "Microsoft.BillingBenefits/maccs/contributors/read"
+    "Microsoft.ProfessionalService/register/action"
   ],
   "NotActions": [],
   "DataActions": [],

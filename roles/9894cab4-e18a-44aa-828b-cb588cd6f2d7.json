@@ -13,7 +13,11 @@
     "Microsoft.CognitiveServices/accounts/Face/findsimilars/action",
     "Microsoft.CognitiveServices/accounts/Face/detectliveness/multimodal/action",
     "Microsoft.CognitiveServices/accounts/Face/detectliveness/singlemodal/action",
-    "Microsoft.CognitiveServices/accounts/Face/detectlivenesswithverify/singlemodal/action"
+    "Microsoft.CognitiveServices/accounts/Face/detectlivenesswithverify/singlemodal/action",
+    "Microsoft.CognitiveServices/accounts/Face/*/sessions/action",
+    "Microsoft.CognitiveServices/accounts/Face/*/sessions/delete",
+    "Microsoft.CognitiveServices/accounts/Face/*/sessions/read",
+    "Microsoft.CognitiveServices/accounts/Face/*/sessions/audit/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

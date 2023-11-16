@@ -1,0 +1,23 @@
+{
+  "Name": "Enclave Reader Role",
+  "Id": "86fede04-b259-4277-8c3e-e26b9865abd8",
+  "IsCustom": false,
+  "Description": "Enclave Reader Role to access the resources of Microsoft.Mission stored with RPSAAS.",
+  "Actions": [
+    "Microsoft.Mission/Operations/read",
+    "Microsoft.Mission/catalogs/read",
+    "Microsoft.Mission/catalogs/write",
+    "Microsoft.Mission/catalogs/delete",
+    "Microsoft.Mission/communities/read",
+    "Microsoft.Mission/internalConnections/read",
+    "Microsoft.Mission/virtualEnclaves/read",
+    "Microsoft.Mission/virtualEnclaves/endpoints/read",
+    "Microsoft.Mission/virtualEnclaves/workloads/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

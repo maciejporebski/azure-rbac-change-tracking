@@ -72,6 +72,7 @@
     "Microsoft.ResourceConnector/locations/operationresults/read",
     "Microsoft.ResourceConnector/locations/operationsstatus/read",
     "Microsoft.ResourceConnector/appliances/listClusterUserCredential/action",
+    "Microsoft.ResourceConnector/appliances/listKeys/action",
     "Microsoft.ResourceConnector/operations/read",
     "Microsoft.ExtendedLocation/register/action",
     "Microsoft.ExtendedLocation/customLocations/read",
@@ -88,7 +89,10 @@
     "Microsoft.KubernetesConfiguration/extensions/operations/read",
     "Microsoft.KubernetesConfiguration/namespaces/read",
     "Microsoft.KubernetesConfiguration/operations/read",
-    "Microsoft.HybridContainerService/register/action"
+    "Microsoft.HybridContainerService/register/action",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.AzureStackHCI/StorageContainers/Write",
+    "Microsoft.AzureStackHCI/StorageContainers/Read"
   ],
   "NotActions": [],
   "DataActions": [],

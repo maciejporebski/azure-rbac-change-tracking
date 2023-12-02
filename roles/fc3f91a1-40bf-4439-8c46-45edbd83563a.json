@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Kubernetes Service Hybrid Cluster User Role",
+  "Id": "fc3f91a1-40bf-4439-8c46-45edbd83563a",
+  "IsCustom": false,
+  "Description": "List cluster user credential action.",
+  "Actions": [
+    "Microsoft.HybridContainerService/provisionedClusterInstances/read",
+    "Microsoft.HybridContainerService/provisionedClusterInstances/listUserKubeconfig/action",
+    "Microsoft.Kubernetes/connectedClusters/Read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

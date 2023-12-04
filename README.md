@@ -92,9 +92,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service Cluster Monitoring User](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) | [1afdec4b-e479-420e-99e7-f82237c7c5e6](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) |
 | [Azure Kubernetes Service Cluster User Role](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) | [4abbcc35-e782-43d8-92c5-2d3f1bd2253f](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) |
 | [Azure Kubernetes Service Contributor Role](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) | [ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) |
-| [Azure Kubernetes Service Hybrid Cluster Admin Role](roles/b5092dac-c796-4349-8681-1a322a31c3f9.json) | [b5092dac-c796-4349-8681-1a322a31c3f9](roles/b5092dac-c796-4349-8681-1a322a31c3f9.json) |
-| [Azure Kubernetes Service Hybrid Cluster User Role](roles/fc3f91a1-40bf-4439-8c46-45edbd83563a.json) | [fc3f91a1-40bf-4439-8c46-45edbd83563a](roles/fc3f91a1-40bf-4439-8c46-45edbd83563a.json) |
-| [Azure Kubernetes Service Hybrid Contributor Role](roles/e7037d40-443a-4434-a3fb-8cd202011e1d.json) | [e7037d40-443a-4434-a3fb-8cd202011e1d](roles/e7037d40-443a-4434-a3fb-8cd202011e1d.json) |
 | [Azure Kubernetes Service Policy Add-on Deployment](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) | [18ed5180-3e48-46fd-8541-4ea054d57064](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) |
 | [Azure Kubernetes Service RBAC Admin](roles/3498e952-d568-435e-9b2c-8d77e338d7f7.json) | [3498e952-d568-435e-9b2c-8d77e338d7f7](roles/3498e952-d568-435e-9b2c-8d77e338d7f7.json) |
 | [Azure Kubernetes Service RBAC Cluster Admin](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) | [b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) |

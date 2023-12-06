@@ -138,7 +138,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Backup Contributor](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) | [5e467623-bb1f-42f4-a55d-6e525e11384b](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) |
 | [Backup Operator](roles/00c29273-979b-4161-815c-10b084fb9324.json) | [00c29273-979b-4161-815c-10b084fb9324](roles/00c29273-979b-4161-815c-10b084fb9324.json) |
 | [Backup Reader](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) | [a795c7a0-d4a2-40c1-ae25-d81f01202912](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) |
-| [Bayer Ag Powered Services CWUM Solution User Role](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
+| [Bayer Ag Powered Services CWUM Solution](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
 | [Bayer Ag Powered Services GDU Solution](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) | [c4bc862a-3b64-4a35-a021-a380c159b042](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) |
 | [Bayer Ag Powered Services Imagery Solution](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) | [ef29765d-0d37-4119-a4f8-f9f9902c9588](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) |
 | [Billing Reader](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) | [fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) |
@@ -258,6 +258,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Snapshot Exporter](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) | [1c4770c0-34f7-4110-a1ea-a5855cc7a939](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
+| [Enclave Owner Role](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) | [3d5f3eff-eb94-473d-91e3-7aac74d6c0bb](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) |
 | [Enclave Reader Role](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) | [86fede04-b259-4277-8c3e-e26b9865abd8](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) |
 | [EventGrid Contributor](roles/1e241071-0855-49ea-94dc-649edcd759de.json) | [1e241071-0855-49ea-94dc-649edcd759de](roles/1e241071-0855-49ea-94dc-649edcd759de.json) |
 | [EventGrid Data Contributor](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) | [1d8c3fe3-8864-474b-8749-01e3783e8157](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) |

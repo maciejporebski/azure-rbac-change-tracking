@@ -13,7 +13,10 @@
   "NotDataActions": [
     "Microsoft.AgFoodPlatform/farmBeats/farmers/write",
     "Microsoft.AgFoodPlatform/farmBeats/deletionJobs/*/write",
-    "Microsoft.AgFoodPlatform/farmBeats/parties/write"
+    "Microsoft.AgFoodPlatform/farmBeats/parties/write",
+    "Microsoft.AgFoodPlatform/farmBeats/datasets/write",
+    "Microsoft.AgFoodPlatform/farmBeats/datasetRecords/write",
+    "Microsoft.AgFoodPlatform/farmBeats/datasets/access/*/action"
   ],
   "AssignableScopes": [
     "/"

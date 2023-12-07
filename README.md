@@ -258,7 +258,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Snapshot Exporter](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) | [1c4770c0-34f7-4110-a1ea-a5855cc7a939](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
-| [Enclave Owner Role](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) | [3d5f3eff-eb94-473d-91e3-7aac74d6c0bb](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) |
 | [Enclave Reader Role](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) | [86fede04-b259-4277-8c3e-e26b9865abd8](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) |
 | [EventGrid Contributor](roles/1e241071-0855-49ea-94dc-649edcd759de.json) | [1e241071-0855-49ea-94dc-649edcd759de](roles/1e241071-0855-49ea-94dc-649edcd759de.json) |
 | [EventGrid Data Contributor](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) | [1d8c3fe3-8864-474b-8749-01e3783e8157](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) |

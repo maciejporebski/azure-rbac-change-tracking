@@ -89,10 +89,10 @@
     "Microsoft.KubernetesConfiguration/extensions/operations/read",
     "Microsoft.KubernetesConfiguration/namespaces/read",
     "Microsoft.KubernetesConfiguration/operations/read",
+    "Microsoft.HybridContainerService/register/action",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.AzureStackHCI/StorageContainers/Write",
-    "Microsoft.AzureStackHCI/StorageContainers/Read",
-    "Microsoft.HybridContainerService/register/action"
+    "Microsoft.AzureStackHCI/StorageContainers/Read"
   ],
   "NotActions": [],
   "DataActions": [],

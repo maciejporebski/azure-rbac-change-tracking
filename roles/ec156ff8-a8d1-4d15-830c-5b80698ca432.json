@@ -2,7 +2,7 @@
   "Name": "CDN Profile Contributor",
   "Id": "ec156ff8-a8d1-4d15-830c-5b80698ca432",
   "IsCustom": false,
-  "Description": "Can manage CDN and Azure Front Door standard and premium profiles and their endpoints, but can't grant access to other users.",
+  "Description": "Can manage CDN profiles and their endpoints, but can’t grant access to other users.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Cdn/edgenodes/read",

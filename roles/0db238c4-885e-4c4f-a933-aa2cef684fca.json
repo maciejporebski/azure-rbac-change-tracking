@@ -2,7 +2,7 @@
   "Name": "Azure Front Door Secret Reader",
   "Id": "0db238c4-885e-4c4f-a933-aa2cef684fca",
   "IsCustom": false,
-  "Description": "Can view Azure Front Door secrets, but can't make changes.",
+  "Description": "For internal use within Azure. Can view Azure Front Door secrets, but can't make changes.",
   "Actions": [
     "Microsoft.Cdn/operationresults/profileresults/secretresults/read",
     "Microsoft.Cdn/profiles/secrets/read",

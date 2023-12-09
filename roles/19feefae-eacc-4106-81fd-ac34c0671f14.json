@@ -1,0 +1,30 @@
+{
+  "Name": "Enclave Contributor Role",
+  "Id": "19feefae-eacc-4106-81fd-ac34c0671f14",
+  "IsCustom": false,
+  "Description": "Enclave Contributor Role to access the resources of Microsoft.Mission stored with RPSAAS.",
+  "Actions": [
+    "Microsoft.Mission/register/action",
+    "Microsoft.Mission/unregister/action",
+    "Microsoft.Mission/Locations/OperationStatuses/read",
+    "Microsoft.Mission/Locations/OperationStatuses/write",
+    "Microsoft.Mission/Operations/read",
+    "Microsoft.Mission/catalogs/read",
+    "Microsoft.Mission/catalogs/write",
+    "Microsoft.Mission/communities/read",
+    "Microsoft.Mission/internalConnections/read",
+    "Microsoft.Mission/internalConnections/write",
+    "Microsoft.Mission/virtualEnclaves/read",
+    "Microsoft.Mission/virtualEnclaves/write",
+    "Microsoft.Mission/virtualEnclaves/endpoints/read",
+    "Microsoft.Mission/virtualEnclaves/endpoints/write",
+    "Microsoft.Mission/virtualEnclaves/workloads/read",
+    "Microsoft.Mission/virtualEnclaves/workloads/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

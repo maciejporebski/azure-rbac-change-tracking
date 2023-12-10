@@ -2,7 +2,7 @@
   "Name": "Azure Front Door Secret Contributor",
   "Id": "3f2eb865-5811-4578-b90a-6fc6fa0df8e5",
   "IsCustom": false,
-  "Description": "For internal use within Azure. Can manage Azure Front Door secrets, but can't grant access to other users.",
+  "Description": "Can manage Azure Front Door secrets, but can't grant access to other users.",
   "Actions": [
     "Microsoft.Cdn/operationresults/profileresults/secretresults/read",
     "Microsoft.Cdn/profiles/secrets/read",

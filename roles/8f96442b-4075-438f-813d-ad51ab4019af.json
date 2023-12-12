@@ -2,7 +2,7 @@
   "Name": "CDN Profile Reader",
   "Id": "8f96442b-4075-438f-813d-ad51ab4019af",
   "IsCustom": false,
-  "Description": "Can view CDN profiles and their endpoints, but can’t make changes.",
+  "Description": "Can view CDN profiles and their endpoints, but can't make changes.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Cdn/edgenodes/read",
@@ -10,6 +10,7 @@
     "Microsoft.Cdn/profiles/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
+    "Microsoft.Cdn/profiles/afdendpoints/validateCustomDomain/action",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*"
   ],

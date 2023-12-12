@@ -2,7 +2,7 @@
   "Name": "CDN Endpoint Reader",
   "Id": "871e35f6-b5c1-49cc-a043-bde969a0f2cd",
   "IsCustom": false,
-  "Description": "Can view CDN endpoints, but can’t make changes.",
+  "Description": "Can view CDN endpoints, but can't make changes.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Cdn/edgenodes/read",

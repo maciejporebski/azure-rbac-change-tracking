@@ -2,7 +2,7 @@
   "Name": "CDN Endpoint Contributor",
   "Id": "426e0c7f-0c7e-4658-b36f-ff54d6c29b45",
   "IsCustom": false,
-  "Description": "Can manage CDN endpoints, but can’t grant access to other users.",
+  "Description": "Can manage CDN endpoints, but can't grant access to other users.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Cdn/edgenodes/read",

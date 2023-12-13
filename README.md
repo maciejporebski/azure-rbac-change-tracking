@@ -191,6 +191,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Collaborative Runtime Operator](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) | [7a6f0e70-c033-4fb1-828c-08514e5f4102](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) |
 | [Community Contributor Role](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) | [49435da6-99fe-48a5-a235-fc668b9dc04a](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) |
 | [Community Owner Role](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) | [5e28a61e-8040-49db-b175-bb5b88af6239](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) |
+| [Community Reader Role](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) | [e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) |
 | [Compute Diagnostics Role](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) | [df2711a6-406d-41cf-b366-b0250bff9ad1](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) |
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
@@ -258,6 +259,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Snapshot Exporter](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) | [1c4770c0-34f7-4110-a1ea-a5855cc7a939](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
+| [Enclave Contributor Role](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) | [19feefae-eacc-4106-81fd-ac34c0671f14](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) |
 | [Enclave Owner Role](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) | [3d5f3eff-eb94-473d-91e3-7aac74d6c0bb](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) |
 | [Enclave Reader Role](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) | [86fede04-b259-4277-8c3e-e26b9865abd8](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) |
 | [EventGrid Contributor](roles/1e241071-0855-49ea-94dc-649edcd759de.json) | [1e241071-0855-49ea-94dc-649edcd759de](roles/1e241071-0855-49ea-94dc-649edcd759de.json) |

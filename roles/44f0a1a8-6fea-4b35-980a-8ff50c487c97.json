@@ -1,0 +1,15 @@
+{
+  "Name": "Operator Nexus Key Vault Writer Service Role (Preview)",
+  "Id": "44f0a1a8-6fea-4b35-980a-8ff50c487c97",
+  "IsCustom": false,
+  "Description": "(Preview) Provides Azure Operator Nexus services the ability to write to a Key Vault. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.KeyVault/vaults/secrets/setSecret/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

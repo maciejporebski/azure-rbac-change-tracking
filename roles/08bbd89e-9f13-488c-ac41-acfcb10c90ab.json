@@ -1,0 +1,15 @@
+{
+  "Name": "Key Vault Crypto Service Release User",
+  "Id": "08bbd89e-9f13-488c-ac41-acfcb10c90ab",
+  "IsCustom": false,
+  "Description": "Release keys. Only works for key vaults that use the 'Azure role-based access control' permission model.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.KeyVault/vaults/keys/release/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

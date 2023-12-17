@@ -309,7 +309,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Key Vault Contributor](roles/f25e0fa2-a7c8-4377-a976-54943a77a395.json) | [f25e0fa2-a7c8-4377-a976-54943a77a395](roles/f25e0fa2-a7c8-4377-a976-54943a77a395.json) |
 | [Key Vault Crypto Officer](roles/14b46e9e-c2b7-41b4-b07b-48a6ebf60603.json) | [14b46e9e-c2b7-41b4-b07b-48a6ebf60603](roles/14b46e9e-c2b7-41b4-b07b-48a6ebf60603.json) |
 | [Key Vault Crypto Service Encryption User](roles/e147488a-f6f5-4113-8e2d-b22465e65bf6.json) | [e147488a-f6f5-4113-8e2d-b22465e65bf6](roles/e147488a-f6f5-4113-8e2d-b22465e65bf6.json) |
-| [Key Vault Crypto Service Release User](roles/08bbd89e-9f13-488c-ac41-acfcb10c90ab.json) | [08bbd89e-9f13-488c-ac41-acfcb10c90ab](roles/08bbd89e-9f13-488c-ac41-acfcb10c90ab.json) |
 | [Key Vault Crypto User](roles/12338af0-0e69-4776-bea7-57ae8d297424.json) | [12338af0-0e69-4776-bea7-57ae8d297424](roles/12338af0-0e69-4776-bea7-57ae8d297424.json) |
 | [Key Vault Data Access Administrator](roles/8b54135c-b56d-4d72-a534-26097cfdc8d8.json) | [8b54135c-b56d-4d72-a534-26097cfdc8d8](roles/8b54135c-b56d-4d72-a534-26097cfdc8d8.json) |
 | [Key Vault Reader](roles/21090545-7ca7-4776-b22c-e363652d74d2.json) | [21090545-7ca7-4776-b22c-e363652d74d2](roles/21090545-7ca7-4776-b22c-e363652d74d2.json) |
@@ -320,7 +319,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Kubernetes Cluster - Azure Arc Onboarding](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) | [34e09817-6cbe-4d01-b1a2-e0eac5743d41](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) |
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |
 | [Kubernetes Namespace User](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) | [ba79058c-0414-4a34-9e42-c3399d80cd5a](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) |
-| [KubernetesRuntime Storage Class Contributor Role](roles/0cd9749a-3aaf-4ae5-8803-bd217705bf3b.json) | [0cd9749a-3aaf-4ae5-8803-bd217705bf3b](roles/0cd9749a-3aaf-4ae5-8803-bd217705bf3b.json) |
 | [Lab Assistant](roles/ce40b423-cede-4313-a93f-9b28290b72e1.json) | [ce40b423-cede-4313-a93f-9b28290b72e1](roles/ce40b423-cede-4313-a93f-9b28290b72e1.json) |
 | [Lab Contributor](roles/5daaa2af-1fe8-407c-9122-bba179798270.json) | [5daaa2af-1fe8-407c-9122-bba179798270](roles/5daaa2af-1fe8-407c-9122-bba179798270.json) |
 | [Lab Creator](roles/b97fb8bc-a8b2-4522-a38b-dd33c7e65ead.json) | [b97fb8bc-a8b2-4522-a38b-dd33c7e65ead](roles/b97fb8bc-a8b2-4522-a38b-dd33c7e65ead.json) |

@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Programmable Connectivity Gateway User",
+  "Id": "609c0c20-e0a0-4a71-b99f-e7e755ac493d",
+  "IsCustom": false,
+  "Description": "Allows access to all Gateway dataplane APIs.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

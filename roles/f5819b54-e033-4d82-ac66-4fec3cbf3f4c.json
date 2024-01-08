@@ -15,13 +15,7 @@
     "Microsoft.HybridCompute/machines/extensions/write",
     "Microsoft.HybridCompute/machines/extensions/delete",
     "Microsoft.HybridCompute/*/read",
-    "Microsoft.HybridCompute/machines/UpgradeExtensions/action",
-    "Microsoft.HybridCompute/machines/licenseProfiles/read",
-    "Microsoft.HybridCompute/machines/licenseProfiles/write",
-    "Microsoft.HybridCompute/machines/licenseProfiles/delete",
-    "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
-    "Microsoft.GuestConfiguration/guestConfigurationAssignments/*/read",
-    "Microsoft.GuestConfiguration/guestConfigurationAssignments/write"
+    "Microsoft.HybridCompute/machines/UpgradeExtensions/action"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -106,6 +106,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Maps Data Read and Batch Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
 | [Azure Maps Data Reader](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) | [423170ca-a8f6-4b0f-8487-9e4eb8f49bfa](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) |
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
+| [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
 | [Azure Relay Sender](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) | [26baccc8-eea7-41f1-98f4-1762cc7f685d](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) |

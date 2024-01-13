@@ -10,6 +10,8 @@
     "Microsoft.DigitalTwins/digitaltwins/relationships/read",
     "Microsoft.DigitalTwins/eventroutes/read",
     "Microsoft.DigitalTwins/jobs/import/read",
+    "Microsoft.DigitalTwins/jobs/imports/read",
+    "Microsoft.DigitalTwins/jobs/deletions/read",
     "Microsoft.DigitalTwins/models/read",
     "Microsoft.DigitalTwins/query/action"
   ],

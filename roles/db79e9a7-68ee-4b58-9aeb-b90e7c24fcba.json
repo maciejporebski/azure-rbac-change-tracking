@@ -1,0 +1,18 @@
+{
+  "Name": "Key Vault Certificate User",
+  "Id": "db79e9a7-68ee-4b58-9aeb-b90e7c24fcba",
+  "IsCustom": false,
+  "Description": "Read certificate contents. Only works for key vaults that use the 'Azure role-based access control' permission model.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.KeyVault/vaults/certificates/read",
+    "Microsoft.KeyVault/vaults/secrets/getSecret/action",
+    "Microsoft.KeyVault/vaults/secrets/readMetadata/action",
+    "Microsoft.KeyVault/vaults/keys/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

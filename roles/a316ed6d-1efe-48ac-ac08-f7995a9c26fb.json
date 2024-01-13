@@ -1,0 +1,16 @@
+{
+  "Name": "Storage Account Encryption Scope Contributor Role",
+  "Id": "a316ed6d-1efe-48ac-ac08-f7995a9c26fb",
+  "IsCustom": false,
+  "Description": "Allows management of Encryption Scopes on a Storage Account",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/encryptionScopes/read",
+    "Microsoft.Storage/storageAccounts/encryptionScopes/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -14,6 +14,7 @@
     "Microsoft.Network/virtualNetworks/subnets/joinViaServiceEndpoint/action"
   ],
   "NotActions": [
+    "Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/*",
     "Microsoft.DocumentDB/databaseAccounts/readonlyKeys/*",
     "Microsoft.DocumentDB/databaseAccounts/regenerateKey/*",
     "Microsoft.DocumentDB/databaseAccounts/listKeys/*",

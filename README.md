@@ -306,6 +306,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [IoT Hub Twin Contributor](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) | [494bdba2-168f-4f31-a0a1-191d2f7c028c](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) |
 | [IPAM Pool Contributor](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) | [7b3e853f-ad5d-4fb5-a7b8-56a3581c7037](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) |
 | [Key Vault Administrator](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) | [00482a5a-887f-4fb3-b363-3b7fe8e74483](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) |
+| [Key Vault Certificate User](roles/db79e9a7-68ee-4b58-9aeb-b90e7c24fcba.json) | [db79e9a7-68ee-4b58-9aeb-b90e7c24fcba](roles/db79e9a7-68ee-4b58-9aeb-b90e7c24fcba.json) |
 | [Key Vault Certificates Officer](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) | [a4417e6f-fecd-4de8-b567-7b0420556985](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) |
 | [Key Vault Contributor](roles/f25e0fa2-a7c8-4377-a976-54943a77a395.json) | [f25e0fa2-a7c8-4377-a976-54943a77a395](roles/f25e0fa2-a7c8-4377-a976-54943a77a395.json) |
 | [Key Vault Crypto Officer](roles/14b46e9e-c2b7-41b4-b07b-48a6ebf60603.json) | [14b46e9e-c2b7-41b4-b07b-48a6ebf60603](roles/14b46e9e-c2b7-41b4-b07b-48a6ebf60603.json) |
@@ -437,6 +438,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
 | [Storage Account Backup Contributor](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) | [e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) |
 | [Storage Account Contributor](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) | [17d1049b-9a84-46fb-8f53-869881c3d3ab](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) |
+| [Storage Account Encryption Scope Contributor Role](roles/a316ed6d-1efe-48ac-ac08-f7995a9c26fb.json) | [a316ed6d-1efe-48ac-ac08-f7995a9c26fb](roles/a316ed6d-1efe-48ac-ac08-f7995a9c26fb.json) |
 | [Storage Account Key Operator Service Role](roles/81a9662b-bebf-436f-a333-f67b29880f12.json) | [81a9662b-bebf-436f-a333-f67b29880f12](roles/81a9662b-bebf-436f-a333-f67b29880f12.json) |
 | [Storage Blob Data Contributor](roles/ba92f5b4-2d11-453d-a403-e96b0029c9fe.json) | [ba92f5b4-2d11-453d-a403-e96b0029c9fe](roles/ba92f5b4-2d11-453d-a403-e96b0029c9fe.json) |
 | [Storage Blob Data Owner](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) | [b7e6dc6d-f1e8-4753-8033-0f276bb0955b](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) |

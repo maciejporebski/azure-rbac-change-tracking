@@ -49,6 +49,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure API Center Data Reader](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) | [c7244dfb-f447-457d-b2ba-3999044d1706](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) |
 | [Azure Arc Enabled Kubernetes Cluster User Role](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) | [00493d72-78f6-4148-b6c5-d3ce8e4799dd](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) |
 | [Azure Arc Kubernetes Admin](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) | [dffb1e0c-446f-4dde-a09f-99eb5cc68b96](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) |
 | [Azure Arc Kubernetes Cluster Admin](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) | [8393591c-06b9-48a2-a542-1bd6b377f6a2](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) |
@@ -74,6 +75,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
+| [Azure Edge On-Site Deployment Engineer](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) | [207bcc4b-86a6-4487-9141-d6c1f4c238aa](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) |
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
 | [Azure Event Hubs Data Sender](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) | [2b629674-e913-4c01-ae53-ef4638d8f975](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) |
@@ -118,8 +120,11 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Sphere Contributor](roles/8b9dfcab-4b77-4632-a6df-94bd07820648.json) | [8b9dfcab-4b77-4632-a6df-94bd07820648](roles/8b9dfcab-4b77-4632-a6df-94bd07820648.json) |
 | [Azure Sphere Publisher](roles/6d994134-994b-4a59-9974-f479f0b227fb.json) | [6d994134-994b-4a59-9974-f479f0b227fb](roles/6d994134-994b-4a59-9974-f479f0b227fb.json) |
 | [Azure Sphere Reader](roles/c8ae6279-5a0b-4cb2-b3f0-d4d62845742c.json) | [c8ae6279-5a0b-4cb2-b3f0-d4d62845742c](roles/c8ae6279-5a0b-4cb2-b3f0-d4d62845742c.json) |
+| [Azure Spring Apps Application Configuration Service Log Reader Role](roles/6593e776-2a30-40f9-8a32-4fe28b77655d.json) | [6593e776-2a30-40f9-8a32-4fe28b77655d](roles/6593e776-2a30-40f9-8a32-4fe28b77655d.json) |
 | [Azure Spring Apps Connect Role](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) | [80558df3-64f9-4c0f-b32d-e5094b036b0b](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) |
+| [Azure Spring Apps Managed Components Log Reader Role](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) | [52fd16bd-6ed5-46af-9c40-29cbd7952a29](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) |
 | [Azure Spring Apps Remote Debugging Role](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) | [a99b0159-1064-4c22-a57b-c9b3caa1c054](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) |
+| [Azure Spring Apps Spring Cloud Gateway Log Reader Role](roles/4301dc2a-25a9-44b0-ae63-3636cf7f2bd2.json) | [4301dc2a-25a9-44b0-ae63-3636cf7f2bd2](roles/4301dc2a-25a9-44b0-ae63-3636cf7f2bd2.json) |
 | [Azure Spring Cloud Config Server Contributor](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) | [a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) |
 | [Azure Spring Cloud Config Server Reader](roles/d04c6db6-4947-4782-9e91-30a88feb7be7.json) | [d04c6db6-4947-4782-9e91-30a88feb7be7](roles/d04c6db6-4947-4782-9e91-30a88feb7be7.json) |
 | [Azure Spring Cloud Data Reader](roles/b5537268-8956-4941-a8f0-646150406f0c.json) | [b5537268-8956-4941-a8f0-646150406f0c](roles/b5537268-8956-4941-a8f0-646150406f0c.json) |

@@ -1,0 +1,15 @@
+{
+  "Name": "Azure Spring Apps Managed Components Log Reader Role",
+  "Id": "52fd16bd-6ed5-46af-9c40-29cbd7952a29",
+  "IsCustom": false,
+  "Description": "Read real-time logs for all managed components in Azure Spring Apps",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppPlatform/Spring/managedComponents/logstream/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

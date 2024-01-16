@@ -1,0 +1,15 @@
+{
+  "Name": "Azure API Center Data Reader",
+  "Id": "c7244dfb-f447-457d-b2ba-3999044d1706",
+  "IsCustom": false,
+  "Description": "Allows for access to Azure API Center data plane read operations.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ApiCenter/services/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

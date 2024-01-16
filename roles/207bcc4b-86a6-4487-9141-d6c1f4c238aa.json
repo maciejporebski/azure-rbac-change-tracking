@@ -1,0 +1,16 @@
+{
+  "Name": "Azure Edge On-Site Deployment Engineer",
+  "Id": "207bcc4b-86a6-4487-9141-d6c1f4c238aa",
+  "IsCustom": false,
+  "Description": "Grants you access to take actions as an on-site person to assist in the provisioning of an edge device",
+  "Actions": [
+    "Microsoft.EdgeOrder/bootstrapConfigurations/read",
+    "Microsoft.EdgeOrder/bootstrapConfigurations/uploadArtifacts/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

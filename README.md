@@ -85,6 +85,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Front Door Profile Reader](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) | [662802e2-50f6-46b0-aed2-e834bacc6d12](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) |
 | [Azure Front Door Secret Contributor](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) | [3f2eb865-5811-4578-b90a-6fc6fa0df8e5](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) |
 | [Azure Front Door Secret Reader](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) | [0db238c4-885e-4c4f-a933-aa2cef684fca](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) |
+| [Azure impact-insight reader](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) | [dfb2f09d-25f8-4558-8986-497084006d7a](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) |
 | [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
 | [Azure Kubernetes Fleet Manager RBAC Admin](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) | [434fb43a-c01c-447e-9f67-c3ad923cfaba](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Admin](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) | [18ab4d3d-a1bf-4477-8ad9-8359bc988f69](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) |

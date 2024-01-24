@@ -1,0 +1,15 @@
+{
+  "Name": "Azure impact-insight reader",
+  "Id": "dfb2f09d-25f8-4558-8986-497084006d7a",
+  "IsCustom": false,
+  "Description": "built-in role for azure impact-insight read access",
+  "Actions": [
+    "Microsoft.Impact/WorkloadImpacts/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

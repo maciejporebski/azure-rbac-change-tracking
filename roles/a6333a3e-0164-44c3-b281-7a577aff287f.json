@@ -19,6 +19,8 @@
     "Microsoft.Network/networkSecurityGroups/securityRules/write",
     "Microsoft.HybridConnectivity/endpoints/write",
     "Microsoft.HybridConnectivity/endpoints/read",
+    "Microsoft.HybridConnectivity/endpoints/serviceConfigurations/write",
+    "Microsoft.HybridConnectivity/endpoints/serviceConfigurations/read",
     "Microsoft.HybridConnectivity/endpoints/listManagedProxyDetails/action",
     "Microsoft.Compute/virtualMachines/read",
     "Microsoft.Compute/virtualMachines/patchAssessmentResults/latest/read",

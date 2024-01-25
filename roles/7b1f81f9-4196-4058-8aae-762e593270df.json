@@ -13,6 +13,8 @@
     "Microsoft.ResourceConnector/locations/operationsstatus/read",
     "Microsoft.ResourceConnector/appliances/listClusterUserCredential/action",
     "Microsoft.ResourceConnector/appliances/listKeys/action",
+    "Microsoft.ResourceConnector/appliances/upgradeGraphs/read",
+    "Microsoft.ResourceConnector/telemetryconfig/read",
     "Microsoft.ResourceConnector/operations/read",
     "Microsoft.ExtendedLocation/register/action",
     "Microsoft.ExtendedLocation/customLocations/deploy/action",

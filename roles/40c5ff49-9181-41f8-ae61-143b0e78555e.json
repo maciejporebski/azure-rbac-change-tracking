@@ -2,7 +2,7 @@
   "Name": "Desktop Virtualization Power On Off Contributor",
   "Id": "40c5ff49-9181-41f8-ae61-143b0e78555e",
   "IsCustom": false,
-  "Description": "This role is in preview and subject to change. Provide permission to the Azure Virtual Desktop Resource Provider to start and stop virtual machines.",
+  "Description": "Provide permission to the Azure Virtual Desktop Resource Provider to start and stop virtual machines.",
   "Actions": [
     "Microsoft.Compute/virtualMachines/start/action",
     "Microsoft.Compute/virtualMachines/read",

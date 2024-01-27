@@ -9,6 +9,7 @@
     "Microsoft.SecurityInsights/automationRules/*",
     "Microsoft.SecurityInsights/cases/*",
     "Microsoft.SecurityInsights/incidents/*",
+    "Microsoft.SecurityInsights/entities/runPlaybook/action",
     "Microsoft.SecurityInsights/threatIntelligence/indicators/appendTags/action",
     "Microsoft.SecurityInsights/threatIntelligence/indicators/query/action",
     "Microsoft.SecurityInsights/threatIntelligence/bulkTag/action",

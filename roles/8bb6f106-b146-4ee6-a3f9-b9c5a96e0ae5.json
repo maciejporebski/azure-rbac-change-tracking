@@ -1,0 +1,13 @@
+{
+  "Name": "Defender Kubernetes Agent Operator",
+  "Id": "8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for Cloud permissions to provision the Kubernetes defender security agent",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

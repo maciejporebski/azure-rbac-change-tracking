@@ -219,7 +219,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
-| [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [DeID Batch Data Owner](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) | [8a90fa6b-6997-4a07-8a95-30633a7c97b9](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) |
 | [DeID Batch Data Reader](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) | [b73a14ee-91f5-41b7-bd81-920e12466be9](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) |
 | [DeID Realtime Data User](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) | [bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) |

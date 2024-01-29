@@ -14,7 +14,6 @@
     "Microsoft.AzureSphere/catalogs/certificates/retrieveProofOfPossessionNonce/action",
     "Microsoft.AzureSphere/catalogs/certificates/retrieveCertChain/action",
     "Microsoft.AzureSphere/catalogs/images/write",
-    "Microsoft.AzureSphere/catalogs/uploadImage/action",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Insights/DiagnosticSettings/Read"

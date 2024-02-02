@@ -1,0 +1,13 @@
+{
+  "Name": "Azure RedHat OpenShift Machine API Operator Role",
+  "Id": "0358943c-7e01-48ba-8889-02cc51d78637",
+  "IsCustom": false,
+  "Description": "Enables permissions for the operator to manage the lifecycle of specific purpose custom resource definitions (CRD), controllers, and RBAC objects that extend the Kubernetes API. This declares the desired state of machines in a cluster.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

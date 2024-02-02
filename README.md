@@ -110,6 +110,14 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Maps Data Reader](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) | [423170ca-a8f6-4b0f-8487-9e4eb8f49bfa](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) |
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
+| [Azure RedHat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
+| [Azure RedHat OpenShift Cloud Controller Manager Role](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
+| [Azure RedHat OpenShift Cluster Ingress Operator Role](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) | [0336e1d3-7a87-462b-b6db-342b63f7802c](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) |
+| [Azure RedHat OpenShift Image Registry Operator Role](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
+| [Azure RedHat OpenShift Machine API Operator Role](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
+| [Azure RedHat OpenShift Network Operator Role](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
+| [Azure RedHat OpenShift Service Operator](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) | [4436bae4-7702-4c84-919b-c4069ff25ee2](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) |
+| [Azure RedHat OpenShift Storage Operator Role](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
 | [Azure Relay Sender](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) | [26baccc8-eea7-41f1-98f4-1762cc7f685d](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) |

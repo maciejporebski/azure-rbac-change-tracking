@@ -1,0 +1,13 @@
+{
+  "Name": "Azure RedHat OpenShift Cloud Controller Manager Role",
+  "Id": "a1f96423-95ce-4224-ab27-4e3dc72facd4",
+  "IsCustom": false,
+  "Description": "Enables permissions for the operator to manage and update the cloud controller managers deployed on top of OpenShift.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

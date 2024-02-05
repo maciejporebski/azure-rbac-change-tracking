@@ -127,6 +127,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Service Bus Data Receiver](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) | [4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0](roles/4f6d3b9b-027b-4f4c-9142-0e5a2a2247e0.json) |
 | [Azure Service Bus Data Sender](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) | [69a216fc-b8fb-44d8-bc22-1f3c2cd27a39](roles/69a216fc-b8fb-44d8-bc22-1f3c2cd27a39.json) |
 | [Azure Sphere Contributor](roles/8b9dfcab-4b77-4632-a6df-94bd07820648.json) | [8b9dfcab-4b77-4632-a6df-94bd07820648](roles/8b9dfcab-4b77-4632-a6df-94bd07820648.json) |
+| [Azure Sphere Owner](roles/5a382001-fe36-41ff-bba4-8bf06bd54da9.json) | [5a382001-fe36-41ff-bba4-8bf06bd54da9](roles/5a382001-fe36-41ff-bba4-8bf06bd54da9.json) |
 | [Azure Sphere Publisher](roles/6d994134-994b-4a59-9974-f479f0b227fb.json) | [6d994134-994b-4a59-9974-f479f0b227fb](roles/6d994134-994b-4a59-9974-f479f0b227fb.json) |
 | [Azure Sphere Reader](roles/c8ae6279-5a0b-4cb2-b3f0-d4d62845742c.json) | [c8ae6279-5a0b-4cb2-b3f0-d4d62845742c](roles/c8ae6279-5a0b-4cb2-b3f0-d4d62845742c.json) |
 | [Azure Spring Apps Application Configuration Service Log Reader Role](roles/6593e776-2a30-40f9-8a32-4fe28b77655d.json) | [6593e776-2a30-40f9-8a32-4fe28b77655d](roles/6593e776-2a30-40f9-8a32-4fe28b77655d.json) |

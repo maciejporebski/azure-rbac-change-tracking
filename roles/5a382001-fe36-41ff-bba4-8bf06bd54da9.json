@@ -1,0 +1,27 @@
+{
+  "Name": "Azure Sphere Owner",
+  "Id": "5a382001-fe36-41ff-bba4-8bf06bd54da9",
+  "IsCustom": false,
+  "Description": "Allows user read and write access to Azure Sphere resources and RBAC configuration, includes an ABAC condition to constrain role assignments.",
+  "Actions": [
+    "Microsoft.AzureSphere/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Management/managementGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

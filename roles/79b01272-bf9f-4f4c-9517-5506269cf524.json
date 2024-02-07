@@ -1,8 +1,8 @@
 {
-  "Name": "Cognitive Search Serverless Data Reader (Deprecated)",
+  "Name": "Cognitive Search Serverless Data Reader",
   "Id": "79b01272-bf9f-4f4c-9517-5506269cf524",
   "IsCustom": false,
-  "Description": "This role has been deprecated",
+  "Description": "Read Cognitive Search serverless index schema and documents. This role is in preview and subject to change.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

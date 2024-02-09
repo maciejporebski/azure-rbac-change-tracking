@@ -1,5 +1,5 @@
 {
-  "Name": "IPAM Pool Contributor",
+  "Name": "IPAM Pool User",
   "Id": "7b3e853f-ad5d-4fb5-a7b8-56a3581c7037",
   "IsCustom": false,
   "Description": "Read IPAM Pools and child resources. Create and remove associations. This role is in preview and subject to change.",

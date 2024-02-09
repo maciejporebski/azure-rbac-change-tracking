@@ -1,8 +1,8 @@
 {
-  "Name": "Cognitive Search Serverless Data Contributor",
+  "Name": "Cognitive Search Serverless Data Contributor (Deprecated)",
   "Id": "7ac06ca7-21ca-47e3-a67b-cbd6e6223baf",
   "IsCustom": false,
-  "Description": "Create, read, modify and delete Cognitive Search serverless index schema and documents. This role is in preview and subject to change.",
+  "Description": "This role has been deprecated",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

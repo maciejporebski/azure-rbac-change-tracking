@@ -176,8 +176,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
 | [Code Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
 | [Code Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
-| [Cognitive Search Serverless Data Contributor](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
-| [Cognitive Search Serverless Data Reader](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) | [79b01272-bf9f-4f4c-9517-5506269cf524](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) |
+| [Cognitive Search Serverless Data Contributor (Deprecated)](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
+| [Cognitive Search Serverless Data Reader (Deprecated)](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) | [79b01272-bf9f-4f4c-9517-5506269cf524](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) |
 | [Cognitive Services Contributor](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) | [25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) |
 | [Cognitive Services Custom Vision Contributor](roles/c1ff6cc2-c111-46fe-8896-e0ef812ad9f3.json) | [c1ff6cc2-c111-46fe-8896-e0ef812ad9f3](roles/c1ff6cc2-c111-46fe-8896-e0ef812ad9f3.json) |
 | [Cognitive Services Custom Vision Deployment](roles/5c4089e1-6d96-4d2f-b296-c1bc7137275f.json) | [5c4089e1-6d96-4d2f-b296-c1bc7137275f](roles/5c4089e1-6d96-4d2f-b296-c1bc7137275f.json) |
@@ -320,7 +320,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [IoT Hub Data Reader](roles/b447c946-2db7-41ec-983d-d8bf3b1c77e3.json) | [b447c946-2db7-41ec-983d-d8bf3b1c77e3](roles/b447c946-2db7-41ec-983d-d8bf3b1c77e3.json) |
 | [IoT Hub Registry Contributor](roles/4ea46cd5-c1b2-4a8e-910b-273211f9ce47.json) | [4ea46cd5-c1b2-4a8e-910b-273211f9ce47](roles/4ea46cd5-c1b2-4a8e-910b-273211f9ce47.json) |
 | [IoT Hub Twin Contributor](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) | [494bdba2-168f-4f31-a0a1-191d2f7c028c](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) |
-| [IPAM Pool Contributor](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) | [7b3e853f-ad5d-4fb5-a7b8-56a3581c7037](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) |
+| [IPAM Pool User](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) | [7b3e853f-ad5d-4fb5-a7b8-56a3581c7037](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) |
 | [Key Vault Administrator](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) | [00482a5a-887f-4fb3-b363-3b7fe8e74483](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) |
 | [Key Vault Certificate User](roles/db79e9a7-68ee-4b58-9aeb-b90e7c24fcba.json) | [db79e9a7-68ee-4b58-9aeb-b90e7c24fcba](roles/db79e9a7-68ee-4b58-9aeb-b90e7c24fcba.json) |
 | [Key Vault Certificates Officer](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) | [a4417e6f-fecd-4de8-b567-7b0420556985](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) |

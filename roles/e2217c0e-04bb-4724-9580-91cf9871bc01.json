@@ -1,0 +1,29 @@
+{
+  "Name": "GroupQuota Request Operator",
+  "Id": "e2217c0e-04bb-4724-9580-91cf9871bc01",
+  "IsCustom": false,
+  "Description": "Read and create GroupQuota requests, get GroupQuota request status, and get groupQuotaLimits.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/read",
+    "MICROSOFT.QUOTA/QUOTAS/WRITE",
+    "MICROSOFT.QUOTA/QUOTAS/READ",
+    "MICROSOFT.QUOTA/USAGES/READ",
+    "MICROSOFT.QUOTA/QUOTAREQUESTS/READ",
+    "MICROSOFT.QUOTA/REGISTER/ACTION",
+    "Microsoft.Quota/GROUPQUOTAS/READ",
+    "Microsoft.Quota/GROUPQUOTAS/subscriptions/READ",
+    "Microsoft.Quota/GROUPQUOTAS/groupQuotaLimits/READ",
+    "Microsoft.Quota/GROUPQUOTAS/quotaAllocations/READ",
+    "Microsoft.Quota/GROUPQUOTAS/WRITE",
+    "Microsoft.Quota/GROUPQUOTAS/subscriptions/WRITE",
+    "Microsoft.Quota/GROUPQUOTAS/groupQuotaLimits/WRITE",
+    "Microsoft.Quota/GROUPQUOTAS/quotaAllocations/WRITE"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

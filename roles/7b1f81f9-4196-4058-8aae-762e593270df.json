@@ -4,6 +4,7 @@
   "IsCustom": false,
   "Description": "Azure Resource Bridge Deployment Role",
   "Actions": [
+    "Microsoft.Authorization/roleassignments/read",
     "Microsoft.AzureStackHCI/Register/Action",
     "Microsoft.ResourceConnector/register/action",
     "Microsoft.ResourceConnector/appliances/read",

@@ -1,0 +1,20 @@
+{
+  "Name": "GeoCatalog Reader",
+  "Id": "b7b8f583-43d0-40ae-b147-6b46f53661c1",
+  "IsCustom": false,
+  "Description": "View GeoCatalogs, but does not allow you to make any changes.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Orbital/operations/read",
+    "Microsoft.Orbital/geoCatalogs/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

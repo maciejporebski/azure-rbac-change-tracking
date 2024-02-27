@@ -33,6 +33,10 @@
     "Microsoft.KubernetesConfiguration/operations/read",
     "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
     "Microsoft.HybridContainerService/register/action",
+    "Microsoft.HybridContainerService/kubernetesVersions/read",
+    "Microsoft.HybridContainerService/kubernetesVersions/write",
+    "Microsoft.HybridContainerService/skus/read",
+    "Microsoft.HybridContainerService/skus/write",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.AzureStackHCI/StorageContainers/Write",
     "Microsoft.AzureStackHCI/StorageContainers/Read"

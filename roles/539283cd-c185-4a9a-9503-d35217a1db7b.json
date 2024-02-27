@@ -1,0 +1,20 @@
+{
+  "Name": "Bayer Ag Powered Services Smart Boundary Solution User Role",
+  "Id": "539283cd-c185-4a9a-9503-d35217a1db7b",
+  "IsCustom": false,
+  "Description": "Provide access to Smart Boundary Solution by Bayer Ag Powered Services",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AgFoodPlatform/farmBeats/parties/fields/read",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/fields/write",
+    "Microsoft.AgFoodPlatform/farmBeats/ingestionJobs/satelliteDataIngestionJobs/*",
+    "Microsoft.AgFoodPlatform/farmBeats/scenes/*",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insights/*",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insightAttachments/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Advisor Recommendations Contributor",
+  "Id": "6b534d80-e337-47c4-864f-140f5c7f593d",
+  "IsCustom": false,
+  "Description": "Can update status of Advisor recommendations including postpone and dismiss operations.",
+  "Actions": [
+    "Microsoft.Advisor/recommendations/read",
+    "Microsoft.Advisor/recommendations/write",
+    "Microsoft.Advisor/recommendations/available/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

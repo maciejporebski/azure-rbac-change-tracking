@@ -1,0 +1,15 @@
+{
+  "Name": "Health Bot Admin",
+  "Id": "f1082fec-a70f-419f-9230-885d2550fb38",
+  "IsCustom": false,
+  "Description": "Users with admin access can sign in, view and edit all of the bot resources, scenarios and configuration setting including the bot instance keys & secrets.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthBot/healthBots/Admin/Action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Health Bot Reader",
+  "Id": "eb5a76d5-50e7-4c33-a449-070e7c9c4cf2",
+  "IsCustom": false,
+  "Description": "Users with reader access can sign in, have read-only access to the bot resources, scenarios and configuration setting except for the bot instance keys & secrets (including Authentication, Data Connection and Channels keys) and the end-user inputs (including Feedback, Unrecognized utterances and Conversation logs).",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthBot/healthBots/Reader/Action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

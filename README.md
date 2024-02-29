@@ -49,7 +49,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Avere Contributor](roles/4f8fab4f-1852-4a58-a46a-8eaf358af14a.json) | [4f8fab4f-1852-4a58-a46a-8eaf358af14a](roles/4f8fab4f-1852-4a58-a46a-8eaf358af14a.json) |
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
-| [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
 | [Azure API Center Data Reader](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) | [c7244dfb-f447-457d-b2ba-3999044d1706](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) |
 | [Azure Arc Enabled Kubernetes Cluster User Role](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) | [00493d72-78f6-4148-b6c5-d3ce8e4799dd](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) |
@@ -159,7 +158,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Bayer Ag Powered Services CWUM Solution](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
 | [Bayer Ag Powered Services GDU Solution](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) | [c4bc862a-3b64-4a35-a021-a380c159b042](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) |
 | [Bayer Ag Powered Services Imagery Solution](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) | [ef29765d-0d37-4119-a4f8-f9f9902c9588](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) |
-| [Bayer Ag Powered Services Smart Boundary Solution User Role](roles/539283cd-c185-4a9a-9503-d35217a1db7b.json) | [539283cd-c185-4a9a-9503-d35217a1db7b](roles/539283cd-c185-4a9a-9503-d35217a1db7b.json) |
 | [Billing Reader](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) | [fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) |
 | [BizTalk Contributor](roles/5e3c6656-6cfa-4708-81fe-0de47ac73342.json) | [5e3c6656-6cfa-4708-81fe-0de47ac73342](roles/5e3c6656-6cfa-4708-81fe-0de47ac73342.json) |
 | [Blockchain Member Node Access (Preview)](roles/31a002a1-acaf-453e-8a5b-297c9ca1ea24.json) | [31a002a1-acaf-453e-8a5b-297c9ca1ea24](roles/31a002a1-acaf-453e-8a5b-297c9ca1ea24.json) |
@@ -302,8 +300,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR Data Writer](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) | [3f88fce4-5892-4214-ae73-ba5294559913](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) |
 | [FHIR SMART User](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) | [4ba50f17-9666-485c-a643-ff00808643f0](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) |
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
-| [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
-| [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |
 | [Grafana Editor](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) | [a79a5197-3a5c-4973-a920-486035ffd60f](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) |
 | [Grafana Viewer](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) | [60921a7e-fef1-4a43-9b16-a26c52ad4769](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) |
@@ -315,9 +311,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [HDInsight Domain Services Contributor](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) | [8d8d5a11-05d3-4bda-a417-a08778121c7c](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) |
 | [HDInsight on AKS Cluster Admin](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) | [fd036e6b-1266-47a0-b0bb-a05d04831731](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) |
 | [HDInsight on AKS Cluster Pool Admin](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) | [7656b436-37d4-490a-a4ab-d39f838f0042](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) |
-| [Health Bot Admin](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) | [f1082fec-a70f-419f-9230-885d2550fb38](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) |
-| [Health Bot Editor](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) | [af854a69-80ce-4ff7-8447-f1118a2e0ca8](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) |
-| [Health Bot Reader](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) | [eb5a76d5-50e7-4c33-a449-070e7c9c4cf2](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |

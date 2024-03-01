@@ -158,6 +158,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Bayer Ag Powered Services CWUM Solution](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
 | [Bayer Ag Powered Services GDU Solution](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) | [c4bc862a-3b64-4a35-a021-a380c159b042](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) |
 | [Bayer Ag Powered Services Imagery Solution](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) | [ef29765d-0d37-4119-a4f8-f9f9902c9588](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) |
+| [Bayer Ag Powered Services Smart Boundary Solution User Role](roles/539283cd-c185-4a9a-9503-d35217a1db7b.json) | [539283cd-c185-4a9a-9503-d35217a1db7b](roles/539283cd-c185-4a9a-9503-d35217a1db7b.json) |
 | [Billing Reader](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) | [fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) |
 | [BizTalk Contributor](roles/5e3c6656-6cfa-4708-81fe-0de47ac73342.json) | [5e3c6656-6cfa-4708-81fe-0de47ac73342](roles/5e3c6656-6cfa-4708-81fe-0de47ac73342.json) |
 | [Blockchain Member Node Access (Preview)](roles/31a002a1-acaf-453e-8a5b-297c9ca1ea24.json) | [31a002a1-acaf-453e-8a5b-297c9ca1ea24](roles/31a002a1-acaf-453e-8a5b-297c9ca1ea24.json) |
@@ -300,6 +301,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR Data Writer](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) | [3f88fce4-5892-4214-ae73-ba5294559913](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) |
 | [FHIR SMART User](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) | [4ba50f17-9666-485c-a643-ff00808643f0](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) |
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
+| [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
+| [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |
 | [Grafana Editor](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) | [a79a5197-3a5c-4973-a920-486035ffd60f](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) |
 | [Grafana Viewer](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) | [60921a7e-fef1-4a43-9b16-a26c52ad4769](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) |

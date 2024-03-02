@@ -2,7 +2,7 @@
   "Name": "Azure AI Enterprise Network Connection Approver",
   "Id": "b556d68e-0be0-4f35-a333-ad7ee1ce17ea",
   "IsCustom": false,
-  "Description": "Can approve private endpoint connections to Azure AI common dependency resource",
+  "Description": "Can approve private endpoint connections to Azure AI common dependency resources",
   "Actions": [
     "Microsoft.ContainerRegistry/registries/privateEndpointConnectionsApproval/action",
     "Microsoft.ContainerRegistry/registries/privateEndpointConnections/read",

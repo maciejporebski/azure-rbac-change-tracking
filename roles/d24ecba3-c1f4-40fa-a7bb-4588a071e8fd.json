@@ -6,7 +6,6 @@
   "Actions": [
     "Microsoft.Compute/disks/read",
     "Microsoft.Compute/disks/beginGetAccess/action",
-    "Microsoft.Compute/diskEncryptionSets/read",
     "Microsoft.Compute/virtualMachines/instanceView/read",
     "Microsoft.Compute/virtualMachines/read",
     "Microsoft.Compute/virtualMachineScaleSets/instanceView/read",

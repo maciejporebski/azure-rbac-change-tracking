@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Kubernetes Service Arc Cluster Admin Role",
+  "Id": "b29efa5f-7782-4dc3-9537-4d5bc70a5e9f",
+  "IsCustom": false,
+  "Description": "List cluster admin credential action.",
+  "Actions": [
+    "Microsoft.HybridContainerService/provisionedClusterInstances/read",
+    "Microsoft.HybridContainerService/provisionedClusterInstances/listAdminKubeconfig/action",
+    "Microsoft.Kubernetes/connectedClusters/Read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

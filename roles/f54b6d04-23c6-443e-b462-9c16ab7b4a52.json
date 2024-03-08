@@ -1,0 +1,17 @@
+{
+  "Name": "Backup MUA Operator",
+  "Id": "f54b6d04-23c6-443e-b462-9c16ab7b4a52",
+  "IsCustom": false,
+  "Description": "Backup MultiUser-Authorization. Allows user to perform critical operation protected by resourceguard",
+  "Actions": [
+    "Microsoft.DataProtection/*/action",
+    "Microsoft.DataProtection/*/read",
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

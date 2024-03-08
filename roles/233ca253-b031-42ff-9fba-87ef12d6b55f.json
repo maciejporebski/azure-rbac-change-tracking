@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Kubernetes Service Arc Cluster User Role",
+  "Id": "233ca253-b031-42ff-9fba-87ef12d6b55f",
+  "IsCustom": false,
+  "Description": "List cluster user credential action.",
+  "Actions": [
+    "Microsoft.HybridContainerService/provisionedClusterInstances/read",
+    "Microsoft.HybridContainerService/provisionedClusterInstances/listUserKubeconfig/action",
+    "Microsoft.Kubernetes/connectedClusters/Read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

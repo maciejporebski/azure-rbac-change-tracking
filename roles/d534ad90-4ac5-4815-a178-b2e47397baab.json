@@ -1,0 +1,17 @@
+{
+  "Name": "Savings plan Reader",
+  "Id": "d534ad90-4ac5-4815-a178-b2e47397baab",
+  "IsCustom": false,
+  "Description": "Lets you read all savings plans in a tenant",
+  "Actions": [
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.BillingBenefits/savingsPlanOrders/read",
+    "Microsoft.BillingBenefits/savingsPlanOrders/savingsPlans/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

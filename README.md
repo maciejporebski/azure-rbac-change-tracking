@@ -431,6 +431,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Resource Policy Contributor](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) | [36243c78-bf99-498c-9df9-86d9f8d28608](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) |
 | [Role Based Access Control Administrator](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) | [f58310d9-a9f6-439a-9e8d-f62e7b41a168](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) |
 | [SaaS Hub Contributor](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) | [e9b8712a-cbcf-4ea7-b0f7-e71b803401e6](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) |
+| [Savings plan Reader](roles/d534ad90-4ac5-4815-a178-b2e47397baab.json) | [d534ad90-4ac5-4815-a178-b2e47397baab](roles/d534ad90-4ac5-4815-a178-b2e47397baab.json) |
 | [Scheduled Patching Contributor](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) | [cd08ab90-6b14-449c-ad9a-8f8e549482c6](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) |
 | [Scheduler Job Collections Contributor](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) | [188a0f2f-5c9e-469b-ae67-2aa5ce574b94](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) |
 | [Schema Registry Contributor (Preview)](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) | [5dffeca3-4936-4216-b2bc-10343a5abb25](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) |

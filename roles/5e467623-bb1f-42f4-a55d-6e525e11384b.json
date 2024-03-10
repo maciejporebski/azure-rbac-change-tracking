@@ -2,7 +2,7 @@
   "Name": "Backup Contributor",
   "Id": "5e467623-bb1f-42f4-a55d-6e525e11384b",
   "IsCustom": false,
-  "Description": "Lets you manage backup service,but can't create vaults and give access to others",
+  "Description": "Lets you manage backups, but can't delete vaults and give access to others",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Network/virtualNetworks/read",

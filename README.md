@@ -94,9 +94,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Fleet Manager RBAC Cluster Admin](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) | [18ab4d3d-a1bf-4477-8ad9-8359bc988f69](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) |
 | [Azure Kubernetes Fleet Manager RBAC Reader](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) | [30b27cfc-9c84-438e-b0ce-70e35255df80](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) |
 | [Azure Kubernetes Fleet Manager RBAC Writer](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) | [5af6afb3-c06c-4fa4-8848-71a8aee05683](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) |
-| [Azure Kubernetes Service Arc Cluster Admin Role](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) | [b29efa5f-7782-4dc3-9537-4d5bc70a5e9f](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) |
-| [Azure Kubernetes Service Arc Cluster User Role](roles/233ca253-b031-42ff-9fba-87ef12d6b55f.json) | [233ca253-b031-42ff-9fba-87ef12d6b55f](roles/233ca253-b031-42ff-9fba-87ef12d6b55f.json) |
-| [Azure Kubernetes Service Arc Contributor Role](roles/5d3f1697-4507-4d08-bb4a-477695db5f82.json) | [5d3f1697-4507-4d08-bb4a-477695db5f82](roles/5d3f1697-4507-4d08-bb4a-477695db5f82.json) |
 | [Azure Kubernetes Service Cluster Admin Role](roles/0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8.json) | [0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8](roles/0ab0b1a8-8aac-4efd-b8c2-3ee1fb270be8.json) |
 | [Azure Kubernetes Service Cluster Monitoring User](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) | [1afdec4b-e479-420e-99e7-f82237c7c5e6](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) |
 | [Azure Kubernetes Service Cluster User Role](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) | [4abbcc35-e782-43d8-92c5-2d3f1bd2253f](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) |
@@ -158,8 +155,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AzureML Metrics Writer (preview)](roles/635dd51f-9968-44d3-b7fb-6d9a6bd613ae.json) | [635dd51f-9968-44d3-b7fb-6d9a6bd613ae](roles/635dd51f-9968-44d3-b7fb-6d9a6bd613ae.json) |
 | [AzureML Registry User](roles/1823dd4f-9b8c-4ab6-ab4e-7397a3684615.json) | [1823dd4f-9b8c-4ab6-ab4e-7397a3684615](roles/1823dd4f-9b8c-4ab6-ab4e-7397a3684615.json) |
 | [Backup Contributor](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) | [5e467623-bb1f-42f4-a55d-6e525e11384b](roles/5e467623-bb1f-42f4-a55d-6e525e11384b.json) |
-| [Backup MUA Admin](roles/c2a970b4-16a7-4a51-8c84-8a8ea6ee0bb8.json) | [c2a970b4-16a7-4a51-8c84-8a8ea6ee0bb8](roles/c2a970b4-16a7-4a51-8c84-8a8ea6ee0bb8.json) |
-| [Backup MUA Operator](roles/f54b6d04-23c6-443e-b462-9c16ab7b4a52.json) | [f54b6d04-23c6-443e-b462-9c16ab7b4a52](roles/f54b6d04-23c6-443e-b462-9c16ab7b4a52.json) |
 | [Backup Operator](roles/00c29273-979b-4161-815c-10b084fb9324.json) | [00c29273-979b-4161-815c-10b084fb9324](roles/00c29273-979b-4161-815c-10b084fb9324.json) |
 | [Backup Reader](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) | [a795c7a0-d4a2-40c1-ae25-d81f01202912](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) |
 | [Bayer Ag Powered Services CWUM Solution](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
@@ -431,7 +426,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Resource Policy Contributor](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) | [36243c78-bf99-498c-9df9-86d9f8d28608](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) |
 | [Role Based Access Control Administrator](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) | [f58310d9-a9f6-439a-9e8d-f62e7b41a168](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) |
 | [SaaS Hub Contributor](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) | [e9b8712a-cbcf-4ea7-b0f7-e71b803401e6](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) |
-| [Savings plan Reader](roles/d534ad90-4ac5-4815-a178-b2e47397baab.json) | [d534ad90-4ac5-4815-a178-b2e47397baab](roles/d534ad90-4ac5-4815-a178-b2e47397baab.json) |
 | [Scheduled Patching Contributor](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) | [cd08ab90-6b14-449c-ad9a-8f8e549482c6](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) |
 | [Scheduler Job Collections Contributor](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) | [188a0f2f-5c9e-469b-ae67-2aa5ce574b94](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) |
 | [Schema Registry Contributor (Preview)](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) | [5dffeca3-4936-4216-b2bc-10343a5abb25](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) |

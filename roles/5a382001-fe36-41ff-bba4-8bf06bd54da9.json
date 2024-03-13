@@ -15,6 +15,8 @@
     "Microsoft.Management/managementGroups/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Support/*",
+    "Microsoft.Insights/DiagnosticSettings/*",
+    "Microsoft.Insights/DiagnosticSettingsCategories/Read",
     "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Authorization/roleAssignments/delete"
   ],

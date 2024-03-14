@@ -10,7 +10,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AcrPush](roles/8311e382-0749-4cb8-b61a-304f252e45ec.json) | [8311e382-0749-4cb8-b61a-304f252e45ec](roles/8311e382-0749-4cb8-b61a-304f252e45ec.json) |
 | [AcrQuarantineReader](roles/cdda3590-29a3-44f6-95f2-9f980659eb04.json) | [cdda3590-29a3-44f6-95f2-9f980659eb04](roles/cdda3590-29a3-44f6-95f2-9f980659eb04.json) |
 | [AcrQuarantineWriter](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) | [c8d4ff99-41c3-41a8-9f60-21dfdad59608](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) |
-| [Advisor Recommendations Contributor](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) | [6b534d80-e337-47c4-864f-140f5c7f593d](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) |
+| [Advisor Recommendations Contributor (Assessments and Reviews)](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) | [6b534d80-e337-47c4-864f-140f5c7f593d](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) |
 | [Advisor Reviews Contributor](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) | [8aac15f0-d885-4138-8afa-bfb5872f7d13](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) |
 | [Advisor Reviews Reader](roles/c64499e0-74c3-47ad-921c-13865957895c.json) | [c64499e0-74c3-47ad-921c-13865957895c](roles/c64499e0-74c3-47ad-921c-13865957895c.json) |
 | [AgFood Platform Dataset Admin](roles/a8d4b70f-0fb9-4f72-b267-b87b2f990aec.json) | [a8d4b70f-0fb9-4f72-b267-b87b2f990aec](roles/a8d4b70f-0fb9-4f72-b267-b87b2f990aec.json) |

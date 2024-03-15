@@ -1,8 +1,8 @@
 {
-  "Name": "Advisor Recommendations Contributor (Assessments and Reviews)",
+  "Name": "Advisor Recommendations Contributor",
   "Id": "6b534d80-e337-47c4-864f-140f5c7f593d",
   "IsCustom": false,
-  "Description": "View assessment recommendations, accepted review recommendations, and manage the recommendations lifecycle (mark recommendations as completed, postponed or dismissed, in progress, or not started).",
+  "Description": "Can update status of Advisor recommendations including postpone and dismiss operations.",
   "Actions": [
     "Microsoft.Advisor/recommendations/read",
     "Microsoft.Advisor/recommendations/write",

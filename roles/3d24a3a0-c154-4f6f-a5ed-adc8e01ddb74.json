@@ -1,0 +1,24 @@
+{
+  "Name": "Savings plan Purchaser",
+  "Id": "3d24a3a0-c154-4f6f-a5ed-adc8e01ddb74",
+  "IsCustom": false,
+  "Description": "Lets you purchase savings plans",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Capacity/register/action",
+    "Microsoft.Capacity/catalogs/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.BillingBenefits/savingsPlanOrders/write",
+    "Microsoft.BIllingBenefits/register/action",
+    "Microsoft.Support/supporttickets/write",
+    "Microsoft.Billing/billingProperty/read",
+    "Microsoft.CostManagement/benefitRecommendations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

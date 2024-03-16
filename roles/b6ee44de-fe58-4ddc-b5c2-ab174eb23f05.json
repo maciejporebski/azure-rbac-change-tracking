@@ -1,0 +1,17 @@
+{
+  "Name": "CrossConnectionReader",
+  "Id": "b6ee44de-fe58-4ddc-b5c2-ab174eb23f05",
+  "IsCustom": false,
+  "Description": "Allows for read access to ExpressRoute CrossConnections",
+  "Actions": [
+    "Microsoft.ClassicNetwork/expressRouteCrossConnections/*/read",
+    "Microsoft.Network/expressRouteCrossConnections/*/read",
+    "Microsoft.Features/providers/features/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

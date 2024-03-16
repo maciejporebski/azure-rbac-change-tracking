@@ -1,0 +1,19 @@
+{
+  "Name": "CrossConnectionManager",
+  "Id": "399c3b2b-64c2-4ff1-af34-571db925b068",
+  "IsCustom": false,
+  "Description": "Allows for read, write access to ExpressRoute CrossConnections",
+  "Actions": [
+    "Microsoft.ClassicNetwork/expressRouteCrossConnections/*",
+    "Microsoft.Network/expressRouteCrossConnections/*",
+    "Microsoft.Features/providers/features/read"
+  ],
+  "NotActions": [
+    "Microsoft.Network/expressRouteCrossConnections/delete"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

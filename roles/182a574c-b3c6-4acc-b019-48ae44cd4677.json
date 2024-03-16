@@ -1,0 +1,22 @@
+{
+  "Name": "Savings plan Administrator",
+  "Id": "182a574c-b3c6-4acc-b019-48ae44cd4677",
+  "IsCustom": false,
+  "Description": "Lets one read and manage all the savings plans in a tenant",
+  "Actions": [
+    "Microsoft.BillingBenefits/savingsPlanOrders/read",
+    "Microsoft.BillingBenefits/savingsPlanOrders/action",
+    "Microsoft.BillingBenefits/savingsPlanOrders/write",
+    "Microsoft.BillingBenefits/savingsPlanOrders/savingsPlans/read",
+    "Microsoft.BillingBenefits/savingsPlanOrders/savingsPlans/write",
+    "Microsoft.BillingBenefits/savingsPlanOrders/*/action",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ]
+}

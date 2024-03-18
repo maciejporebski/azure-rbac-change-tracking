@@ -5,8 +5,7 @@
   "Description": "Can perform all actions required to create a resource deployment within a resource group.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Resources/deployments/*",
-    "Microsoft.Insights/AutoscaleSettings/write"
+    "Microsoft.Resources/deployments/*"
   ],
   "NotActions": [],
   "DataActions": [],

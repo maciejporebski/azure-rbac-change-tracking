@@ -15,5 +15,7 @@
   ],
   "AssignableScopes": [
     "/"
-  ]
+  ],
+  "Condition": null,
+  "ConditionVersion": null
 }

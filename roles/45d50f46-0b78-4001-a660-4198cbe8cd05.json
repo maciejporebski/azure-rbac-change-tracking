@@ -26,5 +26,7 @@
   "NotDataActions": [],
   "AssignableScopes": [
     "/"
-  ]
+  ],
+  "Condition": null,
+  "ConditionVersion": null
 }

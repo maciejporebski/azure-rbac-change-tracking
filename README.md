@@ -115,6 +115,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Maps Data Read and Batch Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
 | [Azure Maps Data Reader](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) | [423170ca-a8f6-4b0f-8487-9e4eb8f49bfa](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) |
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
+| [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure RedHat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
 | [Azure RedHat OpenShift Cloud Controller Manager Role](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
@@ -228,6 +229,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [CosmosRestoreOperator](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) | [5432c526-bc82-444a-b7ba-57c5b0b5b34f](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) |
 | [Cost Management Contributor](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) | [434105ed-43f6-45c7-a02f-909b2ba83430](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) |
 | [Cost Management Reader](roles/72fafb9e-0641-4937-9268-a91bfd8191a3.json) | [72fafb9e-0641-4937-9268-a91bfd8191a3](roles/72fafb9e-0641-4937-9268-a91bfd8191a3.json) |
+| [CrossConnectionManager](roles/399c3b2b-64c2-4ff1-af34-571db925b068.json) | [399c3b2b-64c2-4ff1-af34-571db925b068](roles/399c3b2b-64c2-4ff1-af34-571db925b068.json) |
+| [CrossConnectionReader](roles/b6ee44de-fe58-4ddc-b5c2-ab174eb23f05.json) | [b6ee44de-fe58-4ddc-b5c2-ab174eb23f05](roles/b6ee44de-fe58-4ddc-b5c2-ab174eb23f05.json) |
 | [Data Boundary Tenant Administrator](roles/d1a38570-4b05-4d70-b8e4-1100bcf76d12.json) | [d1a38570-4b05-4d70-b8e4-1100bcf76d12](roles/d1a38570-4b05-4d70-b8e4-1100bcf76d12.json) |
 | [Data Box Contributor](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) | [add466c9-e687-43fc-8d98-dfcf8d720be5](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) |
 | [Data Box Reader](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) | [028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) |
@@ -350,6 +353,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Key Vault Secrets Officer](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) | [b86a8fe4-44ce-4948-aee5-eccb2c155cd7](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) |
 | [Key Vault Secrets User](roles/4633458b-17de-408a-b874-0445c86b69e6.json) | [4633458b-17de-408a-b874-0445c86b69e6](roles/4633458b-17de-408a-b874-0445c86b69e6.json) |
 | [Knowledge Consumer](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) | [ee361c5d-f7b5-4119-b4b6-892157c8f64c](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) |
+| [Kubernetes Agent Operator](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) | [5e93ba01-8f92-4c7a-b12a-801e3df23824](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) |
 | [Kubernetes Agentless Operator](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Kubernetes Cluster - Azure Arc Onboarding](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) | [34e09817-6cbe-4d01-b1a2-e0eac5743d41](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) |
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |
@@ -431,6 +435,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Resource Policy Contributor](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) | [36243c78-bf99-498c-9df9-86d9f8d28608](roles/36243c78-bf99-498c-9df9-86d9f8d28608.json) |
 | [Role Based Access Control Administrator](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) | [f58310d9-a9f6-439a-9e8d-f62e7b41a168](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) |
 | [SaaS Hub Contributor](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) | [e9b8712a-cbcf-4ea7-b0f7-e71b803401e6](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) |
+| [Savings plan Administrator](roles/182a574c-b3c6-4acc-b019-48ae44cd4677.json) | [182a574c-b3c6-4acc-b019-48ae44cd4677](roles/182a574c-b3c6-4acc-b019-48ae44cd4677.json) |
+| [Savings plan Purchaser](roles/3d24a3a0-c154-4f6f-a5ed-adc8e01ddb74.json) | [3d24a3a0-c154-4f6f-a5ed-adc8e01ddb74](roles/3d24a3a0-c154-4f6f-a5ed-adc8e01ddb74.json) |
 | [Savings plan Reader](roles/d534ad90-4ac5-4815-a178-b2e47397baab.json) | [d534ad90-4ac5-4815-a178-b2e47397baab](roles/d534ad90-4ac5-4815-a178-b2e47397baab.json) |
 | [Scheduled Patching Contributor](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) | [cd08ab90-6b14-449c-ad9a-8f8e549482c6](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) |
 | [Scheduler Job Collections Contributor](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) | [188a0f2f-5c9e-469b-ae67-2aa5ce574b94](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) |

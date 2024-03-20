@@ -1,0 +1,21 @@
+{
+  "Name": "Kubernetes Agent Operator",
+  "Id": "5e93ba01-8f92-4c7a-b12a-801e3df23824",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for Cloud access to Azure Kubernetes Services",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/read",
+    "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/delete",
+    "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/read",
+    "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/write",
+    "Microsoft.Security/pricings/securityoperators/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

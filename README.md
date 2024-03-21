@@ -353,7 +353,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Key Vault Secrets Officer](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) | [b86a8fe4-44ce-4948-aee5-eccb2c155cd7](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) |
 | [Key Vault Secrets User](roles/4633458b-17de-408a-b874-0445c86b69e6.json) | [4633458b-17de-408a-b874-0445c86b69e6](roles/4633458b-17de-408a-b874-0445c86b69e6.json) |
 | [Knowledge Consumer](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) | [ee361c5d-f7b5-4119-b4b6-892157c8f64c](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) |
-| [Kubernetes Agent Operator](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) | [5e93ba01-8f92-4c7a-b12a-801e3df23824](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) |
 | [Kubernetes Agentless Operator](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Kubernetes Cluster - Azure Arc Onboarding](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) | [34e09817-6cbe-4d01-b1a2-e0eac5743d41](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) |
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |

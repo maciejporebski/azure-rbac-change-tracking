@@ -1,0 +1,23 @@
+{
+  "Name": "Azure API Center Service Reader",
+  "Id": "6cba8790-29c5-48e5-bab1-c7541b01cb04",
+  "IsCustom": false,
+  "Description": "Allows read-only access to Azure API Center service.",
+  "Actions": [
+    "Microsoft.ApiCenter/services/*/read",
+    "Microsoft.ApiCenter/services/workspaces/apis/versions/definitions/exportSpecification/action",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

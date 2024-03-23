@@ -1,0 +1,19 @@
+{
+  "Name": "Azure API Center Compliance Manager",
+  "Id": "ede9aaa3-4627-494e-be13-4aa7c256148d",
+  "IsCustom": false,
+  "Description": "Allows managing API compliance in Azure API Center service.",
+  "Actions": [
+    "Microsoft.ApiCenter/services/*/read",
+    "Microsoft.ApiCenter/services/workspaces/apis/versions/definitions/updateAnalysisState/action",
+    "Microsoft.ApiCenter/services/workspaces/apis/versions/definitions/exportSpecification/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

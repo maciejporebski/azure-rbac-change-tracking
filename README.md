@@ -51,7 +51,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure API Center Compliance Manager](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) | [ede9aaa3-4627-494e-be13-4aa7c256148d](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) |
 | [Azure API Center Data Reader](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) | [c7244dfb-f447-457d-b2ba-3999044d1706](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) |
+| [Azure API Center Service Contributor](roles/dd24193f-ef65-44e5-8a7e-6fa6e03f7713.json) | [dd24193f-ef65-44e5-8a7e-6fa6e03f7713](roles/dd24193f-ef65-44e5-8a7e-6fa6e03f7713.json) |
+| [Azure API Center Service Reader](roles/6cba8790-29c5-48e5-bab1-c7541b01cb04.json) | [6cba8790-29c5-48e5-bab1-c7541b01cb04](roles/6cba8790-29c5-48e5-bab1-c7541b01cb04.json) |
 | [Azure Arc Enabled Kubernetes Cluster User Role](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) | [00493d72-78f6-4148-b6c5-d3ce8e4799dd](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) |
 | [Azure Arc Kubernetes Admin](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) | [dffb1e0c-446f-4dde-a09f-99eb5cc68b96](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) |
 | [Azure Arc Kubernetes Cluster Admin](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) | [8393591c-06b9-48a2-a542-1bd6b377f6a2](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) |
@@ -353,6 +356,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Key Vault Secrets Officer](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) | [b86a8fe4-44ce-4948-aee5-eccb2c155cd7](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) |
 | [Key Vault Secrets User](roles/4633458b-17de-408a-b874-0445c86b69e6.json) | [4633458b-17de-408a-b874-0445c86b69e6](roles/4633458b-17de-408a-b874-0445c86b69e6.json) |
 | [Knowledge Consumer](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) | [ee361c5d-f7b5-4119-b4b6-892157c8f64c](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) |
+| [Kubernetes Agent Operator](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) | [5e93ba01-8f92-4c7a-b12a-801e3df23824](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) |
 | [Kubernetes Agentless Operator](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Kubernetes Cluster - Azure Arc Onboarding](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) | [34e09817-6cbe-4d01-b1a2-e0eac5743d41](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) |
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |
@@ -411,6 +415,11 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Object Understanding Account Owner](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) | [4dd61c23-6743-42fe-a388-d8bdd41cb745](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) |
 | [Object Understanding Account Reader](roles/d18777c0-1514-4662-8490-608db7d334b6.json) | [d18777c0-1514-4662-8490-608db7d334b6](roles/d18777c0-1514-4662-8490-608db7d334b6.json) |
 | [Operator Nexus Key Vault Writer Service Role (Preview)](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) | [44f0a1a8-6fea-4b35-980a-8ff50c487c97](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) |
+| [Oracle Subscriptions Manager Built-in Role](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) | [4caf51ec-f9f5-413f-8a94-b9f5fddba66b](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) |
+| [Oracle.Database Exadata Infrastructure Administrator Built-in Role](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) | [4cfdd23b-aece-4fd1-b614-ad3a06c53453](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) |
+| [Oracle.Database Owner Built-in Role](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) | [4562aac9-b209-4bd7-a144-6d7f3bb516f4](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) |
+| [Oracle.Database Reader Built-in Role](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) | [d623d097-b882-4e1e-a26f-ac60e31065a1](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) |
+| [Oracle.Database VmCluster Administrator Built-in Role](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) | [e9ce8739-6fa2-4123-a0a2-0ef41a67806f](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) |
 | [Owner](roles/8e3af657-a8ff-443c-a75c-2fe8c4bcb635.json) | [8e3af657-a8ff-443c-a75c-2fe8c4bcb635](roles/8e3af657-a8ff-443c-a75c-2fe8c4bcb635.json) |
 | [PlayFab Contributor](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) | [0c8b84dc-067c-4039-9615-fa1a4b77c726](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) |
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |

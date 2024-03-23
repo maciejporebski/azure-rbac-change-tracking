@@ -4,6 +4,7 @@
   "IsCustom": false,
   "Description": "Grants a user/group the ability to create, delete and manage clusters within a given cluster pool. Cluster Admin can also run workloads, monitor, and manage all user activity on these clusters.",
   "Actions": [
+    "Microsoft.Authorization/*/read",
     "Microsoft.HDInsight/clusterPools/clusters/read",
     "Microsoft.HDInsight/clusterPools/clusters/write",
     "Microsoft.HDInsight/clusterPools/clusters/delete",
@@ -12,6 +13,8 @@
     "Microsoft.HDInsight/clusterPools/clusters/jobs/read",
     "Microsoft.HDInsight/clusterPools/clusters/runjob/action",
     "Microsoft.HDInsight/clusterpools/clusters/serviceconfigs/read",
+    "Microsoft.HDInsight/clusterPools/clusters/availableupgrades/read",
+    "Microsoft.HDInsight/clusterPools/clusters/upgrade/action",
     "Microsoft.ResourceHealth/availabilityStatuses/read",
     "Microsoft.Resources/deployments/operations/read",
     "Microsoft.Resources/deployments/*/read",

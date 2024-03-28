@@ -415,6 +415,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Object Understanding Account Owner](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) | [4dd61c23-6743-42fe-a388-d8bdd41cb745](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) |
 | [Object Understanding Account Reader](roles/d18777c0-1514-4662-8490-608db7d334b6.json) | [d18777c0-1514-4662-8490-608db7d334b6](roles/d18777c0-1514-4662-8490-608db7d334b6.json) |
 | [Operator Nexus Key Vault Writer Service Role (Preview)](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) | [44f0a1a8-6fea-4b35-980a-8ff50c487c97](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) |
+| [Oracle Subscriptions Manager Built-in Role](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) | [4caf51ec-f9f5-413f-8a94-b9f5fddba66b](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) |
+| [Oracle.Database Owner Built-in Role](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) | [4562aac9-b209-4bd7-a144-6d7f3bb516f4](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) |
+| [Oracle.Database VmCluster Administrator Built-in Role](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) | [e9ce8739-6fa2-4123-a0a2-0ef41a67806f](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) |
 | [Owner](roles/8e3af657-a8ff-443c-a75c-2fe8c4bcb635.json) | [8e3af657-a8ff-443c-a75c-2fe8c4bcb635](roles/8e3af657-a8ff-443c-a75c-2fe8c4bcb635.json) |
 | [PlayFab Contributor](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) | [0c8b84dc-067c-4039-9615-fa1a4b77c726](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) |
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |

@@ -2,7 +2,7 @@
   "Name": "Azure Kubernetes Fleet Manager RBAC Reader",
   "Id": "30b27cfc-9c84-438e-b0ce-70e35255df80",
   "IsCustom": false,
-  "Description": "Allows read-only access to see most objects in a namespace. It does not allow viewing roles or role bindings. This role does not allow viewing Secrets, since reading the contents of Secrets enables access to ServiceAccount credentials in the namespace, which would allow API access as any ServiceAccount in the namespace (a form of privilege escalation).  Applying this role at cluster scope will give access across all namespaces.",
+  "Description": "Grants read-only access to most Kubernetes resources within a namespace in the fleet-managed hub cluster. It does not allow viewing roles or role bindings. This role does not allow viewing Secrets, since reading the contents of Secrets enables access to ServiceAccount credentials in the namespace, which would allow API access as any ServiceAccount in the namespace (a form of privilege escalation).  Applying this role at cluster scope will give access across all namespaces.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/operationresults/read",

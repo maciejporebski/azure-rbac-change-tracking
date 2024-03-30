@@ -2,7 +2,7 @@
   "Name": "Azure Kubernetes Fleet Manager RBAC Cluster Admin",
   "Id": "18ab4d3d-a1bf-4477-8ad9-8359bc988f69",
   "IsCustom": false,
-  "Description": "Lets you manage all resources in the fleet manager cluster.",
+  "Description": "Grants read/write access to all Kubernetes resources in the fleet-managed hub cluster.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/operationresults/read",

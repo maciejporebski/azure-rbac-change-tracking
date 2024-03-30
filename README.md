@@ -118,6 +118,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Maps Data Read and Batch Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
 | [Azure Maps Data Reader](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) | [423170ca-a8f6-4b0f-8487-9e4eb8f49bfa](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) |
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
+| [Azure Messaging Catalog Data Owner](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) | [f27b7598-bc64-41f7-8a44-855ff16326c2](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure RedHat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
@@ -140,6 +141,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Sphere Owner](roles/5a382001-fe36-41ff-bba4-8bf06bd54da9.json) | [5a382001-fe36-41ff-bba4-8bf06bd54da9](roles/5a382001-fe36-41ff-bba4-8bf06bd54da9.json) |
 | [Azure Sphere Publisher](roles/6d994134-994b-4a59-9974-f479f0b227fb.json) | [6d994134-994b-4a59-9974-f479f0b227fb](roles/6d994134-994b-4a59-9974-f479f0b227fb.json) |
 | [Azure Sphere Reader](roles/c8ae6279-5a0b-4cb2-b3f0-d4d62845742c.json) | [c8ae6279-5a0b-4cb2-b3f0-d4d62845742c](roles/c8ae6279-5a0b-4cb2-b3f0-d4d62845742c.json) |
+| [Azure Spring Apps Application Configuration Service Config File Pattern Reader Role](roles/25211fc6-dc78-40b6-b205-e4ac934fd9fd.json) | [25211fc6-dc78-40b6-b205-e4ac934fd9fd](roles/25211fc6-dc78-40b6-b205-e4ac934fd9fd.json) |
 | [Azure Spring Apps Application Configuration Service Log Reader Role](roles/6593e776-2a30-40f9-8a32-4fe28b77655d.json) | [6593e776-2a30-40f9-8a32-4fe28b77655d](roles/6593e776-2a30-40f9-8a32-4fe28b77655d.json) |
 | [Azure Spring Apps Connect Role](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) | [80558df3-64f9-4c0f-b32d-e5094b036b0b](roles/80558df3-64f9-4c0f-b32d-e5094b036b0b.json) |
 | [Azure Spring Apps Managed Components Log Reader Role](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) | [52fd16bd-6ed5-46af-9c40-29cbd7952a29](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) |

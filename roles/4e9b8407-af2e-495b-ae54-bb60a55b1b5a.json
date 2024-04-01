@@ -11,7 +11,8 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [
-    "Microsoft.ModSimWorkbench/workbenches/chambers/fileRequests/manage/action"
+    "Microsoft.ModSimWorkbench/workbenches/chambers/fileRequests/manage/action",
+    "Microsoft.ModSimWorkbench/workbenches/chambers/connector/setCopyPaste/action"
   ],
   "DataActions": [
     "Microsoft.ModSimWorkbench/workbenches/chambers/upload/action",

@@ -170,6 +170,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Backup Reader](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) | [a795c7a0-d4a2-40c1-ae25-d81f01202912](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) |
 | [Bayer Ag Powered Services CWUM Solution](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
 | [Bayer Ag Powered Services GDU Solution](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) | [c4bc862a-3b64-4a35-a021-a380c159b042](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) |
+| [Bayer Ag Powered Services Historical Weather Data Solution User Role](roles/b5b192c1-773c-4543-bfb0-6c59254b74a9.json) | [b5b192c1-773c-4543-bfb0-6c59254b74a9](roles/b5b192c1-773c-4543-bfb0-6c59254b74a9.json) |
 | [Bayer Ag Powered Services Imagery Solution](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) | [ef29765d-0d37-4119-a4f8-f9f9902c9588](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) |
 | [Bayer Ag Powered Services Smart Boundary Solution User Role](roles/539283cd-c185-4a9a-9503-d35217a1db7b.json) | [539283cd-c185-4a9a-9503-d35217a1db7b](roles/539283cd-c185-4a9a-9503-d35217a1db7b.json) |
 | [Billing Reader](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) | [fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64](roles/fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64.json) |

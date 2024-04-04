@@ -91,6 +91,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Front Door Profile Reader](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) | [662802e2-50f6-46b0-aed2-e834bacc6d12](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) |
 | [Azure Front Door Secret Contributor](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) | [3f2eb865-5811-4578-b90a-6fc6fa0df8e5](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) |
 | [Azure Front Door Secret Reader](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) | [0db238c4-885e-4c4f-a933-aa2cef684fca](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) |
+| [Azure Hybrid Database Administrator - Read Only Service Role](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) | [5d9c6a55-fc0e-4e21-ae6f-f7b095497342](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) |
 | [Azure impact-insight reader](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) | [dfb2f09d-25f8-4558-8986-497084006d7a](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) |
 | [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
 | [Azure Kubernetes Fleet Manager RBAC Admin](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) | [434fb43a-c01c-447e-9f67-c3ad923cfaba](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) |
@@ -401,6 +402,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Media Services Policy Administrator](roles/c4bba371-dacd-4a26-b320-7250bca963ae.json) | [c4bba371-dacd-4a26-b320-7250bca963ae](roles/c4bba371-dacd-4a26-b320-7250bca963ae.json) |
 | [Media Services Streaming Endpoints Administrator](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) | [99dba123-b5fe-44d5-874c-ced7199a5804](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) |
 | [Microsoft Sentinel Automation Contributor](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) | [f4c81013-99ee-4d62-a7ee-b3f1f648599a](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) |
+| [Microsoft Sentinel Business Applications Agent Operator](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) | [c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) |
 | [Microsoft Sentinel Contributor](roles/ab8e14d6-4a74-4a29-9ba8-549422addade.json) | [ab8e14d6-4a74-4a29-9ba8-549422addade](roles/ab8e14d6-4a74-4a29-9ba8-549422addade.json) |
 | [Microsoft Sentinel Playbook Operator](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) | [51d6186e-6489-4900-b93f-92e23144cca5](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) |
 | [Microsoft Sentinel Reader](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) | [8d289c81-5878-46d4-8554-54e1e3d8b5cb](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) |

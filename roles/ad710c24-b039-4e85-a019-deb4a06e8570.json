@@ -10,11 +10,11 @@
     "Microsoft.Resources/subscriptions/operationresults/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*",
-    "Microsoft.Web/*/read",
     "Microsoft.Web/certificates/*",
     "Microsoft.Web/connectionGateways/*",
     "Microsoft.Web/connections/*",
     "Microsoft.Web/customApis/*",
+    "Microsoft.Web/listSitesAssignedToHostName/read",
     "Microsoft.Web/serverFarms/*",
     "Microsoft.Web/sites/*"
   ],

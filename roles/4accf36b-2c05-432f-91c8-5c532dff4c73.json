@@ -10,7 +10,16 @@
     "Microsoft.Resources/subscriptions/operationresults/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*",
-    "Microsoft.Web/*/read"
+    "Microsoft.Web/connectionGateways/*/read",
+    "Microsoft.Web/connections/*/read",
+    "Microsoft.Web/customApis/*/read",
+    "Microsoft.Web/serverFarms/read",
+    "microsoft.web/sites/hostruntime/webhooks/api/workflows/triggers/read",
+    "microsoft.web/sites/hostruntime/webhooks/api/workflows/runs/read",
+    "microsoft.web/sites/workflows/read",
+    "microsoft.web/sites/workflowsconfiguration/read",
+    "microsoft.web/sites/slots/workflows/read",
+    "microsoft.web/sites/slots/workflowsconfiguration/read"
   ],
   "NotActions": [],
   "DataActions": [],

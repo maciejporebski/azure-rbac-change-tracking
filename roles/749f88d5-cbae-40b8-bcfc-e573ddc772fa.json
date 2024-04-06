@@ -40,7 +40,8 @@
     "Microsoft.AlertsManagement/actionRules/*",
     "Microsoft.AlertsManagement/smartGroups/*",
     "Microsoft.AlertsManagement/migrateFromSmartDetection/*",
-    "Microsoft.AlertsManagement/investigations/*"
+    "Microsoft.AlertsManagement/investigations/*",
+    "Microsoft.Monitor/investigations/*"
   ],
   "NotActions": [],
   "DataActions": [],

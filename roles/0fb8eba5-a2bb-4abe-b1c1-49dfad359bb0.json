@@ -1,0 +1,26 @@
+{
+  "Name": "Azure ContainerApps Session Creator",
+  "Id": "0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0",
+  "IsCustom": false,
+  "Description": "Create and execute sessions in a sessionPool",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.App/sessionPools/*/read",
+    "Microsoft.App/sessionPools/sessions/generatesessions/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/sessionPools/*/read",
+    "Microsoft.App/sessionPools/interpreters/execute/action",
+    "Microsoft.App/sessionPools/interpreters/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

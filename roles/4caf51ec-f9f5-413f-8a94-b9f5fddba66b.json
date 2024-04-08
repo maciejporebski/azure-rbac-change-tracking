@@ -11,7 +11,6 @@
     "Oracle.Database/Locations/*/read",
     "Oracle.Database/Locations/*/write",
     "Oracle.Database/Operations/read",
-    "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],

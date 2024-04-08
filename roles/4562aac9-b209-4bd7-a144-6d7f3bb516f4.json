@@ -5,15 +5,7 @@
   "Description": "Grants full access to manage all Oracle.Database resources",
   "Actions": [
     "Oracle.Database/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Network/virtualNetworks/read",
-    "Microsoft.Network/virtualNetworks/subnets/read",
-    "Microsoft.Network/virtualNetworks/subnets/write",
-    "Microsoft.Network/locations/operations/read",
-    "Microsoft.Resources/deployments/*",
-    "Microsoft.Compute/sshPublicKeys/read",
-    "Microsoft.Compute/sshPublicKeys/write",
-    "Microsoft.Compute/sshPublicKeys/generateKeyPair/action"
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [],

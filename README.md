@@ -78,6 +78,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Connected Machine Resource Manager](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) | [f5819b54-e033-4d82-ac66-4fec3cbf3f4c](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) |
 | [Azure Connected SQL Server Onboarding](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) | [e8113dce-c529-4d33-91fa-e9b972617508](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) |
 | [Azure Container Storage Operator](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) | [08d4c71a-cc63-4ce4-a9c8-5dd251b4d619](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) |
+| [Azure ContainerApps Session Creator](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) | [0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) |
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
@@ -191,8 +192,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Classic Storage Account Key Operator Service Role](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) | [985d6b00-f706-48f5-a6fe-d0ca12fb668d](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) |
 | [Classic Virtual Machine Contributor](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) | [d73bb868-a0df-4d4d-bd69-98a00b01fccb](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) |
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
-| [Code Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
-| [Code Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
 | [Cognitive Search Serverless Data Contributor (Deprecated)](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
 | [Cognitive Search Serverless Data Reader (Deprecated)](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) | [79b01272-bf9f-4f4c-9517-5506269cf524](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) |
 | [Cognitive Services Contributor](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) | [25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) |
@@ -402,6 +401,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Media Services Policy Administrator](roles/c4bba371-dacd-4a26-b320-7250bca963ae.json) | [c4bba371-dacd-4a26-b320-7250bca963ae](roles/c4bba371-dacd-4a26-b320-7250bca963ae.json) |
 | [Media Services Streaming Endpoints Administrator](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) | [99dba123-b5fe-44d5-874c-ced7199a5804](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) |
 | [Microsoft Sentinel Automation Contributor](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) | [f4c81013-99ee-4d62-a7ee-b3f1f648599a](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) |
+| [Microsoft Sentinel Business Applications Agent Operator](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) | [c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) |
 | [Microsoft Sentinel Contributor](roles/ab8e14d6-4a74-4a29-9ba8-549422addade.json) | [ab8e14d6-4a74-4a29-9ba8-549422addade](roles/ab8e14d6-4a74-4a29-9ba8-549422addade.json) |
 | [Microsoft Sentinel Playbook Operator](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) | [51d6186e-6489-4900-b93f-92e23144cca5](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) |
 | [Microsoft Sentinel Reader](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) | [8d289c81-5878-46d4-8554-54e1e3d8b5cb](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) |
@@ -511,6 +511,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Template Spec Reader](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) | [392ae280-861d-42bd-9ea5-08ee6d83b80e](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) |
 | [Test Base Reader](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) | [15e0f5a1-3450-4248-8e25-e2afe88a9e85](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) |
 | [Traffic Manager Contributor](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) | [a4b10055-b0c7-44c2-b00f-c7b5b3550cf7](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) |
+| [Trusted Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
+| [Trusted Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |
 | [Video Indexer Restricted Viewer](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) | [a2c4a527-7dc0-4ee3-897b-403ade70fafb](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |

@@ -1,5 +1,5 @@
 {
-  "Name": "Code Signing Certificate Profile Signer",
+  "Name": "Trusted Signing Certificate Profile Signer",
   "Id": "2837e146-70d7-4cfd-ad55-7efa6464f958",
   "IsCustom": false,
   "Description": "Sign files with a certificate profile. This role is in preview and subject to change.",

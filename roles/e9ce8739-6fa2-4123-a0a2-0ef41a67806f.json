@@ -13,7 +13,15 @@
     "Oracle.Database/Locations/*/write",
     "Oracle.Database/Operations/read",
     "Oracle.Database/oracleSubscriptions/*/read",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/locations/operations/read",
+    "Microsoft.Compute/sshPublicKeys/read",
+    "Microsoft.Compute/sshPublicKeys/write",
+    "Microsoft.Compute/sshPublicKeys/generateKeyPair/action"
   ],
   "NotActions": [],
   "DataActions": [],

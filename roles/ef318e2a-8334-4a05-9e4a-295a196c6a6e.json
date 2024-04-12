@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Red Hat OpenShift Federated Credential Role",
+  "Id": "ef318e2a-8334-4a05-9e4a-295a196c6a6e",
+  "IsCustom": false,
+  "Description": "This role grants the permissions required in order to patch cluster managed identities with the federated credential to build a trust relationship between the managed identity, OIDC, and the service account.",
+  "Actions": [
+    "Microsoft.ManagedIdentity/userAssignedIdentities/read",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/read",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -3,7 +3,15 @@
   "Id": "4436bae4-7702-4c84-919b-c4069ff25ee2",
   "IsCustom": false,
   "Description": "The ARO Operator is responsible for maintaining features, checks, and resources that are specific to an Azure Red Hat OpenShift cluster's continued functionality as a managed service. This includes, but is not limited to, machine management and health, network configuration, and monitoring.",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/natGateways/join/action",
+    "Microsoft.Network/routeTables/join/action",
+    "Microsoft.Network/networkSecurityGroups/join/action",
+    "Microsoft.Storage/storageAccounts/listKeys/action",
+    "Microsoft.Storage/storageAccounts/read"
+  ],
   "NotActions": [],
   "DataActions": [],
   "NotDataActions": [],

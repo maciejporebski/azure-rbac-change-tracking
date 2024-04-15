@@ -123,7 +123,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Messaging Catalog Data Owner](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) | [f27b7598-bc64-41f7-8a44-855ff16326c2](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
-| [Azure Red Hat OpenShift Federated Credential Role](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
 | [Azure RedHat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
 | [Azure RedHat OpenShift Cloud Controller Manager Role](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
 | [Azure RedHat OpenShift Cluster Ingress Operator Role](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) | [0336e1d3-7a87-462b-b6db-342b63f7802c](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) |

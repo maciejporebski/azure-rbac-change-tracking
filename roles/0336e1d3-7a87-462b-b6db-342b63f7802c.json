@@ -3,7 +3,12 @@
   "Id": "0336e1d3-7a87-462b-b6db-342b63f7802c",
   "IsCustom": false,
   "Description": "Enables permissions for the operator to configure and manage the OpenShift router.",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.Network/dnsZones/A/delete",
+    "Microsoft.Network/dnsZones/A/write",
+    "Microsoft.Network/privateDnsZones/A/delete",
+    "Microsoft.Network/privateDnsZones/A/write"
+  ],
   "NotActions": [],
   "DataActions": [],
   "NotDataActions": [],

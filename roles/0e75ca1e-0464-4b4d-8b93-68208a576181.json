@@ -13,7 +13,10 @@
     "Microsoft.CognitiveServices/accounts/SpeechServices/*",
     "Microsoft.CognitiveServices/accounts/CustomVoice/*",
     "Microsoft.CognitiveServices/accounts/AudioContentCreation/*",
-    "Microsoft.CognitiveServices/accounts/VideoTranslation/*"
+    "Microsoft.CognitiveServices/accounts/VideoTranslation/*",
+    "Microsoft.CognitiveServices/accounts/CustomAvatar/*",
+    "Microsoft.CognitiveServices/accounts/BatchAvatar/*",
+    "Microsoft.CognitiveServices/accounts/BatchTextToSpeech/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

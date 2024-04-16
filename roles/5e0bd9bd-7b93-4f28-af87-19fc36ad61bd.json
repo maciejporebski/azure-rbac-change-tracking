@@ -2,7 +2,7 @@
   "Name": "Cognitive Services OpenAI User",
   "Id": "5e0bd9bd-7b93-4f28-af87-19fc36ad61bd",
   "IsCustom": false,
-  "Description": "Ability to view files, models, deployments. Readers are able to call inference operations such as chat completions and image generation.",
+  "Description": "Ability to view files, models, deployments. Readers can't make any changes They can inference and create images",
   "Actions": [
     "Microsoft.CognitiveServices/*/read",
     "Microsoft.Authorization/roleAssignments/read",
@@ -14,6 +14,7 @@
     "Microsoft.CognitiveServices/accounts/OpenAI/engines/completions/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/engines/search/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/engines/generate/action",
+    "Microsoft.CognitiveServices/accounts/OpenAI/deployments/audio/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/search/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/completions/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/chat/completions/action",

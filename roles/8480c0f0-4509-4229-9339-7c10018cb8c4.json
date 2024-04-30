@@ -1,0 +1,26 @@
+{
+  "Name": "Defender CSPM Storage Scanner Operator",
+  "Id": "8480c0f0-4509-4229-9339-7c10018cb8c4",
+  "IsCustom": false,
+  "Description": "Lets you enable and configure Microsoft Defender CSPM's sensitive data discovery feature on your storage accounts. Includes an ABAC condition to limit role assignments.",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/write",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Management/managementGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

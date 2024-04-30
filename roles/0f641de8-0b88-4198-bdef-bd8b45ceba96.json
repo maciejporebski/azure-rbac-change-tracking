@@ -1,8 +1,8 @@
 {
-  "Name": "Defender for Storage scanner Operator (preview)",
+  "Name": "Defender for Storage Scanner Operator",
   "Id": "0f641de8-0b88-4198-bdef-bd8b45ceba96",
   "IsCustom": false,
-  "Description": "Lets you enable and configure Defender for Storage scanning capabilities on storage accounts - Malware Scanning and Sensitive Data Discovery, by adding or removing role assignments for the Defender for Storage Data Scanner and EventGrid Data Sender User Roles. Includes an ABAC condition to constrain role assignments.",
+  "Description": "Lets you enable and configure Microsoft Defender for Storage's malware scanning and sensitive data discovery features on your storage accounts. Includes an ABAC condition to limit role assignments.",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Authorization/roleAssignments/delete",
@@ -27,5 +27,7 @@
   "NotDataActions": [],
   "AssignableScopes": [
     "/"
-  ]
+  ],
+  "Condition": "((!(ActionMatches{'Microsoft.Authorization/roleAssignments/write'})) OR (@Request[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40, d5a91429-5739-47e2-a06b-3470a27159e7})) AND ((!(ActionMatches{'Microsoft.Authorization/roleAssignments/delete'})) OR (@Resource[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40, d5a91429-5739-47e2-a06b-3470a27159e7}))",
+  "ConditionVersion": "2.0"
 }

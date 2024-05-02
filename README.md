@@ -77,7 +77,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Connected Machine Resource Administrator](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) | [cd570a14-e51a-42ad-bac8-bafd67325302](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) |
 | [Azure Connected Machine Resource Manager](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) | [f5819b54-e033-4d82-ac66-4fec3cbf3f4c](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) |
 | [Azure Connected SQL Server Onboarding](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) | [e8113dce-c529-4d33-91fa-e9b972617508](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) |
+| [Azure Container Storage Contributor](roles/95dd08a6-00bd-4661-84bf-f6726f83a4d0.json) | [95dd08a6-00bd-4661-84bf-f6726f83a4d0](roles/95dd08a6-00bd-4661-84bf-f6726f83a4d0.json) |
 | [Azure Container Storage Operator](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) | [08d4c71a-cc63-4ce4-a9c8-5dd251b4d619](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) |
+| [Azure Container Storage Owner](roles/95de85bd-744d-4664-9dde-11430bc34793.json) | [95de85bd-744d-4664-9dde-11430bc34793](roles/95de85bd-744d-4664-9dde-11430bc34793.json) |
 | [Azure ContainerApps Session Creator](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) | [0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) |
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
@@ -171,6 +173,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Backup MUA Operator](roles/f54b6d04-23c6-443e-b462-9c16ab7b4a52.json) | [f54b6d04-23c6-443e-b462-9c16ab7b4a52](roles/f54b6d04-23c6-443e-b462-9c16ab7b4a52.json) |
 | [Backup Operator](roles/00c29273-979b-4161-815c-10b084fb9324.json) | [00c29273-979b-4161-815c-10b084fb9324](roles/00c29273-979b-4161-815c-10b084fb9324.json) |
 | [Backup Reader](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) | [a795c7a0-d4a2-40c1-ae25-d81f01202912](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) |
+| [Bayer Ag Powered Services Crop Id Solution User Role](roles/39138f76-04e6-41f0-ba6b-c411b59081a9.json) | [39138f76-04e6-41f0-ba6b-c411b59081a9](roles/39138f76-04e6-41f0-ba6b-c411b59081a9.json) |
 | [Bayer Ag Powered Services CWUM Solution](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
 | [Bayer Ag Powered Services GDU Solution](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) | [c4bc862a-3b64-4a35-a021-a380c159b042](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) |
 | [Bayer Ag Powered Services Historical Weather Data Solution User Role](roles/b5b192c1-773c-4543-bfb0-6c59254b74a9.json) | [b5b192c1-773c-4543-bfb0-6c59254b74a9](roles/b5b192c1-773c-4543-bfb0-6c59254b74a9.json) |

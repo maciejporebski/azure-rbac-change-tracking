@@ -1,0 +1,33 @@
+{
+  "Name": "Azure Container Storage Owner",
+  "Id": "95de85bd-744d-4664-9dde-11430bc34793",
+  "IsCustom": false,
+  "Description": "Lets you install Azure Container Storage and grants access to its storage resources",
+  "Actions": [
+    "Microsoft.ElasticSan/elasticSans/*",
+    "Microsoft.ElasticSan/locations/*",
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/*",
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/volumes/*",
+    "Microsoft.ElasticSan/locations/asyncoperations/read",
+    "Microsoft.KubernetesConfiguration/extensions/write",
+    "Microsoft.KubernetesConfiguration/extensions/read",
+    "Microsoft.KubernetesConfiguration/extensions/delete",
+    "Microsoft.KubernetesConfiguration/extensions/operations/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Management/managementGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

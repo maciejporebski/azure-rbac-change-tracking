@@ -6,7 +6,8 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.ApiCenter/services/*/read"
+    "Microsoft.ApiCenter/services/*/read",
+    "Microsoft.ApiCenter/services/workspaces/apis/versions/definitions/exportSpecification/action"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

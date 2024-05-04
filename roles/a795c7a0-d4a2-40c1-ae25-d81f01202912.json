@@ -57,6 +57,7 @@
     "Microsoft.DataProtection/backupVaults/backupPolicies/read",
     "Microsoft.DataProtection/backupVaults/backupInstances/recoveryPoints/read",
     "Microsoft.DataProtection/backupVaults/backupInstances/recoveryPoints/read",
+    "Microsoft.DataProtection/backupVaults/backupInstances/operationResults/read",
     "Microsoft.DataProtection/backupVaults/backupInstances/findRestorableTimeRanges/action",
     "Microsoft.DataProtection/backupVaults/read",
     "Microsoft.DataProtection/backupVaults/operationResults/read",

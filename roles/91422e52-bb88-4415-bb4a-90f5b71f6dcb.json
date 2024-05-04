@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Spring Apps Job Execution Instance List Role",
+  "Id": "91422e52-bb88-4415-bb4a-90f5b71f6dcb",
+  "IsCustom": false,
+  "Description": "List instances for job executions in Azure Spring Apps",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppPlatform/Spring/jobs/executions/listInstances/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

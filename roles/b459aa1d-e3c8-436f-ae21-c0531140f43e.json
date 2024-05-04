@@ -1,0 +1,22 @@
+{
+  "Name": "Azure Spring Apps Job Log Reader Role",
+  "Id": "b459aa1d-e3c8-436f-ae21-c0531140f43e",
+  "IsCustom": false,
+  "Description": "Read real-time logs for jobs in Azure Spring Apps",
+  "Actions": [
+    "Microsoft.AppPlatform/Spring/read",
+    "Microsoft.AppPlatform/Spring/jobs/read",
+    "Microsoft.AppPlatform/Spring/jobs/executions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppPlatform/Spring/jobs/executions/logstream/action",
+    "Microsoft.AppPlatform/Spring/jobs/executions/listInstances/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

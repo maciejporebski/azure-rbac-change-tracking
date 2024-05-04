@@ -4,6 +4,10 @@
   "IsCustom": false,
   "Description": "List and update actions on a business applications system. This role is in preview and subject to change.",
   "Actions": [
+    "Microsoft.SecurityInsights/businessApplicationAgents/read",
+    "Microsoft.SecurityInsights/businessApplicationAgents/write",
+    "Microsoft.SecurityInsights/businessApplicationAgents/systems/read",
+    "Microsoft.SecurityInsights/businessApplicationAgents/systems/write",
     "Microsoft.SecurityInsights/businessApplicationAgents/systems/listActions/action",
     "Microsoft.SecurityInsights/businessApplicationAgents/systems/reportActionStatus/action"
   ],

@@ -1,0 +1,20 @@
+{
+  "Name": "Scheduled Events Contributor",
+  "Id": "b67fe603-310e-4889-b9ee-8257d09d353d",
+  "IsCustom": false,
+  "Description": "Provides access to scheduled event actions",
+  "Actions": [
+    "Microsoft.Maintenance/scheduledevents/acknowledge/action",
+    "Microsoft.Compute/VirtualMachines/read",
+    "Microsoft.Compute/VirtualMachineScaleSets/read",
+    "Microsoft.Compute/AvailabilitySets/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -422,6 +422,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [MySQL Backup And Export Operator](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) | [d18ad5f3-1baf-4119-b49b-d944edb1f9d0](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) |
 | [Network Contributor](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) | [4d97b98b-1d4f-4787-a291-c67834d212e7](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) |
 | [New Relic APM Account Contributor](roles/5d28c62d-5b37-4476-8438-e587778df237.json) | [5d28c62d-5b37-4476-8438-e587778df237](roles/5d28c62d-5b37-4476-8438-e587778df237.json) |
+| [Nexus Network Fabric Service Reader](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) | [05fdd44c-adc6-4aff-981c-61041f0c929a](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) |
+| [Nexus Network Fabric Service Writer](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) | [a5eb8433-97a5-4a06-80b2-a877e1622c31](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) |
 | [Object Anchors Account Owner](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) | [ca0835dd-bacc-42dd-8ed2-ed5e7230d15b](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) |
 | [Object Anchors Account Reader](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) | [4a167cdf-cb95-4554-9203-2347fe489bd9](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) |
 | [Object Understanding Account Owner](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) | [4dd61c23-6743-42fe-a388-d8bdd41cb745](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) |

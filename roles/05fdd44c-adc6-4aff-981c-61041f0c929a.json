@@ -1,0 +1,21 @@
+{
+  "Name": "Nexus Network Fabric Service Reader",
+  "Id": "05fdd44c-adc6-4aff-981c-61041f0c929a",
+  "IsCustom": false,
+  "Description": "Read-only access to Nexus Network Fabric Service",
+  "Actions": [
+    "Microsoft.ManagedNetworkFabric/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

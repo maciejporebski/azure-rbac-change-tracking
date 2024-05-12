@@ -1,0 +1,22 @@
+{
+  "Name": "Nexus Network Fabric Service Writer",
+  "Id": "a5eb8433-97a5-4a06-80b2-a877e1622c31",
+  "IsCustom": false,
+  "Description": "Read-write access to Nexus Network Fabric Service",
+  "Actions": [
+    "Microsoft.ManagedNetworkFabric/*/read",
+    "Microsoft.ManagedNetworkFabric/*/write",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

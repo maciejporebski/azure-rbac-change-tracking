@@ -1,0 +1,22 @@
+{
+  "Name": "Azure Deployment Stack Contributor",
+  "Id": "bf7f8882-3383-422a-806a-6526c631a88a",
+  "IsCustom": false,
+  "Description": "Allows a user to manage deployment stacks, but cannot create or delete deny assignments within the deployment stack.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deploymentStacks/write",
+    "Microsoft.Resources/deploymentStacks/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

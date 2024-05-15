@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Deployment Stack Owner",
+  "Id": "adb29209-aa1d-457b-a786-c913953d2891",
+  "IsCustom": false,
+  "Description": "Allows a user to manage deployment stacks, including those with deny assignments.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deploymentStacks/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

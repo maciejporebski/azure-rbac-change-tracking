@@ -12,7 +12,9 @@
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.LoadTestService/loadtests/readTest/action"
+    "Microsoft.LoadTestService/loadtests/readTest/action",
+    "Microsoft.LoadTestService/testProfiles/read",
+    "Microsoft.LoadTestService/testProfileRuns/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

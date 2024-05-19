@@ -80,7 +80,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Container Storage Contributor](roles/95dd08a6-00bd-4661-84bf-f6726f83a4d0.json) | [95dd08a6-00bd-4661-84bf-f6726f83a4d0](roles/95dd08a6-00bd-4661-84bf-f6726f83a4d0.json) |
 | [Azure Container Storage Operator](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) | [08d4c71a-cc63-4ce4-a9c8-5dd251b4d619](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) |
 | [Azure Container Storage Owner](roles/95de85bd-744d-4664-9dde-11430bc34793.json) | [95de85bd-744d-4664-9dde-11430bc34793](roles/95de85bd-744d-4664-9dde-11430bc34793.json) |
-| [Azure ContainerApps Session Executor](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) | [0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) |
+| [Azure ContainerApps Session Creator](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) | [0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) |
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |

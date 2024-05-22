@@ -2,7 +2,7 @@
   "Name": "Oracle.Database Reader Built-in Role",
   "Id": "d623d097-b882-4e1e-a26f-ac60e31065a1",
   "IsCustom": false,
-  "Description": "Grants read access to see all Oracle VmCluster resources",
+  "Description": "Grants read access to all Oracle.Database resources",
   "Actions": [
     "Oracle.Database/Locations/*/read",
     "Oracle.Database/Operations/read",
@@ -10,8 +10,13 @@
     "Oracle.Database/cloudExadataInfrastructures/*/read",
     "Oracle.Database/cloudVmClusters/*/read",
     "Oracle.Database/cloudVmClusters/listPrivateIpAddresses/action",
+    "Oracle.Database/oracleSubscriptions/listCloudAccountDetails/action",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Resources/deployments/*/read"
+    "Microsoft.Resources/deployments/*/read",
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/locations/operations/read",
+    "Microsoft.Resources/deployments/*"
   ],
   "NotActions": [],
   "DataActions": [],

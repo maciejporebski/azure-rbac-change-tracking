@@ -58,7 +58,10 @@
     "Microsoft.HybridCompute/machines/licenseProfiles/delete",
     "Microsoft.HybridCompute/licenses/read",
     "Microsoft.HybridCompute/licenses/write",
-    "Microsoft.HybridCompute/licenses/delete"
+    "Microsoft.HybridCompute/licenses/delete",
+    "Microsoft.ExtendedLocation/customLocations/read",
+    "Microsoft.ExtendedLocation/customLocations/deploy/action",
+    "Microsoft.KubernetesConfiguration/extensions/read"
   ],
   "NotActions": [],
   "DataActions": [],

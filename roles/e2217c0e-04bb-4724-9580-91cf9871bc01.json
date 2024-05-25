@@ -11,14 +11,8 @@
     "MICROSOFT.QUOTA/USAGES/READ",
     "MICROSOFT.QUOTA/QUOTAREQUESTS/READ",
     "MICROSOFT.QUOTA/REGISTER/ACTION",
-    "Microsoft.Quota/GROUPQUOTAS/READ",
-    "Microsoft.Quota/GROUPQUOTAS/subscriptions/READ",
-    "Microsoft.Quota/GROUPQUOTAS/groupQuotaLimits/READ",
-    "Microsoft.Quota/GROUPQUOTAS/quotaAllocations/READ",
-    "Microsoft.Quota/GROUPQUOTAS/WRITE",
-    "Microsoft.Quota/GROUPQUOTAS/subscriptions/WRITE",
-    "Microsoft.Quota/GROUPQUOTAS/groupQuotaLimits/WRITE",
-    "Microsoft.Quota/GROUPQUOTAS/quotaAllocations/WRITE"
+    "Microsoft.Quota/GROUPQUOTAS/*/READ",
+    "Microsoft.Quota/GROUPQUOTAS/*/WRITE"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -13,6 +13,9 @@
     "Microsoft.ApiManagement/service/workspaces/policyFragments/*",
     "Microsoft.ApiManagement/service/workspaces/namedValues/*",
     "Microsoft.ApiManagement/service/workspaces/tags/*",
+    "Microsoft.ApiManagement/service/workspaces/backends/*",
+    "Microsoft.ApiManagement/service/workspaces/certificates/*",
+    "Microsoft.ApiManagement/service/workspaces/diagnostics/*",
     "Microsoft.Authorization/*/read"
   ],
   "NotActions": [],

@@ -8,7 +8,6 @@
     "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/delete",
     "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/read",
     "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/write",
-    "Microsoft.ContainerService/managedClusters/write",
     "Microsoft.Security/pricings/securityoperators/read"
   ],
   "NotActions": [],

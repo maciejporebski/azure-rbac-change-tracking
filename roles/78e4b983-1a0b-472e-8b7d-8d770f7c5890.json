@@ -1,0 +1,17 @@
+{
+  "Name": "DeID Data Owner",
+  "Id": "78e4b983-1a0b-472e-8b7d-8d770f7c5890",
+  "IsCustom": false,
+  "Description": "Full access to DeID data. This role is in preview and subject to change",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthDataAIServices/DeidServices/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

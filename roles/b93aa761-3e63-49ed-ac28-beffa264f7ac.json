@@ -1,0 +1,18 @@
+{
+  "Name": "ACR Repository Reader",
+  "Id": "b93aa761-3e63-49ed-ac28-beffa264f7ac",
+  "IsCustom": false,
+  "Description": "ACR Repository Reader",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/read",
+    "Microsoft.ContainerRegistry/registries/repositories/content/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

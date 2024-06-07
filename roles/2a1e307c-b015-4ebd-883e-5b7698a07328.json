@@ -1,0 +1,20 @@
+{
+  "Name": "ACR Repository Writer",
+  "Id": "2a1e307c-b015-4ebd-883e-5b7698a07328",
+  "IsCustom": false,
+  "Description": "ACR Repository Writer",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/read",
+    "Microsoft.ContainerRegistry/registries/repositories/content/read",
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/write",
+    "Microsoft.ContainerRegistry/registries/repositories/content/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

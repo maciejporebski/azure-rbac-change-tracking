@@ -1,0 +1,17 @@
+{
+  "Name": "ACR Registry Catalog Lister",
+  "Id": "bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7",
+  "IsCustom": false,
+  "Description": "ACR Registry Catalog Lister",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/catalog/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

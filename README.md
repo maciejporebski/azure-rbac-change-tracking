@@ -4,6 +4,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | Role Name | Role Id |
 | --- | --- |
 | [Access Review Operator Service Role](roles/76cc9ee4-d5d3-4a45-a930-26add3d73475.json) | [76cc9ee4-d5d3-4a45-a930-26add3d73475](roles/76cc9ee4-d5d3-4a45-a930-26add3d73475.json) |
+| [ACR Registry Catalog Lister](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) | [bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) |
+| [ACR Repository Contributor](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) | [2efddaa5-3f1f-4df3-97df-af3f13818f4c](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) |
+| [ACR Repository Reader](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) | [b93aa761-3e63-49ed-ac28-beffa264f7ac](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) |
+| [ACR Repository Writer](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) | [2a1e307c-b015-4ebd-883e-5b7698a07328](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) |
 | [AcrDelete](roles/c2f4ef07-c644-48eb-af81-4b1b4947fb11.json) | [c2f4ef07-c644-48eb-af81-4b1b4947fb11](roles/c2f4ef07-c644-48eb-af81-4b1b4947fb11.json) |
 | [AcrImageSigner](roles/6cef56e8-d556-48e5-a04f-b8e64114680f.json) | [6cef56e8-d556-48e5-a04f-b8e64114680f](roles/6cef56e8-d556-48e5-a04f-b8e64114680f.json) |
 | [AcrPull](roles/7f951dda-4ed3-4680-a7ca-43fe172d538d.json) | [7f951dda-4ed3-4680-a7ca-43fe172d538d](roles/7f951dda-4ed3-4680-a7ca-43fe172d538d.json) |
@@ -260,6 +264,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [DeID Batch Data Owner](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) | [8a90fa6b-6997-4a07-8a95-30633a7c97b9](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) |
 | [DeID Batch Data Reader](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) | [b73a14ee-91f5-41b7-bd81-920e12466be9](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) |
+| [DeID Data Owner](roles/78e4b983-1a0b-472e-8b7d-8d770f7c5890.json) | [78e4b983-1a0b-472e-8b7d-8d770f7c5890](roles/78e4b983-1a0b-472e-8b7d-8d770f7c5890.json) |
 | [DeID Realtime Data User](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) | [bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) |
 | [Deployment Environments Reader](roles/eb960402-bf75-4cc3-8d68-35b34f960f72.json) | [eb960402-bf75-4cc3-8d68-35b34f960f72](roles/eb960402-bf75-4cc3-8d68-35b34f960f72.json) |
 | [Deployment Environments User](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) | [18e40d4e-8d2e-438d-97e1-9528336e149c](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) |

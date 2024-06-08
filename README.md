@@ -264,7 +264,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [DeID Batch Data Owner](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) | [8a90fa6b-6997-4a07-8a95-30633a7c97b9](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) |
 | [DeID Batch Data Reader](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) | [b73a14ee-91f5-41b7-bd81-920e12466be9](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) |
-| [DeID Data Owner](roles/78e4b983-1a0b-472e-8b7d-8d770f7c5890.json) | [78e4b983-1a0b-472e-8b7d-8d770f7c5890](roles/78e4b983-1a0b-472e-8b7d-8d770f7c5890.json) |
 | [DeID Realtime Data User](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) | [bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) |
 | [Deployment Environments Reader](roles/eb960402-bf75-4cc3-8d68-35b34f960f72.json) | [eb960402-bf75-4cc3-8d68-35b34f960f72](roles/eb960402-bf75-4cc3-8d68-35b34f960f72.json) |
 | [Deployment Environments User](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) | [18e40d4e-8d2e-438d-97e1-9528336e149c](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) |

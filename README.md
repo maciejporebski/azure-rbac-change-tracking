@@ -505,7 +505,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlDb Migration Role](roles/189207d4-bb67-4208-a635-b06afe8b2c57.json) | [189207d4-bb67-4208-a635-b06afe8b2c57](roles/189207d4-bb67-4208-a635-b06afe8b2c57.json) |
 | [SqlMI Migration Role](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) | [1d335eef-eee1-47fe-a9e0-53214eba8872](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) |
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
-| [Standby Container Group Pool Contributor](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) | [39fcb0de-8844-4706-b050-c28ddbe3ff83](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) |
 | [Storage Account Backup Contributor](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) | [e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1](roles/e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1.json) |
 | [Storage Account Contributor](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) | [17d1049b-9a84-46fb-8f53-869881c3d3ab](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) |
 | [Storage Account Encryption Scope Contributor Role](roles/a316ed6d-1efe-48ac-ac08-f7995a9c26fb.json) | [a316ed6d-1efe-48ac-ac08-f7995a9c26fb](roles/a316ed6d-1efe-48ac-ac08-f7995a9c26fb.json) |

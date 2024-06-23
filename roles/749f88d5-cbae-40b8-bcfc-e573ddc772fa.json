@@ -41,6 +41,7 @@
     "Microsoft.AlertsManagement/smartGroups/*",
     "Microsoft.AlertsManagement/migrateFromSmartDetection/*",
     "Microsoft.AlertsManagement/investigations/*",
+    "Microsoft.AlertsManagement/prometheusRuleGroups/*",
     "Microsoft.Monitor/investigations/*"
   ],
   "NotActions": [],

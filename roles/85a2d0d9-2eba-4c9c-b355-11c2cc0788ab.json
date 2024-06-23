@@ -1,0 +1,29 @@
+{
+  "Name": "Compute Gallery Artifacts Publisher",
+  "Id": "85a2d0d9-2eba-4c9c-b355-11c2cc0788ab",
+  "IsCustom": false,
+  "Description": "This is the role for publishing gallery artifacts.",
+  "Actions": [
+    "Microsoft.Compute/galleries/*",
+    "Microsoft.Compute/locations/capsOperations/read",
+    "Microsoft.Compute/locations/communityGalleries/*",
+    "Microsoft.Compute/locations/sharedGalleries/*",
+    "Microsoft.Compute/images/*",
+    "Microsoft.Compute/virtualMachines/write",
+    "Microsoft.Compute/disks/write",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [
+    "Microsoft.Compute/galleries/share/action"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

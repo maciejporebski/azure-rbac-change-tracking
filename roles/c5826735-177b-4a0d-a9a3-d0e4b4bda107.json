@@ -1,0 +1,22 @@
+{
+  "Name": "ToolchainOrchestrator Viewer Role",
+  "Id": "c5826735-177b-4a0d-a9a3-d0e4b4bda107",
+  "IsCustom": false,
+  "Description": "Allows ToolchainOrchestrator Viewer to do all management read actions for ToolchainOrchestrator resources.",
+  "Actions": [
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ToolchainOrchestrator/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

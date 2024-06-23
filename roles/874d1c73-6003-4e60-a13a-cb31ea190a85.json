@@ -20,6 +20,8 @@
     "Microsoft.AzureStackHCI/MarketPlaceGalleryImages/deploy/action",
     "Microsoft.AzureStackHCI/Clusters/Read",
     "Microsoft.AzureStackHCI/Clusters/ArcSettings/Read",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/Read",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/SecurityRules/Read",
     "Microsoft.Insights/AlertRules/Write",
     "Microsoft.Insights/AlertRules/Delete",
     "Microsoft.Insights/AlertRules/Read",

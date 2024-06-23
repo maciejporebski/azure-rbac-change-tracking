@@ -14,6 +14,8 @@
     "Microsoft.AzureStackHCI/StorageContainers/Read",
     "Microsoft.AzureStackHCI/GalleryImages/Read",
     "Microsoft.AzureStackHCI/MarketplaceGalleryImages/Read",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/Read",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/SecurityRules/Read",
     "Microsoft.HybridCompute/licenses/read",
     "Microsoft.HybridCompute/machines/extensions/read",
     "Microsoft.HybridCompute/machines/licenseProfiles/read",

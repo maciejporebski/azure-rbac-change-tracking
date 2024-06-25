@@ -2,7 +2,7 @@
   "Name": "ACR Repository Reader",
   "Id": "b93aa761-3e63-49ed-ac28-beffa264f7ac",
   "IsCustom": false,
-  "Description": "ACR Repository Reader",
+  "Description": "Allows for read access to Azure Container Registry repositories, but excluding catalog listing.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

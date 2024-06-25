@@ -1,0 +1,17 @@
+{
+  "Name": "Compute Recommendations Role",
+  "Id": "e82342c9-ac7f-422b-af64-e426d2e12b2d",
+  "IsCustom": false,
+  "Description": "Grants permissions to call Compute Recommendations APIs provided by Compute Diagnostic Resource Provider service.",
+  "Actions": [
+    "Microsoft.Compute/locations/placementScores/generate/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": "@Resource[HasObotoken] boolequals true",
+  "ConditionVersion": "2.0"
+}

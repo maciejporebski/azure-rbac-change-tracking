@@ -2,7 +2,7 @@
   "Name": "ACR Repository Writer",
   "Id": "2a1e307c-b015-4ebd-883e-5b7698a07328",
   "IsCustom": false,
-  "Description": "ACR Repository Writer",
+  "Description": "Allows for read and write access to Azure Container Registry, but excluding catalog listing.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

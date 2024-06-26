@@ -4,9 +4,14 @@
   "IsCustom": false,
   "Description": "Grants access to read and write Azure Kubernetes Service clusters",
   "Actions": [
-    "Microsoft.ContainerService/managedClusters/read",
-    "Microsoft.ContainerService/managedClusters/write",
-    "Microsoft.Resources/deployments/*"
+    "Microsoft.Authorization/*/read",
+    "Microsoft.ContainerService/locations/*",
+    "Microsoft.ContainerService/managedClusters/*",
+    "Microsoft.ContainerService/managedclustersnapshots/*",
+    "Microsoft.ContainerService/snapshots/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [],

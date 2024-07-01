@@ -348,7 +348,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [HDInsight Cluster Operator](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) | [61ed4efc-fab3-44fd-b111-e24485cc132a](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) |
 | [HDInsight Domain Services Contributor](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) | [8d8d5a11-05d3-4bda-a417-a08778121c7c](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) |
 | [HDInsight on AKS Cluster Admin](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) | [fd036e6b-1266-47a0-b0bb-a05d04831731](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) |
-| [HDInsight on AKS Cluster Operator](roles/bcf28286-af25-4c81-bb6f-351fcab5dbe9.json) | [bcf28286-af25-4c81-bb6f-351fcab5dbe9](roles/bcf28286-af25-4c81-bb6f-351fcab5dbe9.json) |
 | [HDInsight on AKS Cluster Pool Admin](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) | [7656b436-37d4-490a-a4ab-d39f838f0042](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) |
 | [Health Bot Admin](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) | [f1082fec-a70f-419f-9230-885d2550fb38](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) |
 | [Health Bot Editor](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) | [af854a69-80ce-4ff7-8447-f1118a2e0ca8](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) |

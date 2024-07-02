@@ -1,0 +1,22 @@
+{
+  "Name": "ProviderHub Contributor",
+  "Id": "a3ab03bc-5350-42ff-b0d5-00207672db55",
+  "IsCustom": false,
+  "Description": "Allows you to create and manage Microsoft.ProviderHub resources through the Resource Provider Platform. Does not allow you to assign roles in Azure RBAC.",
+  "Actions": [
+    "Microsoft.ProviderHub/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

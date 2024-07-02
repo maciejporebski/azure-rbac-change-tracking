@@ -1,0 +1,20 @@
+{
+  "Name": "ProviderHub Reader",
+  "Id": "4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1",
+  "IsCustom": false,
+  "Description": "Allows you to view all Microsoft.ProviderHub resources created through the Resource Provider Platform, but does not allow you to make any changes to the resources.",
+  "Actions": [
+    "Microsoft.ProviderHub/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ResourceHealth/availabilityStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

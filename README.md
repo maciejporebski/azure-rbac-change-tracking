@@ -241,7 +241,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Compute Diagnostics Role](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) | [df2711a6-406d-41cf-b366-b0250bff9ad1](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) |
 | [Compute Gallery Artifacts Publisher](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) | [85a2d0d9-2eba-4c9c-b355-11c2cc0788ab](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) |
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |
-| [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
+| [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
@@ -456,8 +456,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Project Babylon Data Curator](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) | [9ef4ef9c-a049-46b0-82ab-dd8ac094c889](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) |
 | [Project Babylon Data Reader](roles/c8d896ba-346d-4f50-bc1d-7d1c84130446.json) | [c8d896ba-346d-4f50-bc1d-7d1c84130446](roles/c8d896ba-346d-4f50-bc1d-7d1c84130446.json) |
 | [Project Babylon Data Source Administrator](roles/05b7651b-dc44-475e-b74d-df3db49fae0f.json) | [05b7651b-dc44-475e-b74d-df3db49fae0f](roles/05b7651b-dc44-475e-b74d-df3db49fae0f.json) |
-| [ProviderHub Contributor](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) | [a3ab03bc-5350-42ff-b0d5-00207672db55](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) |
-| [ProviderHub Reader](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) | [4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) |
 | [Purview role 1 (Deprecated)](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) | [8a3c2885-9b38-4fd2-9d99-91af537c1347](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) |
 | [Purview role 2 (Deprecated)](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) | [200bba9e-f0c8-430f-892b-6f0794863803](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) |
 | [Purview role 3 (Deprecated)](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) | [ff100721-1b9d-43d8-af52-42b69c1272db](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) |

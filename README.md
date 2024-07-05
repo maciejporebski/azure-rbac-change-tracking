@@ -168,6 +168,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Service Registry Contributor](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) | [f5880b48-c26d-48be-b172-7927bfa1c8f1](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) |
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
 | [Azure Stack HCI Administrator](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
+| [Azure Stack HCI Connected InfraVMs](roles/c99c945f-8bd1-4fb1-a903-01460aae6068.json) | [c99c945f-8bd1-4fb1-a903-01460aae6068](roles/c99c945f-8bd1-4fb1-a903-01460aae6068.json) |
 | [Azure Stack HCI Device Management Role](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) | [865ae368-6a45-4bd1-8fbf-0d5151f56fc1](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) |
 | [Azure Stack HCI VM Contributor](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) | [874d1c73-6003-4e60-a13a-cb31ea190a85](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) |
 | [Azure Stack HCI VM Reader](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) | [4b3fe76c-f777-4d24-a2d7-b027b0f7b273](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) |
@@ -241,7 +242,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Compute Diagnostics Role](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) | [df2711a6-406d-41cf-b366-b0250bff9ad1](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) |
 | [Compute Gallery Artifacts Publisher](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) | [85a2d0d9-2eba-4c9c-b355-11c2cc0788ab](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) |
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |
-| [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
+| [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
@@ -345,6 +346,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [GroupQuota Reader](roles/d0f495dc-44ef-4140-aeb0-b89110e6a7c1.json) | [d0f495dc-44ef-4140-aeb0-b89110e6a7c1](roles/d0f495dc-44ef-4140-aeb0-b89110e6a7c1.json) |
 | [GroupQuota Request Operator](roles/e2217c0e-04bb-4724-9580-91cf9871bc01.json) | [e2217c0e-04bb-4724-9580-91cf9871bc01](roles/e2217c0e-04bb-4724-9580-91cf9871bc01.json) |
 | [Guest Configuration Resource Contributor](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) | [088ab73d-1256-47ae-bea9-9de8e7131f31](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) |
+| [HDInsight Cluster Admin](roles/0847e196-2fd2-4c2f-a48c-fca6fd030f44.json) | [0847e196-2fd2-4c2f-a48c-fca6fd030f44](roles/0847e196-2fd2-4c2f-a48c-fca6fd030f44.json) |
 | [HDInsight Cluster Operator](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) | [61ed4efc-fab3-44fd-b111-e24485cc132a](roles/61ed4efc-fab3-44fd-b111-e24485cc132a.json) |
 | [HDInsight Domain Services Contributor](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) | [8d8d5a11-05d3-4bda-a417-a08778121c7c](roles/8d8d5a11-05d3-4bda-a417-a08778121c7c.json) |
 | [HDInsight on AKS Cluster Admin](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) | [fd036e6b-1266-47a0-b0bb-a05d04831731](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) |
@@ -456,6 +458,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Project Babylon Data Curator](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) | [9ef4ef9c-a049-46b0-82ab-dd8ac094c889](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) |
 | [Project Babylon Data Reader](roles/c8d896ba-346d-4f50-bc1d-7d1c84130446.json) | [c8d896ba-346d-4f50-bc1d-7d1c84130446](roles/c8d896ba-346d-4f50-bc1d-7d1c84130446.json) |
 | [Project Babylon Data Source Administrator](roles/05b7651b-dc44-475e-b74d-df3db49fae0f.json) | [05b7651b-dc44-475e-b74d-df3db49fae0f](roles/05b7651b-dc44-475e-b74d-df3db49fae0f.json) |
+| [ProviderHub Contributor](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) | [a3ab03bc-5350-42ff-b0d5-00207672db55](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) |
+| [ProviderHub Reader](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) | [4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) |
 | [Purview role 1 (Deprecated)](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) | [8a3c2885-9b38-4fd2-9d99-91af537c1347](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) |
 | [Purview role 2 (Deprecated)](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) | [200bba9e-f0c8-430f-892b-6f0794863803](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) |
 | [Purview role 3 (Deprecated)](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) | [ff100721-1b9d-43d8-af52-42b69c1272db](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) |
@@ -546,6 +550,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Virtual Machine Data Access Administrator (preview)](roles/66f75aeb-eabe-4b70-9f1e-c350c4c9ad04.json) | [66f75aeb-eabe-4b70-9f1e-c350c4c9ad04](roles/66f75aeb-eabe-4b70-9f1e-c350c4c9ad04.json) |
 | [Virtual Machine Local User Login](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) | [602da2ba-a5c2-41da-b01d-5360126ab525](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) |
 | [Virtual Machine User Login](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) | [fb879df8-f326-4884-b1cf-06f3ad86be52](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) |
+| [VM Restore Operator](roles/dfce8971-25e3-42e3-ba33-6055438e3080.json) | [dfce8971-25e3-42e3-ba33-6055438e3080](roles/dfce8971-25e3-42e3-ba33-6055438e3080.json) |
 | [VM Scanner Operator](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |
 | [Web Plan Contributor](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) | [2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) |
 | [Web PubSub Service Owner](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) | [12cf5a90-567b-43ae-8102-96cf46c7d9b4](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) |

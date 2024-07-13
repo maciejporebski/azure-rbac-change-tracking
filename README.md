@@ -81,6 +81,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Connected Machine Resource Administrator](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) | [cd570a14-e51a-42ad-bac8-bafd67325302](roles/cd570a14-e51a-42ad-bac8-bafd67325302.json) |
 | [Azure Connected Machine Resource Manager](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) | [f5819b54-e033-4d82-ac66-4fec3cbf3f4c](roles/f5819b54-e033-4d82-ac66-4fec3cbf3f4c.json) |
 | [Azure Connected SQL Server Onboarding](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) | [e8113dce-c529-4d33-91fa-e9b972617508](roles/e8113dce-c529-4d33-91fa-e9b972617508.json) |
+| [Azure Container Instances Contributor Role](roles/5d977122-f97e-4b4d-a52f-6b43003ddb4d.json) | [5d977122-f97e-4b4d-a52f-6b43003ddb4d](roles/5d977122-f97e-4b4d-a52f-6b43003ddb4d.json) |
 | [Azure Container Registry secure supply chain operator service role](roles/96062cf7-95ca-4f89-9b9d-2a2aa47356af.json) | [96062cf7-95ca-4f89-9b9d-2a2aa47356af](roles/96062cf7-95ca-4f89-9b9d-2a2aa47356af.json) |
 | [Azure Container Storage Contributor](roles/95dd08a6-00bd-4661-84bf-f6726f83a4d0.json) | [95dd08a6-00bd-4661-84bf-f6726f83a4d0](roles/95dd08a6-00bd-4661-84bf-f6726f83a4d0.json) |
 | [Azure Container Storage Operator](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) | [08d4c71a-cc63-4ce4-a9c8-5dd251b4d619](roles/08d4c71a-cc63-4ce4-a9c8-5dd251b4d619.json) |
@@ -442,6 +443,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Object Anchors Account Reader](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) | [4a167cdf-cb95-4554-9203-2347fe489bd9](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) |
 | [Object Understanding Account Owner](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) | [4dd61c23-6743-42fe-a388-d8bdd41cb745](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) |
 | [Object Understanding Account Reader](roles/d18777c0-1514-4662-8490-608db7d334b6.json) | [d18777c0-1514-4662-8490-608db7d334b6](roles/d18777c0-1514-4662-8490-608db7d334b6.json) |
+| [Operator Nexus Compute Contributor Role (Preview)](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) | [4aa368ec-fba9-4e93-81ed-396b3d461cc5](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) |
 | [Operator Nexus Key Vault Writer Service Role (Preview)](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) | [44f0a1a8-6fea-4b35-980a-8ff50c487c97](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) |
 | [Oracle Subscriptions Manager Built-in Role](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) | [4caf51ec-f9f5-413f-8a94-b9f5fddba66b](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) |
 | [Oracle.Database Exadata Infrastructure Administrator Built-in Role](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) | [4cfdd23b-aece-4fd1-b614-ad3a06c53453](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) |

@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Container Instances Contributor Role",
+  "Id": "5d977122-f97e-4b4d-a52f-6b43003ddb4d",
+  "IsCustom": false,
+  "Description": "Grants read/write access to container groups provided by Azure Container Instances",
+  "Actions": [
+    "Microsoft.ContainerInstance/containerGroups/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

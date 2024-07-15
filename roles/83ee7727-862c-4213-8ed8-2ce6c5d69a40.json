@@ -1,0 +1,17 @@
+{
+  "Name": "Microsoft.Edge Winfields federated subscription read access role",
+  "Id": "83ee7727-862c-4213-8ed8-2ce6c5d69a40",
+  "IsCustom": false,
+  "Description": "Microsoft.Edge Winfields role for read access on federated subscriptions",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

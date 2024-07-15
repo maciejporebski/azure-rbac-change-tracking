@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "Can read the attestation provider properties",
   "Actions": [
-    "Microsoft.Attestation/attestationProviders/attestation/read"
+    "Microsoft.Attestation/attestationProviders/attestation/read",
+    "Microsoft.Attestation/attestationProviders/read"
   ],
   "NotActions": [],
   "DataActions": [],

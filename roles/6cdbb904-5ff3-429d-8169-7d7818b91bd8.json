@@ -1,0 +1,19 @@
+{
+  "Name": "Connector Reader",
+  "Id": "6cdbb904-5ff3-429d-8169-7d7818b91bd8",
+  "IsCustom": false,
+  "Description": "Read connectors and their associated resources, such as impacts and insights.",
+  "Actions": [
+    "Microsoft.Impact/Connectors/Read",
+    "Microsoft.Impact/WorkloadImpacts/Read",
+    "Microsoft.Impact/WorkloadImpacts/Insights/Read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

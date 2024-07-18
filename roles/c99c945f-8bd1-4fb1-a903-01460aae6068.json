@@ -18,6 +18,6 @@
   "AssignableScopes": [
     "/"
   ],
-  "Condition": "@Resource[HasObotoken] boolequals true",
-  "ConditionVersion": "1.0"
+  "Condition": null,
+  "ConditionVersion": null
 }

@@ -2,7 +2,7 @@
   "Name": "Grafana Admin",
   "Id": "22926164-76b3-42b3-bc55-97df8dab3e41",
   "IsCustom": false,
-  "Description": "Built-in Grafana admin role",
+  "Description": "Manage server-wide settings and manage access to resources such as organizations, users, and licenses.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

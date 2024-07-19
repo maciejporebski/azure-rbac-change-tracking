@@ -302,6 +302,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [DICOM Data Owner](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) | [58a3b984-7adf-4c20-983a-32417c86fbc8](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) |
 | [DICOM Data Reader](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) | [e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) |
 | [Disk Backup Reader](roles/3e5e47e6-65f7-47ef-90b5-e5dd4d455f24.json) | [3e5e47e6-65f7-47ef-90b5-e5dd4d455f24](roles/3e5e47e6-65f7-47ef-90b5-e5dd4d455f24.json) |
+| [Disk Encryption Set Operator for Managed Disks](roles/136d308c-0937-4a49-9bd7-edfb42adbffc.json) | [136d308c-0937-4a49-9bd7-edfb42adbffc](roles/136d308c-0937-4a49-9bd7-edfb42adbffc.json) |
 | [Disk Pool Operator](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) | [60fc6e62-5479-42d4-8bf4-67625fcc2840](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) |
 | [Disk Restore Operator](roles/b50d9833-a0cb-478e-945f-707fcc997c13.json) | [b50d9833-a0cb-478e-945f-707fcc997c13](roles/b50d9833-a0cb-478e-945f-707fcc997c13.json) |
 | [Disk Snapshot Contributor](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) | [7efff54f-a5b4-42b5-a1c5-5411624893ce](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) |
@@ -343,6 +344,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |
 | [Grafana Editor](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) | [a79a5197-3a5c-4973-a920-486035ffd60f](roles/a79a5197-3a5c-4973-a920-486035ffd60f.json) |
+| [Grafana Limited Viewer](roles/41e04612-9dac-4699-a02b-c82ff2cc3fb5.json) | [41e04612-9dac-4699-a02b-c82ff2cc3fb5](roles/41e04612-9dac-4699-a02b-c82ff2cc3fb5.json) |
 | [Grafana Viewer](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) | [60921a7e-fef1-4a43-9b16-a26c52ad4769](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) |
 | [Graph Owner](roles/b60367af-1334-4454-b71e-769d9a4f83d9.json) | [b60367af-1334-4454-b71e-769d9a4f83d9](roles/b60367af-1334-4454-b71e-769d9a4f83d9.json) |
 | [GroupQuota Reader](roles/d0f495dc-44ef-4140-aeb0-b89110e6a7c1.json) | [d0f495dc-44ef-4140-aeb0-b89110e6a7c1](roles/d0f495dc-44ef-4140-aeb0-b89110e6a7c1.json) |
@@ -545,6 +547,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [ToolchainOrchestrator Admin Role](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) | [2ccf8795-8983-4912-8036-1c45212c95e8](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) |
 | [ToolchainOrchestrator Viewer Role](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) | [c5826735-177b-4a0d-a9a3-d0e4b4bda107](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) |
 | [Traffic Manager Contributor](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) | [a4b10055-b0c7-44c2-b00f-c7b5b3550cf7](roles/a4b10055-b0c7-44c2-b00f-c7b5b3550cf7.json) |
+| [Transparency Logs Owner](roles/8ad4d0ee-9bfb-49e8-93fc-01abb8db6240.json) | [8ad4d0ee-9bfb-49e8-93fc-01abb8db6240](roles/8ad4d0ee-9bfb-49e8-93fc-01abb8db6240.json) |
 | [Trusted Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
 | [Trusted Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |

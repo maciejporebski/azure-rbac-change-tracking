@@ -2,7 +2,7 @@
   "Name": "Grafana Viewer",
   "Id": "60921a7e-fef1-4a43-9b16-a26c52ad4769",
   "IsCustom": false,
-  "Description": "Built-in Grafana Viewer role",
+  "Description": "View dashboards, playlists, and query data sources.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

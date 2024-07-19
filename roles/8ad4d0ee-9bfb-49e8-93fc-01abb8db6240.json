@@ -1,0 +1,19 @@
+{
+  "Name": "Transparency Logs Owner",
+  "Id": "8ad4d0ee-9bfb-49e8-93fc-01abb8db6240",
+  "IsCustom": false,
+  "Description": "Grants full access to manage Transparency Log resources.",
+  "Actions": [
+    "Microsoft.Sovereign/transparencyLogs/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

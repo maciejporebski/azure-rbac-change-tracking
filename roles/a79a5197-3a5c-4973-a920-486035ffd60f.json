@@ -2,7 +2,7 @@
   "Name": "Grafana Editor",
   "Id": "a79a5197-3a5c-4973-a920-486035ffd60f",
   "IsCustom": false,
-  "Description": "Built-in Grafana Editor role",
+  "Description": "Create, edit, delete, or view dashboards; create, edit, or delete folders; and edit or view playlists.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

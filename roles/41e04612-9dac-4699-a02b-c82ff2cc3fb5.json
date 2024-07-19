@@ -1,0 +1,17 @@
+{
+  "Name": "Grafana Limited Viewer",
+  "Id": "41e04612-9dac-4699-a02b-c82ff2cc3fb5",
+  "IsCustom": false,
+  "Description": "View home page.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Dashboard/grafana/ActAsGrafanaLimitedViewer/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

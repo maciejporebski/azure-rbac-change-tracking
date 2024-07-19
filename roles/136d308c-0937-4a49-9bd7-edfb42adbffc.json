@@ -1,0 +1,17 @@
+{
+  "Name": "Disk Encryption Set Operator for Managed Disks",
+  "Id": "136d308c-0937-4a49-9bd7-edfb42adbffc",
+  "IsCustom": false,
+  "Description": "Provides permissions to read, write or delete disk encryption sets which are used for encrypting managed disks with customer managed keys",
+  "Actions": [
+    "Microsoft.Compute/diskEncryptionSets/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

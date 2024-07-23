@@ -16,7 +16,6 @@
     "Microsoft.ApiManagement/service/workspaces/backends/*",
     "Microsoft.ApiManagement/service/workspaces/certificates/*",
     "Microsoft.ApiManagement/service/workspaces/diagnostics/*",
-    "Microsoft.ApiManagement/service/workspaces/loggers/*",
     "Microsoft.Authorization/*/read"
   ],
   "NotActions": [],

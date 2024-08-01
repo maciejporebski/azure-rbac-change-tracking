@@ -1,5 +1,5 @@
 {
-  "Name": "Azure RedHat OpenShift Cluster Ingress Operator Role",
+  "Name": "Azure Red Hat OpenShift Cluster Ingress Operator Role",
   "Id": "0336e1d3-7a87-462b-b6db-342b63f7802c",
   "IsCustom": false,
   "Description": "Enables permissions for the operator to configure and manage the OpenShift router.",

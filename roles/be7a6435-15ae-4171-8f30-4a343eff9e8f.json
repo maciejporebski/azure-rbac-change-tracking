@@ -1,5 +1,5 @@
 {
-  "Name": "Azure RedHat OpenShift Network Operator Role",
+  "Name": "Azure Red Hat OpenShift Network Operator Role",
   "Id": "be7a6435-15ae-4171-8f30-4a343eff9e8f",
   "IsCustom": false,
   "Description": "Enables permissions to install and upgrade the networking components on an OpenShift cluster.",

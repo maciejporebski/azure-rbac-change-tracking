@@ -133,15 +133,15 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Messaging Catalog Data Owner](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) | [f27b7598-bc64-41f7-8a44-855ff16326c2](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
+| [Azure Red Hat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
+| [Azure Red Hat OpenShift Cloud Controller Manager Role](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
+| [Azure Red Hat OpenShift Cluster Ingress Operator Role](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) | [0336e1d3-7a87-462b-b6db-342b63f7802c](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) |
 | [Azure Red Hat OpenShift Federated Credential Role](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
-| [Azure RedHat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
-| [Azure RedHat OpenShift Cloud Controller Manager Role](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
-| [Azure RedHat OpenShift Cluster Ingress Operator Role](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) | [0336e1d3-7a87-462b-b6db-342b63f7802c](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) |
-| [Azure RedHat OpenShift Image Registry Operator Role](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
-| [Azure RedHat OpenShift Machine API Operator Role](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
-| [Azure RedHat OpenShift Network Operator Role](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
+| [Azure Red Hat OpenShift Image Registry Operator Role](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
+| [Azure Red Hat OpenShift Machine API Operator Role](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
+| [Azure Red Hat OpenShift Network Operator Role](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
+| [Azure Red Hat OpenShift Storage Operator Role](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
 | [Azure RedHat OpenShift Service Operator](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) | [4436bae4-7702-4c84-919b-c4069ff25ee2](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) |
-| [Azure RedHat OpenShift Storage Operator Role](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
 | [Azure Relay Sender](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) | [26baccc8-eea7-41f1-98f4-1762cc7f685d](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) |

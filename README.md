@@ -92,6 +92,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
+| [Azure Edge Hardware Center Administrator](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) | [9295f069-25d0-4f44-bb6a-3da70d11aa00](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) |
 | [Azure Edge On-Site Deployment Engineer](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) | [207bcc4b-86a6-4487-9141-d6c1f4c238aa](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) |
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
@@ -458,6 +459,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [PlayFab Contributor](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) | [0c8b84dc-067c-4039-9615-fa1a4b77c726](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) |
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
+| [PostgreSQL Flexible Management Service Contributor](roles/a60b64c0-1adf-4051-956a-78f3ae578c7d.json) | [a60b64c0-1adf-4051-956a-78f3ae578c7d](roles/a60b64c0-1adf-4051-956a-78f3ae578c7d.json) |
 | [PostgreSQL Flexible Server Long Term Retention Backup Role](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) | [c088a766-074b-43ba-90d4-1fb21feae531](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) |
 | [Private DNS Zone Contributor](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) | [b12aa53e-6015-4669-85d0-8515ebb3ae7f](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) |
 | [Procurement Contributor](roles/be1a1ac2-09d3-4261-9e57-a73a6e227f53.json) | [be1a1ac2-09d3-4261-9e57-a73a6e227f53](roles/be1a1ac2-09d3-4261-9e57-a73a6e227f53.json) |

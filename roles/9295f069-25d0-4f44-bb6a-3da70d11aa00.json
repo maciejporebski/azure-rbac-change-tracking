@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Edge Hardware Center Administrator",
+  "Id": "9295f069-25d0-4f44-bb6a-3da70d11aa00",
+  "IsCustom": false,
+  "Description": "Grants you access to take actions as an edge order administrator",
+  "Actions": [
+    "Microsoft.EdgeOrder/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

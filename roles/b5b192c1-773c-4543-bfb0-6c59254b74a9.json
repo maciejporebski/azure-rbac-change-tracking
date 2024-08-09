@@ -9,6 +9,8 @@
     "Microsoft.AgFoodPlatform/farmBeats/parties/read",
     "Microsoft.AgFoodPlatform/farmBeats/parties/fields/read",
     "Microsoft.AgFoodPlatform/farmBeats/parties/fields/write",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/farms/read",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/farms/write",
     "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insights/*",
     "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insightAttachments/*"
   ],

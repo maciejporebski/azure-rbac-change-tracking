@@ -7,6 +7,13 @@
     "Microsoft.AzureStackHCI/register/action",
     "Microsoft.AzureStackHCI/Unregister/Action",
     "Microsoft.AzureStackHCI/clusters/*",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/Read",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/SecurityRules/Read",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/Write",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/SecurityRules/Write",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/Delete",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/SecurityRules/Delete",
+    "Microsoft.AzureStackHCI/NetworkSecurityGroups/join/action",
     "Microsoft.HybridCompute/register/action",
     "Microsoft.GuestConfiguration/register/action",
     "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
@@ -100,6 +107,6 @@
   "AssignableScopes": [
     "/"
   ],
-  "Condition": "((!(ActionMatches{'Microsoft.Authorization/roleAssignments/write'})) OR (@Request[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{f5819b54-e033-4d82-ac66-4fec3cbf3f4c, cd570a14-e51a-42ad-bac8-bafd67325302, b64e21ea-ac4e-4cdf-9dc9-5b892992bee7, 4b3fe76c-f777-4d24-a2d7-b027b0f7b273, 874d1c73-6003-4e60-a13a-cb31ea190a85,865ae368-6a45-4bd1-8fbf-0d5151f56fc1,7b1f81f9-4196-4058-8aae-762e593270df,4633458b-17de-408a-b874-0445c86b69e6})) AND ((!(ActionMatches{'Microsoft.Authorization/roleAssignments/delete'})) OR (@Resource[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{f5819b54-e033-4d82-ac66-4fec3cbf3f4c, cd570a14-e51a-42ad-bac8-bafd67325302, b64e21ea-ac4e-4cdf-9dc9-5b892992bee7, 4b3fe76c-f777-4d24-a2d7-b027b0f7b273, 874d1c73-6003-4e60-a13a-cb31ea190a85,865ae368-6a45-4bd1-8fbf-0d5151f56fc1,7b1f81f9-4196-4058-8aae-762e593270df,4633458b-17de-408a-b874-0445c86b69e6}))",
+  "Condition": "((!(ActionMatches{'Microsoft.Authorization/roleAssignments/write'})) OR (@Request[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{f5819b54-e033-4d82-ac66-4fec3cbf3f4c, cd570a14-e51a-42ad-bac8-bafd67325302, b64e21ea-ac4e-4cdf-9dc9-5b892992bee7, 4b3fe76c-f777-4d24-a2d7-b027b0f7b273, 874d1c73-6003-4e60-a13a-cb31ea190a85,865ae368-6a45-4bd1-8fbf-0d5151f56fc1,7b1f81f9-4196-4058-8aae-762e593270df,4633458b-17de-408a-b874-0445c86b69e6,c99c945f-8bd1-4fb1-a903-01460aae6068})) AND ((!(ActionMatches{'Microsoft.Authorization/roleAssignments/delete'})) OR (@Resource[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{f5819b54-e033-4d82-ac66-4fec3cbf3f4c, cd570a14-e51a-42ad-bac8-bafd67325302, b64e21ea-ac4e-4cdf-9dc9-5b892992bee7, 4b3fe76c-f777-4d24-a2d7-b027b0f7b273, 874d1c73-6003-4e60-a13a-cb31ea190a85,865ae368-6a45-4bd1-8fbf-0d5151f56fc1,7b1f81f9-4196-4058-8aae-762e593270df,4633458b-17de-408a-b874-0445c86b69e6,c99c945f-8bd1-4fb1-a903-01460aae6068}))",
   "ConditionVersion": "2.0"
 }

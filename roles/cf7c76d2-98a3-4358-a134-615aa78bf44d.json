@@ -1,0 +1,17 @@
+{
+  "Name": "Compute Gallery Image Version Reader",
+  "Id": "cf7c76d2-98a3-4358-a134-615aa78bf44d",
+  "IsCustom": false,
+  "Description": "This is the role for reading gallery image versions.",
+  "Actions": [
+    "Microsoft.Compute/galleries/images/versions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

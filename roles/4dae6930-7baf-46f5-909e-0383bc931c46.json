@@ -2,7 +2,7 @@
   "Name": "Azure Customer Lockbox Approver for Subscription",
   "Id": "4dae6930-7baf-46f5-909e-0383bc931c46",
   "IsCustom": false,
-  "Description": "Can approve Microsoft support requests to access specific resources contained within a subscription, or the subscription itself, when Customer Lockbox for Microsoft Azure is enabled on the tenant where the subscription resides. - in Public Preview.",
+  "Description": "Can approve Microsoft support requests to access specific resources contained within a subscription, or the subscription itself, when Customer Lockbox for Microsoft Azure is enabled on the tenant where the subscription resides.",
   "Actions": [
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.CustomerLockbox/requests/UpdateApproval/action",

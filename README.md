@@ -92,6 +92,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
+| [Azure Edge Hardware Center Administrator](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) | [9295f069-25d0-4f44-bb6a-3da70d11aa00](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) |
 | [Azure Edge On-Site Deployment Engineer](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) | [207bcc4b-86a6-4487-9141-d6c1f4c238aa](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) |
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
@@ -140,8 +141,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Red Hat OpenShift Image Registry Operator Role](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
 | [Azure Red Hat OpenShift Machine API Operator Role](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
 | [Azure Red Hat OpenShift Network Operator Role](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
+| [Azure Red Hat OpenShift Service Operator Role](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) | [4436bae4-7702-4c84-919b-c4069ff25ee2](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) |
 | [Azure Red Hat OpenShift Storage Operator Role](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
-| [Azure RedHat OpenShift Service Operator](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) | [4436bae4-7702-4c84-919b-c4069ff25ee2](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) |
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
 | [Azure Relay Sender](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) | [26baccc8-eea7-41f1-98f4-1762cc7f685d](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) |
@@ -242,6 +243,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Community Reader Role](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) | [e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) |
 | [Compute Diagnostics Role](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) | [df2711a6-406d-41cf-b366-b0250bff9ad1](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) |
 | [Compute Gallery Artifacts Publisher](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) | [85a2d0d9-2eba-4c9c-b355-11c2cc0788ab](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) |
+| [Compute Gallery Image Version Reader](roles/cf7c76d2-98a3-4358-a134-615aa78bf44d.json) | [cf7c76d2-98a3-4358-a134-615aa78bf44d](roles/cf7c76d2-98a3-4358-a134-615aa78bf44d.json) |
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |
 | [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
@@ -458,6 +460,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [PlayFab Contributor](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) | [0c8b84dc-067c-4039-9615-fa1a4b77c726](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) |
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
+| [PostgreSQL Flexible Management Service Contributor](roles/a60b64c0-1adf-4051-956a-78f3ae578c7d.json) | [a60b64c0-1adf-4051-956a-78f3ae578c7d](roles/a60b64c0-1adf-4051-956a-78f3ae578c7d.json) |
 | [PostgreSQL Flexible Server Long Term Retention Backup Role](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) | [c088a766-074b-43ba-90d4-1fb21feae531](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) |
 | [Private DNS Zone Contributor](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) | [b12aa53e-6015-4669-85d0-8515ebb3ae7f](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) |
 | [Procurement Contributor](roles/be1a1ac2-09d3-4261-9e57-a73a6e227f53.json) | [be1a1ac2-09d3-4261-9e57-a73a6e227f53](roles/be1a1ac2-09d3-4261-9e57-a73a6e227f53.json) |

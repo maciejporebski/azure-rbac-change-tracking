@@ -188,6 +188,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Backup Reader](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) | [a795c7a0-d4a2-40c1-ae25-d81f01202912](roles/a795c7a0-d4a2-40c1-ae25-d81f01202912.json) |
 | [Bayer Ag Powered Services Crop Id Solution User Role](roles/39138f76-04e6-41f0-ba6b-c411b59081a9.json) | [39138f76-04e6-41f0-ba6b-c411b59081a9](roles/39138f76-04e6-41f0-ba6b-c411b59081a9.json) |
 | [Bayer Ag Powered Services CWUM Solution](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) | [a9b99099-ead7-47db-8fcf-072597a61dfa](roles/a9b99099-ead7-47db-8fcf-072597a61dfa.json) |
+| [Bayer Ag Powered Services Field Imagery Solution Service Role](roles/1af232de-e806-426f-8ca1-c36142449755.json) | [1af232de-e806-426f-8ca1-c36142449755](roles/1af232de-e806-426f-8ca1-c36142449755.json) |
 | [Bayer Ag Powered Services GDU Solution](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) | [c4bc862a-3b64-4a35-a021-a380c159b042](roles/c4bc862a-3b64-4a35-a021-a380c159b042.json) |
 | [Bayer Ag Powered Services Historical Weather Data Solution User Role](roles/b5b192c1-773c-4543-bfb0-6c59254b74a9.json) | [b5b192c1-773c-4543-bfb0-6c59254b74a9](roles/b5b192c1-773c-4543-bfb0-6c59254b74a9.json) |
 | [Bayer Ag Powered Services Imagery Solution](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) | [ef29765d-0d37-4119-a4f8-f9f9902c9588](roles/ef29765d-0d37-4119-a4f8-f9f9902c9588.json) |
@@ -248,6 +249,14 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
+| [Container Apps Contributor](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) | [358470bc-b998-42bd-ab17-a7e34c199c0f](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) |
+| [Container Apps Jobs Contributor](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) | [4e3d2b60-56ae-4dc6-a233-09c8e5a82e68](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) |
+| [Container Apps Jobs Reader](roles/edd66693-d32a-450b-997d-0158c03976b0.json) | [edd66693-d32a-450b-997d-0158c03976b0](roles/edd66693-d32a-450b-997d-0158c03976b0.json) |
+| [Container Apps ManagedEnvironments Contributor](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) | [57cc5028-e6a7-4284-868d-0611c5923f8d](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) |
+| [Container Apps ManagedEnvironments Reader](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) | [1b32c00b-7eff-4c22-93e6-93d11d72d2d8](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) |
+| [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
+| [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
+| [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |

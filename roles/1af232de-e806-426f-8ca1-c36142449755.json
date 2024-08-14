@@ -1,0 +1,22 @@
+{
+  "Name": "Bayer Ag Powered Services Field Imagery Solution Service Role",
+  "Id": "1af232de-e806-426f-8ca1-c36142449755",
+  "IsCustom": false,
+  "Description": "Provide access to Field Imagery Solution by Bayer Ag Powered Services",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AgFoodPlatform/farmBeats/parties/read",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/fields/read",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/fields/write",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insights/*",
+    "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insightAttachments/*",
+    "Microsoft.AgFoodPlatform/farmBeats/scenes/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

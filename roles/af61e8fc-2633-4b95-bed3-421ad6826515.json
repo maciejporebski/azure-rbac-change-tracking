@@ -1,0 +1,19 @@
+{
+  "Name": "Container Apps SessionPools Reader",
+  "Id": "af61e8fc-2633-4b95-bed3-421ad6826515",
+  "IsCustom": false,
+  "Description": "Read access to ContainerApps sessionpools.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/sessionPools/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

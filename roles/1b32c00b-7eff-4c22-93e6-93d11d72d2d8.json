@@ -1,0 +1,19 @@
+{
+  "Name": "Container Apps ManagedEnvironments Reader",
+  "Id": "1b32c00b-7eff-4c22-93e6-93d11d72d2d8",
+  "IsCustom": false,
+  "Description": "Read access to ContainerApps managedenvironments.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/managedEnvironments/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

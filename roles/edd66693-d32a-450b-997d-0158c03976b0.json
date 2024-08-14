@@ -1,0 +1,19 @@
+{
+  "Name": "Container Apps Jobs Reader",
+  "Id": "edd66693-d32a-450b-997d-0158c03976b0",
+  "IsCustom": false,
+  "Description": "Read access to ContainerApps jobs",
+  "Actions": [
+    "microsoft.app/jobs/read",
+    "Microsoft.App/jobs/*/read",
+    "Microsoft.App/managedenvironments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

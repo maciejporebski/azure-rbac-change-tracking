@@ -1,0 +1,23 @@
+{
+  "Name": "Container Apps ManagedEnvironments Contributor",
+  "Id": "57cc5028-e6a7-4284-868d-0611c5923f8d",
+  "IsCustom": false,
+  "Description": "Full management of Container Apps ManagedEnvironments, including creation, deletion, and updates.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/managedEnvironments/*/read",
+    "Microsoft.App/managedEnvironments/*/write",
+    "Microsoft.App/managedEnvironments/*/delete",
+    "Microsoft.App/managedEnvironments/*/action",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

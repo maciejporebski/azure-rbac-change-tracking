@@ -1,0 +1,31 @@
+{
+  "Name": "Container Apps SessionPools Contributor",
+  "Id": "f7669afb-68b2-44b4-9c5f-6d2a47fddda0",
+  "IsCustom": false,
+  "Description": "Full management of Container Apps SessionPools, including creation, deletion, and updates.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/sessionPools/*/read",
+    "Microsoft.App/sessionPools/*/write",
+    "Microsoft.App/sessionPools/*/delete",
+    "Microsoft.App/sessionPools/*/action",
+    "microsoft.App/managedEnvironments/read",
+    "Microsoft.App/managedEnvironments/*/read",
+    "Microsoft.App/managedEnvironments/join/action",
+    "Microsoft.App/managedEnvironments/checknameavailability/action",
+    "microsoft.App/connectedEnvironments/read",
+    "Microsoft.App/connectedEnvironments/*/read",
+    "Microsoft.App/connectedEnvironments/join/action",
+    "Microsoft.App/connectedEnvironments/checknameavailability/action",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

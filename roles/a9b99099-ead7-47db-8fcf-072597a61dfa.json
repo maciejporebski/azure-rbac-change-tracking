@@ -15,7 +15,6 @@
     "Microsoft.AgFoodPlatform/farmBeats/parties/fields/write",
     "Microsoft.AgFoodPlatform/farmBeats/ingestionJobs/satelliteDataIngestionJobs/*",
     "Microsoft.AgFoodPlatform/farmBeats/scenes/*",
-    "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insightAttachments/*",
     "Microsoft.AgFoodPlatform/farmBeats/parties/models/resourceTypes/resources/insights/*"
   ],
   "NotDataActions": [],

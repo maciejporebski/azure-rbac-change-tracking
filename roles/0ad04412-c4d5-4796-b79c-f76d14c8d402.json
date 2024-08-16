@@ -1,0 +1,17 @@
+{
+  "Name": "Durable Task Data Contributor",
+  "Id": "0ad04412-c4d5-4796-b79c-f76d14c8d402",
+  "IsCustom": false,
+  "Description": "Durable Task role for all data access operations.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DurableTask/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

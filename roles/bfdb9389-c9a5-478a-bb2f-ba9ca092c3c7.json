@@ -1,8 +1,8 @@
 {
-  "Name": "Container Registry Repository Catalog Lister",
+  "Name": "ACR Registry Catalog Lister",
   "Id": "bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7",
   "IsCustom": false,
-  "Description": "Allows for listing all repositories in an Azure Container Registry. This role is in preview and subject to change.",
+  "Description": "Allows for listing all repositories in an Azure Container Registry.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

@@ -1,8 +1,8 @@
 {
-  "Name": "Kubernetes Runtime Storage Class Contributor Role",
+  "Name": "KubernetesRuntime Storage Class Contributor Role",
   "Id": "0cd9749a-3aaf-4ae5-8803-bd217705bf3b",
   "IsCustom": false,
-  "Description": "Read, write, and delete Kubernetes Runtime storage classes in an Arc connected Kubernetes cluster",
+  "Description": "Read, write, and delete KubernetesRuntime storage classes in an Arc connected Kubernetes cluster",
   "Actions": [
     "Microsoft.KubernetesRuntime/storageClasses/read",
     "Microsoft.KubernetesRuntime/storageClasses/write",

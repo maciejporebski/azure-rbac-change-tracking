@@ -322,6 +322,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [DocumentDB Account Contributor](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) | [5bd9cd88-fe45-4216-938b-f97437e15450](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) |
 | [Domain Services Contributor](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) | [eeaeda52-9324-47f6-8069-5d5bade478b2](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) |
 | [Domain Services Reader](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) | [361898ef-9ed1-48c2-849c-a832951106bb](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) |
+| [Durable Task Data Contributor](roles/0ad04412-c4d5-4796-b79c-f76d14c8d402.json) | [0ad04412-c4d5-4796-b79c-f76d14c8d402](roles/0ad04412-c4d5-4796-b79c-f76d14c8d402.json) |
 | [Elastic SAN Network Admin](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) | [fa6cecf6-5db3-4c43-8470-c540bcb4eafa](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) |
 | [Elastic SAN Owner](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) | [80dcbedb-47ef-405d-95bd-188a1b4ac406](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) |
 | [Elastic SAN Reader](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) | [af6a70f8-3c9f-4105-acf1-d719e9fca4ca](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) |

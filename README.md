@@ -404,6 +404,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |
 | [Kubernetes Namespace User](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) | [ba79058c-0414-4a34-9e42-c3399d80cd5a](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) |
 | [Kubernetes Runtime Storage Class Contributor Role](roles/0cd9749a-3aaf-4ae5-8803-bd217705bf3b.json) | [0cd9749a-3aaf-4ae5-8803-bd217705bf3b](roles/0cd9749a-3aaf-4ae5-8803-bd217705bf3b.json) |
+| [KubernetesRuntime Load Balancer Contributor Role](roles/1a5682fc-4f12-4b25-927e-e8cfed0c539e.json) | [1a5682fc-4f12-4b25-927e-e8cfed0c539e](roles/1a5682fc-4f12-4b25-927e-e8cfed0c539e.json) |
 | [Lab Assistant](roles/ce40b423-cede-4313-a93f-9b28290b72e1.json) | [ce40b423-cede-4313-a93f-9b28290b72e1](roles/ce40b423-cede-4313-a93f-9b28290b72e1.json) |
 | [Lab Contributor](roles/5daaa2af-1fe8-407c-9122-bba179798270.json) | [5daaa2af-1fe8-407c-9122-bba179798270](roles/5daaa2af-1fe8-407c-9122-bba179798270.json) |
 | [Lab Creator](roles/b97fb8bc-a8b2-4522-a38b-dd33c7e65ead.json) | [b97fb8bc-a8b2-4522-a38b-dd33c7e65ead](roles/b97fb8bc-a8b2-4522-a38b-dd33c7e65ead.json) |

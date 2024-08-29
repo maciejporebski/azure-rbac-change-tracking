@@ -29,6 +29,7 @@
     "Microsoft.Insights/workbooktemplates/*",
     "Microsoft.Insights/privateLinkScopes/*",
     "Microsoft.Insights/privateLinkScopeOperationStatuses/*",
+    "Microsoft.Monitor/accounts/*",
     "Microsoft.OperationalInsights/workspaces/write",
     "Microsoft.OperationalInsights/workspaces/intelligencepacks/*",
     "Microsoft.OperationalInsights/workspaces/savedSearches/*",

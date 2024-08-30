@@ -1,0 +1,21 @@
+{
+  "Name": "Service Connector Contributor",
+  "Id": "db7003cd-07a9-490c-bfa5-23e40314f8d7",
+  "IsCustom": false,
+  "Description": "Can Manage Service Connector.",
+  "Actions": [
+    "Microsoft.ServiceLinker/linkers/read",
+    "Microsoft.ServiceLinker/linkers/delete",
+    "Microsoft.ServiceLinker/linkers/write",
+    "Microsoft.ServiceLinker/linkers/listConfigurations/action",
+    "Microsoft.ServiceLinker/linkers/validateLinker/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

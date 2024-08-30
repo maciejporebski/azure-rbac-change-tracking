@@ -23,7 +23,17 @@
     "Microsoft.BillingBenefits/maccs/delete",
     "Microsoft.BillingBenefits/maccs/cancel/action",
     "Microsoft.BillingBenefits/maccs/chargeShortfall/action",
-    "Microsoft.BillingBenefits/maccs/contributors/read"
+    "Microsoft.BillingBenefits/maccs/contributors/read",
+    "Microsoft.EnterpriseSupport/enterpriseSupports/read",
+    "Microsoft.EnterpriseSupport/enterpriseSupports/write",
+    "Microsoft.EnterpriseSupport/enterpriseSupports/delete",
+    "Microsoft.EnterpriseSupport/register/action",
+    "Microsoft.SoftwarePlan/register/action",
+    "Microsoft.SoftwarePlan/softwareSubscriptions/read",
+    "Microsoft.SoftwarePlan/softwareSubscriptions/write",
+    "Microsoft.SoftwarePlan/softwareSubscriptions/delete",
+    "Microsoft.SoftwarePlan/softwareSubscriptions/cancel/action",
+    "Microsoft.SoftwarePlan/softwareSubscriptions/listKeys/action"
   ],
   "NotActions": [],
   "DataActions": [],

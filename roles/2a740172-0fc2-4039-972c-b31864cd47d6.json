@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Device Update Agent",
+  "Id": "2a740172-0fc2-4039-972c-b31864cd47d6",
+  "IsCustom": false,
+  "Description": "Provide full access to all Azure Device Update agent operations",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DeviceUpdate/updateAccounts/agents/requestUpdate/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

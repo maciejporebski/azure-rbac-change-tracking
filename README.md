@@ -396,6 +396,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Key Vault Crypto Service Release User](roles/08bbd89e-9f13-488c-ac41-acfcb10c90ab.json) | [08bbd89e-9f13-488c-ac41-acfcb10c90ab](roles/08bbd89e-9f13-488c-ac41-acfcb10c90ab.json) |
 | [Key Vault Crypto User](roles/12338af0-0e69-4776-bea7-57ae8d297424.json) | [12338af0-0e69-4776-bea7-57ae8d297424](roles/12338af0-0e69-4776-bea7-57ae8d297424.json) |
 | [Key Vault Data Access Administrator](roles/8b54135c-b56d-4d72-a534-26097cfdc8d8.json) | [8b54135c-b56d-4d72-a534-26097cfdc8d8](roles/8b54135c-b56d-4d72-a534-26097cfdc8d8.json) |
+| [Key Vault Purge Operator](roles/a68e7c17-0ab2-4c09-9a58-125dae29748c.json) | [a68e7c17-0ab2-4c09-9a58-125dae29748c](roles/a68e7c17-0ab2-4c09-9a58-125dae29748c.json) |
 | [Key Vault Reader](roles/21090545-7ca7-4776-b22c-e363652d74d2.json) | [21090545-7ca7-4776-b22c-e363652d74d2](roles/21090545-7ca7-4776-b22c-e363652d74d2.json) |
 | [Key Vault Secrets Officer](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) | [b86a8fe4-44ce-4948-aee5-eccb2c155cd7](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) |
 | [Key Vault Secrets User](roles/4633458b-17de-408a-b874-0445c86b69e6.json) | [4633458b-17de-408a-b874-0445c86b69e6](roles/4633458b-17de-408a-b874-0445c86b69e6.json) |

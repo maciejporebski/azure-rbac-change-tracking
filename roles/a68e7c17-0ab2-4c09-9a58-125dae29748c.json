@@ -1,0 +1,24 @@
+{
+  "Name": "Key Vault Purge Operator",
+  "Id": "a68e7c17-0ab2-4c09-9a58-125dae29748c",
+  "IsCustom": false,
+  "Description": "Allows permanent deletion of soft-deleted vaults.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.KeyVault/deletedVaults/read",
+    "Microsoft.KeyVault/locations/deletedVaults/read",
+    "Microsoft.KeyVault/locations/deletedVaults/purge/action",
+    "Microsoft.KeyVault/locations/operationResults/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

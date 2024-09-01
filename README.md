@@ -87,7 +87,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
-| [Azure Device Update Agent](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) | [2a740172-0fc2-4039-972c-b31864cd47d6](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
 | [Azure Edge Hardware Center Administrator](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) | [9295f069-25d0-4f44-bb6a-3da70d11aa00](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) |
@@ -331,7 +330,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Snapshot Exporter](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) | [1c4770c0-34f7-4110-a1ea-a5855cc7a939](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
-| [Enclave Approver Role](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) | [2142ea27-02ad-4094-bfea-2dbac6d24934](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) |
 | [Enclave Contributor Role](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) | [19feefae-eacc-4106-81fd-ac34c0671f14](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) |
 | [Enclave Owner Role](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) | [3d5f3eff-eb94-473d-91e3-7aac74d6c0bb](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) |
 | [Enclave Reader Role](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) | [86fede04-b259-4277-8c3e-e26b9865abd8](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) |
@@ -396,7 +394,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Key Vault Crypto Service Release User](roles/08bbd89e-9f13-488c-ac41-acfcb10c90ab.json) | [08bbd89e-9f13-488c-ac41-acfcb10c90ab](roles/08bbd89e-9f13-488c-ac41-acfcb10c90ab.json) |
 | [Key Vault Crypto User](roles/12338af0-0e69-4776-bea7-57ae8d297424.json) | [12338af0-0e69-4776-bea7-57ae8d297424](roles/12338af0-0e69-4776-bea7-57ae8d297424.json) |
 | [Key Vault Data Access Administrator](roles/8b54135c-b56d-4d72-a534-26097cfdc8d8.json) | [8b54135c-b56d-4d72-a534-26097cfdc8d8](roles/8b54135c-b56d-4d72-a534-26097cfdc8d8.json) |
-| [Key Vault Purge Operator](roles/a68e7c17-0ab2-4c09-9a58-125dae29748c.json) | [a68e7c17-0ab2-4c09-9a58-125dae29748c](roles/a68e7c17-0ab2-4c09-9a58-125dae29748c.json) |
 | [Key Vault Reader](roles/21090545-7ca7-4776-b22c-e363652d74d2.json) | [21090545-7ca7-4776-b22c-e363652d74d2](roles/21090545-7ca7-4776-b22c-e363652d74d2.json) |
 | [Key Vault Secrets Officer](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) | [b86a8fe4-44ce-4948-aee5-eccb2c155cd7](roles/b86a8fe4-44ce-4948-aee5-eccb2c155cd7.json) |
 | [Key Vault Secrets User](roles/4633458b-17de-408a-b874-0445c86b69e6.json) | [4633458b-17de-408a-b874-0445c86b69e6](roles/4633458b-17de-408a-b874-0445c86b69e6.json) |

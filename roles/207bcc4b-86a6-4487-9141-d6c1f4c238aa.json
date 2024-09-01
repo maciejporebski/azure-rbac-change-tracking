@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "Grants you access to take actions as an on-site person to assist in the provisioning of an edge device",
   "Actions": [
-    "Microsoft.EdgeOrder/orderItems/read"
+    "Microsoft.EdgeOrder/bootstrapConfigurations/read",
+    "Microsoft.EdgeOrder/bootstrapConfigurations/uploadArtifacts/action"
   ],
   "NotActions": [],
   "DataActions": [],

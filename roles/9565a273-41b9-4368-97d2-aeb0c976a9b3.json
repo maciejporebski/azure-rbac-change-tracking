@@ -11,6 +11,7 @@
     "Microsoft.ApiManagement/service/products/read",
     "Microsoft.ApiManagement/service/products/apiLinks/*",
     "Microsoft.ApiManagement/service/read",
+    "Microsoft.ApiManagement/service/authorizationServers/read",
     "Microsoft.Authorization/*/read"
   ],
   "NotActions": [],

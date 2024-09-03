@@ -1,0 +1,21 @@
+{
+  "Name": "Cognitive Services Face Contributor",
+  "Id": "b5b0c71d-aca9-4081-aee2-9b1bb335fc1a",
+  "IsCustom": false,
+  "Description": "Full access to perform all Face APIs",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/Face/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

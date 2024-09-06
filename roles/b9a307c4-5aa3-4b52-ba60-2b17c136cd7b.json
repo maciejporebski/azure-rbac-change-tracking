@@ -1,0 +1,32 @@
+{
+  "Name": "Container Apps Jobs Operator",
+  "Id": "b9a307c4-5aa3-4b52-ba60-2b17c136cd7b",
+  "IsCustom": false,
+  "Description": "Read, start, and stop Container Apps jobs.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "microsoft.app/jobs/read",
+    "Microsoft.App/jobs/*/read",
+    "Microsoft.App/jobs/*/action",
+    "Microsoft.app/managedenvironments/read",
+    "Microsoft.App/managedenvironments/*/read",
+    "Microsoft.App/managedenvironments/join/action",
+    "Microsoft.App/managedenvironments/checknameavailability/action",
+    "Microsoft.app/connectedEnvironments/read",
+    "Microsoft.App/connectedEnvironments/*/read",
+    "Microsoft.App/connectedEnvironments/join/action",
+    "Microsoft.App/connectedEnvironments/checknameavailability/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/jobs/logstream/action",
+    "Microsoft.App/jobs/exec/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

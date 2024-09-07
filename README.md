@@ -250,7 +250,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
 | [Container Apps Contributor](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) | [358470bc-b998-42bd-ab17-a7e34c199c0f](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) |
 | [Container Apps Jobs Contributor](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) | [4e3d2b60-56ae-4dc6-a233-09c8e5a82e68](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) |
-| [Container Apps Jobs Operator](roles/b9a307c4-5aa3-4b52-ba60-2b17c136cd7b.json) | [b9a307c4-5aa3-4b52-ba60-2b17c136cd7b](roles/b9a307c4-5aa3-4b52-ba60-2b17c136cd7b.json) |
 | [Container Apps Jobs Reader](roles/edd66693-d32a-450b-997d-0158c03976b0.json) | [edd66693-d32a-450b-997d-0158c03976b0](roles/edd66693-d32a-450b-997d-0158c03976b0.json) |
 | [Container Apps ManagedEnvironments Contributor](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) | [57cc5028-e6a7-4284-868d-0611c5923f8d](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) |
 | [Container Apps ManagedEnvironments Reader](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) | [1b32c00b-7eff-4c22-93e6-93d11d72d2d8](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) |

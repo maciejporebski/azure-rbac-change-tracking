@@ -1,0 +1,17 @@
+{
+  "Name": "Operator Nexus Owner (Preview)",
+  "Id": "77be276d-fb44-4f3b-beb5-9bf03c4cd2d3",
+  "IsCustom": false,
+  "Description": "(Preview) This role allows full access to Azure Operator Nexus Network Cloud resources. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.NetworkCloud/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

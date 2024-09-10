@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Automanage Contributor",
+  "Id": "8d6517c1-e434-405c-9f3f-e0ae65085d76",
+  "IsCustom": false,
+  "Description": "Azure Automanage Contributor",
+  "Actions": [
+    "Microsoft.Automanage/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

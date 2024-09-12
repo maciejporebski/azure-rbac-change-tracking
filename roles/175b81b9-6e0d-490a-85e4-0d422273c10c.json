@@ -1,0 +1,21 @@
+{
+  "Name": "App Configuration Reader",
+  "Id": "175b81b9-6e0d-490a-85e4-0d422273c10c",
+  "IsCustom": false,
+  "Description": "Grants permission for read operations for App Configuration resources.",
+  "Actions": [
+    "Microsoft.AppConfiguration/*/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

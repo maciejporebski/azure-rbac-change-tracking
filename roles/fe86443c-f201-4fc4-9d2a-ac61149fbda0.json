@@ -1,0 +1,23 @@
+{
+  "Name": "App Configuration Contributor",
+  "Id": "fe86443c-f201-4fc4-9d2a-ac61149fbda0",
+  "IsCustom": false,
+  "Description": "Grants permission for all management operations, except purge, for App Configuration resources.",
+  "Actions": [
+    "Microsoft.AppConfiguration/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [
+    "Microsoft.AppConfiguration/locations/deletedConfigurationStores/purge/action"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

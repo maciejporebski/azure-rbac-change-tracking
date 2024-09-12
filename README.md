@@ -31,8 +31,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [API Management Workspace Reader](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) | [ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) |
 | [App Compliance Automation Administrator](roles/0f37683f-2463-46b6-9ce7-9b788b988ba2.json) | [0f37683f-2463-46b6-9ce7-9b788b988ba2](roles/0f37683f-2463-46b6-9ce7-9b788b988ba2.json) |
 | [App Compliance Automation Reader](roles/ffc6bbe0-e443-4c3b-bf54-26581bb2f78e.json) | [ffc6bbe0-e443-4c3b-bf54-26581bb2f78e](roles/ffc6bbe0-e443-4c3b-bf54-26581bb2f78e.json) |
+| [App Configuration Contributor](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) | [fe86443c-f201-4fc4-9d2a-ac61149fbda0](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) |
 | [App Configuration Data Owner](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) | [5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) |
 | [App Configuration Data Reader](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) | [516239f1-63e1-4d78-a4de-a74fb236a071](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) |
+| [App Configuration Reader](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) | [175b81b9-6e0d-490a-85e4-0d422273c10c](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) |
 | [AppGw for Containers Configuration Manager](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) | [fbc52c3f-28ad-4303-a892-8a056630b8f1](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) |
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |
 | [Application Insights Component Contributor](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) | [ae349356-3a1b-4a5e-921d-050484c6347e](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) |
@@ -70,6 +72,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc VMware Private Clouds Onboarding](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) | [67d33e57-3129-45e6-bb0b-7cc522f762fa](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) |
 | [Azure Arc VMware VM Contributor](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) | [b748a06d-6150-4f8a-aaa9-ce3940cd96cb](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) |
 | [Azure Automanage Contributor](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) | [8d6517c1-e434-405c-9f3f-e0ae65085d76](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) |
+| [Azure Bot Service Contributor Role](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) | [9fc6112f-f48e-4e27-8b09-72a5c94e4ae9](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) |
 | [Azure Center for SAP solutions administrator](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) | [7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) |
 | [Azure Center for SAP solutions Management role](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) | [6d949e1d-41e2-46e3-8920-c6e4f31a8310](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) |
 | [Azure Center for SAP solutions reader](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) | [05352d14-a920-4328-a0de-4cbe7430e26b](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) |

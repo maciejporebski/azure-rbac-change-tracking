@@ -70,6 +70,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc VMware Private Clouds Onboarding](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) | [67d33e57-3129-45e6-bb0b-7cc522f762fa](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) |
 | [Azure Arc VMware VM Contributor](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) | [b748a06d-6150-4f8a-aaa9-ce3940cd96cb](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) |
 | [Azure Automanage Contributor](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) | [8d6517c1-e434-405c-9f3f-e0ae65085d76](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) |
+| [Azure Bot Service Contributor Role](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) | [9fc6112f-f48e-4e27-8b09-72a5c94e4ae9](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) |
 | [Azure Center for SAP solutions administrator](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) | [7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) |
 | [Azure Center for SAP solutions Management role](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) | [6d949e1d-41e2-46e3-8920-c6e4f31a8310](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) |
 | [Azure Center for SAP solutions reader](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) | [05352d14-a920-4328-a0de-4cbe7430e26b](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) |

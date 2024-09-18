@@ -1,0 +1,21 @@
+{
+  "Name": "Service Fabric Managed Cluster Contributor",
+  "Id": "83f80186-3729-438c-ad2d-39e94d718838",
+  "IsCustom": false,
+  "Description": "Lets you managed your Service Fabric Managed Cluster resources",
+  "Actions": [
+    "Microsoft.ServiceFabric/managedclusters/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

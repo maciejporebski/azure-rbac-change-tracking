@@ -38,7 +38,10 @@
     "Microsoft.Mission/enclaveConnections/delete",
     "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/read",
     "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/write",
-    "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/delete"
+    "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/delete",
+    "Microsoft.Mission/approvals/read",
+    "Microsoft.Mission/approvals/write",
+    "Microsoft.Mission/approvals/delete"
   ],
   "NotActions": [],
   "DataActions": [],

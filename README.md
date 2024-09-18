@@ -31,8 +31,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [API Management Workspace Reader](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) | [ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2](roles/ef1c2c96-4a77-49e8-b9a4-6179fe1d2fd2.json) |
 | [App Compliance Automation Administrator](roles/0f37683f-2463-46b6-9ce7-9b788b988ba2.json) | [0f37683f-2463-46b6-9ce7-9b788b988ba2](roles/0f37683f-2463-46b6-9ce7-9b788b988ba2.json) |
 | [App Compliance Automation Reader](roles/ffc6bbe0-e443-4c3b-bf54-26581bb2f78e.json) | [ffc6bbe0-e443-4c3b-bf54-26581bb2f78e](roles/ffc6bbe0-e443-4c3b-bf54-26581bb2f78e.json) |
+| [App Configuration Contributor](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) | [fe86443c-f201-4fc4-9d2a-ac61149fbda0](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) |
 | [App Configuration Data Owner](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) | [5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) |
 | [App Configuration Data Reader](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) | [516239f1-63e1-4d78-a4de-a74fb236a071](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) |
+| [App Configuration Reader](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) | [175b81b9-6e0d-490a-85e4-0d422273c10c](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) |
 | [AppGw for Containers Configuration Manager](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) | [fbc52c3f-28ad-4303-a892-8a056630b8f1](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) |
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |
 | [Application Insights Component Contributor](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) | [ae349356-3a1b-4a5e-921d-050484c6347e](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) |
@@ -520,6 +522,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Security Manager (Legacy)](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) | [e3d13bf0-dd5a-482e-ba6b-9b8433878d10](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) |
 | [Security Reader](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) | [39bc4728-0917-49c7-9d2c-d95423bc2eb4](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) |
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
+| [Service Fabric Managed Cluster Contributor](roles/83f80186-3729-438c-ad2d-39e94d718838.json) | [83f80186-3729-438c-ad2d-39e94d718838](roles/83f80186-3729-438c-ad2d-39e94d718838.json) |
 | [Services Hub Operator](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) | [82200a5b-e217-47a5-b665-6d8765ee745b](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) |
 | [SignalR AccessKey Reader](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) | [04165923-9d83-45d5-8227-78b77b0a687e](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) |
 | [SignalR App Server](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) | [420fcaa2-552c-430f-98ca-3264be4806c7](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) |

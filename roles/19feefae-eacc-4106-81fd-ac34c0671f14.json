@@ -36,7 +36,9 @@
     "Microsoft.Mission/enclaveConnections/read",
     "Microsoft.Mission/enclaveConnections/write",
     "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/read",
-    "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/write"
+    "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/write",
+    "Microsoft.Mission/approvals/read",
+    "Microsoft.Mission/approvals/write"
   ],
   "NotActions": [],
   "DataActions": [],

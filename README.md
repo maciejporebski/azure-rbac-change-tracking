@@ -522,7 +522,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Security Manager (Legacy)](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) | [e3d13bf0-dd5a-482e-ba6b-9b8433878d10](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) |
 | [Security Reader](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) | [39bc4728-0917-49c7-9d2c-d95423bc2eb4](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) |
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
-| [Service Fabric Managed Cluster Contributor](roles/83f80186-3729-438c-ad2d-39e94d718838.json) | [83f80186-3729-438c-ad2d-39e94d718838](roles/83f80186-3729-438c-ad2d-39e94d718838.json) |
 | [Services Hub Operator](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) | [82200a5b-e217-47a5-b665-6d8765ee745b](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) |
 | [SignalR AccessKey Reader](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) | [04165923-9d83-45d5-8227-78b77b0a687e](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) |
 | [SignalR App Server](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) | [420fcaa2-552c-430f-98ca-3264be4806c7](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) |

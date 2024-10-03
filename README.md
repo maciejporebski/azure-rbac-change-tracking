@@ -213,6 +213,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Classic Storage Account Key Operator Service Role](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) | [985d6b00-f706-48f5-a6fe-d0ca12fb668d](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) |
 | [Classic Virtual Machine Contributor](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) | [d73bb868-a0df-4d4d-bd69-98a00b01fccb](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) |
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
+| [CloudTest Contributor Role](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) | [4e9d0bd4-5aab-4f91-92df-9def33fe287c](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) |
 | [Cognitive Search Serverless Data Contributor (Deprecated)](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
 | [Cognitive Search Serverless Data Reader (Deprecated)](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) | [79b01272-bf9f-4f4c-9517-5506269cf524](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) |
 | [Cognitive Services Contributor](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) | [25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) |
@@ -525,6 +526,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Security Manager (Legacy)](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) | [e3d13bf0-dd5a-482e-ba6b-9b8433878d10](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) |
 | [Security Reader](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) | [39bc4728-0917-49c7-9d2c-d95423bc2eb4](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) |
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
+| [Service Fabric Cluster Contributor](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) | [b6efc156-f0da-4e90-a50a-8c000140b017](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) |
 | [Service Fabric Managed Cluster Contributor](roles/83f80186-3729-438c-ad2d-39e94d718838.json) | [83f80186-3729-438c-ad2d-39e94d718838](roles/83f80186-3729-438c-ad2d-39e94d718838.json) |
 | [Services Hub Operator](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) | [82200a5b-e217-47a5-b665-6d8765ee745b](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) |
 | [SignalR AccessKey Reader](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) | [04165923-9d83-45d5-8227-78b77b0a687e](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) |
@@ -567,7 +569,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage Queue Data Reader](roles/19e7f393-937e-4f77-808e-94535e297925.json) | [19e7f393-937e-4f77-808e-94535e297925](roles/19e7f393-937e-4f77-808e-94535e297925.json) |
 | [Storage Table Data Contributor](roles/0a9a7e1f-b9d0-4cc4-a60d-0319b160aaa3.json) | [0a9a7e1f-b9d0-4cc4-a60d-0319b160aaa3](roles/0a9a7e1f-b9d0-4cc4-a60d-0319b160aaa3.json) |
 | [Storage Table Data Reader](roles/76199698-9eea-4c19-bc75-cec21354c6b6.json) | [76199698-9eea-4c19-bc75-cec21354c6b6](roles/76199698-9eea-4c19-bc75-cec21354c6b6.json) |
+| [Stream Analytics Contributor](roles/6e0c8711-85a0-4490-8365-8ec13c4560b4.json) | [6e0c8711-85a0-4490-8365-8ec13c4560b4](roles/6e0c8711-85a0-4490-8365-8ec13c4560b4.json) |
 | [Stream Analytics Query Tester](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) | [1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) |
+| [Stream Analytics Reader](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) | [1dfc38e8-6ce7-447f-807c-029c65262c5f](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) |
 | [Support Request Contributor](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) | [cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) |
 | [Tag Contributor](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) | [4a9ae827-6dc8-4573-8ac7-8239d42aa03f](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) |
 | [Template Spec Contributor](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) | [1c9b6475-caf0-4164-b5a1-2142a7116f4b](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) |

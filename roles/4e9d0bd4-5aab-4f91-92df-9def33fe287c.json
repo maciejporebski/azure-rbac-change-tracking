@@ -1,0 +1,31 @@
+{
+  "Name": "CloudTest Contributor Role",
+  "Id": "4e9d0bd4-5aab-4f91-92df-9def33fe287c",
+  "IsCustom": false,
+  "Description": "Read, write, delete and perform actions on CloudTest Accounts, CloudTest Pools, 1ES Hosted Pools and 1ES Images.",
+  "Actions": [
+    "Microsoft.CloudTest/*/read",
+    "Microsoft.CloudTest/hostedpools/write",
+    "Microsoft.CloudTest/hostedpools/delete",
+    "Microsoft.CloudTest/images/write",
+    "Microsoft.CloudTest/images/delete",
+    "Microsoft.CloudTest/images/cancel/action",
+    "Microsoft.CloudTest/images/refresh/action",
+    "Microsoft.CloudTest/pools/write",
+    "Microsoft.CloudTest/pools/delete",
+    "Microsoft.CloudTest/accounts/write",
+    "Microsoft.CloudTest/accounts/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

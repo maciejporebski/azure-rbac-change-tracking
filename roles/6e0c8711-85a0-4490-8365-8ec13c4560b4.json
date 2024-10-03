@@ -1,10 +1,10 @@
 {
-  "Name": "Service Fabric Managed Cluster Contributor",
-  "Id": "83f80186-3729-438c-ad2d-39e94d718838",
+  "Name": "Stream Analytics Contributor",
+  "Id": "6e0c8711-85a0-4490-8365-8ec13c4560b4",
   "IsCustom": false,
-  "Description": "Lets you manage your Service Fabric Managed Cluster resource.",
+  "Description": "Contributor access to Clusters and Streaming Jobs",
   "Actions": [
-    "Microsoft.ServiceFabric/managedclusters/*",
+    "Microsoft.StreamAnalytics/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",

@@ -12,6 +12,9 @@
     "Microsoft.Management/managementGroups/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Support/*",
+    "Microsoft.Security/datascanners/read",
+    "Microsoft.Security/datascanners/write",
+    "Microsoft.Security/dataScanners/delete",
     "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Authorization/roleAssignments/delete"
   ],

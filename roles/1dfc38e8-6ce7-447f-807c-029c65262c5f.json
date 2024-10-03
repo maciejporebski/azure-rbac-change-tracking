@@ -1,0 +1,25 @@
+{
+  "Name": "Stream Analytics Reader",
+  "Id": "1dfc38e8-6ce7-447f-807c-029c65262c5f",
+  "IsCustom": false,
+  "Description": "Read-only access to Clusters and Streaming Jobs",
+  "Actions": [
+    "Microsoft.StreamAnalytics/streamingjobs/Read",
+    "Microsoft.StreamAnalytics/streamingjobs/*/Read",
+    "Microsoft.StreamAnalytics/clusters/Read",
+    "Microsoft.StreamAnalytics/clusters/*/Read",
+    "Microsoft.StreamAnalytics/clusters/ListStreamingJobs/action",
+    "Microsoft.StreamAnalytics/locations/*/Read",
+    "Microsoft.StreamAnalytics/operations/Read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -33,8 +33,14 @@
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/subscriptions/resourcegroups/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/write",
     "Microsoft.Storage/storageAccounts/*",
-    "Microsoft.Support/*"
+    "Microsoft.Support/*",
+    "Microsoft.Search/searchServices/write",
+    "Microsoft.Search/searchServices/read",
+    "Microsoft.Search/searchServices/delete",
+    "Microsoft.Search/searchServices/indexes/*",
+    "Microsoft.DataFactory/factories/*"
   ],
   "NotActions": [],
   "DataActions": [],

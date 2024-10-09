@@ -38,7 +38,8 @@
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.BotService/botServices/channels/regeneratekeys/action"
   ],
   "NotActions": [],
   "DataActions": [],

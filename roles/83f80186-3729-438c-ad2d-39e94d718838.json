@@ -2,7 +2,7 @@
   "Name": "Service Fabric Managed Cluster Contributor",
   "Id": "83f80186-3729-438c-ad2d-39e94d718838",
   "IsCustom": false,
-  "Description": "Lets you manage your Service Fabric Managed Cluster resource.",
+  "Description": "Deploy and manage your Service Fabric Managed Cluster resources. Includes managed clusters, node types, application types, application type versions, applications, and services.",
   "Actions": [
     "Microsoft.ServiceFabric/managedclusters/*",
     "Microsoft.Authorization/*/read",

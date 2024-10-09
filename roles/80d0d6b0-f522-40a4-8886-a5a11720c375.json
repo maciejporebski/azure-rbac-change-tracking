@@ -1,0 +1,17 @@
+{
+  "Name": "Durable Task Worker",
+  "Id": "80d0d6b0-f522-40a4-8886-a5a11720c375",
+  "IsCustom": false,
+  "Description": "Used by worker applications to interact with the Durable Task service",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DurableTask/data/execute"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

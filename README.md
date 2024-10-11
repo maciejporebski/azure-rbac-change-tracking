@@ -223,7 +223,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services Custom Vision Labeler](roles/88424f51-ebe7-446f-bc41-7fa16989e96c.json) | [88424f51-ebe7-446f-bc41-7fa16989e96c](roles/88424f51-ebe7-446f-bc41-7fa16989e96c.json) |
 | [Cognitive Services Custom Vision Reader](roles/93586559-c37d-4a6b-ba08-b9f0940c2d73.json) | [93586559-c37d-4a6b-ba08-b9f0940c2d73](roles/93586559-c37d-4a6b-ba08-b9f0940c2d73.json) |
 | [Cognitive Services Custom Vision Trainer](roles/0a5ae4ab-0d65-4eeb-be61-29fc9b54394b.json) | [0a5ae4ab-0d65-4eeb-be61-29fc9b54394b](roles/0a5ae4ab-0d65-4eeb-be61-29fc9b54394b.json) |
-| [Cognitive Services Data Reader (Preview)](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) | [b59867f0-fa02-499b-be73-45a86b5b3e1c](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) |
+| [Cognitive Services Data Reader](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) | [b59867f0-fa02-499b-be73-45a86b5b3e1c](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) |
 | [Cognitive Services Face Contributor](roles/b5b0c71d-aca9-4081-aee2-9b1bb335fc1a.json) | [b5b0c71d-aca9-4081-aee2-9b1bb335fc1a](roles/b5b0c71d-aca9-4081-aee2-9b1bb335fc1a.json) |
 | [Cognitive Services Face Recognizer](roles/9894cab4-e18a-44aa-828b-cb588cd6f2d7.json) | [9894cab4-e18a-44aa-828b-cb588cd6f2d7](roles/9894cab4-e18a-44aa-828b-cb588cd6f2d7.json) |
 | [Cognitive Services Immersive Reader User](roles/b2de6794-95db-4659-8781-7e080d3f2b9d.json) | [b2de6794-95db-4659-8781-7e080d3f2b9d](roles/b2de6794-95db-4659-8781-7e080d3f2b9d.json) |

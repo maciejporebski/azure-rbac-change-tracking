@@ -1,5 +1,5 @@
 {
-  "Name": "Cognitive Services Data Reader",
+  "Name": "Cognitive Services Data Reader (Preview)",
   "Id": "b59867f0-fa02-499b-be73-45a86b5b3e1c",
   "IsCustom": false,
   "Description": "Lets you read Cognitive Services data.",

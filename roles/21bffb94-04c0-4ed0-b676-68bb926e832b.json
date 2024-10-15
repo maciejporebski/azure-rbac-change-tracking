@@ -1,0 +1,17 @@
+{
+  "Name": "Microsoft.Windows365.CloudPcDelegatedMsis Writer User",
+  "Id": "21bffb94-04c0-4ed0-b676-68bb926e832b",
+  "IsCustom": false,
+  "Description": "Built in role to perform Write operations on CloudPcDelegatedMsis resources.",
+  "Actions": [
+    "Microsoft.Windows365/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

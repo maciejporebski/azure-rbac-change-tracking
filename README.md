@@ -223,7 +223,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services Custom Vision Labeler](roles/88424f51-ebe7-446f-bc41-7fa16989e96c.json) | [88424f51-ebe7-446f-bc41-7fa16989e96c](roles/88424f51-ebe7-446f-bc41-7fa16989e96c.json) |
 | [Cognitive Services Custom Vision Reader](roles/93586559-c37d-4a6b-ba08-b9f0940c2d73.json) | [93586559-c37d-4a6b-ba08-b9f0940c2d73](roles/93586559-c37d-4a6b-ba08-b9f0940c2d73.json) |
 | [Cognitive Services Custom Vision Trainer](roles/0a5ae4ab-0d65-4eeb-be61-29fc9b54394b.json) | [0a5ae4ab-0d65-4eeb-be61-29fc9b54394b](roles/0a5ae4ab-0d65-4eeb-be61-29fc9b54394b.json) |
-| [Cognitive Services Data Reader (Preview)](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) | [b59867f0-fa02-499b-be73-45a86b5b3e1c](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) |
+| [Cognitive Services Data Reader](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) | [b59867f0-fa02-499b-be73-45a86b5b3e1c](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) |
 | [Cognitive Services Face Contributor](roles/b5b0c71d-aca9-4081-aee2-9b1bb335fc1a.json) | [b5b0c71d-aca9-4081-aee2-9b1bb335fc1a](roles/b5b0c71d-aca9-4081-aee2-9b1bb335fc1a.json) |
 | [Cognitive Services Face Recognizer](roles/9894cab4-e18a-44aa-828b-cb588cd6f2d7.json) | [9894cab4-e18a-44aa-828b-cb588cd6f2d7](roles/9894cab4-e18a-44aa-828b-cb588cd6f2d7.json) |
 | [Cognitive Services Immersive Reader User](roles/b2de6794-95db-4659-8781-7e080d3f2b9d.json) | [b2de6794-95db-4659-8781-7e080d3f2b9d](roles/b2de6794-95db-4659-8781-7e080d3f2b9d.json) |
@@ -425,6 +425,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Lab Operator](roles/a36e6959-b6be-4b12-8e9f-ef4b474d304d.json) | [a36e6959-b6be-4b12-8e9f-ef4b474d304d](roles/a36e6959-b6be-4b12-8e9f-ef4b474d304d.json) |
 | [Lab Services Contributor](roles/f69b8690-cc87-41d6-b77a-a4bc3c0a966f.json) | [f69b8690-cc87-41d6-b77a-a4bc3c0a966f](roles/f69b8690-cc87-41d6-b77a-a4bc3c0a966f.json) |
 | [Lab Services Reader](roles/2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc.json) | [2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc](roles/2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc.json) |
+| [Landing Zone Account Owner](roles/bf2b6809-e9a5-4aea-a6e1-40a9dc8c43a7.json) | [bf2b6809-e9a5-4aea-a6e1-40a9dc8c43a7](roles/bf2b6809-e9a5-4aea-a6e1-40a9dc8c43a7.json) |
+| [Landing Zone Account Reader](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) | [2718b1f7-eb07-424e-8868-0137541392a1](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) |
 | [Landing Zone Management Owner](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) | [38863829-c2a4-4f8d-b1d2-2e325973ebc7](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) |
 | [Landing Zone Management Reader](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) | [8fe6e843-6d9e-417b-9073-106b048f50bb](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) |
 | [Load Test Contributor](roles/749a398d-560b-491b-bb21-08924219302e.json) | [749a398d-560b-491b-bb21-08924219302e](roles/749a398d-560b-491b-bb21-08924219302e.json) |
@@ -463,6 +465,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Sentinel Responder](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) | [3e150937-b8fe-4cfb-8069-0eaf05ecd056](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) |
 | [Microsoft.Edge Winfields federated subscription read access role](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) | [83ee7727-862c-4213-8ed8-2ce6c5d69a40](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
+| [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
 | [Monitoring Metrics Publisher](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) | [3913510d-42f4-4e42-8a64-420c390055eb](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) |

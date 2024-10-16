@@ -5,8 +5,7 @@
   "Description": "Read IPAM Pools and child resources. Create and remove associations. This role is in preview and subject to change.",
   "Actions": [
     "Microsoft.Network/networkManagers/ipamPools/*/read",
-    "Microsoft.Network/networkManagers/ipamPools/*/action",
-    "Microsoft.Network/networkManagers/ipamPools/*/write"
+    "Microsoft.Network/networkManagers/ipamPools/*/action"
   ],
   "NotActions": [],
   "DataActions": [],

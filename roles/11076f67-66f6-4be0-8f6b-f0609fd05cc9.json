@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Batch Account Reader",
+  "Id": "11076f67-66f6-4be0-8f6b-f0609fd05cc9",
+  "IsCustom": false,
+  "Description": "Lets you view all resources including pools and jobs in the Batch account.",
+  "Actions": [
+    "Microsoft.Batch/batchAccounts/read",
+    "Microsoft.Batch/batchAccounts/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Batch/batchAccounts/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

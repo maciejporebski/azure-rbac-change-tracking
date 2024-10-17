@@ -1,0 +1,24 @@
+{
+  "Name": "Azure Batch Job Submitter",
+  "Id": "48e5e92e-a480-4e71-aa9c-2778f4c13781",
+  "IsCustom": false,
+  "Description": "Lets you submit and manage jobs in the Batch account.",
+  "Actions": [
+    "Microsoft.Batch/batchAccounts/applications/read",
+    "Microsoft.Batch/batchAccounts/applications/versions/read",
+    "Microsoft.Batch/batchAccounts/pools/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Batch/batchAccounts/jobSchedules/*",
+    "Microsoft.Batch/batchAccounts/jobs/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

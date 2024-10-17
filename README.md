@@ -73,6 +73,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc VMware Private Clouds Onboarding](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) | [67d33e57-3129-45e6-bb0b-7cc522f762fa](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) |
 | [Azure Arc VMware VM Contributor](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) | [b748a06d-6150-4f8a-aaa9-ce3940cd96cb](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) |
 | [Azure Automanage Contributor](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) | [8d6517c1-e434-405c-9f3f-e0ae65085d76](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) |
+| [Azure Batch Account Contributor](roles/29fe4964-1e60-436b-bd3a-77fd4c178b3c.json) | [29fe4964-1e60-436b-bd3a-77fd4c178b3c](roles/29fe4964-1e60-436b-bd3a-77fd4c178b3c.json) |
+| [Azure Batch Account Reader](roles/11076f67-66f6-4be0-8f6b-f0609fd05cc9.json) | [11076f67-66f6-4be0-8f6b-f0609fd05cc9](roles/11076f67-66f6-4be0-8f6b-f0609fd05cc9.json) |
+| [Azure Batch Data Contributor](roles/6aaa78f1-f7de-44ca-8722-c64a23943cae.json) | [6aaa78f1-f7de-44ca-8722-c64a23943cae](roles/6aaa78f1-f7de-44ca-8722-c64a23943cae.json) |
+| [Azure Batch Job Submitter](roles/48e5e92e-a480-4e71-aa9c-2778f4c13781.json) | [48e5e92e-a480-4e71-aa9c-2778f4c13781](roles/48e5e92e-a480-4e71-aa9c-2778f4c13781.json) |
 | [Azure Batch Service Orchestration Role](roles/a35466a1-cfd6-450a-b35e-683fcdf30363.json) | [a35466a1-cfd6-450a-b35e-683fcdf30363](roles/a35466a1-cfd6-450a-b35e-683fcdf30363.json) |
 | [Azure Bot Service Contributor Role](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) | [9fc6112f-f48e-4e27-8b09-72a5c94e4ae9](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) |
 | [Azure Center for SAP solutions administrator](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) | [7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) |
@@ -130,6 +134,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service RBAC Reader](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) | [7f6c6a51-bcf8-42ba-9220-52d62157d7db](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) |
 | [Azure Kubernetes Service RBAC Writer](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) | [a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) |
 | [Azure Machine Learning Workspace Connection Secrets Reader](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) | [ea01e6af-a1c1-4350-9563-ad00f8c72ec5](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) |
+| [Azure Managed Grafana Workspace Contributor](roles/5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95.json) | [5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95](roles/5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95.json) |
 | [Azure Maps Contributor](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) | [dba33070-676a-4fb0-87fa-064dc56ff7fb](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) |
 | [Azure Maps Data Contributor](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) | [8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) |
 | [Azure Maps Data Read and Batch Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
@@ -287,6 +292,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Lake Analytics Developer](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) | [47b7735b-770e-4598-a7da-8b91488b4c88](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) |
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
+| [Defender CSPM Storage Data Scanner](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
@@ -425,6 +431,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Lab Operator](roles/a36e6959-b6be-4b12-8e9f-ef4b474d304d.json) | [a36e6959-b6be-4b12-8e9f-ef4b474d304d](roles/a36e6959-b6be-4b12-8e9f-ef4b474d304d.json) |
 | [Lab Services Contributor](roles/f69b8690-cc87-41d6-b77a-a4bc3c0a966f.json) | [f69b8690-cc87-41d6-b77a-a4bc3c0a966f](roles/f69b8690-cc87-41d6-b77a-a4bc3c0a966f.json) |
 | [Lab Services Reader](roles/2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc.json) | [2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc](roles/2a5c394f-5eb7-4d4f-9c8e-e8eae39faebc.json) |
+| [Landing Zone Account Owner](roles/bf2b6809-e9a5-4aea-a6e1-40a9dc8c43a7.json) | [bf2b6809-e9a5-4aea-a6e1-40a9dc8c43a7](roles/bf2b6809-e9a5-4aea-a6e1-40a9dc8c43a7.json) |
+| [Landing Zone Account Reader](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) | [2718b1f7-eb07-424e-8868-0137541392a1](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) |
 | [Landing Zone Management Owner](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) | [38863829-c2a4-4f8d-b1d2-2e325973ebc7](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) |
 | [Landing Zone Management Reader](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) | [8fe6e843-6d9e-417b-9073-106b048f50bb](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) |
 | [Load Test Contributor](roles/749a398d-560b-491b-bb21-08924219302e.json) | [749a398d-560b-491b-bb21-08924219302e](roles/749a398d-560b-491b-bb21-08924219302e.json) |
@@ -463,6 +471,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Sentinel Responder](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) | [3e150937-b8fe-4cfb-8069-0eaf05ecd056](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) |
 | [Microsoft.Edge Winfields federated subscription read access role](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) | [83ee7727-862c-4213-8ed8-2ce6c5d69a40](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
+| [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
 | [Monitoring Metrics Publisher](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) | [3913510d-42f4-4e42-8a64-420c390055eb](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) |

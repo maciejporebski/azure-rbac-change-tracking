@@ -1,0 +1,30 @@
+{
+  "Name": "Azure Batch Data Contributor",
+  "Id": "6aaa78f1-f7de-44ca-8722-c64a23943cae",
+  "IsCustom": false,
+  "Description": "Grants permissions to manage Batch pools and jobs but not to modify accounts.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Batch/batchAccounts/read",
+    "Microsoft.Batch/batchAccounts/applications/*",
+    "Microsoft.Batch/batchAccounts/certificates/*",
+    "Microsoft.Batch/batchAccounts/certificateOperationResults/*",
+    "Microsoft.Batch/batchAccounts/pools/*",
+    "Microsoft.Batch/batchAccounts/poolOperationResults/*",
+    "Microsoft.Batch/locations/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Batch/batchAccounts/jobSchedules/*",
+    "Microsoft.Batch/batchAccounts/jobs/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

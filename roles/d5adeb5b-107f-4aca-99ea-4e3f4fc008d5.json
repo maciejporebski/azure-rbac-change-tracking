@@ -1,0 +1,22 @@
+{
+  "Name": "Container Apps ConnectedEnvironments Reader",
+  "Id": "d5adeb5b-107f-4aca-99ea-4e3f4fc008d5",
+  "IsCustom": false,
+  "Description": "Read access to Container Apps ConnectedEnvironments.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.App/connectedEnvironments/read",
+    "Microsoft.App/connectedEnvironments/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

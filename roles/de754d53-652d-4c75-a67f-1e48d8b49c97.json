@@ -1,0 +1,18 @@
+{
+  "Name": "Service Group Reader",
+  "Id": "de754d53-652d-4c75-a67f-1e48d8b49c97",
+  "IsCustom": false,
+  "Description": "Role Definition for reader of a Service Group",
+  "Actions": [
+    "Microsoft.Management/serviceGroups/read",
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

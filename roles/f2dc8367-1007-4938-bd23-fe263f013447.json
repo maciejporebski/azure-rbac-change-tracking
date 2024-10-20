@@ -14,6 +14,7 @@
     "Microsoft.CognitiveServices/accounts/SpeechServices/*/transcriptions/read",
     "Microsoft.CognitiveServices/accounts/SpeechServices/*/transcriptions/write",
     "Microsoft.CognitiveServices/accounts/SpeechServices/*/transcriptions/delete",
+    "Microsoft.CognitiveServices/accounts/SpeechServices/*/transcriptions/action",
     "Microsoft.CognitiveServices/accounts/SpeechServices/*/frontend/action",
     "Microsoft.CognitiveServices/accounts/SpeechServices/text-dependent/*/action",
     "Microsoft.CognitiveServices/accounts/SpeechServices/text-independent/*/action",

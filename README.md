@@ -116,6 +116,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
 | [Azure Kubernetes Fleet Manager RBAC Admin](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) | [434fb43a-c01c-447e-9f67-c3ad923cfaba](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Admin](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) | [18ab4d3d-a1bf-4477-8ad9-8359bc988f69](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) |
+| [Azure Kubernetes Fleet Manager RBAC Cluster Reader](roles/bd80684d-2f5f-4130-892a-0955546282de.json) | [bd80684d-2f5f-4130-892a-0955546282de](roles/bd80684d-2f5f-4130-892a-0955546282de.json) |
+| [Azure Kubernetes Fleet Manager RBAC Cluster Writer](roles/1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320.json) | [1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320](roles/1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320.json) |
 | [Azure Kubernetes Fleet Manager RBAC Reader](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) | [30b27cfc-9c84-438e-b0ce-70e35255df80](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) |
 | [Azure Kubernetes Fleet Manager RBAC Writer](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) | [5af6afb3-c06c-4fa4-8848-71a8aee05683](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) |
 | [Azure Kubernetes Service Arc Cluster Admin Role](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) | [b29efa5f-7782-4dc3-9537-4d5bc70a5e9f](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) |
@@ -228,6 +230,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services Custom Vision Labeler](roles/88424f51-ebe7-446f-bc41-7fa16989e96c.json) | [88424f51-ebe7-446f-bc41-7fa16989e96c](roles/88424f51-ebe7-446f-bc41-7fa16989e96c.json) |
 | [Cognitive Services Custom Vision Reader](roles/93586559-c37d-4a6b-ba08-b9f0940c2d73.json) | [93586559-c37d-4a6b-ba08-b9f0940c2d73](roles/93586559-c37d-4a6b-ba08-b9f0940c2d73.json) |
 | [Cognitive Services Custom Vision Trainer](roles/0a5ae4ab-0d65-4eeb-be61-29fc9b54394b.json) | [0a5ae4ab-0d65-4eeb-be61-29fc9b54394b](roles/0a5ae4ab-0d65-4eeb-be61-29fc9b54394b.json) |
+| [Cognitive Services Data Contributor (Preview)](roles/19c28022-e58e-450d-a464-0b2a53034789.json) | [19c28022-e58e-450d-a464-0b2a53034789](roles/19c28022-e58e-450d-a464-0b2a53034789.json) |
 | [Cognitive Services Data Reader](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) | [b59867f0-fa02-499b-be73-45a86b5b3e1c](roles/b59867f0-fa02-499b-be73-45a86b5b3e1c.json) |
 | [Cognitive Services Face Contributor](roles/b5b0c71d-aca9-4081-aee2-9b1bb335fc1a.json) | [b5b0c71d-aca9-4081-aee2-9b1bb335fc1a](roles/b5b0c71d-aca9-4081-aee2-9b1bb335fc1a.json) |
 | [Cognitive Services Face Recognizer](roles/9894cab4-e18a-44aa-828b-cb588cd6f2d7.json) | [9894cab4-e18a-44aa-828b-cb588cd6f2d7](roles/9894cab4-e18a-44aa-828b-cb588cd6f2d7.json) |
@@ -260,6 +263,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
+| [Container Apps ConnectedEnvironments Reader](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) | [d5adeb5b-107f-4aca-99ea-4e3f4fc008d5](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) |
 | [Container Apps Contributor](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) | [358470bc-b998-42bd-ab17-a7e34c199c0f](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) |
 | [Container Apps Jobs Contributor](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) | [4e3d2b60-56ae-4dc6-a233-09c8e5a82e68](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) |
 | [Container Apps Jobs Operator](roles/b9a307c4-5aa3-4b52-ba60-2b17c136cd7b.json) | [b9a307c4-5aa3-4b52-ba60-2b17c136cd7b](roles/b9a307c4-5aa3-4b52-ba60-2b17c136cd7b.json) |
@@ -539,6 +543,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
 | [Service Fabric Cluster Contributor](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) | [b6efc156-f0da-4e90-a50a-8c000140b017](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) |
 | [Service Fabric Managed Cluster Contributor](roles/83f80186-3729-438c-ad2d-39e94d718838.json) | [83f80186-3729-438c-ad2d-39e94d718838](roles/83f80186-3729-438c-ad2d-39e94d718838.json) |
+| [Service Group Reader](roles/de754d53-652d-4c75-a67f-1e48d8b49c97.json) | [de754d53-652d-4c75-a67f-1e48d8b49c97](roles/de754d53-652d-4c75-a67f-1e48d8b49c97.json) |
 | [Services Hub Operator](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) | [82200a5b-e217-47a5-b665-6d8765ee745b](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) |
 | [SignalR AccessKey Reader](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) | [04165923-9d83-45d5-8227-78b77b0a687e](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) |
 | [SignalR App Server](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) | [420fcaa2-552c-430f-98ca-3264be4806c7](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) |

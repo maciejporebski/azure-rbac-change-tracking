@@ -42,11 +42,7 @@
     "Microsoft.ContainerService/fleets/resourcequotas/read",
     "Microsoft.ContainerService/fleets/secrets/*",
     "Microsoft.ContainerService/fleets/serviceaccounts/*",
-    "Microsoft.ContainerService/fleets/services/*",
-    "Microsoft.ContainerService/fleets/cluster.kubernetes-fleet.io/internalmemberclusters/read",
-    "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/resourceoverrides/*",
-    "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/resourceoverridesnapshots/read",
-    "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/works/read"
+    "Microsoft.ContainerService/fleets/services/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

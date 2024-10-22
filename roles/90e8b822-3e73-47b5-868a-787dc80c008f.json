@@ -8,6 +8,7 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.ElasticSan/elasticSans/volumeGroups/*/read",
     "Microsoft.ElasticSan/elasticSans/volumeGroups/volumes/write",
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/volumes/delete",
     "Microsoft.ElasticSan/locations/*",
     "Microsoft.Compute/locations/*",
     "Microsoft.Compute/disks/read",

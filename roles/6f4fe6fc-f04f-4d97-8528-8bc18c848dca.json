@@ -1,0 +1,25 @@
+{
+  "Name": "Container Apps ConnectedEnvironments Contributor",
+  "Id": "6f4fe6fc-f04f-4d97-8528-8bc18c848dca",
+  "IsCustom": false,
+  "Description": "Full management of Container Apps ConnectedEnvironments, including creation, deletion, and updates.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/connectedEnvironments/*",
+    "Microsoft.App/connectedEnvironments/*/read",
+    "Microsoft.App/connectedEnvironments/*/write",
+    "Microsoft.App/connectedEnvironments/*/delete",
+    "Microsoft.App/connectedEnvironments/*/action",
+    "Microsoft.App/connectedEnvironments/daprComponents/listSecrets/action",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

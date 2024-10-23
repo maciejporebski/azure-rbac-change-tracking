@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Messaging Connectors Owner",
+  "Id": "ff478a4e-8633-416e-91bc-ec33ce7c9516",
+  "IsCustom": false,
+  "Description": "Allows for full access to Azure Messaging Connectors resources.",
+  "Actions": [
+    "Microsoft.MessagingConnectors/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.MessagingConnectors/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

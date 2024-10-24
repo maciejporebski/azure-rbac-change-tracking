@@ -143,7 +143,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Maps Data Reader](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) | [423170ca-a8f6-4b0f-8487-9e4eb8f49bfa](roles/423170ca-a8f6-4b0f-8487-9e4eb8f49bfa.json) |
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
 | [Azure Messaging Catalog Data Owner](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) | [f27b7598-bc64-41f7-8a44-855ff16326c2](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) |
-| [Azure Messaging Connectors Owner](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) | [ff478a4e-8633-416e-91bc-ec33ce7c9516](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure Red Hat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
@@ -264,7 +263,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
-| [Container Apps ConnectedEnvironments Contributor](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) | [6f4fe6fc-f04f-4d97-8528-8bc18c848dca](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) |
 | [Container Apps ConnectedEnvironments Reader](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) | [d5adeb5b-107f-4aca-99ea-4e3f4fc008d5](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) |
 | [Container Apps Contributor](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) | [358470bc-b998-42bd-ab17-a7e34c199c0f](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) |
 | [Container Apps Jobs Contributor](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) | [4e3d2b60-56ae-4dc6-a233-09c8e5a82e68](roles/4e3d2b60-56ae-4dc6-a233-09c8e5a82e68.json) |
@@ -275,7 +273,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
 | [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
 | [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |
-| [Container Registry Contributor and Data Access Configuration Administrator](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) | [3bc748fc-213d-45c1-8d91-9da5725539b9](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) |
 | [Container Registry Data Importer and Data Reader](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) | [577a9874-89fd-4f24-9dbd-b5034d0ad23a](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) |
 | [Container Registry Repository Catalog Lister](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) | [bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) |
 | [Container Registry Repository Contributor](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) | [2efddaa5-3f1f-4df3-97df-af3f13818f4c](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) |

@@ -1,0 +1,17 @@
+{
+  "Name": "App Configuration Data SAS User",
+  "Id": "7fd69092-c9bc-4b59-9e2e-bca63317e147",
+  "IsCustom": false,
+  "Description": "Allows the usage of SAS tokens for authentication.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppConfiguration/configurationStores/useSasAuth/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

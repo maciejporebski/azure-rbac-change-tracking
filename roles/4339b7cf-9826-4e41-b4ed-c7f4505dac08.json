@@ -9,8 +9,7 @@
   "NotActions": [],
   "DataActions": [
     "Microsoft.CodeSigning/IdentityVerification/Read",
-    "Microsoft.CodeSigning/IdentityVerification/Write",
-    "Microsoft.CodeSigning/IdentityVerification/Delete"
+    "Microsoft.CodeSigning/IdentityVerification/Write"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

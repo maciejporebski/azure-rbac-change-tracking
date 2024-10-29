@@ -34,6 +34,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [App Configuration Contributor](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) | [fe86443c-f201-4fc4-9d2a-ac61149fbda0](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) |
 | [App Configuration Data Owner](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) | [5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) |
 | [App Configuration Data Reader](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) | [516239f1-63e1-4d78-a4de-a74fb236a071](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) |
+| [App Configuration Data SAS User](roles/7fd69092-c9bc-4b59-9e2e-bca63317e147.json) | [7fd69092-c9bc-4b59-9e2e-bca63317e147](roles/7fd69092-c9bc-4b59-9e2e-bca63317e147.json) |
 | [App Configuration Reader](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) | [175b81b9-6e0d-490a-85e4-0d422273c10c](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) |
 | [AppGw for Containers Configuration Manager](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) | [fbc52c3f-28ad-4303-a892-8a056630b8f1](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) |
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |
@@ -398,6 +399,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Health Bot Admin](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) | [f1082fec-a70f-419f-9230-885d2550fb38](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) |
 | [Health Bot Editor](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) | [af854a69-80ce-4ff7-8447-f1118a2e0ca8](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) |
 | [Health Bot Reader](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) | [eb5a76d5-50e7-4c33-a449-070e7c9c4cf2](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) |
+| [Health Safeguards Data User](roles/566f0da3-e2a5-4393-9089-763f8bab8fb6.json) | [566f0da3-e2a5-4393-9089-763f8bab8fb6](roles/566f0da3-e2a5-4393-9089-763f8bab8fb6.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |

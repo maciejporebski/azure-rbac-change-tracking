@@ -2,7 +2,7 @@
   "Name": "Desktop Virtualization User Session Operator",
   "Id": "ea4bfff8-7fb4-485a-aadd-d4129a0ffaa6",
   "IsCustom": false,
-  "Description": "Operator of the Desktop Virtualization User Session.",
+  "Description": "Operator of the Desktop Virtualization Uesr Session.",
   "Actions": [
     "Microsoft.DesktopVirtualization/hostpools/read",
     "Microsoft.DesktopVirtualization/hostpools/sessionhosts/read",

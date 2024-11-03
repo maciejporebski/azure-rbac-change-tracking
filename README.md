@@ -276,7 +276,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
 | [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
 | [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |
-| [Container Registry Configuration Reader and Data Access Configuration Reader](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) | [69b07be0-09bf-439a-b9a6-e73de851bd59](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) |
 | [Container Registry Contributor and Data Access Configuration Administrator](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) | [3bc748fc-213d-45c1-8d91-9da5725539b9](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) |
 | [Container Registry Data Importer and Data Reader](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) | [577a9874-89fd-4f24-9dbd-b5034d0ad23a](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) |
 | [Container Registry Repository Catalog Lister](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) | [bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) |

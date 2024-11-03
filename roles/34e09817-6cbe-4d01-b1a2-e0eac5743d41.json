@@ -12,10 +12,6 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Kubernetes/connectedClusters/Write",
     "Microsoft.Kubernetes/connectedClusters/read",
-    "Microsoft.KubernetesConfiguration/extensions/write",
-    "Microsoft.KubernetesConfiguration/extensions/read",
-    "Microsoft.KubernetesConfiguration/extensions/delete",
-    "Microsoft.KubernetesConfiguration/extensions/operations/read",
     "Microsoft.Support/*"
   ],
   "NotActions": [],

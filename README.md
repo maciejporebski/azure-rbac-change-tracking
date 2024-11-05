@@ -276,14 +276,12 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
 | [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
 | [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |
-| [Container Registry Configuration Reader and Data Access Configuration Reader](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) | [69b07be0-09bf-439a-b9a6-e73de851bd59](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) |
 | [Container Registry Contributor and Data Access Configuration Administrator](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) | [3bc748fc-213d-45c1-8d91-9da5725539b9](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) |
 | [Container Registry Data Importer and Data Reader](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) | [577a9874-89fd-4f24-9dbd-b5034d0ad23a](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) |
 | [Container Registry Repository Catalog Lister](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) | [bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) |
 | [Container Registry Repository Contributor](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) | [2efddaa5-3f1f-4df3-97df-af3f13818f4c](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) |
 | [Container Registry Repository Reader](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) | [b93aa761-3e63-49ed-ac28-beffa264f7ac](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) |
 | [Container Registry Repository Writer](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) | [2a1e307c-b015-4ebd-883e-5b7698a07328](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) |
-| [Container Registry Transfer Pipeline Contributor](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) | [bf94e731-3a51-4a7c-8c54-a1ab9971dfc1](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |

@@ -13,9 +13,7 @@
   "DataActions": [
     "Microsoft.App/sessionPools/*/read",
     "Microsoft.App/sessionPools/interpreters/execute/action",
-    "Microsoft.App/sessionPools/interpreters/read",
-    "Microsoft.App/sessionPools/executions/*",
-    "Microsoft.App/sessionPools/files/*"
+    "Microsoft.App/sessionPools/interpreters/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

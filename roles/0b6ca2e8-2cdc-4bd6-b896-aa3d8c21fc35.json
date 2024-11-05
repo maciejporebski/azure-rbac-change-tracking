@@ -3,15 +3,9 @@
   "Id": "0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35",
   "IsCustom": false,
   "Description": "Grants access to read blobs and files. This role is used by the data scanner of Dfender CSPM.",
-  "Actions": [
-    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
-    "Microsoft.Storage/storageAccounts/fileServices/shares/read"
-  ],
+  "Actions": [],
   "NotActions": [],
-  "DataActions": [
-    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read",
-    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read"
-  ],
+  "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

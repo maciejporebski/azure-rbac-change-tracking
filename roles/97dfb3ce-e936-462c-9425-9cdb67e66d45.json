@@ -1,0 +1,25 @@
+{
+  "Name": "Desktop Virtualization App Attach Contributor",
+  "Id": "97dfb3ce-e936-462c-9425-9cdb67e66d45",
+  "IsCustom": false,
+  "Description": "Provide permission to manage app attach resources",
+  "Actions": [
+    "Microsoft.DesktopVirtualization/hostpools/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.DesktopVirtualization/appattachpackages/read",
+    "Microsoft.DesktopVirtualization/appattachpackages/write",
+    "Microsoft.DesktopVirtualization/appattachpackages/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

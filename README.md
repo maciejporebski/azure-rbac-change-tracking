@@ -283,6 +283,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Registry Repository Contributor](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) | [2efddaa5-3f1f-4df3-97df-af3f13818f4c](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) |
 | [Container Registry Repository Reader](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) | [b93aa761-3e63-49ed-ac28-beffa264f7ac](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) |
 | [Container Registry Repository Writer](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) | [2a1e307c-b015-4ebd-883e-5b7698a07328](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) |
+| [Container Registry Transfer Pipeline Contributor](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) | [bf94e731-3a51-4a7c-8c54-a1ab9971dfc1](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |

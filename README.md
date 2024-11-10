@@ -313,6 +313,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [DeID Realtime Data User](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) | [bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e](roles/bb6577c4-ea0a-40b2-8962-ea18cb8ecd4e.json) |
 | [Deployment Environments Reader](roles/eb960402-bf75-4cc3-8d68-35b34f960f72.json) | [eb960402-bf75-4cc3-8d68-35b34f960f72](roles/eb960402-bf75-4cc3-8d68-35b34f960f72.json) |
 | [Deployment Environments User](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) | [18e40d4e-8d2e-438d-97e1-9528336e149c](roles/18e40d4e-8d2e-438d-97e1-9528336e149c.json) |
+| [Desktop Virtualization App Attach Contributor](roles/97dfb3ce-e936-462c-9425-9cdb67e66d45.json) | [97dfb3ce-e936-462c-9425-9cdb67e66d45](roles/97dfb3ce-e936-462c-9425-9cdb67e66d45.json) |
 | [Desktop Virtualization Application Group Contributor](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) | [86240b0e-9422-4c43-887b-b61143f32ba8](roles/86240b0e-9422-4c43-887b-b61143f32ba8.json) |
 | [Desktop Virtualization Application Group Reader](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) | [aebf23d0-b568-4e86-b8f9-fe83a2c6ab55](roles/aebf23d0-b568-4e86-b8f9-fe83a2c6ab55.json) |
 | [Desktop Virtualization Contributor](roles/082f0a83-3be5-4ba1-904c-961cca79b387.json) | [082f0a83-3be5-4ba1-904c-961cca79b387](roles/082f0a83-3be5-4ba1-904c-961cca79b387.json) |

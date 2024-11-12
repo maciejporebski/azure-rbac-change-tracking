@@ -1,0 +1,22 @@
+{
+  "Name": "App Service Environment Contributor",
+  "Id": "8ea85a25-eb16-4e29-ab4d-6f2a26c711a2",
+  "IsCustom": false,
+  "Description": "Manage App Service Environments but not the App Service Plans or Websites that it hosts.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Web/hostingEnvironments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

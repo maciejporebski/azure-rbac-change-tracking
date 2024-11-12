@@ -36,6 +36,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [App Configuration Data Reader](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) | [516239f1-63e1-4d78-a4de-a74fb236a071](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) |
 | [App Configuration Data SAS User](roles/7fd69092-c9bc-4b59-9e2e-bca63317e147.json) | [7fd69092-c9bc-4b59-9e2e-bca63317e147](roles/7fd69092-c9bc-4b59-9e2e-bca63317e147.json) |
 | [App Configuration Reader](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) | [175b81b9-6e0d-490a-85e4-0d422273c10c](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) |
+| [App Service Environment Contributor](roles/8ea85a25-eb16-4e29-ab4d-6f2a26c711a2.json) | [8ea85a25-eb16-4e29-ab4d-6f2a26c711a2](roles/8ea85a25-eb16-4e29-ab4d-6f2a26c711a2.json) |
 | [AppGw for Containers Configuration Manager](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) | [fbc52c3f-28ad-4303-a892-8a056630b8f1](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) |
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |
 | [Application Insights Component Contributor](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) | [ae349356-3a1b-4a5e-921d-050484c6347e](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) |

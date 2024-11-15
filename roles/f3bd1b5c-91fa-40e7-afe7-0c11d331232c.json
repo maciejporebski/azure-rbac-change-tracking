@@ -20,8 +20,7 @@
   "NotActions": [],
   "DataActions": [
     "Microsoft.App/containerApps/logstream/action",
-    "Microsoft.App/containerApps/exec/action",
-    "Microsoft.App/containerApps/debug/action"
+    "Microsoft.App/containerApps/exec/action"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

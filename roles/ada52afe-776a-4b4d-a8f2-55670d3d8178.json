@@ -1,0 +1,21 @@
+{
+  "Name": "Kubernetes Agent Subscription Level Operator",
+  "Id": "ada52afe-776a-4b4d-a8f2-55670d3d8178",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for Cloud subscription level permissions needed to activate Containers plan",
+  "Actions": [
+    "Microsoft.OperationalInsights/workspaces/write",
+    "Microsoft.OperationalInsights/workspaces/read",
+    "Microsoft.OperationalInsights/workspaces/listKeys/action",
+    "Microsoft.OperationalInsights/workspaces/sharedkeys/action",
+    "Microsoft.OperationalInsights/workspaces/sharedkeys/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

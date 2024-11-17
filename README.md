@@ -432,7 +432,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Key Vault Secrets User](roles/4633458b-17de-408a-b874-0445c86b69e6.json) | [4633458b-17de-408a-b874-0445c86b69e6](roles/4633458b-17de-408a-b874-0445c86b69e6.json) |
 | [Knowledge Consumer](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) | [ee361c5d-f7b5-4119-b4b6-892157c8f64c](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) |
 | [Kubernetes Agent Operator](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) | [5e93ba01-8f92-4c7a-b12a-801e3df23824](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) |
-| [Kubernetes Agent Subscription Level Operator](roles/ada52afe-776a-4b4d-a8f2-55670d3d8178.json) | [ada52afe-776a-4b4d-a8f2-55670d3d8178](roles/ada52afe-776a-4b4d-a8f2-55670d3d8178.json) |
 | [Kubernetes Agentless Operator](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Kubernetes Cluster - Azure Arc Onboarding](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) | [34e09817-6cbe-4d01-b1a2-e0eac5743d41](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) |
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |
@@ -522,7 +521,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Purview role 1 (Deprecated)](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) | [8a3c2885-9b38-4fd2-9d99-91af537c1347](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) |
 | [Purview role 2 (Deprecated)](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) | [200bba9e-f0c8-430f-892b-6f0794863803](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) |
 | [Purview role 3 (Deprecated)](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) | [ff100721-1b9d-43d8-af52-42b69c1272db](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) |
-| [Quantum Workspace Data Contributor](roles/c1410b24-3e69-4857-8f86-4d0a2e603250.json) | [c1410b24-3e69-4857-8f86-4d0a2e603250](roles/c1410b24-3e69-4857-8f86-4d0a2e603250.json) |
 | [Quota Request Operator](roles/0e5f05e5-9ab9-446b-b98d-1e2157c94125.json) | [0e5f05e5-9ab9-446b-b98d-1e2157c94125](roles/0e5f05e5-9ab9-446b-b98d-1e2157c94125.json) |
 | [Reader](roles/acdd72a7-3385-48ef-bd42-f606fba81ae7.json) | [acdd72a7-3385-48ef-bd42-f606fba81ae7](roles/acdd72a7-3385-48ef-bd42-f606fba81ae7.json) |
 | [Reader and Data Access](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) | [c12c1c16-33a1-487b-954d-41c89c60f349](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) |

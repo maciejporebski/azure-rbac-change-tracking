@@ -522,6 +522,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Purview role 1 (Deprecated)](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) | [8a3c2885-9b38-4fd2-9d99-91af537c1347](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) |
 | [Purview role 2 (Deprecated)](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) | [200bba9e-f0c8-430f-892b-6f0794863803](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) |
 | [Purview role 3 (Deprecated)](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) | [ff100721-1b9d-43d8-af52-42b69c1272db](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) |
+| [Quantum Workspace Data Contributor](roles/c1410b24-3e69-4857-8f86-4d0a2e603250.json) | [c1410b24-3e69-4857-8f86-4d0a2e603250](roles/c1410b24-3e69-4857-8f86-4d0a2e603250.json) |
 | [Quota Request Operator](roles/0e5f05e5-9ab9-446b-b98d-1e2157c94125.json) | [0e5f05e5-9ab9-446b-b98d-1e2157c94125](roles/0e5f05e5-9ab9-446b-b98d-1e2157c94125.json) |
 | [Reader](roles/acdd72a7-3385-48ef-bd42-f606fba81ae7.json) | [acdd72a7-3385-48ef-bd42-f606fba81ae7](roles/acdd72a7-3385-48ef-bd42-f606fba81ae7.json) |
 | [Reader and Data Access](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) | [c12c1c16-33a1-487b-954d-41c89c60f349](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) |

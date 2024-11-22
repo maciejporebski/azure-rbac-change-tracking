@@ -256,6 +256,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services User](roles/a97b65f3-24c7-4388-baec-2e87135dc908.json) | [a97b65f3-24c7-4388-baec-2e87135dc908](roles/a97b65f3-24c7-4388-baec-2e87135dc908.json) |
 | [Collaborative Data Contributor](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) | [daa9e50b-21df-454c-94a6-a8050adab352](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) |
 | [Collaborative Runtime Operator](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) | [7a6f0e70-c033-4fb1-828c-08514e5f4102](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) |
+| [Communication and Email Service Owner](roles/09976791-48a7-449e-bb21-39d1a415f350.json) | [09976791-48a7-449e-bb21-39d1a415f350](roles/09976791-48a7-449e-bb21-39d1a415f350.json) |
 | [Community Contributor Role](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) | [49435da6-99fe-48a5-a235-fc668b9dc04a](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) |
 | [Community Owner Role](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) | [5e28a61e-8040-49db-b175-bb5b88af6239](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) |
 | [Community Reader Role](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) | [e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) |

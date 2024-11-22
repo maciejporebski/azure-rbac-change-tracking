@@ -15,7 +15,9 @@
     "Microsoft.Compute/galleries/share/action",
     "Microsoft.Purview/consents/write",
     "Microsoft.Purview/consents/delete",
-    "Microsoft.Resources/deploymentStacks/manageDenySetting/action"
+    "Microsoft.Resources/deploymentStacks/manageDenySetting/action",
+    "Microsoft.Subscription/cancel/action",
+    "Microsoft.Subscription/enable/action"
   ],
   "DataActions": [],
   "NotDataActions": [],

@@ -18,11 +18,15 @@
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/search/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/completions/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/chat/completions/action",
+    "Microsoft.CognitiveServices/accounts/OpenAI/deployments/realtime/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/extensions/chat/completions/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/embeddings/action",
-    "Microsoft.CognitiveServices/accounts/OpenAI/images/generations/action"
+    "Microsoft.CognitiveServices/accounts/OpenAI/images/generations/action",
+    "Microsoft.CognitiveServices/accounts/OpenAI/assistants/*"
   ],
-  "NotDataActions": [],
+  "NotDataActions": [
+    "Microsoft.CognitiveServices/accounts/OpenAI/stored-completions/read"
+  ],
   "AssignableScopes": [
     "/"
   ],

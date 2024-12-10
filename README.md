@@ -455,6 +455,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Load Test Reader](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) | [3ae3fb29-0000-4ccd-bf80-542e7b26e081](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) |
 | [LocalNGFirewallAdministrator role](roles/a8835c7d-b5cb-47fa-b6f0-65ea10ce07a2.json) | [a8835c7d-b5cb-47fa-b6f0-65ea10ce07a2](roles/a8835c7d-b5cb-47fa-b6f0-65ea10ce07a2.json) |
 | [LocalRulestacksAdministrator role](roles/bfc3b73d-c6ff-45eb-9a5f-40298295bf20.json) | [bfc3b73d-c6ff-45eb-9a5f-40298295bf20](roles/bfc3b73d-c6ff-45eb-9a5f-40298295bf20.json) |
+| [Locks Contributor](roles/28bf596f-4eb7-45ce-b5bc-6cf482fec137.json) | [28bf596f-4eb7-45ce-b5bc-6cf482fec137](roles/28bf596f-4eb7-45ce-b5bc-6cf482fec137.json) |
 | [Log Analytics Contributor](roles/92aaf0da-9dab-42b6-94a3-d43ce8d16293.json) | [92aaf0da-9dab-42b6-94a3-d43ce8d16293](roles/92aaf0da-9dab-42b6-94a3-d43ce8d16293.json) |
 | [Log Analytics Reader](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) | [73c42c96-874c-492b-b04d-ab87d138a893](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) |
 | [Logic App Contributor](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) | [87a39d53-fc1b-424a-814c-f7e04687dc9e](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) |
@@ -504,6 +505,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Operator Nexus Key Vault Writer Service Role (Preview)](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) | [44f0a1a8-6fea-4b35-980a-8ff50c487c97](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) |
 | [Operator Nexus Owner (Preview)](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) | [77be276d-fb44-4f3b-beb5-9bf03c4cd2d3](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) |
 | [Oracle Subscriptions Manager Built-in Role](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) | [4caf51ec-f9f5-413f-8a94-b9f5fddba66b](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) |
+| [Oracle.Database Autonomous Database Administrator](roles/59c05558-2358-462d-ba19-afbd7118936d.json) | [59c05558-2358-462d-ba19-afbd7118936d](roles/59c05558-2358-462d-ba19-afbd7118936d.json) |
 | [Oracle.Database Exadata Infrastructure Administrator Built-in Role](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) | [4cfdd23b-aece-4fd1-b614-ad3a06c53453](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) |
 | [Oracle.Database Owner Built-in Role](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) | [4562aac9-b209-4bd7-a144-6d7f3bb516f4](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) |
 | [Oracle.Database Reader Built-in Role](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) | [d623d097-b882-4e1e-a26f-ac60e31065a1](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) |

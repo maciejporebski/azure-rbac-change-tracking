@@ -1,0 +1,31 @@
+{
+  "Name": "Oracle.Database Autonomous Database Administrator",
+  "Id": "59c05558-2358-462d-ba19-afbd7118936d",
+  "IsCustom": false,
+  "Description": "Grants full access to manage all Autonomous Database resources",
+  "Actions": [
+    "Oracle.Database/autonomousDatabases/*/read",
+    "Oracle.Database/autonomousDatabases/*/write",
+    "Oracle.Database/autonomousDatabases/*/delete",
+    "Oracle.Database/autonomousDatabases/*/action",
+    "Oracle.Database/Locations/*/read",
+    "Oracle.Database/Locations/*/write",
+    "Oracle.Database/Operations/read",
+    "Oracle.Database/oracleSubscriptions/*/read",
+    "Oracle.Database/oracleSubscriptions/*/action",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/locations/operations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

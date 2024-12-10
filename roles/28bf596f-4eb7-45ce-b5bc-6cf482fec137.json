@@ -1,0 +1,19 @@
+{
+  "Name": "Locks Contributor",
+  "Id": "28bf596f-4eb7-45ce-b5bc-6cf482fec137",
+  "IsCustom": false,
+  "Description": "Can Manage Locks Operations.",
+  "Actions": [
+    "Microsoft.Authorization/locks/read",
+    "Microsoft.Authorization/locks/write",
+    "Microsoft.Authorization/locks/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

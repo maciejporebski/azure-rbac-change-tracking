@@ -4,6 +4,13 @@
   "IsCustom": false,
   "Description": "Grants Microsoft Defender for Cloud access to Azure Kubernetes Services",
   "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/write",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
     "Microsoft.ContainerService/managedClusters/read",
     "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/delete",
     "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/read",

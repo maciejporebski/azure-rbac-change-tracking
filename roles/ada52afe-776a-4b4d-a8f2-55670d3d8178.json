@@ -4,6 +4,12 @@
   "IsCustom": false,
   "Description": "Grants Microsoft Defender for Cloud subscription level permissions needed to activate Containers plan",
   "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
     "Microsoft.OperationalInsights/workspaces/write",
     "Microsoft.OperationalInsights/workspaces/read",
     "Microsoft.OperationalInsights/workspaces/listKeys/action",

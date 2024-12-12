@@ -8,6 +8,7 @@
   "DataActions": [
     "Microsoft.HealthBot/healthBots/HealthSafeguards/ClinicalAnchoring/Process/Action",
     "Microsoft.HealthBot/healthBots/HealthSafeguards/ClinicalCodesValidation/Process/Action",
+    "Microsoft.HealthBot/healthBots/HealthSafeguards/ClinicalConflictDetection/Process/Action",
     "Microsoft.HealthBot/healthBots/HealthSafeguards/ClinicalEvidenceVerification/Process/Action",
     "Microsoft.HealthBot/healthBots/HealthSafeguards/ClinicalProvenance/Process/Action",
     "Microsoft.HealthBot/healthBots/HealthSafeguards/ClinicalSemanticValidation/Process/Action",

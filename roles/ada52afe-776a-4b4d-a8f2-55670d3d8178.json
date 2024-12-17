@@ -10,6 +10,7 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/subscriptions/operationresults/read",
     "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/write",
     "Microsoft.OperationalInsights/workspaces/write",
     "Microsoft.OperationalInsights/workspaces/read",
     "Microsoft.OperationalInsights/workspaces/listKeys/action",

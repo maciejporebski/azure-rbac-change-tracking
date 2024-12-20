@@ -1,0 +1,18 @@
+{
+  "Name": "Azure AI Safety Evaluator",
+  "Id": "11102f94-c441-49e6-a78b-ef80e0188abc",
+  "IsCustom": false,
+  "Description": "This role can perform all actions under workspace evaluations and simulations.",
+  "Actions": [
+    "Microsoft.MachineLearningServices/workspaces/evaluations/*",
+    "Microsoft.MachineLearningServices/workspaces/simulations/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

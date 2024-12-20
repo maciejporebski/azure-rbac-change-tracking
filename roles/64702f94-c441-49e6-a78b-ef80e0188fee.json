@@ -19,7 +19,10 @@
     "Microsoft.MachineLearningServices/workspaces/hubs/write",
     "Microsoft.MachineLearningServices/workspaces/hubs/delete",
     "Microsoft.MachineLearningServices/workspaces/featurestores/write",
-    "Microsoft.MachineLearningServices/workspaces/featurestores/delete"
+    "Microsoft.MachineLearningServices/workspaces/featurestores/delete",
+    "Microsoft.MachineLearningServices/workspaces/evaluations/results/labels/read",
+    "Microsoft.MachineLearningServices/workspaces/evaluations/results/reasonings/read",
+    "Microsoft.MachineLearningServices/workspaces/simulations/results/images/read"
   ],
   "DataActions": [
     "Microsoft.CognitiveServices/accounts/OpenAI/*",

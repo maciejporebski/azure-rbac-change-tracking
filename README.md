@@ -57,6 +57,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure API Center Compliance Manager](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) | [ede9aaa3-4627-494e-be13-4aa7c256148d](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) |
 | [Azure API Center Data Reader](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) | [c7244dfb-f447-457d-b2ba-3999044d1706](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) |
 | [Azure API Center Service Contributor](roles/dd24193f-ef65-44e5-8a7e-6fa6e03f7713.json) | [dd24193f-ef65-44e5-8a7e-6fa6e03f7713](roles/dd24193f-ef65-44e5-8a7e-6fa6e03f7713.json) |

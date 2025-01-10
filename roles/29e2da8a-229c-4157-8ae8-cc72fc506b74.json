@@ -1,0 +1,22 @@
+{
+  "Name": "Chaos Studio Reader",
+  "Id": "29e2da8a-229c-4157-8ae8-cc72fc506b74",
+  "IsCustom": false,
+  "Description": "Can view targets, capabilities, experiments, and experiment details.",
+  "Actions": [
+    "Microsoft.Chaos/*/read",
+    "Microsoft.Chaos/experiments/executions/getExecutionDetails/action",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

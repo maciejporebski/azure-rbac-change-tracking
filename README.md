@@ -76,6 +76,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc VMware Private Clouds Onboarding](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) | [67d33e57-3129-45e6-bb0b-7cc522f762fa](roles/67d33e57-3129-45e6-bb0b-7cc522f762fa.json) |
 | [Azure Arc VMware VM Contributor](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) | [b748a06d-6150-4f8a-aaa9-ce3940cd96cb](roles/b748a06d-6150-4f8a-aaa9-ce3940cd96cb.json) |
 | [Azure Automanage Contributor](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) | [8d6517c1-e434-405c-9f3f-e0ae65085d76](roles/8d6517c1-e434-405c-9f3f-e0ae65085d76.json) |
+| [Azure Backup Snapshot Contributor](roles/afc680e2-a938-412d-b213-9a49efa7fb83.json) | [afc680e2-a938-412d-b213-9a49efa7fb83](roles/afc680e2-a938-412d-b213-9a49efa7fb83.json) |
 | [Azure Batch Account Contributor](roles/29fe4964-1e60-436b-bd3a-77fd4c178b3c.json) | [29fe4964-1e60-436b-bd3a-77fd4c178b3c](roles/29fe4964-1e60-436b-bd3a-77fd4c178b3c.json) |
 | [Azure Batch Account Reader](roles/11076f67-66f6-4be0-8f6b-f0609fd05cc9.json) | [11076f67-66f6-4be0-8f6b-f0609fd05cc9](roles/11076f67-66f6-4be0-8f6b-f0609fd05cc9.json) |
 | [Azure Batch Data Contributor](roles/6aaa78f1-f7de-44ca-8722-c64a23943cae.json) | [6aaa78f1-f7de-44ca-8722-c64a23943cae](roles/6aaa78f1-f7de-44ca-8722-c64a23943cae.json) |
@@ -289,6 +290,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Registry Repository Contributor](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) | [2efddaa5-3f1f-4df3-97df-af3f13818f4c](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) |
 | [Container Registry Repository Reader](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) | [b93aa761-3e63-49ed-ac28-beffa264f7ac](roles/b93aa761-3e63-49ed-ac28-beffa264f7ac.json) |
 | [Container Registry Repository Writer](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) | [2a1e307c-b015-4ebd-883e-5b7698a07328](roles/2a1e307c-b015-4ebd-883e-5b7698a07328.json) |
+| [Container Registry Tasks Contributor](roles/fb382eab-e894-4461-af04-94435c366c3f.json) | [fb382eab-e894-4461-af04-94435c366c3f](roles/fb382eab-e894-4461-af04-94435c366c3f.json) |
 | [Container Registry Transfer Pipeline Contributor](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) | [bf94e731-3a51-4a7c-8c54-a1ab9971dfc1](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |

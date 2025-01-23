@@ -360,7 +360,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Domain Services Contributor](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) | [eeaeda52-9324-47f6-8069-5d5bade478b2](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) |
 | [Domain Services Reader](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) | [361898ef-9ed1-48c2-849c-a832951106bb](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) |
 | [Durable Task Data Contributor](roles/0ad04412-c4d5-4796-b79c-f76d14c8d402.json) | [0ad04412-c4d5-4796-b79c-f76d14c8d402](roles/0ad04412-c4d5-4796-b79c-f76d14c8d402.json) |
+| [Durable Task Data Reader](roles/d6a5505f-6ebb-45a4-896e-ac8274cfc0ac.json) | [d6a5505f-6ebb-45a4-896e-ac8274cfc0ac](roles/d6a5505f-6ebb-45a4-896e-ac8274cfc0ac.json) |
 | [Durable Task Worker](roles/80d0d6b0-f522-40a4-8886-a5a11720c375.json) | [80d0d6b0-f522-40a4-8886-a5a11720c375](roles/80d0d6b0-f522-40a4-8886-a5a11720c375.json) |
+| [Edge Management Copilot User](roles/53e48117-a530-4075-bcbe-d91913e3bdb8.json) | [53e48117-a530-4075-bcbe-d91913e3bdb8](roles/53e48117-a530-4075-bcbe-d91913e3bdb8.json) |
 | [Elastic SAN Network Admin](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) | [fa6cecf6-5db3-4c43-8470-c540bcb4eafa](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) |
 | [Elastic SAN Owner](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) | [80dcbedb-47ef-405d-95bd-188a1b4ac406](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) |
 | [Elastic SAN Reader](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) | [af6a70f8-3c9f-4105-acf1-d719e9fca4ca](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) |

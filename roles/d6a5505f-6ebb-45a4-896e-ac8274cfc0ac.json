@@ -1,0 +1,18 @@
+{
+  "Name": "Durable Task Data Reader",
+  "Id": "d6a5505f-6ebb-45a4-896e-ac8274cfc0ac",
+  "IsCustom": false,
+  "Description": "Read all Durable Task Scheduler data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DurableTask/orchestrations/read",
+    "Microsoft.DurableTask/orchestrations/metadata/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

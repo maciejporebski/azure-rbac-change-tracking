@@ -1,0 +1,17 @@
+{
+  "Name": "Edge Management Copilot User",
+  "Id": "53e48117-a530-4075-bcbe-d91913e3bdb8",
+  "IsCustom": false,
+  "Description": "Enables users access to Edge Management Copilot.",
+  "Actions": [
+    "Microsoft.EdgeManagement/locations/chat/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

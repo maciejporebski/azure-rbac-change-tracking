@@ -105,7 +105,8 @@
     "Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/read",
     "Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/write",
     "Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/delete",
-    "Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/unlockDelete/action"
+    "Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/unlockDelete/action",
+    "Microsoft.DataProtection/backupVaults/backupInstances/validateForModifyBackup/action"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -29,6 +29,8 @@
     "Microsoft.Management/managementGroups/read",
     "Microsoft.Support/*",
     "Microsoft.AzureStackHCI/*",
+    "Microsoft.AzureStackHCI/EdgeMachines/*",
+    "Microsoft.AzureStackHCI/DevicePools/*",
     "Microsoft.Insights/AlertRules/Write",
     "Microsoft.Insights/AlertRules/Delete",
     "Microsoft.Insights/AlertRules/Read",

@@ -188,6 +188,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Stack HCI Administrator](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
 | [Azure Stack HCI Connected InfraVMs](roles/c99c945f-8bd1-4fb1-a903-01460aae6068.json) | [c99c945f-8bd1-4fb1-a903-01460aae6068](roles/c99c945f-8bd1-4fb1-a903-01460aae6068.json) |
 | [Azure Stack HCI Device Management Role](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) | [865ae368-6a45-4bd1-8fbf-0d5151f56fc1](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) |
+| [Azure Stack HCI Edge Machine Contributor Role](roles/1a6f9009-515c-4455-b170-143e4c9ce229.json) | [1a6f9009-515c-4455-b170-143e4c9ce229](roles/1a6f9009-515c-4455-b170-143e4c9ce229.json) |
 | [Azure Stack HCI VM Contributor](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) | [874d1c73-6003-4e60-a13a-cb31ea190a85](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) |
 | [Azure Stack HCI VM Reader](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) | [4b3fe76c-f777-4d24-a2d7-b027b0f7b273](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
@@ -509,6 +510,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Object Anchors Account Reader](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) | [4a167cdf-cb95-4554-9203-2347fe489bd9](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) |
 | [Object Understanding Account Owner](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) | [4dd61c23-6743-42fe-a388-d8bdd41cb745](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) |
 | [Object Understanding Account Reader](roles/d18777c0-1514-4662-8490-608db7d334b6.json) | [d18777c0-1514-4662-8490-608db7d334b6](roles/d18777c0-1514-4662-8490-608db7d334b6.json) |
+| [Online Experimentation Data Owner](roles/53747cdd-e97c-477a-948c-b587d0e514b2.json) | [53747cdd-e97c-477a-948c-b587d0e514b2](roles/53747cdd-e97c-477a-948c-b587d0e514b2.json) |
+| [Online Experimentation Data Reader](roles/1363e94d-546f-4fe9-8434-b0eefb292d59.json) | [1363e94d-546f-4fe9-8434-b0eefb292d59](roles/1363e94d-546f-4fe9-8434-b0eefb292d59.json) |
 | [Operator Nexus Compute Contributor Role (Preview)](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) | [4aa368ec-fba9-4e93-81ed-396b3d461cc5](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) |
 | [Operator Nexus Key Vault Writer Service Role (Preview)](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) | [44f0a1a8-6fea-4b35-980a-8ff50c487c97](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) |
 | [Operator Nexus Owner (Preview)](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) | [77be276d-fb44-4f3b-beb5-9bf03c4cd2d3](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) |

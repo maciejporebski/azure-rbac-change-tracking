@@ -1,0 +1,17 @@
+{
+  "Name": "Online Experimentation Data Reader",
+  "Id": "1363e94d-546f-4fe9-8434-b0eefb292d59",
+  "IsCustom": false,
+  "Description": "Allows read access to Online Experimentation data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.OnlineExperimentation/workspaces/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

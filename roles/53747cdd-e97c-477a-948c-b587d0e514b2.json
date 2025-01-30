@@ -1,0 +1,19 @@
+{
+  "Name": "Online Experimentation Data Owner",
+  "Id": "53747cdd-e97c-477a-948c-b587d0e514b2",
+  "IsCustom": false,
+  "Description": "Allows full access to Online Experimentation data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.OnlineExperimentation/workspaces/read",
+    "Microsoft.OnlineExperimentation/workspaces/write",
+    "Microsoft.OnlineExperimentation/workspaces/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

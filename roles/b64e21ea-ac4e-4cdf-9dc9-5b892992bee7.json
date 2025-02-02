@@ -6,9 +6,6 @@
   "Actions": [
     "Microsoft.HybridCompute/machines/read",
     "Microsoft.HybridCompute/machines/write",
-    "Microsoft.HybridCompute/settings/read",
-    "Microsoft.HybridCompute/settings/write",
-    "Microsoft.HybridCompute/gateways/read",
     "Microsoft.HybridCompute/privateLinkScopes/read",
     "Microsoft.GuestConfiguration/guestConfigurationAssignments/read"
   ],

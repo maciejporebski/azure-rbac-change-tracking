@@ -9,8 +9,6 @@
     "Microsoft.HybridCompute/machines/licenseProfiles/*",
     "Microsoft.HybridCompute/machines/runCommands/*",
     "Microsoft.HybridCompute/machines/UpgradeExtensions/action",
-    "Microsoft.HybridCompute/settings/*",
-    "Microsoft.HybridCompute/gateways/*",
     "Microsoft.HybridCompute/privateLinkScopes/*",
     "Microsoft.HybridCompute/licenses/*",
     "Microsoft.HybridCompute/locations/*",

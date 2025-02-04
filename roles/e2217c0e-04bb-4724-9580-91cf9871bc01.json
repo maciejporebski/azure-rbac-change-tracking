@@ -12,7 +12,8 @@
     "MICROSOFT.QUOTA/QUOTAREQUESTS/READ",
     "MICROSOFT.QUOTA/REGISTER/ACTION",
     "Microsoft.Quota/GROUPQUOTAS/*/READ",
-    "Microsoft.Quota/GROUPQUOTAS/*/WRITE"
+    "Microsoft.Quota/GROUPQUOTAS/*/WRITE",
+    "Microsoft.Quota/GROUPQUOTAS/*/DELETE"
   ],
   "NotActions": [],
   "DataActions": [],

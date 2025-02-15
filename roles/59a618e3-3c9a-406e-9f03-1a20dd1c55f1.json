@@ -1,0 +1,28 @@
+{
+  "Name": "Chaos Studio Target Contributor",
+  "Id": "59a618e3-3c9a-406e-9f03-1a20dd1c55f1",
+  "IsCustom": false,
+  "Description": "Can onboard targets and manage capabilities but cannot create, run, or see details for experiments",
+  "Actions": [
+    "Microsoft.Chaos/targets/write",
+    "Microsoft.Chaos/targets/delete",
+    "Microsoft.Chaos/targets/read",
+    "Microsoft.Chaos/targets/capabilities/write",
+    "Microsoft.Chaos/targets/capabilities/delete",
+    "Microsoft.Chaos/targets/capabilities/read",
+    "Microsoft.Chaos/locations/targetTypes/read",
+    "Microsoft.Chaos/locations/targetTypes/capabilityTypes/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -150,15 +150,15 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Messaging Connectors Owner](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) | [ff478a4e-8633-416e-91bc-ec33ce7c9516](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
-| [Azure Red Hat OpenShift Azure Files Storage Operator Role](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
-| [Azure Red Hat OpenShift Cloud Controller Manager Role](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
-| [Azure Red Hat OpenShift Cluster Ingress Operator Role](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) | [0336e1d3-7a87-462b-b6db-342b63f7802c](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) |
-| [Azure Red Hat OpenShift Federated Credential Role](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
-| [Azure Red Hat OpenShift Image Registry Operator Role](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
-| [Azure Red Hat OpenShift Machine API Operator Role](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
-| [Azure Red Hat OpenShift Network Operator Role](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
-| [Azure Red Hat OpenShift Service Operator Role](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) | [4436bae4-7702-4c84-919b-c4069ff25ee2](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) |
-| [Azure Red Hat OpenShift Storage Operator Role](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
+| [Azure Red Hat OpenShift Cloud Controller Manager](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
+| [Azure Red Hat OpenShift Cluster Ingress Operator](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) | [0336e1d3-7a87-462b-b6db-342b63f7802c](roles/0336e1d3-7a87-462b-b6db-342b63f7802c.json) |
+| [Azure Red Hat OpenShift Disk Storage Operator](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
+| [Azure Red Hat OpenShift Federated Credential](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
+| [Azure Red Hat OpenShift File Storage Operator](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
+| [Azure Red Hat OpenShift Image Registry Operator](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
+| [Azure Red Hat OpenShift Machine API Operator](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
+| [Azure Red Hat OpenShift Network Operator](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
+| [Azure Red Hat OpenShift Service Operator](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) | [4436bae4-7702-4c84-919b-c4069ff25ee2](roles/4436bae4-7702-4c84-919b-c4069ff25ee2.json) |
 | [Azure Relay Listener](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) | [26e0b698-aa6d-4085-9386-aadae190014d](roles/26e0b698-aa6d-4085-9386-aadae190014d.json) |
 | [Azure Relay Owner](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) | [2787bf04-f1f5-4bfe-8383-c8a24483ee38](roles/2787bf04-f1f5-4bfe-8383-c8a24483ee38.json) |
 | [Azure Relay Sender](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) | [26baccc8-eea7-41f1-98f4-1762cc7f685d](roles/26baccc8-eea7-41f1-98f4-1762cc7f685d.json) |
@@ -225,6 +225,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Chaos Studio Experiment Contributor](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) | [7c2e40b7-25eb-482a-82cb-78ba06cb46d5](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) |
 | [Chaos Studio Operator](roles/1a40e87e-6645-48e0-b27a-0b115d849a20.json) | [1a40e87e-6645-48e0-b27a-0b115d849a20](roles/1a40e87e-6645-48e0-b27a-0b115d849a20.json) |
 | [Chaos Studio Reader](roles/29e2da8a-229c-4157-8ae8-cc72fc506b74.json) | [29e2da8a-229c-4157-8ae8-cc72fc506b74](roles/29e2da8a-229c-4157-8ae8-cc72fc506b74.json) |
+| [Chaos Studio Target Contributor](roles/59a618e3-3c9a-406e-9f03-1a20dd1c55f1.json) | [59a618e3-3c9a-406e-9f03-1a20dd1c55f1](roles/59a618e3-3c9a-406e-9f03-1a20dd1c55f1.json) |
 | [Classic Network Contributor](roles/b34d265f-36f7-4a0d-a4d4-e158ca92e90f.json) | [b34d265f-36f7-4a0d-a4d4-e158ca92e90f](roles/b34d265f-36f7-4a0d-a4d4-e158ca92e90f.json) |
 | [Classic Storage Account Contributor](roles/86e8f5dc-a6e9-4c67-9d15-de283e8eac25.json) | [86e8f5dc-a6e9-4c67-9d15-de283e8eac25](roles/86e8f5dc-a6e9-4c67-9d15-de283e8eac25.json) |
 | [Classic Storage Account Key Operator Service Role](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) | [985d6b00-f706-48f5-a6fe-d0ca12fb668d](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) |

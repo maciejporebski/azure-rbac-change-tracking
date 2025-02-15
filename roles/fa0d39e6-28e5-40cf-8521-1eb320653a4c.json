@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "Allow read access to Azure Carbon Optimization data",
   "Actions": [
-    "Microsoft.Carbon/carbonEmissionReports/action"
+    "Microsoft.Carbon/carbonEmissionReports/action",
+    "Microsoft.Carbon/carbonEmissionReports/read"
   ],
   "NotActions": [],
   "DataActions": [],

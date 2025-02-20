@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Device Onboarding Discovery Contributor",
+  "Id": "a227fb39-f479-404b-96fd-0176f5d88ab4",
+  "IsCustom": false,
+  "Description": "Can read, write or delete the discovery and it's child resources.",
+  "Actions": [
+    "Microsoft.DeviceOnboarding/discoveryServices/*",
+    "Microsoft.DeviceOnboarding/locations/operationStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -43,6 +43,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Application Insights Snapshot Debugger](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) | [08954f03-6346-4c2e-81c0-ec3a5cfae23b](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) |
 | [Attestation Contributor](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) | [bbf86eb8-f7b4-4cce-96e4-18cddf81d86e](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) |
 | [Attestation Reader](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) | [fd1bd22b-8476-40bc-a0bc-69b95687b9f3](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) |
+| [Auto Actions Contributor](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) | [a8d01690-9418-4783-8ca2-9f0f1791783d](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) |
 | [Automation Contributor](roles/f353d9bd-d4a6-484e-a77a-8050b599b867.json) | [f353d9bd-d4a6-484e-a77a-8050b599b867](roles/f353d9bd-d4a6-484e-a77a-8050b599b867.json) |
 | [Automation Job Operator](roles/4fe576fe-1146-4730-92eb-48519fa6bf9f.json) | [4fe576fe-1146-4730-92eb-48519fa6bf9f](roles/4fe576fe-1146-4730-92eb-48519fa6bf9f.json) |
 | [Automation Operator](roles/d3881f73-407a-4167-8283-e981cbba0404.json) | [d3881f73-407a-4167-8283-e981cbba0404](roles/d3881f73-407a-4167-8283-e981cbba0404.json) |
@@ -101,6 +102,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
+| [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
 | [Azure Device Update Agent](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) | [2a740172-0fc2-4039-972c-b31864cd47d6](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |

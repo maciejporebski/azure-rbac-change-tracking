@@ -102,6 +102,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
+| [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
 | [Azure Device Update Agent](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) | [2a740172-0fc2-4039-972c-b31864cd47d6](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |

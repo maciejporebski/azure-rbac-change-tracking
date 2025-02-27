@@ -3,21 +3,9 @@
   "Id": "4e9b8407-af2e-495b-ae54-bb60a55b1b5a",
   "IsCustom": false,
   "Description": "Lets you manage everything under your Modeling and Simulation Workbench chamber.",
-  "Actions": [
-    "Microsoft.ModSimWorkbench/*/read",
-    "Microsoft.ModSimWorkbench/workbenches/chambers/*",
-    "Microsoft.Authorization/*/read",
-    "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
-  ],
-  "NotActions": [
-    "Microsoft.ModSimWorkbench/workbenches/chambers/fileRequests/manage/action",
-    "Microsoft.ModSimWorkbench/workbenches/chambers/connector/setCopyPaste/action"
-  ],
-  "DataActions": [
-    "Microsoft.ModSimWorkbench/workbenches/chambers/upload/action",
-    "Microsoft.ModSimWorkbench/workbenches/chambers/files/*"
-  ],
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

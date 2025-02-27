@@ -1,0 +1,20 @@
+{
+  "Name": "SSH PublicKeys Contributor Role",
+  "Id": "fc6e3395-6a8c-4527-bb4c-d0abd41e8e74",
+  "IsCustom": false,
+  "Description": "This is the role created for SSH PublicKeys Contributor",
+  "Actions": [
+    "Microsoft.Compute/sshpublickeys/read",
+    "Microsoft.Compute/sshpublickeys/write",
+    "Microsoft.Compute/sshpublickeys/delete",
+    "Microsoft.Compute/sshpublickeys/generatekeypair/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

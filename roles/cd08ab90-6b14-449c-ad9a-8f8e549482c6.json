@@ -15,7 +15,9 @@
     "Microsoft.Maintenance/configurationAssignments/maintenanceScope/InGuestPatch/delete",
     "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/read",
     "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/write",
-    "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/delete"
+    "Microsoft.Maintenance/maintenanceConfigurations/maintenanceScope/InGuestPatch/delete",
+    "Microsoft.Maintenance/applyUpdates/read",
+    "Microsoft.Maintenance/updates/read"
   ],
   "NotActions": [],
   "DataActions": [],

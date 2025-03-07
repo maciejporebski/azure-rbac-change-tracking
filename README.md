@@ -126,6 +126,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Fleet Manager RBAC Cluster Writer](roles/1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320.json) | [1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320](roles/1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320.json) |
 | [Azure Kubernetes Fleet Manager RBAC Reader](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) | [30b27cfc-9c84-438e-b0ce-70e35255df80](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) |
 | [Azure Kubernetes Fleet Manager RBAC Writer](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) | [5af6afb3-c06c-4fa4-8848-71a8aee05683](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) |
+| [Azure Kubernetes Service Agent Pool Manager Role](roles/1b7f3653-4324-473a-9165-bc55e4d04ba8.json) | [1b7f3653-4324-473a-9165-bc55e4d04ba8](roles/1b7f3653-4324-473a-9165-bc55e4d04ba8.json) |
 | [Azure Kubernetes Service Arc Cluster Admin Role](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) | [b29efa5f-7782-4dc3-9537-4d5bc70a5e9f](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) |
 | [Azure Kubernetes Service Arc Cluster User Role](roles/233ca253-b031-42ff-9fba-87ef12d6b55f.json) | [233ca253-b031-42ff-9fba-87ef12d6b55f](roles/233ca253-b031-42ff-9fba-87ef12d6b55f.json) |
 | [Azure Kubernetes Service Arc Contributor Role](roles/5d3f1697-4507-4d08-bb4a-477695db5f82.json) | [5d3f1697-4507-4d08-bb4a-477695db5f82](roles/5d3f1697-4507-4d08-bb4a-477695db5f82.json) |

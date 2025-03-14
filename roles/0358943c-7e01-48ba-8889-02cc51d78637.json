@@ -36,6 +36,10 @@
     "Microsoft.Network/virtualNetworks/read",
     "Microsoft.Network/virtualNetworks/subnets/join/action",
     "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/applicationSecurityGroups/joinNetworkSecurityRule/action",
+    "Microsoft.Network/loadBalancers/frontendIPConfigurations/join/action",
+    "Microsoft.Network/loadBalancers/inboundNATRules/join/action",
+    "Microsoft.Network/networkSecurityGroups/join/action",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],

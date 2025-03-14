@@ -14,7 +14,9 @@
     "Microsoft.Storage/storageAccounts/write",
     "Microsoft.Network/networkSecurityGroups/join/action",
     "Microsoft.Network/virtualNetworks/subnets/read",
-    "Microsoft.Network/virtualNetworks/subnets/write"
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/routeTables/join/action",
+    "Microsoft.Network/natGateways/join/action"
   ],
   "NotActions": [],
   "DataActions": [],

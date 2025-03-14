@@ -315,6 +315,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Lake Analytics Developer](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) | [47b7735b-770e-4598-a7da-8b91488b4c88](roles/47b7735b-770e-4598-a7da-8b91488b4c88.json) |
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
+| [Dedicated Host Contributor Role](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) | [96ebd254-ecc7-4590-aff5-e9af3ff5f3b3](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) |
 | [Defender CSPM Storage Data Scanner](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |

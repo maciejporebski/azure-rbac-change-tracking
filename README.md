@@ -415,13 +415,14 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [HDInsight on AKS Cluster Admin](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) | [fd036e6b-1266-47a0-b0bb-a05d04831731](roles/fd036e6b-1266-47a0-b0bb-a05d04831731.json) |
 | [HDInsight on AKS Cluster Operator](roles/bcf28286-af25-4c81-bb6f-351fcab5dbe9.json) | [bcf28286-af25-4c81-bb6f-351fcab5dbe9](roles/bcf28286-af25-4c81-bb6f-351fcab5dbe9.json) |
 | [HDInsight on AKS Cluster Pool Admin](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) | [7656b436-37d4-490a-a4ab-d39f838f0042](roles/7656b436-37d4-490a-a4ab-d39f838f0042.json) |
-| [Health Bot Admin](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) | [f1082fec-a70f-419f-9230-885d2550fb38](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) |
-| [Health Bot Editor](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) | [af854a69-80ce-4ff7-8447-f1118a2e0ca8](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) |
-| [Health Bot Reader](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) | [eb5a76d5-50e7-4c33-a449-070e7c9c4cf2](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) |
 | [Health Safeguards Data User](roles/566f0da3-e2a5-4393-9089-763f8bab8fb6.json) | [566f0da3-e2a5-4393-9089-763f8bab8fb6](roles/566f0da3-e2a5-4393-9089-763f8bab8fb6.json) |
+| [Healthcare Agent Admin](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) | [f1082fec-a70f-419f-9230-885d2550fb38](roles/f1082fec-a70f-419f-9230-885d2550fb38.json) |
+| [Healthcare Agent Editor](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) | [af854a69-80ce-4ff7-8447-f1118a2e0ca8](roles/af854a69-80ce-4ff7-8447-f1118a2e0ca8.json) |
+| [Healthcare Agent Reader](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) | [eb5a76d5-50e7-4c33-a449-070e7c9c4cf2](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
+| [HybridCompute Machine ListAccessDetails Action In-Built Role](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) | [e9701b4d-e6e7-4657-91cd-360a0881d224](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) |
 | [Impact Reader](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) | [68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) |
 | [Impact Reporter](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) | [36e80216-a7e8-4f42-a7e1-f12c98cbaf8a](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) |
 | [Integration Service Environment Contributor](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) | [a41e2c5b-bd99-4a07-88f4-9bf657a760b8](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) |

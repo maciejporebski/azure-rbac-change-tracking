@@ -223,8 +223,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [CDN Endpoint Reader](roles/871e35f6-b5c1-49cc-a043-bde969a0f2cd.json) | [871e35f6-b5c1-49cc-a043-bde969a0f2cd](roles/871e35f6-b5c1-49cc-a043-bde969a0f2cd.json) |
 | [CDN Profile Contributor](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) | [ec156ff8-a8d1-4d15-830c-5b80698ca432](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) |
 | [CDN Profile Reader](roles/8f96442b-4075-438f-813d-ad51ab4019af.json) | [8f96442b-4075-438f-813d-ad51ab4019af](roles/8f96442b-4075-438f-813d-ad51ab4019af.json) |
-| [Chamber Admin](roles/4e9b8407-af2e-495b-ae54-bb60a55b1b5a.json) | [4e9b8407-af2e-495b-ae54-bb60a55b1b5a](roles/4e9b8407-af2e-495b-ae54-bb60a55b1b5a.json) |
-| [Chamber User](roles/4447db05-44ed-4da3-ae60-6cbece780e32.json) | [4447db05-44ed-4da3-ae60-6cbece780e32](roles/4447db05-44ed-4da3-ae60-6cbece780e32.json) |
 | [Chaos Studio Experiment Contributor](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) | [7c2e40b7-25eb-482a-82cb-78ba06cb46d5](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) |
 | [Chaos Studio Operator](roles/1a40e87e-6645-48e0-b27a-0b115d849a20.json) | [1a40e87e-6645-48e0-b27a-0b115d849a20](roles/1a40e87e-6645-48e0-b27a-0b115d849a20.json) |
 | [Chaos Studio Reader](roles/29e2da8a-229c-4157-8ae8-cc72fc506b74.json) | [29e2da8a-229c-4157-8ae8-cc72fc506b74](roles/29e2da8a-229c-4157-8ae8-cc72fc506b74.json) |

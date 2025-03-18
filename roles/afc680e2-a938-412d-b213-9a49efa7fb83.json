@@ -4,6 +4,7 @@
   "IsCustom": false,
   "Description": "Provide permissions to backup identity to manage RPC snapshots",
   "Actions": [
+    "Microsoft.Authorization/*/read",
     "Microsoft.Compute/virtualMachines/read",
     "Microsoft.Compute/virtualMachines/write",
     "Microsoft.Compute/restorePointCollections/read",

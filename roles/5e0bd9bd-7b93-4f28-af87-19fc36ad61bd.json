@@ -22,7 +22,9 @@
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/extensions/chat/completions/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/embeddings/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/images/generations/action",
-    "Microsoft.CognitiveServices/accounts/OpenAI/assistants/*"
+    "Microsoft.CognitiveServices/accounts/OpenAI/video/generations/*/action",
+    "Microsoft.CognitiveServices/accounts/OpenAI/assistants/*",
+    "Microsoft.CognitiveServices/accounts/OpenAI/responses/*"
   ],
   "NotDataActions": [
     "Microsoft.CognitiveServices/accounts/OpenAI/stored-completions/read"

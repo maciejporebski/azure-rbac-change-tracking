@@ -1,0 +1,35 @@
+{
+  "Name": "AVS on Fleet VIS Role",
+  "Id": "49fc33c1-886f-4b21-a00e-1d9993234734",
+  "IsCustom": false,
+  "Description": "Do not remove this role from your resource because it is critical to enable your AVS private cloud to operate. If the role is removed, it will cause your AVS private cloud control plane to no longer operate correctly. The role is used to enable the AVS private cloud control plane to inject address prefix changes of the private clouds attached virtual network to SDN and support peering sync feature. This role is not intended for use cases outside of assignment to the associated AVS identity in your entra-id tenant.",
+  "Actions": [
+    "Microsoft.Network/networkInterfaces/read",
+    "Microsoft.Network/networkInterfaces/write",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/virtualNetworks/write",
+    "Microsoft.Network/virtualNetworks/peer/action",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/read",
+    "Microsoft.Network/virtualNetworks/virtualNetworkPeerings/write",
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/virtualNetworks/subnets/join/action",
+    "Microsoft.Network/networkSecurityGroups/join/action",
+    "Microsoft.Network/routeTables/join/action",
+    "Microsoft.Network/serviceEndpointPolicies/join/action",
+    "Microsoft.Network/natGateways/join/action",
+    "Microsoft.Network/networkIntentPolicies/join/action",
+    "Microsoft.Network/ddosProtectionPlans/join/action",
+    "Microsoft.Network/networkManagers/ipamPools/associateResourcesToPool/action",
+    "Microsoft.BareMetal/peeringSettings/read",
+    "Microsoft.Authorization/roleAssignments/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

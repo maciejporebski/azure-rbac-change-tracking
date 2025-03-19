@@ -1,0 +1,22 @@
+{
+  "Name": "Compute Fleet Contributor",
+  "Id": "2bed379c-9fba-455b-99e4-6b911073bcf2",
+  "IsCustom": false,
+  "Description": "Allows users to manage Compute Fleet resources.",
+  "Actions": [
+    "Microsoft.AzureFleet/fleets/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -7,7 +7,7 @@
     "Microsoft.ResourceHealth/availabilityStatuses/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Authorization/*/read",
-    "Microsoft.Insights/alertRules/",
+    "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*"
   ],
   "NotActions": [],

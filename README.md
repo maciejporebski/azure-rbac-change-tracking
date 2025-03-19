@@ -53,6 +53,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Autonomous Development Platform Data Reader (Preview)](roles/d63b75f7-47ea-4f27-92ac-e0d173aaf093.json) | [d63b75f7-47ea-4f27-92ac-e0d173aaf093](roles/d63b75f7-47ea-4f27-92ac-e0d173aaf093.json) |
 | [Avere Contributor](roles/4f8fab4f-1852-4a58-a46a-8eaf358af14a.json) | [4f8fab4f-1852-4a58-a46a-8eaf358af14a](roles/4f8fab4f-1852-4a58-a46a-8eaf358af14a.json) |
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
+| [AVS on Fleet VIS Role](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) | [49fc33c1-886f-4b21-a00e-1d9993234734](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) |
 | [AVS Orchestrator Role](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) | [d715fb95-a0f0-4f1c-8be6-5ad2d2767f67](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) |
 | [Azure AI Administrator](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) | [b78c5d69-af96-48a3-bf8d-a8b4d589de94](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
@@ -269,6 +270,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Community Owner Role](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) | [5e28a61e-8040-49db-b175-bb5b88af6239](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) |
 | [Community Reader Role](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) | [e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) |
 | [Compute Diagnostics Role](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) | [df2711a6-406d-41cf-b366-b0250bff9ad1](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) |
+| [Compute Fleet Contributor](roles/2bed379c-9fba-455b-99e4-6b911073bcf2.json) | [2bed379c-9fba-455b-99e4-6b911073bcf2](roles/2bed379c-9fba-455b-99e4-6b911073bcf2.json) |
 | [Compute Gallery Artifacts Publisher](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) | [85a2d0d9-2eba-4c9c-b355-11c2cc0788ab](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) |
 | [Compute Gallery Image Reader](roles/cf7c76d2-98a3-4358-a134-615aa78bf44d.json) | [cf7c76d2-98a3-4358-a134-615aa78bf44d](roles/cf7c76d2-98a3-4358-a134-615aa78bf44d.json) |
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |

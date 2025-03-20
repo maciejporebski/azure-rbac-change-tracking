@@ -1,0 +1,18 @@
+{
+  "Name": "Azure API Center Credential Access Reader",
+  "Id": "1df7cd83-1d3f-41df-95b0-53b30d963369",
+  "IsCustom": false,
+  "Description": "Allows for access to Azure API Center data plane get credentials operations.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ApiCenter/services/workspaces/apis/versions/securityRequirements/read",
+    "Microsoft.ApiCenter/services/workspaces/apis/versions/securityRequirements/getCredentials/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

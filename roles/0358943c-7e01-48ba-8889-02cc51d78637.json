@@ -32,8 +32,6 @@
     "Microsoft.Network/publicIPAddresses/read",
     "Microsoft.Network/publicIPAddresses/write",
     "Microsoft.Network/routeTables/read",
-    "Microsoft.Network/virtualNetworks/delete",
-    "Microsoft.Network/virtualNetworks/read",
     "Microsoft.Network/virtualNetworks/subnets/join/action",
     "Microsoft.Network/virtualNetworks/subnets/read",
     "Microsoft.Network/applicationSecurityGroups/joinNetworkSecurityRule/action",

@@ -1,0 +1,24 @@
+{
+  "Name": "Managed Identity Federated Identity Credential Contributor",
+  "Id": "7e559ce2-48d7-4b27-9128-fa1b247f1308",
+  "IsCustom": false,
+  "Description": "Create, Read, Update, and Delete User Assigned Identity Federated Identity Credentials(FIC)",
+  "Actions": [
+    "Microsoft.ManagedIdentity/userAssignedIdentities/read",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/write",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/read",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

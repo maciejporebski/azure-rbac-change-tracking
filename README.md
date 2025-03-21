@@ -485,6 +485,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Managed Applications Reader](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) | [b9331d33-8a36-4f8c-b097-4f54124fdb44](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) |
 | [Managed HSM contributor](roles/18500a29-7fe2-46b2-a342-b16a415e101d.json) | [18500a29-7fe2-46b2-a342-b16a415e101d](roles/18500a29-7fe2-46b2-a342-b16a415e101d.json) |
 | [Managed Identity Contributor](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) | [e40ec5ca-96e0-45a2-b4ff-59039f2c2b59](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) |
+| [Managed Identity Federated Identity Credential Contributor](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) | [7e559ce2-48d7-4b27-9128-fa1b247f1308](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) |
 | [Managed Identity Operator](roles/f1a07417-d97a-45cb-824c-7a7467783830.json) | [f1a07417-d97a-45cb-824c-7a7467783830](roles/f1a07417-d97a-45cb-824c-7a7467783830.json) |
 | [Managed Services Registration assignment Delete Role](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) | [91c1777a-f3dc-4fae-b103-61d183457e46](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) |
 | [Management Group Contributor](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) | [5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) |

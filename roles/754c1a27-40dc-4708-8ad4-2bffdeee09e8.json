@@ -1,0 +1,17 @@
+{
+  "Name": "Azure File Sync Reader",
+  "Id": "754c1a27-40dc-4708-8ad4-2bffdeee09e8",
+  "IsCustom": false,
+  "Description": "Provides read access to Azure File Sync service (Storage Sync Service).",
+  "Actions": [
+    "Microsoft.StorageSync/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

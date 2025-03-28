@@ -1,0 +1,27 @@
+{
+  "Name": "Azure File Sync Administrator",
+  "Id": "92b92042-07d9-4307-87f7-36a593fc5850",
+  "IsCustom": false,
+  "Description": "Provides full access to manage all Azure File Sync (Storage Sync Service) resources.",
+  "Actions": [
+    "Microsoft.StorageSync/register/action",
+    "Microsoft.StorageSync/unregister/action",
+    "Microsoft.StorageSync/locations/*",
+    "Microsoft.StorageSync/deployments/preflight/action",
+    "Microsoft.StorageSync/storageSyncServices/*",
+    "Microsoft.StorageSync/operations/read",
+    "Microsoft.Insights/AlertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/roleAssignments/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

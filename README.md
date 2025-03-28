@@ -114,6 +114,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
 | [Azure Event Hubs Data Sender](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) | [2b629674-e913-4c01-ae53-ef4638d8f975](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) |
 | [Azure Extension for SQL Server Deployment](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) | [7392c568-9289-4bde-aaaa-b7131215889d](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) |
+| [Azure File Sync Administrator](roles/92b92042-07d9-4307-87f7-36a593fc5850.json) | [92b92042-07d9-4307-87f7-36a593fc5850](roles/92b92042-07d9-4307-87f7-36a593fc5850.json) |
+| [Azure File Sync Reader](roles/754c1a27-40dc-4708-8ad4-2bffdeee09e8.json) | [754c1a27-40dc-4708-8ad4-2bffdeee09e8](roles/754c1a27-40dc-4708-8ad4-2bffdeee09e8.json) |
 | [Azure Front Door Domain Contributor](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) | [0ab34830-df19-4f8c-b84e-aa85b8afa6e8](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) |
 | [Azure Front Door Domain Reader](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) | [0f99d363-226e-4dca-9920-b807cf8e1a5f](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) |
 | [Azure Front Door Profile Reader](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) | [662802e2-50f6-46b0-aed2-e834bacc6d12](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) |
@@ -160,6 +162,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Red Hat OpenShift Disk Storage Operator](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
 | [Azure Red Hat OpenShift Federated Credential](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
 | [Azure Red Hat OpenShift File Storage Operator](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
+| [Azure Red Hat OpenShift Hosted Control Planes Cluster API Provider](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) | [88366f10-ed47-4cc0-9fab-c8a06148393e](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) |
 | [Azure Red Hat OpenShift Image Registry Operator](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
 | [Azure Red Hat OpenShift Machine API Operator](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
 | [Azure Red Hat OpenShift Network Operator](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |

@@ -114,6 +114,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
 | [Azure Event Hubs Data Sender](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) | [2b629674-e913-4c01-ae53-ef4638d8f975](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) |
 | [Azure Extension for SQL Server Deployment](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) | [7392c568-9289-4bde-aaaa-b7131215889d](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) |
+| [Azure File Sync Administrator](roles/92b92042-07d9-4307-87f7-36a593fc5850.json) | [92b92042-07d9-4307-87f7-36a593fc5850](roles/92b92042-07d9-4307-87f7-36a593fc5850.json) |
+| [Azure File Sync Reader](roles/754c1a27-40dc-4708-8ad4-2bffdeee09e8.json) | [754c1a27-40dc-4708-8ad4-2bffdeee09e8](roles/754c1a27-40dc-4708-8ad4-2bffdeee09e8.json) |
 | [Azure Front Door Domain Contributor](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) | [0ab34830-df19-4f8c-b84e-aa85b8afa6e8](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) |
 | [Azure Front Door Domain Reader](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) | [0f99d363-226e-4dca-9920-b807cf8e1a5f](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) |
 | [Azure Front Door Profile Reader](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) | [662802e2-50f6-46b0-aed2-e834bacc6d12](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) |
@@ -160,6 +162,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Red Hat OpenShift Disk Storage Operator](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
 | [Azure Red Hat OpenShift Federated Credential](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
 | [Azure Red Hat OpenShift File Storage Operator](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
+| [Azure Red Hat OpenShift Hosted Control Planes Cluster API Provider](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) | [88366f10-ed47-4cc0-9fab-c8a06148393e](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) |
 | [Azure Red Hat OpenShift Image Registry Operator](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
 | [Azure Red Hat OpenShift Machine API Operator](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
 | [Azure Red Hat OpenShift Network Operator](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
@@ -400,6 +403,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR Data Writer](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) | [3f88fce4-5892-4214-ae73-ba5294559913](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) |
 | [FHIR SMART User](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) | [4ba50f17-9666-485c-a643-ff00808643f0](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) |
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
+| [Flux Configurations Contributor](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) | [61eb6405-5f4a-440b-ad03-fe06c5c85e44](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |
@@ -518,8 +522,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Object Anchors Account Reader](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) | [4a167cdf-cb95-4554-9203-2347fe489bd9](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) |
 | [Object Understanding Account Owner](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) | [4dd61c23-6743-42fe-a388-d8bdd41cb745](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) |
 | [Object Understanding Account Reader](roles/d18777c0-1514-4662-8490-608db7d334b6.json) | [d18777c0-1514-4662-8490-608db7d334b6](roles/d18777c0-1514-4662-8490-608db7d334b6.json) |
+| [Online Experimentation Contributor](roles/2c7a01fe-5518-4a42-93c2-658e45441691.json) | [2c7a01fe-5518-4a42-93c2-658e45441691](roles/2c7a01fe-5518-4a42-93c2-658e45441691.json) |
 | [Online Experimentation Data Owner](roles/53747cdd-e97c-477a-948c-b587d0e514b2.json) | [53747cdd-e97c-477a-948c-b587d0e514b2](roles/53747cdd-e97c-477a-948c-b587d0e514b2.json) |
 | [Online Experimentation Data Reader](roles/1363e94d-546f-4fe9-8434-b0eefb292d59.json) | [1363e94d-546f-4fe9-8434-b0eefb292d59](roles/1363e94d-546f-4fe9-8434-b0eefb292d59.json) |
+| [Online Experimentation Reader](roles/58b80de8-4b34-424c-9e47-23faf0f7cfe2.json) | [58b80de8-4b34-424c-9e47-23faf0f7cfe2](roles/58b80de8-4b34-424c-9e47-23faf0f7cfe2.json) |
 | [Operator Nexus Compute Contributor Role (Preview)](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) | [4aa368ec-fba9-4e93-81ed-396b3d461cc5](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) |
 | [Operator Nexus Key Vault Writer Service Role (Preview)](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) | [44f0a1a8-6fea-4b35-980a-8ff50c487c97](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) |
 | [Operator Nexus Owner (Preview)](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) | [77be276d-fb44-4f3b-beb5-9bf03c4cd2d3](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) |

@@ -1,0 +1,17 @@
+{
+  "Name": "Online Experimentation Reader",
+  "Id": "58b80de8-4b34-424c-9e47-23faf0f7cfe2",
+  "IsCustom": false,
+  "Description": "Grants permission for read operations to Online Experimentation resources.",
+  "Actions": [
+    "Microsoft.OnlineExperimentation/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

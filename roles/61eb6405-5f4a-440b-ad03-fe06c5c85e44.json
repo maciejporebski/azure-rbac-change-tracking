@@ -1,0 +1,24 @@
+{
+  "Name": "Flux Configurations Contributor",
+  "Id": "61eb6405-5f4a-440b-ad03-fe06c5c85e44",
+  "IsCustom": false,
+  "Description": "Can create, update, get, list and delete Flux Configurations",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.KubernetesConfiguration/fluxConfigurations/write",
+    "Microsoft.KubernetesConfiguration/fluxConfigurations/read",
+    "Microsoft.KubernetesConfiguration/fluxConfigurations/delete",
+    "Microsoft.KubernetesConfiguration/fluxConfigurations/operations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

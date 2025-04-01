@@ -1,0 +1,17 @@
+{
+  "Name": "Online Experimentation Contributor",
+  "Id": "2c7a01fe-5518-4a42-93c2-658e45441691",
+  "IsCustom": false,
+  "Description": "Grants permissions for all management operations to Online Experimentation resources.",
+  "Actions": [
+    "Microsoft.OnlineExperimentation/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

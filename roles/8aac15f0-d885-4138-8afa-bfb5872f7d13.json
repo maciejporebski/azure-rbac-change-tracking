@@ -9,6 +9,7 @@
     "Microsoft.Advisor/triageRecommendations/approve/action",
     "Microsoft.Advisor/triageRecommendations/reject/action",
     "Microsoft.Advisor/triageRecommendations/reset/action",
+    "Microsoft.Advisor/triageResources/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",

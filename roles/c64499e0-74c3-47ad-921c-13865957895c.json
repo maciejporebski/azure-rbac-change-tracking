@@ -5,8 +5,7 @@
   "Description": "View reviews for a workload and recommendations linked to them.",
   "Actions": [
     "Microsoft.Advisor/resiliencyReviews/read",
-    "Microsoft.Advisor/triageRecommendations/read",
-    "Microsoft.Advisor/triageResources/read"
+    "Microsoft.Advisor/triageRecommendations/read"
   ],
   "NotActions": [],
   "DataActions": [],

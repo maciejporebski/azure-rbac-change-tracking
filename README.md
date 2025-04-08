@@ -532,6 +532,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Oracle Subscriptions Manager Built-in Role](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) | [4caf51ec-f9f5-413f-8a94-b9f5fddba66b](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) |
 | [Oracle.Database Autonomous Database Administrator](roles/59c05558-2358-462d-ba19-afbd7118936d.json) | [59c05558-2358-462d-ba19-afbd7118936d](roles/59c05558-2358-462d-ba19-afbd7118936d.json) |
 | [Oracle.Database Exadata Infrastructure Administrator Built-in Role](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) | [4cfdd23b-aece-4fd1-b614-ad3a06c53453](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) |
+| [Oracle.Database Exascale Storage Vault Administrator](roles/a00ed373-f085-4b75-a950-53eacdc52ac0.json) | [a00ed373-f085-4b75-a950-53eacdc52ac0](roles/a00ed373-f085-4b75-a950-53eacdc52ac0.json) |
 | [Oracle.Database Owner Built-in Role](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) | [4562aac9-b209-4bd7-a144-6d7f3bb516f4](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) |
 | [Oracle.Database Reader Built-in Role](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) | [d623d097-b882-4e1e-a26f-ac60e31065a1](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) |
 | [Oracle.Database VmCluster Administrator Built-in Role](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) | [e9ce8739-6fa2-4123-a0a2-0ef41a67806f](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) |

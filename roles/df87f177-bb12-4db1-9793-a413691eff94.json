@@ -1,0 +1,20 @@
+{
+  "Name": "Container Registry Cache Rule Administrator",
+  "Id": "df87f177-bb12-4db1-9793-a413691eff94",
+  "IsCustom": false,
+  "Description": "Create, Read, Update, and Delete Cache Rules in Container Registry. This role doesn't grant permissions to manage Credential Sets.",
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/cacheRules/read",
+    "Microsoft.ContainerRegistry/registries/cacheRules/write",
+    "Microsoft.ContainerRegistry/registries/cacheRules/delete",
+    "Microsoft.ContainerRegistry/registries/cacheRules/operationStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

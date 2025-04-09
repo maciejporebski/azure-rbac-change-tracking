@@ -1,0 +1,20 @@
+{
+  "Name": "Issue Contributor",
+  "Id": "8d7ecc5c-f27b-43cf-883f-46409d445502",
+  "IsCustom": false,
+  "Description": "Can read all issues data and update issues settings.",
+  "Actions": [
+    "Microsoft.AlertsManagement/Issues/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

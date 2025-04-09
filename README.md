@@ -292,8 +292,12 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
 | [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
 | [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |
+| [Container Registry Cache Rule Administrator](roles/df87f177-bb12-4db1-9793-a413691eff94.json) | [df87f177-bb12-4db1-9793-a413691eff94](roles/df87f177-bb12-4db1-9793-a413691eff94.json) |
+| [Container Registry Cache Rule Reader](roles/c357b964-0002-4b64-a50d-7a28f02edc52.json) | [c357b964-0002-4b64-a50d-7a28f02edc52](roles/c357b964-0002-4b64-a50d-7a28f02edc52.json) |
 | [Container Registry Configuration Reader and Data Access Configuration Reader](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) | [69b07be0-09bf-439a-b9a6-e73de851bd59](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) |
 | [Container Registry Contributor and Data Access Configuration Administrator](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) | [3bc748fc-213d-45c1-8d91-9da5725539b9](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) |
+| [Container Registry Credential Set Administrator](roles/f094fb07-0703-4400-ad6a-e16dd8000e14.json) | [f094fb07-0703-4400-ad6a-e16dd8000e14](roles/f094fb07-0703-4400-ad6a-e16dd8000e14.json) |
+| [Container Registry Credential Set Reader](roles/29093635-9924-4f2c-913b-650a12949526.json) | [29093635-9924-4f2c-913b-650a12949526](roles/29093635-9924-4f2c-913b-650a12949526.json) |
 | [Container Registry Data Importer and Data Reader](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) | [577a9874-89fd-4f24-9dbd-b5034d0ad23a](roles/577a9874-89fd-4f24-9dbd-b5034d0ad23a.json) |
 | [Container Registry Repository Catalog Lister](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) | [bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7](roles/bfdb9389-c9a5-478a-bb2f-ba9ca092c3c7.json) |
 | [Container Registry Repository Contributor](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) | [2efddaa5-3f1f-4df3-97df-af3f13818f4c](roles/2efddaa5-3f1f-4df3-97df-af3f13818f4c.json) |
@@ -438,6 +442,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [IoT Hub Registry Contributor](roles/4ea46cd5-c1b2-4a8e-910b-273211f9ce47.json) | [4ea46cd5-c1b2-4a8e-910b-273211f9ce47](roles/4ea46cd5-c1b2-4a8e-910b-273211f9ce47.json) |
 | [IoT Hub Twin Contributor](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) | [494bdba2-168f-4f31-a0a1-191d2f7c028c](roles/494bdba2-168f-4f31-a0a1-191d2f7c028c.json) |
 | [IPAM Pool User](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) | [7b3e853f-ad5d-4fb5-a7b8-56a3581c7037](roles/7b3e853f-ad5d-4fb5-a7b8-56a3581c7037.json) |
+| [Issue Contributor](roles/8d7ecc5c-f27b-43cf-883f-46409d445502.json) | [8d7ecc5c-f27b-43cf-883f-46409d445502](roles/8d7ecc5c-f27b-43cf-883f-46409d445502.json) |
 | [Key Vault Administrator](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) | [00482a5a-887f-4fb3-b363-3b7fe8e74483](roles/00482a5a-887f-4fb3-b363-3b7fe8e74483.json) |
 | [Key Vault Certificate User](roles/db79e9a7-68ee-4b58-9aeb-b90e7c24fcba.json) | [db79e9a7-68ee-4b58-9aeb-b90e7c24fcba](roles/db79e9a7-68ee-4b58-9aeb-b90e7c24fcba.json) |
 | [Key Vault Certificates Officer](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) | [a4417e6f-fecd-4de8-b567-7b0420556985](roles/a4417e6f-fecd-4de8-b567-7b0420556985.json) |

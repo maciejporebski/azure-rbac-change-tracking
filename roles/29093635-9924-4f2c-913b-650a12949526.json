@@ -1,0 +1,17 @@
+{
+  "Name": "Container Registry Credential Set Reader",
+  "Id": "29093635-9924-4f2c-913b-650a12949526",
+  "IsCustom": false,
+  "Description": "Read the configuration of Credential Sets in Container Registry. This permission doesn't allow permission to see content inside Azure Key vault only the content inside Container Registry. This permission doesn't grant permission to read Cache Rules.",
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/credentialSets/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

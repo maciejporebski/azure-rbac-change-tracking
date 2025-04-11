@@ -1,0 +1,21 @@
+{
+  "Name": "Power Platform Enterprise Policy Contributor",
+  "Id": "babe7770-cdbc-4f46-9bd7-b90b34842946",
+  "IsCustom": false,
+  "Description": "Create, Read, Update, and Delete Power Platform Enterprise Policy resources",
+  "Actions": [
+    "Microsoft.PowerPlatform/enterprisePolicies/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

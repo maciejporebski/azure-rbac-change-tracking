@@ -1,0 +1,21 @@
+{
+  "Name": "Power Platform Account Contributor",
+  "Id": "2593f4c7-8bf4-4fff-9804-2ee069b41902",
+  "IsCustom": false,
+  "Description": "Create, Read, Update, and Delete Power Platform Account resources",
+  "Actions": [
+    "Microsoft.PowerPlatform/accounts/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

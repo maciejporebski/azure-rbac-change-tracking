@@ -538,6 +538,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Oracle.Database Autonomous Database Administrator](roles/59c05558-2358-462d-ba19-afbd7118936d.json) | [59c05558-2358-462d-ba19-afbd7118936d](roles/59c05558-2358-462d-ba19-afbd7118936d.json) |
 | [Oracle.Database Exadata Infrastructure Administrator Built-in Role](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) | [4cfdd23b-aece-4fd1-b614-ad3a06c53453](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) |
 | [Oracle.Database Exascale Storage Vault Administrator](roles/a00ed373-f085-4b75-a950-53eacdc52ac0.json) | [a00ed373-f085-4b75-a950-53eacdc52ac0](roles/a00ed373-f085-4b75-a950-53eacdc52ac0.json) |
+| [Oracle.Database Exascale VmCluster Administrator](roles/0869d06d-e3d1-4472-8764-1bb71b2bdaf7.json) | [0869d06d-e3d1-4472-8764-1bb71b2bdaf7](roles/0869d06d-e3d1-4472-8764-1bb71b2bdaf7.json) |
 | [Oracle.Database Owner Built-in Role](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) | [4562aac9-b209-4bd7-a144-6d7f3bb516f4](roles/4562aac9-b209-4bd7-a144-6d7f3bb516f4.json) |
 | [Oracle.Database Reader Built-in Role](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) | [d623d097-b882-4e1e-a26f-ac60e31065a1](roles/d623d097-b882-4e1e-a26f-ac60e31065a1.json) |
 | [Oracle.Database VmCluster Administrator Built-in Role](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) | [e9ce8739-6fa2-4123-a0a2-0ef41a67806f](roles/e9ce8739-6fa2-4123-a0a2-0ef41a67806f.json) |
@@ -547,8 +548,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
 | [Portal Dashboard Writer Service Role](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) | [78eacb5e-e318-4560-85a9-e6a724ca60c9](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) |
 | [PostgreSQL Flexible Server Long Term Retention Backup Role](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) | [c088a766-074b-43ba-90d4-1fb21feae531](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) |
-| [Power Platform Account Contributor](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) | [2593f4c7-8bf4-4fff-9804-2ee069b41902](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) |
-| [Power Platform Enterprise Policy Contributor](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) | [babe7770-cdbc-4f46-9bd7-b90b34842946](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) |
 | [Private DNS Zone Contributor](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) | [b12aa53e-6015-4669-85d0-8515ebb3ae7f](roles/b12aa53e-6015-4669-85d0-8515ebb3ae7f.json) |
 | [Procurement Contributor](roles/be1a1ac2-09d3-4261-9e57-a73a6e227f53.json) | [be1a1ac2-09d3-4261-9e57-a73a6e227f53](roles/be1a1ac2-09d3-4261-9e57-a73a6e227f53.json) |
 | [Project Babylon Data Curator](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) | [9ef4ef9c-a049-46b0-82ab-dd8ac094c889](roles/9ef4ef9c-a049-46b0-82ab-dd8ac094c889.json) |

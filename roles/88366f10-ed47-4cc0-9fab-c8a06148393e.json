@@ -6,7 +6,13 @@
   "Actions": [
     "Microsoft.Compute/disks/delete",
     "Microsoft.Compute/disks/read",
-    "Microsoft.Compute/disks/write"
+    "Microsoft.Compute/disks/write",
+    "Microsoft.Compute/availabilitySets/delete",
+    "Microsoft.Compute/availabilitySets/read",
+    "Microsoft.Compute/availabilitySets/write",
+    "Microsoft.Compute/virtualMachines/delete",
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.Compute/virtualMachines/write"
   ],
   "NotActions": [],
   "DataActions": [],

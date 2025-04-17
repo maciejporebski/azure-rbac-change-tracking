@@ -40,8 +40,6 @@
     "Microsoft.Search/searchServices/read",
     "Microsoft.Search/searchServices/delete",
     "Microsoft.Search/searchServices/indexes/*",
-    "Microsoft.Search/searchServices/listAdminKeys/action",
-    "Microsoft.Search/searchServices/privateEndpointConnections/*",
     "Microsoft.DataFactory/factories/*"
   ],
   "NotActions": [],

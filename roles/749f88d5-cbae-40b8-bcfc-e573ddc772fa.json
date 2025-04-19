@@ -7,6 +7,7 @@
     "*/read",
     "Microsoft.AlertsManagement/alerts/*",
     "Microsoft.AlertsManagement/alertsSummary/*",
+    "Microsoft.AlertsManagement/issues/*",
     "Microsoft.Insights/actiongroups/*",
     "Microsoft.Insights/activityLogAlerts/*",
     "Microsoft.Insights/AlertRules/*",

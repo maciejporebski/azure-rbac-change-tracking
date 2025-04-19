@@ -2,7 +2,7 @@
   "Name": "App Compliance Automation Administrator",
   "Id": "0f37683f-2463-46b6-9ce7-9b788b988ba2",
   "IsCustom": false,
-  "Description": "Create, read, download, modify and delete reports objects and related other resource objects.",
+  "Description": "Allows managing App Compliance Automation tool for Microsoft 365",
   "Actions": [
     "Microsoft.AppComplianceAutomation/*",
     "Microsoft.Storage/storageAccounts/blobServices/write",

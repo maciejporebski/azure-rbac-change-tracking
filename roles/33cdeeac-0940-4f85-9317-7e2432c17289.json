@@ -1,0 +1,21 @@
+{
+  "Name": "Usage Billing Contributor",
+  "Id": "33cdeeac-0940-4f85-9317-7e2432c17289",
+  "IsCustom": false,
+  "Description": "Contributor access to Accounts",
+  "Actions": [
+    "Microsoft.UsageBilling/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

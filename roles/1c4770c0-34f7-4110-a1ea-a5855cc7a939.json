@@ -10,6 +10,7 @@
     "Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots/write",
     "Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots/delete",
     "Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots/beginGetAccess/action",
+    "Microsoft.ElasticSan/elasticSans/volumeGroups/preBackup/action",
     "Microsoft.ElasticSan/locations/*",
     "Microsoft.Compute/locations/*",
     "Microsoft.Compute/disks/read",

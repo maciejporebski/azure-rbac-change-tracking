@@ -10,14 +10,12 @@
     "Microsoft.StorageSync/deployments/preflight/action",
     "Microsoft.StorageSync/storageSyncServices/*",
     "Microsoft.StorageSync/operations/read",
-    "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Insights/AlertRules/*",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Storage/storageAccounts/read",
-    "Microsoft.Storage/storageAccounts/fileServices/shares/read",
-    "Microsoft.Storage/storageAccounts/fileServices/read",
-    "Microsoft.Support/*"
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Storage/storageAccounts/read"
   ],
   "NotActions": [],
   "DataActions": [],

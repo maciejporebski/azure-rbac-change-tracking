@@ -650,7 +650,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Transparency Logs Owner](roles/8ad4d0ee-9bfb-49e8-93fc-01abb8db6240.json) | [8ad4d0ee-9bfb-49e8-93fc-01abb8db6240](roles/8ad4d0ee-9bfb-49e8-93fc-01abb8db6240.json) |
 | [Trusted Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
 | [Trusted Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
-| [Usage Billing Contributor](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) | [33cdeeac-0940-4f85-9317-7e2432c17289](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |
 | [Video Indexer Restricted Viewer](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) | [a2c4a527-7dc0-4ee3-897b-403ade70fafb](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |

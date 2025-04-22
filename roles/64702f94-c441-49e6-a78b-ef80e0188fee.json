@@ -27,7 +27,8 @@
   "DataActions": [
     "Microsoft.CognitiveServices/accounts/OpenAI/*",
     "Microsoft.CognitiveServices/accounts/SpeechServices/*",
-    "Microsoft.CognitiveServices/accounts/ContentSafety/*"
+    "Microsoft.CognitiveServices/accounts/ContentSafety/*",
+    "Microsoft.CognitiveServices/accounts/MaaS/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

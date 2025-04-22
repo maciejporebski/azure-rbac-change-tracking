@@ -10,7 +10,9 @@
     "Microsoft.ApiManagement/service/workspaces/groups/*",
     "Microsoft.ApiManagement/service/workspaces/tags/*",
     "Microsoft.ApiManagement/service/workspaces/notifications/*",
-    "Microsoft.Authorization/*/read"
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/diagnosticSettings/*/read",
+    "Microsoft.insights/logs/*/read"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -1,0 +1,21 @@
+{
+  "Name": "Workload Orchestration Solution External Validator",
+  "Id": "db9875ba-bd2b-4e98-934d-0daa549a07f0",
+  "IsCustom": false,
+  "Description": "Grants you access to fetch targets, solution templates, solutions and update the external validation status",
+  "Actions": [
+    "Microsoft.Edge/targets/read",
+    "Microsoft.Edge/solutionTemplates/read",
+    "Microsoft.Edge/solutionTemplates/versions/read",
+    "Microsoft.Edge/targets/solutions/versions/read",
+    "Microsoft.Edge/targets/updateExternalValidationStatus/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

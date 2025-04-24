@@ -59,6 +59,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure AI Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure API Center Compliance Manager](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) | [ede9aaa3-4627-494e-be13-4aa7c256148d](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) |
 | [Azure API Center Credential Access Reader](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) | [1df7cd83-1d3f-41df-95b0-53b30d963369](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) |
@@ -650,6 +651,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Transparency Logs Owner](roles/8ad4d0ee-9bfb-49e8-93fc-01abb8db6240.json) | [8ad4d0ee-9bfb-49e8-93fc-01abb8db6240](roles/8ad4d0ee-9bfb-49e8-93fc-01abb8db6240.json) |
 | [Trusted Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
 | [Trusted Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
+| [Usage Billing Contributor](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) | [33cdeeac-0940-4f85-9317-7e2432c17289](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |
 | [Video Indexer Restricted Viewer](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) | [a2c4a527-7dc0-4ee3-897b-403ade70fafb](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |
@@ -669,6 +671,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Windows365SubscriptionReader](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) | [3d55a8f6-4133-418d-8051-facdb1735758](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) |
 | [Workbook Contributor](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) | [e8ddcd69-c73f-4f9f-9844-4100522f16ad](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) |
 | [Workbook Reader](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) | [b279062a-9be3-42a0-92ae-8b3cf002ec4d](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) |
+| [Workload Orchestration Solution External Validator](roles/db9875ba-bd2b-4e98-934d-0daa549a07f0.json) | [db9875ba-bd2b-4e98-934d-0daa549a07f0](roles/db9875ba-bd2b-4e98-934d-0daa549a07f0.json) |
 | [WorkloadBuilder Migration Agent Role](roles/d17ce0a2-0697-43bc-aac5-9113337ab61c.json) | [d17ce0a2-0697-43bc-aac5-9113337ab61c](roles/d17ce0a2-0697-43bc-aac5-9113337ab61c.json) |
 
 

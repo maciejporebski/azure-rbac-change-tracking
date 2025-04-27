@@ -1,0 +1,18 @@
+{
+  "Name": "Agentless scanning for Serverless Scanner Service Role",
+  "Id": "68ac31b4-936a-4046-a6d2-ba6f8a757bf6",
+  "IsCustom": false,
+  "Description": "Grants access to Serverless resources and thier connections",
+  "Actions": [
+    "microsoft.web/sites/publish/action",
+    "microsoft.web/sites/slots/publish/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -10,11 +10,7 @@
     "Microsoft.HybridCompute/settings/write",
     "Microsoft.HybridCompute/gateways/read",
     "Microsoft.HybridCompute/privateLinkScopes/read",
-    "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
-    "Microsoft.Insights/dataCollectionRuleAssociations/write",
-    "Microsoft.Insights/dataCollectionRuleAssociations/delete",
-    "Microsoft.Insights/dataCollectionRuleAssociations/read",
-    "Microsoft.HybridCompute/machines/addExtensions/action"
+    "Microsoft.GuestConfiguration/guestConfigurationAssignments/read"
   ],
   "NotActions": [],
   "DataActions": [],

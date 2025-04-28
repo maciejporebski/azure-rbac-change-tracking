@@ -9,11 +9,7 @@
     "Microsoft.ContainerRegistry/registries/pull/read"
   ],
   "NotActions": [],
-  "DataActions": [
-    "Microsoft.ContainerRegistry/registries/repositories/content/read",
-    "Microsoft.ContainerRegistry/registries/repositories/metadata/read",
-    "Microsoft.ContainerRegistry/registries/catalog/read"
-  ],
+  "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

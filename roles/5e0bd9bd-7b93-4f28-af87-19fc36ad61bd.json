@@ -23,6 +23,7 @@
     "Microsoft.CognitiveServices/accounts/OpenAI/deployments/embeddings/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/images/generations/action",
     "Microsoft.CognitiveServices/accounts/OpenAI/video/generations/*/action",
+    "Microsoft.CognitiveServices/accounts/OpenAI/video/generations/*/delete",
     "Microsoft.CognitiveServices/accounts/OpenAI/assistants/*",
     "Microsoft.CognitiveServices/accounts/OpenAI/responses/*"
   ],

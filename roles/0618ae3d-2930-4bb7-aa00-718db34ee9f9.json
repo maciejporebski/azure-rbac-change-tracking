@@ -1,0 +1,28 @@
+{
+  "Name": "Azure Monitor Dashboards with Grafana Contributor",
+  "Id": "0618ae3d-2930-4bb7-aa00-718db34ee9f9",
+  "IsCustom": false,
+  "Description": "Can manage dashboards with Grafana.",
+  "Actions": [
+    "Microsoft.Dashboard/dashboards/read",
+    "Microsoft.Dashboard/dashboards/write",
+    "Microsoft.Dashboard/dashboards/delete",
+    "Microsoft.Dashboard/locations/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/deployments/delete",
+    "Microsoft.Resources/deployments/cancel/action",
+    "Microsoft.Resources/deployments/validate/action",
+    "Microsoft.Resources/deployments/whatIf/action",
+    "Microsoft.Resources/deployments/exportTemplate/action",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

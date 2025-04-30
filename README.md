@@ -56,6 +56,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
 | [AVS on Fleet VIS Role](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) | [49fc33c1-886f-4b21-a00e-1d9993234734](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) |
 | [AVS Orchestrator Role](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) | [d715fb95-a0f0-4f1c-8be6-5ad2d2767f67](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) |
+| [Azure AI Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
 | [Azure AI Administrator](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) | [b78c5d69-af96-48a3-bf8d-a8b4d589de94](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
@@ -157,6 +158,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Maps Search and Render Data Reader](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) | [6be48352-4f82-47c9-ad5e-0acacefdb005](roles/6be48352-4f82-47c9-ad5e-0acacefdb005.json) |
 | [Azure Messaging Catalog Data Owner](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) | [f27b7598-bc64-41f7-8a44-855ff16326c2](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) |
 | [Azure Messaging Connectors Owner](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) | [ff478a4e-8633-416e-91bc-ec33ce7c9516](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) |
+| [Azure Monitor Dashboards with Grafana Contributor](roles/0618ae3d-2930-4bb7-aa00-718db34ee9f9.json) | [0618ae3d-2930-4bb7-aa00-718db34ee9f9](roles/0618ae3d-2930-4bb7-aa00-718db34ee9f9.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure Red Hat OpenShift Cloud Controller Manager](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |

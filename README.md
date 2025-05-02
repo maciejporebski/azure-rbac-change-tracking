@@ -63,6 +63,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
 | [Azure AI Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
+| [Azure AI User](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) | [53ca6127-db72-4b80-b1b0-d745d6d5456d](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) |
 | [Azure API Center Compliance Manager](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) | [ede9aaa3-4627-494e-be13-4aa7c256148d](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) |
 | [Azure API Center Credential Access Reader](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) | [1df7cd83-1d3f-41df-95b0-53b30d963369](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) |
 | [Azure API Center Data Reader](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) | [c7244dfb-f447-457d-b2ba-3999044d1706](roles/c7244dfb-f447-457d-b2ba-3999044d1706.json) |
@@ -167,6 +168,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Red Hat OpenShift Federated Credential](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
 | [Azure Red Hat OpenShift File Storage Operator](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
 | [Azure Red Hat OpenShift Hosted Control Planes Cluster API Provider](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) | [88366f10-ed47-4cc0-9fab-c8a06148393e](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) |
+| [Azure Red Hat OpenShift Hosted Control Planes Control Plane Operator](roles/fc0c873f-45e9-4d0d-a7d1-585aab30c6ed.json) | [fc0c873f-45e9-4d0d-a7d1-585aab30c6ed](roles/fc0c873f-45e9-4d0d-a7d1-585aab30c6ed.json) |
+| [Azure Red Hat OpenShift Hosted Control Planes Service Managed Identity](roles/c0ff367d-66d8-445e-917c-583feb0ef0d4.json) | [c0ff367d-66d8-445e-917c-583feb0ef0d4](roles/c0ff367d-66d8-445e-917c-583feb0ef0d4.json) |
 | [Azure Red Hat OpenShift Image Registry Operator](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) | [8b32b316-c2f5-4ddf-b05b-83dacd2d08b5](roles/8b32b316-c2f5-4ddf-b05b-83dacd2d08b5.json) |
 | [Azure Red Hat OpenShift Machine API Operator](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) | [0358943c-7e01-48ba-8889-02cc51d78637](roles/0358943c-7e01-48ba-8889-02cc51d78637.json) |
 | [Azure Red Hat OpenShift Network Operator](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) | [be7a6435-15ae-4171-8f30-4a343eff9e8f](roles/be7a6435-15ae-4171-8f30-4a343eff9e8f.json) |
@@ -495,7 +498,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Logic Apps Standard Reader (Preview)](roles/4accf36b-2c05-432f-91c8-5c532dff4c73.json) | [4accf36b-2c05-432f-91c8-5c532dff4c73](roles/4accf36b-2c05-432f-91c8-5c532dff4c73.json) |
 | [Managed Application Contributor Role](roles/641177b8-a67a-45b9-a033-47bc880bb21e.json) | [641177b8-a67a-45b9-a033-47bc880bb21e](roles/641177b8-a67a-45b9-a033-47bc880bb21e.json) |
 | [Managed Application Operator Role](roles/c7393b34-138c-406f-901b-d8cf2b17e6ae.json) | [c7393b34-138c-406f-901b-d8cf2b17e6ae](roles/c7393b34-138c-406f-901b-d8cf2b17e6ae.json) |
-| [Managed Applications Reader](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) | [b9331d33-8a36-4f8c-b097-4f54124fdb44](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) |
+| [Managed Application Publisher Operator](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) | [b9331d33-8a36-4f8c-b097-4f54124fdb44](roles/b9331d33-8a36-4f8c-b097-4f54124fdb44.json) |
 | [Managed HSM contributor](roles/18500a29-7fe2-46b2-a342-b16a415e101d.json) | [18500a29-7fe2-46b2-a342-b16a415e101d](roles/18500a29-7fe2-46b2-a342-b16a415e101d.json) |
 | [Managed Identity Contributor](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) | [e40ec5ca-96e0-45a2-b4ff-59039f2c2b59](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) |
 | [Managed Identity Federated Identity Credential Contributor](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) | [7e559ce2-48d7-4b27-9128-fa1b247f1308](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) |
@@ -579,12 +582,13 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Scheduled Events Contributor](roles/b67fe603-310e-4889-b9ee-8257d09d353d.json) | [b67fe603-310e-4889-b9ee-8257d09d353d](roles/b67fe603-310e-4889-b9ee-8257d09d353d.json) |
 | [Scheduled Patching Contributor](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) | [cd08ab90-6b14-449c-ad9a-8f8e549482c6](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) |
 | [Scheduler Job Collections Contributor](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) | [188a0f2f-5c9e-469b-ae67-2aa5ce574b94](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) |
-| [Schema Registry Contributor (Preview)](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) | [5dffeca3-4936-4216-b2bc-10343a5abb25](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) |
-| [Schema Registry Reader (Preview)](roles/2c56ea50-c6b3-40a6-83c0-9d98858bc7d2.json) | [2c56ea50-c6b3-40a6-83c0-9d98858bc7d2](roles/2c56ea50-c6b3-40a6-83c0-9d98858bc7d2.json) |
+| [Schema Registry Contributor](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) | [5dffeca3-4936-4216-b2bc-10343a5abb25](roles/5dffeca3-4936-4216-b2bc-10343a5abb25.json) |
+| [Schema Registry Reader](roles/2c56ea50-c6b3-40a6-83c0-9d98858bc7d2.json) | [2c56ea50-c6b3-40a6-83c0-9d98858bc7d2](roles/2c56ea50-c6b3-40a6-83c0-9d98858bc7d2.json) |
 | [Search Index Data Contributor](roles/8ebe5a00-799e-43f5-93ac-243d3dce84a7.json) | [8ebe5a00-799e-43f5-93ac-243d3dce84a7](roles/8ebe5a00-799e-43f5-93ac-243d3dce84a7.json) |
 | [Search Index Data Reader](roles/1407120a-92aa-4202-b7e9-c0e197c71c8f.json) | [1407120a-92aa-4202-b7e9-c0e197c71c8f](roles/1407120a-92aa-4202-b7e9-c0e197c71c8f.json) |
 | [Search Parameter Manager](roles/a02f7c31-354d-4106-865a-deedf37fa038.json) | [a02f7c31-354d-4106-865a-deedf37fa038](roles/a02f7c31-354d-4106-865a-deedf37fa038.json) |
 | [Search Service Contributor](roles/7ca78c08-252a-4471-8644-bb5ff32d4ba0.json) | [7ca78c08-252a-4471-8644-bb5ff32d4ba0](roles/7ca78c08-252a-4471-8644-bb5ff32d4ba0.json) |
+| [Secrets Store Extension Owner](roles/5c227a58-cff3-4b51-9fa3-51bdafb6ca55.json) | [5c227a58-cff3-4b51-9fa3-51bdafb6ca55](roles/5c227a58-cff3-4b51-9fa3-51bdafb6ca55.json) |
 | [Security Admin](roles/fb1c8493-542b-48eb-b624-b4c8fea62acd.json) | [fb1c8493-542b-48eb-b624-b4c8fea62acd](roles/fb1c8493-542b-48eb-b624-b4c8fea62acd.json) |
 | [Security Assessment Contributor](roles/612c2aa1-cb24-443b-ac28-3ab7272de6f5.json) | [612c2aa1-cb24-443b-ac28-3ab7272de6f5](roles/612c2aa1-cb24-443b-ac28-3ab7272de6f5.json) |
 | [Security Detonation Chamber Publisher](roles/352470b3-6a9c-4686-b503-35deb827e500.json) | [352470b3-6a9c-4686-b503-35deb827e500](roles/352470b3-6a9c-4686-b503-35deb827e500.json) |

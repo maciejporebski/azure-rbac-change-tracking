@@ -12,7 +12,13 @@
     "Microsoft.Compute/availabilitySets/write",
     "Microsoft.Compute/virtualMachines/delete",
     "Microsoft.Compute/virtualMachines/read",
-    "Microsoft.Compute/virtualMachines/write"
+    "Microsoft.Compute/virtualMachines/write",
+    "Microsoft.Network/loadBalancers/backendAddressPools/join/action",
+    "Microsoft.Network/networkInterfaces/delete",
+    "Microsoft.Network/networkInterfaces/join/action",
+    "Microsoft.Network/networkInterfaces/read",
+    "Microsoft.Network/networkInterfaces/write",
+    "Microsoft.Network/virtualNetworks/subnets/join/action"
   ],
   "NotActions": [],
   "DataActions": [],

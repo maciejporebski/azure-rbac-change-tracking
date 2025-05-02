@@ -1,0 +1,25 @@
+{
+  "Name": "Azure Red Hat OpenShift Hosted Control Planes Service Managed Identity",
+  "Id": "c0ff367d-66d8-445e-917c-583feb0ef0d4",
+  "IsCustom": false,
+  "Description": "Azure Red Hat OpenShift Hosted Control Planes Service Managed Identity",
+  "Actions": [
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/routeTables/read",
+    "Microsoft.Network/routeTables/join/action",
+    "Microsoft.Network/natGateways/read",
+    "Microsoft.Network/natGateways/join/action",
+    "Microsoft.Network/networkSecurityGroups/read",
+    "Microsoft.Network/networkSecurityGroups/join/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

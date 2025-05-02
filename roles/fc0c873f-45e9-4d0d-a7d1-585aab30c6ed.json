@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Red Hat OpenShift Hosted Control Planes Control Plane Operator",
+  "Id": "fc0c873f-45e9-4d0d-a7d1-585aab30c6ed",
+  "IsCustom": false,
+  "Description": "Enables the control plane operator to read resources necessary for OpenShift cluster.",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/networkSecurityGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

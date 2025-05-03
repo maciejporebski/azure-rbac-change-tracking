@@ -1,0 +1,23 @@
+{
+  "Name": "Azure Kubernetes Fleet Manager Hub Agent Role",
+  "Id": "de2b316d-7a2c-4143-b4cd-c148f6a355a1",
+  "IsCustom": false,
+  "Description": "Grants read access to Azure network resources needed by Azure Kubernetes Fleet Manager.",
+  "Actions": [
+    "Microsoft.Network/publicIPAddresses/read",
+    "Microsoft.Network/trafficManagerProfiles/read",
+    "Microsoft.Network/trafficManagerProfiles/write",
+    "Microsoft.Network/trafficManagerProfiles/delete",
+    "Microsoft.Network/trafficManagerProfiles/azureEndpoints/read",
+    "Microsoft.Network/trafficManagerProfiles/azureEndpoints/write",
+    "Microsoft.Network/trafficManagerProfiles/azureEndpoints/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -128,7 +128,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Hybrid Database Administrator - Read Only Service Role](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) | [5d9c6a55-fc0e-4e21-ae6f-f7b095497342](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) |
 | [Azure impact-insight reader](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) | [dfb2f09d-25f8-4558-8986-497084006d7a](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) |
 | [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
-| [Azure Kubernetes Fleet Manager Hub Agent Role](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) | [de2b316d-7a2c-4143-b4cd-c148f6a355a1](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) |
 | [Azure Kubernetes Fleet Manager RBAC Admin](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) | [434fb43a-c01c-447e-9f67-c3ad923cfaba](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Admin](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) | [18ab4d3d-a1bf-4477-8ad9-8359bc988f69](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Reader](roles/bd80684d-2f5f-4130-892a-0955546282de.json) | [bd80684d-2f5f-4130-892a-0955546282de](roles/bd80684d-2f5f-4130-892a-0955546282de.json) |

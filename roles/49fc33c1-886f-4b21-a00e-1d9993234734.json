@@ -22,6 +22,7 @@
     "Microsoft.Network/ddosProtectionPlans/join/action",
     "Microsoft.Network/networkManagers/ipamPools/associateResourcesToPool/action",
     "Microsoft.BareMetal/peeringSettings/read",
+    "Microsoft.Resources/subscriptions/resourcegroups/read",
     "Microsoft.Authorization/roleAssignments/delete"
   ],
   "NotActions": [],

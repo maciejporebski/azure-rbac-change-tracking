@@ -9,7 +9,6 @@
     "Microsoft.Network/virtualNetworks/read",
     "Microsoft.Network/virtualNetworks/subnets/join/action",
     "Microsoft.Network/loadBalancers/backendAddressPools/join/action",
-    "Microsoft.Network/loadBalancers/backendAddressPools/read",
     "Microsoft.Compute/virtualMachines/read"
   ],
   "NotActions": [],

@@ -101,12 +101,7 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.AzureStackHCI/StorageContainers/Write",
     "Microsoft.AzureStackHCI/StorageContainers/Read",
-    "Microsoft.HybridContainerService/register/action",
-    "Microsoft.HybridCompute/settings/write",
-    "Microsoft.HybridCompute/settings/read",
-    "Microsoft.HybridCompute/gateways/read",
-    "Microsoft.HybridCompute/gateways/write",
-    "Microsoft.HybridCompute/gateways/delete"
+    "Microsoft.HybridContainerService/register/action"
   ],
   "NotActions": [],
   "DataActions": [],

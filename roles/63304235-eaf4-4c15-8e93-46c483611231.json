@@ -1,0 +1,20 @@
+{
+  "Name": "Workload Orchestration IT Admin",
+  "Id": "63304235-eaf4-4c15-8e93-46c483611231",
+  "IsCustom": false,
+  "Description": "Grants you access to manage the IT Admin operations for Workload Orchestration",
+  "Actions": [
+    "Microsoft.Edge/contexts/eventGridFilters/delete",
+    "Microsoft.Edge/contexts/eventGridFilters/read",
+    "Microsoft.Edge/contexts/eventGridFilters/write",
+    "Microsoft.Edge/contexts/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

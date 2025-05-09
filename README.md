@@ -42,6 +42,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |
 | [Application Insights Component Contributor](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) | [ae349356-3a1b-4a5e-921d-050484c6347e](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) |
 | [Application Insights Snapshot Debugger](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) | [08954f03-6346-4c2e-81c0-ec3a5cfae23b](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) |
+| [Arc Gateway Manager](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) | [f6e92014-8af2-414d-9948-9b1abf559285](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) |
 | [Attestation Contributor](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) | [bbf86eb8-f7b4-4cce-96e4-18cddf81d86e](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) |
 | [Attestation Reader](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) | [fd1bd22b-8476-40bc-a0bc-69b95687b9f3](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) |
 | [Auto Actions Contributor](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) | [a8d01690-9418-4783-8ca2-9f0f1791783d](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) |
@@ -679,6 +680,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Windows365SubscriptionReader](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) | [3d55a8f6-4133-418d-8051-facdb1735758](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) |
 | [Workbook Contributor](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) | [e8ddcd69-c73f-4f9f-9844-4100522f16ad](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) |
 | [Workbook Reader](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) | [b279062a-9be3-42a0-92ae-8b3cf002ec4d](roles/b279062a-9be3-42a0-92ae-8b3cf002ec4d.json) |
+| [Workload Orchestration IT Admin](roles/63304235-eaf4-4c15-8e93-46c483611231.json) | [63304235-eaf4-4c15-8e93-46c483611231](roles/63304235-eaf4-4c15-8e93-46c483611231.json) |
 | [Workload Orchestration Solution External Validator](roles/db9875ba-bd2b-4e98-934d-0daa549a07f0.json) | [db9875ba-bd2b-4e98-934d-0daa549a07f0](roles/db9875ba-bd2b-4e98-934d-0daa549a07f0.json) |
 | [WorkloadBuilder Migration Agent Role](roles/d17ce0a2-0697-43bc-aac5-9113337ab61c.json) | [d17ce0a2-0697-43bc-aac5-9113337ab61c](roles/d17ce0a2-0697-43bc-aac5-9113337ab61c.json) |
 

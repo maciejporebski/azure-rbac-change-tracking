@@ -1,0 +1,25 @@
+{
+  "Name": "Arc Gateway Manager",
+  "Id": "f6e92014-8af2-414d-9948-9b1abf559285",
+  "IsCustom": false,
+  "Description": "Manage Arc Gateway Resources",
+  "Actions": [
+    "Microsoft.HybridCompute/settings/write",
+    "Microsoft.HybridCompute/settings/read",
+    "Microsoft.HybridCompute/gateways/read",
+    "Microsoft.HybridCompute/gateways/write",
+    "Microsoft.HybridCompute/gateways/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

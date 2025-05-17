@@ -5,7 +5,10 @@
   "Description": "Can manage the workspace and view, but not modify its members. This role should be assigned on the workspace scope.",
   "Actions": [
     "Microsoft.ApiManagement/service/workspaces/*",
-    "Microsoft.Authorization/*/read"
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/diagnosticSettings/*/read",
+    "Microsoft.insights/logs/read",
+    "Microsoft.insights/logs/ApiManagementGatewayLogs/read"
   ],
   "NotActions": [],
   "DataActions": [],

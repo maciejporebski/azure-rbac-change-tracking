@@ -5,7 +5,10 @@
   "Description": "Has read-only access to entities in the workspace. This role should be assigned on the workspace scope.",
   "Actions": [
     "Microsoft.ApiManagement/service/workspaces/*/read",
-    "Microsoft.Authorization/*/read"
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/diagnosticSettings/*/read",
+    "Microsoft.insights/logs/read",
+    "Microsoft.insights/logs/ApiManagementGatewayLogs/read"
   ],
   "NotActions": [],
   "DataActions": [],

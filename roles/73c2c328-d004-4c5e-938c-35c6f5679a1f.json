@@ -12,7 +12,8 @@
     "Microsoft.ApiManagement/service/workspaces/notifications/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/diagnosticSettings/*/read",
-    "Microsoft.insights/logs/*/read"
+    "Microsoft.insights/logs/read",
+    "Microsoft.insights/logs/ApiManagementGatewayLogs/read"
   ],
   "NotActions": [],
   "DataActions": [],

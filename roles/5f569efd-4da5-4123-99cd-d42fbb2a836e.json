@@ -1,0 +1,18 @@
+{
+  "Name": "Microsoft.AzureStackHCI EdgeMachine Reader",
+  "Id": "5f569efd-4da5-4123-99cd-d42fbb2a836e",
+  "IsCustom": false,
+  "Description": "Microsoft.AzureStackHCI EdgeMachine Reader",
+  "Actions": [
+    "Microsoft.AzureStackHCI/EdgeMachines/Read/*",
+    "Microsoft.AzureStackHCI/EdgeMachines/Jobs/Read/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

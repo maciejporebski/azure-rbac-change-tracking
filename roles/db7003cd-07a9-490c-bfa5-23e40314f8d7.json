@@ -8,7 +8,17 @@
     "Microsoft.ServiceLinker/linkers/delete",
     "Microsoft.ServiceLinker/linkers/write",
     "Microsoft.ServiceLinker/linkers/listConfigurations/action",
-    "Microsoft.ServiceLinker/linkers/validateLinker/action"
+    "Microsoft.ServiceLinker/linkers/validateLinker/action",
+    "Microsoft.ServiceLinker/dryruns/delete",
+    "Microsoft.ServiceLinker/dryruns/write",
+    "Microsoft.ServiceLinker/linkers/generateConfigurations/action",
+    "Microsoft.ServiceLinker/locations/connectors/delete",
+    "Microsoft.ServiceLinker/locations/connectors/generateConfigurations/action",
+    "Microsoft.ServiceLinker/locations/connectors/validate/action",
+    "Microsoft.ServiceLinker/locations/connectors/write",
+    "Microsoft.ServiceLinker/locations/dryruns/delete",
+    "Microsoft.ServiceLinker/locations/dryruns/write",
+    "Microsoft.ServiceLinker/locations/operationStatuses/write"
   ],
   "NotActions": [],
   "DataActions": [],

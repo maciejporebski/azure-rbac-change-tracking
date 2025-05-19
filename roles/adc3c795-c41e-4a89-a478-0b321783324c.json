@@ -1,0 +1,19 @@
+{
+  "Name": "Microsoft.AzureStackHCI Device Pool Manager",
+  "Id": "adc3c795-c41e-4a89-a478-0b321783324c",
+  "IsCustom": false,
+  "Description": "Microsoft.AzureStackHCI Device Pool Manager ",
+  "Actions": [
+    "Microsoft.AzureStackHCI/DevicePools/read",
+    "Microsoft.AzureStackHCI/DevicePools/ClaimDevices/action",
+    "Microsoft.AzureStackHCI/DevicePools/ReleaseDevices/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

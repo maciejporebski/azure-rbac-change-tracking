@@ -147,6 +147,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service Hybrid Cluster Admin Role](roles/b5092dac-c796-4349-8681-1a322a31c3f9.json) | [b5092dac-c796-4349-8681-1a322a31c3f9](roles/b5092dac-c796-4349-8681-1a322a31c3f9.json) |
 | [Azure Kubernetes Service Hybrid Cluster User Role](roles/fc3f91a1-40bf-4439-8c46-45edbd83563a.json) | [fc3f91a1-40bf-4439-8c46-45edbd83563a](roles/fc3f91a1-40bf-4439-8c46-45edbd83563a.json) |
 | [Azure Kubernetes Service Hybrid Contributor Role](roles/e7037d40-443a-4434-a3fb-8cd202011e1d.json) | [e7037d40-443a-4434-a3fb-8cd202011e1d](roles/e7037d40-443a-4434-a3fb-8cd202011e1d.json) |
+| [Azure Kubernetes Service Machine Manager Role](roles/8e253927-1f29-4d89-baa2-c3a549eff423.json) | [8e253927-1f29-4d89-baa2-c3a549eff423](roles/8e253927-1f29-4d89-baa2-c3a549eff423.json) |
 | [Azure Kubernetes Service Policy Add-on Deployment](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) | [18ed5180-3e48-46fd-8541-4ea054d57064](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) |
 | [Azure Kubernetes Service RBAC Admin](roles/3498e952-d568-435e-9b2c-8d77e338d7f7.json) | [3498e952-d568-435e-9b2c-8d77e338d7f7](roles/3498e952-d568-435e-9b2c-8d77e338d7f7.json) |
 | [Azure Kubernetes Service RBAC Cluster Admin](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) | [b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) |
@@ -520,6 +521,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Sentinel Playbook Operator](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) | [51d6186e-6489-4900-b93f-92e23144cca5](roles/51d6186e-6489-4900-b93f-92e23144cca5.json) |
 | [Microsoft Sentinel Reader](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) | [8d289c81-5878-46d4-8554-54e1e3d8b5cb](roles/8d289c81-5878-46d4-8554-54e1e3d8b5cb.json) |
 | [Microsoft Sentinel Responder](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) | [3e150937-b8fe-4cfb-8069-0eaf05ecd056](roles/3e150937-b8fe-4cfb-8069-0eaf05ecd056.json) |
+| [Microsoft.AzureStackHCI Device Pool Manager](roles/adc3c795-c41e-4a89-a478-0b321783324c.json) | [adc3c795-c41e-4a89-a478-0b321783324c](roles/adc3c795-c41e-4a89-a478-0b321783324c.json) |
+| [Microsoft.AzureStackHCI EdgeMachine Reader](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) | [5f569efd-4da5-4123-99cd-d42fbb2a836e](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) |
 | [Microsoft.Edge Winfields federated subscription read access role](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) | [83ee7727-862c-4213-8ed8-2ce6c5d69a40](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
 | [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |

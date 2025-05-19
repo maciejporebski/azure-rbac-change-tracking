@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Kubernetes Service Machine Manager Role",
+  "Id": "8e253927-1f29-4d89-baa2-c3a549eff423",
+  "IsCustom": false,
+  "Description": "Role for machine related actions",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/agentPools/deleteMachines/action",
+    "Microsoft.ContainerService/managedClusters/agentPools/machines/read",
+    "Microsoft.ContainerService/managedClusters/agentPools/machines/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

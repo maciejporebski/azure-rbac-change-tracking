@@ -16,6 +16,8 @@
     "Microsoft.Dashboard/grafana/privateEndpointConnections/delete",
     "Microsoft.Dashboard/grafana/managedPrivateEndpoints/write",
     "Microsoft.Dashboard/grafana/managedPrivateEndpoints/delete",
+    "Microsoft.Dashboard/grafana/integrationFabrics/write",
+    "Microsoft.Dashboard/grafana/integrationFabrics/delete",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/AlertRules/Write",
     "Microsoft.Insights/AlertRules/Delete",

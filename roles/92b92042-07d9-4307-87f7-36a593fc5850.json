@@ -17,7 +17,8 @@
     "Microsoft.Storage/storageAccounts/read",
     "Microsoft.Storage/storageAccounts/fileServices/shares/read",
     "Microsoft.Storage/storageAccounts/fileServices/read",
-    "Microsoft.Support/*"
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/*/read"
   ],
   "NotActions": [],
   "DataActions": [],

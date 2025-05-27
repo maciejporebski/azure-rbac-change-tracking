@@ -11,6 +11,8 @@
     "Oracle.Database/Locations/*/write",
     "Oracle.Database/Operations/read",
     "Oracle.Database/oracleSubscriptions/*/read",
+    "Oracle.Database/resourceAnchors/*",
+    "Oracle.Database/networkAnchors/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/deployments/*"
   ],

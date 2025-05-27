@@ -584,6 +584,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Role Based Access Control Administrator](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) | [f58310d9-a9f6-439a-9e8d-f62e7b41a168](roles/f58310d9-a9f6-439a-9e8d-f62e7b41a168.json) |
 | [SaaS Hub Contributor](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) | [e9b8712a-cbcf-4ea7-b0f7-e71b803401e6](roles/e9b8712a-cbcf-4ea7-b0f7-e71b803401e6.json) |
 | [Savings plan Purchaser](roles/3d24a3a0-c154-4f6f-a5ed-adc8e01ddb74.json) | [3d24a3a0-c154-4f6f-a5ed-adc8e01ddb74](roles/3d24a3a0-c154-4f6f-a5ed-adc8e01ddb74.json) |
+| [Scheduled Actions Contributor](roles/6fbca9a8-3561-41fd-8b20-6576043c1076.json) | [6fbca9a8-3561-41fd-8b20-6576043c1076](roles/6fbca9a8-3561-41fd-8b20-6576043c1076.json) |
 | [Scheduled Events Contributor](roles/b67fe603-310e-4889-b9ee-8257d09d353d.json) | [b67fe603-310e-4889-b9ee-8257d09d353d](roles/b67fe603-310e-4889-b9ee-8257d09d353d.json) |
 | [Scheduled Patching Contributor](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) | [cd08ab90-6b14-449c-ad9a-8f8e549482c6](roles/cd08ab90-6b14-449c-ad9a-8f8e549482c6.json) |
 | [Scheduler Job Collections Contributor](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) | [188a0f2f-5c9e-469b-ae67-2aa5ce574b94](roles/188a0f2f-5c9e-469b-ae67-2aa5ce574b94.json) |
@@ -643,12 +644,15 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage File Data SMB Share Contributor](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) | [0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) |
 | [Storage File Data SMB Share Elevated Contributor](roles/a7264617-510b-434b-a828-9731dc254ea7.json) | [a7264617-510b-434b-a828-9731dc254ea7](roles/a7264617-510b-434b-a828-9731dc254ea7.json) |
 | [Storage File Data SMB Share Reader](roles/aba4ae5f-2193-4029-9191-0cb91df5e314.json) | [aba4ae5f-2193-4029-9191-0cb91df5e314](roles/aba4ae5f-2193-4029-9191-0cb91df5e314.json) |
+| [Storage File Delegator](roles/765a04e0-5de8-4bb2-9bf6-b2a30bc03e91.json) | [765a04e0-5de8-4bb2-9bf6-b2a30bc03e91](roles/765a04e0-5de8-4bb2-9bf6-b2a30bc03e91.json) |
 | [Storage Queue Data Contributor](roles/974c5e8b-45b9-4653-ba55-5f855dd0fb88.json) | [974c5e8b-45b9-4653-ba55-5f855dd0fb88](roles/974c5e8b-45b9-4653-ba55-5f855dd0fb88.json) |
 | [Storage Queue Data Message Processor](roles/8a0f0c08-91a1-4084-bc3d-661d67233fed.json) | [8a0f0c08-91a1-4084-bc3d-661d67233fed](roles/8a0f0c08-91a1-4084-bc3d-661d67233fed.json) |
 | [Storage Queue Data Message Sender](roles/c6a89b2d-59bc-44d0-9896-0f6e12d7b80a.json) | [c6a89b2d-59bc-44d0-9896-0f6e12d7b80a](roles/c6a89b2d-59bc-44d0-9896-0f6e12d7b80a.json) |
 | [Storage Queue Data Reader](roles/19e7f393-937e-4f77-808e-94535e297925.json) | [19e7f393-937e-4f77-808e-94535e297925](roles/19e7f393-937e-4f77-808e-94535e297925.json) |
+| [Storage Queue Delegator](roles/7ee386e9-84f0-448e-80a6-f185f6533131.json) | [7ee386e9-84f0-448e-80a6-f185f6533131](roles/7ee386e9-84f0-448e-80a6-f185f6533131.json) |
 | [Storage Table Data Contributor](roles/0a9a7e1f-b9d0-4cc4-a60d-0319b160aaa3.json) | [0a9a7e1f-b9d0-4cc4-a60d-0319b160aaa3](roles/0a9a7e1f-b9d0-4cc4-a60d-0319b160aaa3.json) |
 | [Storage Table Data Reader](roles/76199698-9eea-4c19-bc75-cec21354c6b6.json) | [76199698-9eea-4c19-bc75-cec21354c6b6](roles/76199698-9eea-4c19-bc75-cec21354c6b6.json) |
+| [Storage Table Delegator](roles/965033a5-c8eb-4f35-b82f-fef460a3606d.json) | [965033a5-c8eb-4f35-b82f-fef460a3606d](roles/965033a5-c8eb-4f35-b82f-fef460a3606d.json) |
 | [Stream Analytics Contributor](roles/6e0c8711-85a0-4490-8365-8ec13c4560b4.json) | [6e0c8711-85a0-4490-8365-8ec13c4560b4](roles/6e0c8711-85a0-4490-8365-8ec13c4560b4.json) |
 | [Stream Analytics Query Tester](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) | [1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) |
 | [Stream Analytics Reader](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) | [1dfc38e8-6ce7-447f-807c-029c65262c5f](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) |

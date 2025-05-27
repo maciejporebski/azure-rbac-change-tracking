@@ -2,7 +2,7 @@
   "Name": "Azure Kubernetes Fleet Manager Hub Agent Role",
   "Id": "de2b316d-7a2c-4143-b4cd-c148f6a355a1",
   "IsCustom": false,
-  "Description": "Grants read access to Azure network resources needed by Azure Kubernetes Fleet Manager.",
+  "Description": "Grants access to Azure resources needed by Azure Kubernetes Fleet Manager hub agents.",
   "Actions": [
     "Microsoft.Network/publicIPAddresses/read",
     "Microsoft.Network/trafficManagerProfiles/read",

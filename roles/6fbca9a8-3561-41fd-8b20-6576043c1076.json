@@ -1,0 +1,32 @@
+{
+  "Name": "Scheduled Actions Contributor",
+  "Id": "6fbca9a8-3561-41fd-8b20-6576043c1076",
+  "IsCustom": false,
+  "Description": "Allows users to use Scheduled Actions offered by Microsoft.ComputeSchedule",
+  "Actions": [
+    "Microsoft.ComputeSchedule/locations/virtualMachinesCancelOperations/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesExecuteDeallocate/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesExecuteHibernate/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesExecuteStart/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesExecuteCreate/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesExecuteDelete/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesGetOperationErrors/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesGetOperationStatus/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesSubmitDeallocate/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesSubmitHibernate/action",
+    "Microsoft.ComputeSchedule/locations/virtualMachinesSubmitStart/action",
+    "Microsoft.ComputeSchedule/register/action",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

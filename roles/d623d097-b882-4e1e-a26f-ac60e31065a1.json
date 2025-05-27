@@ -13,6 +13,8 @@
     "Oracle.Database/oracleSubscriptions/listCloudAccountDetails/action",
     "Oracle.Database/exascaleDbStorageVaults/read",
     "Oracle.Database/exadbVmClusters/*/read",
+    "Oracle.Database/resourceAnchors/read",
+    "Oracle.Database/networkAnchors/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/deployments/*/read",
     "Microsoft.Network/virtualNetworks/subnets/read",

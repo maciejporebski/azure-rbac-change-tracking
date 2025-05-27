@@ -16,6 +16,8 @@
     "Oracle.Database/Operations/read",
     "Oracle.Database/oracleSubscriptions/*/read",
     "Oracle.Database/oracleSubscriptions/listCloudAccountDetails/action",
+    "Oracle.Database/resourceAnchors/*",
+    "Oracle.Database/networkAnchors/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Network/virtualNetworks/subnets/read",
     "Microsoft.Network/virtualNetworks/subnets/write",

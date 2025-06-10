@@ -9,7 +9,9 @@
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/deploymentStacks/write",
-    "Microsoft.Resources/deploymentStacks/read"
+    "Microsoft.Resources/deploymentStacks/read",
+    "Microsoft.Resources/deploymentStacks/validate/action",
+    "Microsoft.Resources/deploymentStacks/exportTemplate/action"
   ],
   "NotActions": [],
   "DataActions": [],

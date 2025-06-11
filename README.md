@@ -19,6 +19,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AgFood Platform Service Admin](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) | [f8da80de-1ff9-4747-ad80-a19b7f6079e3](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) |
 | [AgFood Platform Service Contributor](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) | [8508508a-4469-4e45-963b-2518ee0bb728](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) |
 | [AgFood Platform Service Reader](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) | [7ec7ccdc-f61e-41fe-9aaf-980df0a44eba](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) |
+| [AI Model Scanner Operator](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) | [8b9beb50-e28c-4879-8472-24c9d328085f](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) |
 | [AnyBuild Builder](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) | [a2138dac-4907-4679-a376-736901ed8ad8](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) |
 | [API Management Developer Portal Content Editor](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) | [c031e6a8-4391-4de0-8d69-4706a7ed3729](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) |
 | [API Management Service Contributor](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) | [312a565d-c81f-4fd8-895a-4e21e48d571c](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) |

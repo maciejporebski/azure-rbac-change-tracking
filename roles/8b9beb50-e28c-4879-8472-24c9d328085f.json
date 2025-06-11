@@ -1,0 +1,15 @@
+{
+  "Name": "AI Model Scanner Operator",
+  "Id": "8b9beb50-e28c-4879-8472-24c9d328085f",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for AI access to AI services and resources.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

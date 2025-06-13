@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Kubernetes Service Namespace Contributor",
+  "Id": "289d8817-ee69-43f1-a0af-43a45505b488",
+  "IsCustom": false,
+  "Description": "Allows users to create and manage Azure Kubernetes Service namespace resources.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ContainerService/managedClusters/managedNamespaces/*",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

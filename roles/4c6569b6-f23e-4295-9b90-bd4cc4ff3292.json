@@ -1,0 +1,20 @@
+{
+  "Name": "DevCenter Owner",
+  "Id": "4c6569b6-f23e-4295-9b90-bd4cc4ff3292",
+  "IsCustom": false,
+  "Description": "Provides access to manage all Microsoft.DevCenter resources.",
+  "Actions": [
+    "Microsoft.DevCenter/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

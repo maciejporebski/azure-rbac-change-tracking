@@ -9,9 +9,7 @@
     "Microsoft.Support/*"
   ],
   "NotActions": [],
-  "DataActions": [
-    "Microsoft.OperationalInsights/workspaces/jobs/export/action"
-  ],
+  "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

@@ -50,7 +50,9 @@
     "Microsoft.Monitor/investigations/*"
   ],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.OperationalInsights/workspaces/jobs/export/action"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

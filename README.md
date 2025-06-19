@@ -364,6 +364,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Desktop Virtualization Workspace Contributor](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) | [21efdde3-836f-432b-bf3d-3e8e734d4b2b](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) |
 | [Desktop Virtualization Workspace Reader](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) | [0fa44ee9-7a7d-466b-9bb2-2bf446b1204d](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) |
 | [DevCenter Dev Box User](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) | [45d50f46-0b78-4001-a660-4198cbe8cd05](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) |
+| [DevCenter Owner](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) | [4c6569b6-f23e-4295-9b90-bd4cc4ff3292](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) |
 | [DevCenter Project Admin](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) | [331c37c6-af14-46d9-b9f4-e1909e1b95a0](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) |
 | [Device Provisioning Service Data Contributor](roles/dfce44e4-17b7-4bd1-a6d1-04996ec95633.json) | [dfce44e4-17b7-4bd1-a6d1-04996ec95633](roles/dfce44e4-17b7-4bd1-a6d1-04996ec95633.json) |
 | [Device Provisioning Service Data Reader](roles/10745317-c249-44a1-a5ce-3a4353c0bbd8.json) | [10745317-c249-44a1-a5ce-3a4353c0bbd8](roles/10745317-c249-44a1-a5ce-3a4353c0bbd8.json) |
@@ -373,6 +374,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Device Update Deployments Administrator](roles/e4237640-0e3d-4a46-8fda-70bc94856432.json) | [e4237640-0e3d-4a46-8fda-70bc94856432](roles/e4237640-0e3d-4a46-8fda-70bc94856432.json) |
 | [Device Update Deployments Reader](roles/49e2f5d2-7741-4835-8efa-19e1fe35e47f.json) | [49e2f5d2-7741-4835-8efa-19e1fe35e47f](roles/49e2f5d2-7741-4835-8efa-19e1fe35e47f.json) |
 | [Device Update Reader](roles/e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f.json) | [e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f](roles/e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f.json) |
+| [DevOps Infrastructure Contributor Role](roles/76153a9e-0edb-49bc-8e01-93c47e6b5180.json) | [76153a9e-0edb-49bc-8e01-93c47e6b5180](roles/76153a9e-0edb-49bc-8e01-93c47e6b5180.json) |
 | [DevTest Labs User](roles/76283e04-6283-4c54-8f91-bcf1374a3c64.json) | [76283e04-6283-4c54-8f91-bcf1374a3c64](roles/76283e04-6283-4c54-8f91-bcf1374a3c64.json) |
 | [DICOM Data Owner](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) | [58a3b984-7adf-4c20-983a-32417c86fbc8](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) |
 | [DICOM Data Reader](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) | [e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) |

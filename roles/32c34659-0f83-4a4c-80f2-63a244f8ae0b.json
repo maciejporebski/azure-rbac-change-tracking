@@ -1,0 +1,29 @@
+{
+  "Name": "Service Health Billing Reader",
+  "Id": "32c34659-0f83-4a4c-80f2-63a244f8ae0b",
+  "IsCustom": false,
+  "Description": "Grants permissions to view billing information present in service health events",
+  "Actions": [
+    "Microsoft.ResourceHealth/events/action",
+    "Microsoft.ResourceHealth/AvailabilityStatuses/read",
+    "Microsoft.ResourceHealth/AvailabilityStatuses/current/read",
+    "Microsoft.ResourceHealth/Operations/read",
+    "Microsoft.ResourceHealth/emergingissues/read",
+    "Microsoft.ResourceHealth/events/read",
+    "Microsoft.ResourceHealth/events/fetchBillingCommunicationDetails/action",
+    "Microsoft.ResourceHealth/events/impactedResources/read",
+    "Microsoft.ResourceHealth/metadata/read",
+    "Microsoft.ResourceHealth/potentialoutages/read"
+  ],
+  "NotActions": [
+    "Microsoft.ResourceHealth/events/fetchEventDetails/action",
+    "Microsoft.ResourceHealth/events/listSecurityAdvisoryImpactedResources/action"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

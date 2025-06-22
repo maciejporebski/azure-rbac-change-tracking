@@ -514,6 +514,11 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Managed Services Registration assignment Delete Role](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) | [91c1777a-f3dc-4fae-b103-61d183457e46](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) |
 | [Management Group Contributor](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) | [5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) |
 | [Management Group Reader](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) | [ac63b705-f282-497d-ac71-919bf39d939d](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) |
+| [Media Services Account Administrator](roles/054126f8-9a2b-4f1c-a9ad-eca461f08466.json) | [054126f8-9a2b-4f1c-a9ad-eca461f08466](roles/054126f8-9a2b-4f1c-a9ad-eca461f08466.json) |
+| [Media Services Live Events Administrator](roles/532bc159-b25e-42c0-969e-a1d439f60d77.json) | [532bc159-b25e-42c0-969e-a1d439f60d77](roles/532bc159-b25e-42c0-969e-a1d439f60d77.json) |
+| [Media Services Media Operator](roles/e4395492-1534-4db2-bedf-88c14621589c.json) | [e4395492-1534-4db2-bedf-88c14621589c](roles/e4395492-1534-4db2-bedf-88c14621589c.json) |
+| [Media Services Policy Administrator](roles/c4bba371-dacd-4a26-b320-7250bca963ae.json) | [c4bba371-dacd-4a26-b320-7250bca963ae](roles/c4bba371-dacd-4a26-b320-7250bca963ae.json) |
+| [Media Services Streaming Endpoints Administrator](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) | [99dba123-b5fe-44d5-874c-ced7199a5804](roles/99dba123-b5fe-44d5-874c-ced7199a5804.json) |
 | [Microsoft PowerBI Tenant Operations Role](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) | [8c87871d-6201-42da-abb1-1c0c985ff71c](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) |
 | [Microsoft Sentinel Automation Contributor](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) | [f4c81013-99ee-4d62-a7ee-b3f1f648599a](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) |
 | [Microsoft Sentinel Business Applications Agent Operator](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) | [c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) |
@@ -607,8 +612,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
 | [Service Fabric Cluster Contributor](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) | [b6efc156-f0da-4e90-a50a-8c000140b017](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) |
 | [Service Fabric Managed Cluster Contributor](roles/83f80186-3729-438c-ad2d-39e94d718838.json) | [83f80186-3729-438c-ad2d-39e94d718838](roles/83f80186-3729-438c-ad2d-39e94d718838.json) |
-| [Service Health Billing Reader](roles/32c34659-0f83-4a4c-80f2-63a244f8ae0b.json) | [32c34659-0f83-4a4c-80f2-63a244f8ae0b](roles/32c34659-0f83-4a4c-80f2-63a244f8ae0b.json) |
-| [Service Health Security Reader](roles/1a928ab0-1fee-43cf-9266-f9d8c22a8ddb.json) | [1a928ab0-1fee-43cf-9266-f9d8c22a8ddb](roles/1a928ab0-1fee-43cf-9266-f9d8c22a8ddb.json) |
+| [Service Group Reader](roles/de754d53-652d-4c75-a67f-1e48d8b49c97.json) | [de754d53-652d-4c75-a67f-1e48d8b49c97](roles/de754d53-652d-4c75-a67f-1e48d8b49c97.json) |
 | [Services Hub Operator](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) | [82200a5b-e217-47a5-b665-6d8765ee745b](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) |
 | [SignalR AccessKey Reader](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) | [04165923-9d83-45d5-8227-78b77b0a687e](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) |
 | [SignalR App Server](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) | [420fcaa2-552c-430f-98ca-3264be4806c7](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) |

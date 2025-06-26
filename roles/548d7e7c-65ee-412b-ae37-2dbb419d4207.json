@@ -1,0 +1,17 @@
+{
+  "Name": "Experimentation Resource Admin",
+  "Id": "548d7e7c-65ee-412b-ae37-2dbb419d4207",
+  "IsCustom": false,
+  "Description": "Experimentation Resource Admin",
+  "Actions": [
+    "Microsoft.Experimentation/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

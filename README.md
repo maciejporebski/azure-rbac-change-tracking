@@ -206,6 +206,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Cloud Data Reader](roles/b5537268-8956-4941-a8f0-646150406f0c.json) | [b5537268-8956-4941-a8f0-646150406f0c](roles/b5537268-8956-4941-a8f0-646150406f0c.json) |
 | [Azure Spring Cloud Service Registry Contributor](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) | [f5880b48-c26d-48be-b172-7927bfa1c8f1](roles/f5880b48-c26d-48be-b172-7927bfa1c8f1.json) |
 | [Azure Spring Cloud Service Registry Reader](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) | [cff1b556-2399-4e7e-856d-a8f754be7b65](roles/cff1b556-2399-4e7e-856d-a8f754be7b65.json) |
+| [Azure Stack Edge Operations Role](roles/12b8206a-0216-4469-908d-a3e2025fe085.json) | [12b8206a-0216-4469-908d-a3e2025fe085](roles/12b8206a-0216-4469-908d-a3e2025fe085.json) |
 | [Azure Stack HCI Administrator](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) | [bda0d508-adf1-4af0-9c28-88919fc3ae06](roles/bda0d508-adf1-4af0-9c28-88919fc3ae06.json) |
 | [Azure Stack HCI Connected InfraVMs](roles/c99c945f-8bd1-4fb1-a903-01460aae6068.json) | [c99c945f-8bd1-4fb1-a903-01460aae6068](roles/c99c945f-8bd1-4fb1-a903-01460aae6068.json) |
 | [Azure Stack HCI Device Management Role](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) | [865ae368-6a45-4bd1-8fbf-0d5151f56fc1](roles/865ae368-6a45-4bd1-8fbf-0d5151f56fc1.json) |
@@ -414,6 +415,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Experimentation Contributor](roles/7f646f1b-fa08-80eb-a22b-edd6ce5c915c.json) | [7f646f1b-fa08-80eb-a22b-edd6ce5c915c](roles/7f646f1b-fa08-80eb-a22b-edd6ce5c915c.json) |
 | [Experimentation Metric Contributor](roles/6188b7c9-7d01-4f99-a59f-c88b630326c0.json) | [6188b7c9-7d01-4f99-a59f-c88b630326c0](roles/6188b7c9-7d01-4f99-a59f-c88b630326c0.json) |
 | [Experimentation Reader](roles/49632ef5-d9ac-41f4-b8e7-bbe587fa74a1.json) | [49632ef5-d9ac-41f4-b8e7-bbe587fa74a1](roles/49632ef5-d9ac-41f4-b8e7-bbe587fa74a1.json) |
+| [Experimentation Resource Admin](roles/548d7e7c-65ee-412b-ae37-2dbb419d4207.json) | [548d7e7c-65ee-412b-ae37-2dbb419d4207](roles/548d7e7c-65ee-412b-ae37-2dbb419d4207.json) |
 | [FHIR Data Contributor](roles/5a1fc7df-4bf1-4951-a576-89034ee01acd.json) | [5a1fc7df-4bf1-4951-a576-89034ee01acd](roles/5a1fc7df-4bf1-4951-a576-89034ee01acd.json) |
 | [FHIR Data Converter](roles/a1705bd2-3a8f-45a5-8683-466fcfd5cc24.json) | [a1705bd2-3a8f-45a5-8683-466fcfd5cc24](roles/a1705bd2-3a8f-45a5-8683-466fcfd5cc24.json) |
 | [FHIR Data Exporter](roles/3db33094-8700-4567-8da5-1501d4e7e843.json) | [3db33094-8700-4567-8da5-1501d4e7e843](roles/3db33094-8700-4567-8da5-1501d4e7e843.json) |
@@ -430,6 +432,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Grafana Limited Viewer](roles/41e04612-9dac-4699-a02b-c82ff2cc3fb5.json) | [41e04612-9dac-4699-a02b-c82ff2cc3fb5](roles/41e04612-9dac-4699-a02b-c82ff2cc3fb5.json) |
 | [Grafana Viewer](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) | [60921a7e-fef1-4a43-9b16-a26c52ad4769](roles/60921a7e-fef1-4a43-9b16-a26c52ad4769.json) |
 | [Graph Owner](roles/b60367af-1334-4454-b71e-769d9a4f83d9.json) | [b60367af-1334-4454-b71e-769d9a4f83d9](roles/b60367af-1334-4454-b71e-769d9a4f83d9.json) |
+| [Grounding with Bing User](roles/2016c9ed-c18d-4120-93d7-178e583efe92.json) | [2016c9ed-c18d-4120-93d7-178e583efe92](roles/2016c9ed-c18d-4120-93d7-178e583efe92.json) |
 | [GroupQuota Reader](roles/d0f495dc-44ef-4140-aeb0-b89110e6a7c1.json) | [d0f495dc-44ef-4140-aeb0-b89110e6a7c1](roles/d0f495dc-44ef-4140-aeb0-b89110e6a7c1.json) |
 | [GroupQuota Request Operator](roles/e2217c0e-04bb-4724-9580-91cf9871bc01.json) | [e2217c0e-04bb-4724-9580-91cf9871bc01](roles/e2217c0e-04bb-4724-9580-91cf9871bc01.json) |
 | [Guest Configuration Resource Contributor](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) | [088ab73d-1256-47ae-bea9-9de8e7131f31](roles/088ab73d-1256-47ae-bea9-9de8e7131f31.json) |

@@ -1,0 +1,32 @@
+{
+  "Name": "FHIR Data Bulk Operator",
+  "Id": "804db8d3-32c7-4ad4-a975-3f6f90d5f5f5",
+  "IsCustom": false,
+  "Description": "Role allows user or principal to perform bulk operations",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthcareApis/services/fhir/resources/read",
+    "Microsoft.HealthcareApis/services/fhir/resources/write",
+    "Microsoft.HealthcareApis/services/fhir/resources/delete",
+    "Microsoft.HealthcareApis/services/fhir/resources/export/action",
+    "Microsoft.HealthcareApis/services/fhir/resources/reindex/action",
+    "Microsoft.HealthcareApis/services/fhir/resources/import/action",
+    "Microsoft.HealthcareApis/services/fhir/resources/hardDelete/action",
+    "Microsoft.HealthcareApis/services/fhir/resources/bulkOperator/action",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/read",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/write",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/delete",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/export/action",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/reindex/action",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/import/action",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/hardDelete/action",
+    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/bulkOperator/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

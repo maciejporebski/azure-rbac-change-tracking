@@ -416,6 +416,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Experimentation Metric Contributor](roles/6188b7c9-7d01-4f99-a59f-c88b630326c0.json) | [6188b7c9-7d01-4f99-a59f-c88b630326c0](roles/6188b7c9-7d01-4f99-a59f-c88b630326c0.json) |
 | [Experimentation Reader](roles/49632ef5-d9ac-41f4-b8e7-bbe587fa74a1.json) | [49632ef5-d9ac-41f4-b8e7-bbe587fa74a1](roles/49632ef5-d9ac-41f4-b8e7-bbe587fa74a1.json) |
 | [Experimentation Resource Admin](roles/548d7e7c-65ee-412b-ae37-2dbb419d4207.json) | [548d7e7c-65ee-412b-ae37-2dbb419d4207](roles/548d7e7c-65ee-412b-ae37-2dbb419d4207.json) |
+| [FHIR Data Bulk Operator](roles/804db8d3-32c7-4ad4-a975-3f6f90d5f5f5.json) | [804db8d3-32c7-4ad4-a975-3f6f90d5f5f5](roles/804db8d3-32c7-4ad4-a975-3f6f90d5f5f5.json) |
 | [FHIR Data Contributor](roles/5a1fc7df-4bf1-4951-a576-89034ee01acd.json) | [5a1fc7df-4bf1-4951-a576-89034ee01acd](roles/5a1fc7df-4bf1-4951-a576-89034ee01acd.json) |
 | [FHIR Data Converter](roles/a1705bd2-3a8f-45a5-8683-466fcfd5cc24.json) | [a1705bd2-3a8f-45a5-8683-466fcfd5cc24](roles/a1705bd2-3a8f-45a5-8683-466fcfd5cc24.json) |
 | [FHIR Data Exporter](roles/3db33094-8700-4567-8da5-1501d4e7e843.json) | [3db33094-8700-4567-8da5-1501d4e7e843](roles/3db33094-8700-4567-8da5-1501d4e7e843.json) |

@@ -5,6 +5,7 @@
   "Description": "Allows managing Azure API Center service.",
   "Actions": [
     "Microsoft.ApiCenter/services/*",
+    "Microsoft.ApiCenter/deletedServices/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.ResourceHealth/availabilityStatuses/read",

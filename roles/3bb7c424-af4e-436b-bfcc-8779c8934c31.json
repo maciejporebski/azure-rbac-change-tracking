@@ -1,0 +1,21 @@
+{
+  "Name": "Microsoft Discovery Platform Reader (Preview)",
+  "Id": "3bb7c424-af4e-436b-bfcc-8779c8934c31",
+  "IsCustom": false,
+  "Description": "Grants readonly permissions to view Microsoft.Discovery resources. This role in preview and subjet to change.",
+  "Actions": [
+    "Microsoft.Discovery/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Discovery/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

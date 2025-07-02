@@ -518,6 +518,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Managed Services Registration assignment Delete Role](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) | [91c1777a-f3dc-4fae-b103-61d183457e46](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) |
 | [Management Group Contributor](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) | [5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) |
 | [Management Group Reader](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) | [ac63b705-f282-497d-ac71-919bf39d939d](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) |
+| [Microsoft Discovery Platform Administrator (Preview)](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) | [7a2b6e6c-472e-4b39-8878-a26eb63d75c6](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) |
+| [Microsoft Discovery Platform Contributor (Preview)](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) | [01288891-85ee-45a7-b367-9db3b752fc65](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) |
+| [Microsoft Discovery Platform Reader (Preview)](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) | [3bb7c424-af4e-436b-bfcc-8779c8934c31](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) |
 | [Microsoft PowerBI Tenant Operations Role](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) | [8c87871d-6201-42da-abb1-1c0c985ff71c](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) |
 | [Microsoft Sentinel Automation Contributor](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) | [f4c81013-99ee-4d62-a7ee-b3f1f648599a](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) |
 | [Microsoft Sentinel Business Applications Agent Operator](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) | [c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) |

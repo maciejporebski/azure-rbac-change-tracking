@@ -1,0 +1,20 @@
+{
+  "Name": "Connector Writer",
+  "Id": "c459b115-f629-486b-b359-35feb5568b83",
+  "IsCustom": false,
+  "Description": "Write connectors and have basic customer permissions like reading authorizations, alert rules and resourceGroups",
+  "Actions": [
+    "Microsoft.Impact/Connectors/Write",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

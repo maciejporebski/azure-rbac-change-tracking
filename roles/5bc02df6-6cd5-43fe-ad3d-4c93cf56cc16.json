@@ -1,0 +1,29 @@
+{
+  "Name": "AIO Administrator",
+  "Id": "5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16",
+  "IsCustom": false,
+  "Description": "View, create, edit and delete AIO resources. Manage all resources, including instance and its downstream resources.",
+  "Actions": [
+    "Microsoft.IoTOperations/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.DeviceRegistry/Assets/*",
+    "Microsoft.DeviceRegistry/AssetEndpointProfiles/*",
+    "Microsoft.DeviceRegistry/Namespaces/Assets/*",
+    "Microsoft.DeviceRegistry/Namespaces/Devices/*",
+    "Microsoft.DeviceRegistry/Namespaces/DiscoveredAssets/*",
+    "Microsoft.DeviceRegistry/Namespaces/DiscoveredDevices/*",
+    "Microsoft.DeviceRegistry/SchemaRegistries/*",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Edge/sites/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

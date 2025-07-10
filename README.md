@@ -682,6 +682,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Usage Billing Contributor](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) | [33cdeeac-0940-4f85-9317-7e2432c17289](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |
 | [Video Indexer Restricted Viewer](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) | [a2c4a527-7dc0-4ee3-897b-403ade70fafb](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) |
+| [Virtual Enclave Owner Role](roles/1abf4029-2200-4343-800c-e4c4c01eddbd.json) | [1abf4029-2200-4343-800c-e4c4c01eddbd](roles/1abf4029-2200-4343-800c-e4c4c01eddbd.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |
 | [Virtual Machine Contributor](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) | [9980e02c-c2be-4d73-94e8-173b1dc7cf3c](roles/9980e02c-c2be-4d73-94e8-173b1dc7cf3c.json) |
 | [Virtual Machine Data Access Administrator (preview)](roles/66f75aeb-eabe-4b70-9f1e-c350c4c9ad04.json) | [66f75aeb-eabe-4b70-9f1e-c350c4c9ad04](roles/66f75aeb-eabe-4b70-9f1e-c350c4c9ad04.json) |

@@ -19,6 +19,7 @@
     "Microsoft.DevCenter/projects/users/devboxes/adminRead/action",
     "Microsoft.DevCenter/projects/users/devboxes/adminWrite/action",
     "Microsoft.DevCenter/projects/users/devboxes/adminDelete/action",
+    "Microsoft.DevCenter/projects/users/devboxes/adminAlign/action",
     "Microsoft.DevCenter/projects/users/devboxes/userStop/action",
     "Microsoft.DevCenter/projects/users/devboxes/userStart/action",
     "Microsoft.DevCenter/projects/users/devboxes/userGetRemoteConnection/action",

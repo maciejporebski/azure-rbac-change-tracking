@@ -6,6 +6,7 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
+    "Microsoft.DurableTask/orchestrations/execute/action",
     "Microsoft.DurableTask/schedulers/taskhubs/orchestrations/execute/action"
   ],
   "NotDataActions": [],

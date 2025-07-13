@@ -13,12 +13,7 @@
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.KubernetesRuntime/locations/operationStatuses/write",
-    "Microsoft.KubernetesRuntime/services/write",
-    "Microsoft.KubernetesRuntime/services/delete",
-    "Microsoft.KubernetesRuntime/bfdProfiles/write",
-    "Microsoft.KubernetesRuntime/bfdProfiles/delete"
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [],

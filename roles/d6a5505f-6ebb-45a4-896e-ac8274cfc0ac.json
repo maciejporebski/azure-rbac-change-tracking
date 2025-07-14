@@ -6,8 +6,6 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.DurableTask/orchestrations/read",
-    "Microsoft.DurableTask/orchestrations/metadata/read",
     "Microsoft.DurableTask/schedulers/taskhubs/orchestrations/read",
     "Microsoft.DurableTask/schedulers/taskhubs/orchestrations/metadata/read"
   ],

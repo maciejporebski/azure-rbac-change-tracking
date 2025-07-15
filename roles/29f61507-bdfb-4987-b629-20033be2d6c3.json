@@ -1,0 +1,22 @@
+{
+  "Name": "Healthcare Apis contributor",
+  "Id": "29f61507-bdfb-4987-b629-20033be2d6c3",
+  "IsCustom": false,
+  "Description": "Allows all actions on healthcareapis provider resources",
+  "Actions": [
+    "Microsoft.HealthcareApis/services/*",
+    "Microsoft.HealthcareApis/workspaces/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

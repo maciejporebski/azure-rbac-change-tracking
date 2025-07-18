@@ -22,7 +22,8 @@
     "Microsoft.Insights/AlertRules/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Support/*"
   ],
   "NotActions": [
     "Microsoft.Discovery/workspaces/write",

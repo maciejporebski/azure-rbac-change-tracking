@@ -1,0 +1,17 @@
+{
+  "Name": "Microsoft.OffAzureSpringBoot Service Owner",
+  "Id": "79732128-7761-4733-aebf-35590da9f29b",
+  "IsCustom": false,
+  "Description": "Full access to Azure Microsoft.OffAzureSpringBoot Service REST APIs",
+  "Actions": [
+    "Microsoft.OffAzureSpringBoot/springbootsites/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

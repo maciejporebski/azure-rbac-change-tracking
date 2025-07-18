@@ -1,0 +1,24 @@
+{
+  "Name": "Nexus Identity Owner",
+  "Id": "374a1cc6-96cb-4946-8d8b-a41054c8ae97",
+  "IsCustom": false,
+  "Description": "Provides owner access to nexusidentity resources",
+  "Actions": [
+    "Microsoft.NexusIdentity/*/read",
+    "Microsoft.NexusIdentity/*/write",
+    "Microsoft.NexusIdentity/*/action",
+    "Microsoft.NexusIdentity/*/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

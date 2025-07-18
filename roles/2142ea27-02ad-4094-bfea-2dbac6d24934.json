@@ -6,7 +6,6 @@
   "Actions": [
     "Microsoft.Mission/Operations/read",
     "Microsoft.Mission/communities/read",
-    "Microsoft.Mission/internalConnections/read",
     "Microsoft.Mission/virtualEnclaves/read",
     "Microsoft.Mission/virtualEnclaves/endpoints/read",
     "Microsoft.Mission/virtualEnclaves/workloads/read",

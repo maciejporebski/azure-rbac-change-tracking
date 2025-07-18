@@ -1,0 +1,20 @@
+{
+  "Name": "Liftr Elastic Owner",
+  "Id": "225efd4d-4ca0-42a1-ae53-5f233ba23c73",
+  "IsCustom": false,
+  "Description": "Grants full access to manage Elastic resources",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Elastic/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

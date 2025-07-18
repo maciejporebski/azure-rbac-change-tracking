@@ -1,0 +1,24 @@
+{
+  "Name": "Nexus Network Fabric Owner",
+  "Id": "46c70067-0f50-457f-8137-2449c90de518",
+  "IsCustom": false,
+  "Description": "Provides owner access to nexus network fabric resources",
+  "Actions": [
+    "Microsoft.ManagedNetworkFabric/*/read",
+    "Microsoft.ManagedNetworkFabric/*/write",
+    "Microsoft.ManagedNetworkFabric/*/action",
+    "Microsoft.ManagedNetworkFabric/*/delete",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

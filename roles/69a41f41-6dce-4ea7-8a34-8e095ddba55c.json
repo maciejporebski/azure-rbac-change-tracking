@@ -1,0 +1,22 @@
+{
+  "Name": "Azure Advisor Service Role",
+  "Id": "69a41f41-6dce-4ea7-8a34-8e095ddba55c",
+  "IsCustom": false,
+  "Description": "Grants permission to delete and write access for suppressions, configurations and assmessments",
+  "Actions": [
+    "Microsoft.Advisor/suppressions/write",
+    "Microsoft.Advisor/suppressions/delete",
+    "Microsoft.Advisor/recommendations/suppressions/write",
+    "Microsoft.Advisor/recommendations/suppressions/delete",
+    "Microsoft.Advisor/assessments/write",
+    "Microsoft.Advisor/configurations/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

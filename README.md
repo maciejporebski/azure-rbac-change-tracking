@@ -58,7 +58,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
 | [AVS on Fleet VIS Role](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) | [49fc33c1-886f-4b21-a00e-1d9993234734](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) |
 | [AVS Orchestrator Role](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) | [d715fb95-a0f0-4f1c-8be6-5ad2d2767f67](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) |
-| [Azure Advisor Service Role](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) | [69a41f41-6dce-4ea7-8a34-8e095ddba55c](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) |
 | [Azure AI Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
 | [Azure AI Administrator](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) | [b78c5d69-af96-48a3-bf8d-a8b4d589de94](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
@@ -540,7 +539,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft.AzureStackHCI EdgeMachine Reader](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) | [5f569efd-4da5-4123-99cd-d42fbb2a836e](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) |
 | [Microsoft.Edge Winfields federated subscription read access role](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) | [83ee7727-862c-4213-8ed8-2ce6c5d69a40](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
-| [Microsoft.OffAzureSpringBoot Service Owner](roles/79732128-7761-4733-aebf-35590da9f29b.json) | [79732128-7761-4733-aebf-35590da9f29b](roles/79732128-7761-4733-aebf-35590da9f29b.json) |
 | [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
@@ -550,8 +548,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [MySQL Backup And Export Operator](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) | [d18ad5f3-1baf-4119-b49b-d944edb1f9d0](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) |
 | [Network Contributor](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) | [4d97b98b-1d4f-4787-a291-c67834d212e7](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) |
 | [New Relic APM Account Contributor](roles/5d28c62d-5b37-4476-8438-e587778df237.json) | [5d28c62d-5b37-4476-8438-e587778df237](roles/5d28c62d-5b37-4476-8438-e587778df237.json) |
-| [Nexus Identity Owner](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) | [374a1cc6-96cb-4946-8d8b-a41054c8ae97](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) |
-| [Nexus Network Fabric Owner](roles/46c70067-0f50-457f-8137-2449c90de518.json) | [46c70067-0f50-457f-8137-2449c90de518](roles/46c70067-0f50-457f-8137-2449c90de518.json) |
 | [Nexus Network Fabric Service Reader](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) | [05fdd44c-adc6-4aff-981c-61041f0c929a](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) |
 | [Nexus Network Fabric Service Writer](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) | [a5eb8433-97a5-4a06-80b2-a877e1622c31](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) |
 | [Object Anchors Account Owner](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) | [ca0835dd-bacc-42dd-8ed2-ed5e7230d15b](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) |

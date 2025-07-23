@@ -19,7 +19,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AgFood Platform Service Admin](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) | [f8da80de-1ff9-4747-ad80-a19b7f6079e3](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) |
 | [AgFood Platform Service Contributor](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) | [8508508a-4469-4e45-963b-2518ee0bb728](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) |
 | [AgFood Platform Service Reader](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) | [7ec7ccdc-f61e-41fe-9aaf-980df0a44eba](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) |
-| [AI Model Scanner Operator](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) | [8b9beb50-e28c-4879-8472-24c9d328085f](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) |
 | [AnyBuild Builder](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) | [a2138dac-4907-4679-a376-736901ed8ad8](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) |
 | [API Management Developer Portal Content Editor](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) | [c031e6a8-4391-4de0-8d69-4706a7ed3729](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) |
 | [API Management Service Contributor](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) | [312a565d-c81f-4fd8-895a-4e21e48d571c](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) |
@@ -58,6 +57,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
 | [AVS on Fleet VIS Role](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) | [49fc33c1-886f-4b21-a00e-1d9993234734](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) |
 | [AVS Orchestrator Role](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) | [d715fb95-a0f0-4f1c-8be6-5ad2d2767f67](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) |
+| [Azure Advisor Service Role](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) | [69a41f41-6dce-4ea7-8a34-8e095ddba55c](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) |
 | [Azure AI Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
 | [Azure AI Administrator](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) | [b78c5d69-af96-48a3-bf8d-a8b4d589de94](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
@@ -324,6 +324,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Registry Transfer Pipeline Contributor](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) | [bf94e731-3a51-4a7c-8c54-a1ab9971dfc1](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
+| [Conversation Session User](roles/b3eb788f-5426-48bd-821d-561701ede368.json) | [b3eb788f-5426-48bd-821d-561701ede368](roles/b3eb788f-5426-48bd-821d-561701ede368.json) |
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |
 | [Cosmos DB Operator](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) | [230815da-be43-4aae-9cb4-875f7bd000aa](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) |
 | [CosmosBackupOperator](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) | [db7b14f2-5adf-42da-9f96-f2ee17bab5cb](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) |
@@ -539,6 +540,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft.AzureStackHCI EdgeMachine Reader](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) | [5f569efd-4da5-4123-99cd-d42fbb2a836e](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) |
 | [Microsoft.Edge Winfields federated subscription read access role](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) | [83ee7727-862c-4213-8ed8-2ce6c5d69a40](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
+| [Microsoft.OffAzureSpringBoot Service Owner](roles/79732128-7761-4733-aebf-35590da9f29b.json) | [79732128-7761-4733-aebf-35590da9f29b](roles/79732128-7761-4733-aebf-35590da9f29b.json) |
 | [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
@@ -548,6 +550,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [MySQL Backup And Export Operator](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) | [d18ad5f3-1baf-4119-b49b-d944edb1f9d0](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) |
 | [Network Contributor](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) | [4d97b98b-1d4f-4787-a291-c67834d212e7](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) |
 | [New Relic APM Account Contributor](roles/5d28c62d-5b37-4476-8438-e587778df237.json) | [5d28c62d-5b37-4476-8438-e587778df237](roles/5d28c62d-5b37-4476-8438-e587778df237.json) |
+| [Nexus Identity Owner](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) | [374a1cc6-96cb-4946-8d8b-a41054c8ae97](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) |
+| [Nexus Network Fabric Owner](roles/46c70067-0f50-457f-8137-2449c90de518.json) | [46c70067-0f50-457f-8137-2449c90de518](roles/46c70067-0f50-457f-8137-2449c90de518.json) |
 | [Nexus Network Fabric Service Reader](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) | [05fdd44c-adc6-4aff-981c-61041f0c929a](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) |
 | [Nexus Network Fabric Service Writer](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) | [a5eb8433-97a5-4a06-80b2-a877e1622c31](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) |
 | [Object Anchors Account Owner](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) | [ca0835dd-bacc-42dd-8ed2-ed5e7230d15b](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) |
@@ -574,7 +578,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |
 | [Policy Enrollments Contributor](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) | [285ce6d6-fa11-43bd-94ef-42a9b3740bfd](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) |
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
-| [Portal Dashboard Writer Service Role](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) | [78eacb5e-e318-4560-85a9-e6a724ca60c9](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) |
+| [Portal Dashboard Writer Role](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) | [78eacb5e-e318-4560-85a9-e6a724ca60c9](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) |
 | [PostgreSQL Flexible Server Long Term Retention Backup Role](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) | [c088a766-074b-43ba-90d4-1fb21feae531](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) |
 | [Power Platform Account Contributor](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) | [2593f4c7-8bf4-4fff-9804-2ee069b41902](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) |
 | [Power Platform Enterprise Policy Contributor](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) | [babe7770-cdbc-4f46-9bd7-b90b34842946](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) |

@@ -14,7 +14,9 @@
     "Microsoft.Network/virtualNetworks/subnets/read",
     "Microsoft.Network/virtualNetworks/read",
     "Microsoft.Network/virtualNetworks/subnets/join/action",
-    "Microsoft.Support/*"
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete"
   ],
   "NotActions": [],
   "DataActions": [

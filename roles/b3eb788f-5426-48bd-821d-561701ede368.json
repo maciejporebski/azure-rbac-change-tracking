@@ -1,0 +1,17 @@
+{
+  "Name": "Conversation Session User",
+  "Id": "b3eb788f-5426-48bd-821d-561701ede368",
+  "IsCustom": false,
+  "Description": "Allows sending a message to the agent and receive a response, using the conversation session API",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthBot/healthBots/ConversationSession/Action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

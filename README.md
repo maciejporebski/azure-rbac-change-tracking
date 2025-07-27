@@ -108,6 +108,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Container Storage Owner](roles/95de85bd-744d-4664-9dde-11430bc34793.json) | [95de85bd-744d-4664-9dde-11430bc34793](roles/95de85bd-744d-4664-9dde-11430bc34793.json) |
 | [Azure ContainerApps Session Executor](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) | [0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0](roles/0fb8eba5-a2bb-4abe-b1c1-49dfad359bb0.json) |
 | [Azure Customer Lockbox Approver for Subscription](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) | [4dae6930-7baf-46f5-909e-0383bc931c46](roles/4dae6930-7baf-46f5-909e-0383bc931c46.json) |
+| [Azure Data Transfer Owner](roles/eded264d-1796-4e25-8500-a78427f8a316.json) | [eded264d-1796-4e25-8500-a78427f8a316](roles/eded264d-1796-4e25-8500-a78427f8a316.json) |
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
 | [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
@@ -328,6 +329,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |
 | [Cosmos DB Operator](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) | [230815da-be43-4aae-9cb4-875f7bd000aa](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) |
 | [CosmosBackupOperator](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) | [db7b14f2-5adf-42da-9f96-f2ee17bab5cb](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) |
+| [CosmosDB Fleet Analytics Storage Data Writer service role](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) | [bf41e52e-617f-4981-8b7a-47431bd4e011](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) |
 | [CosmosDB Fleet Operator Role](roles/35ffec73-9cb8-4593-8718-40d5bc4b7f6f.json) | [35ffec73-9cb8-4593-8718-40d5bc4b7f6f](roles/35ffec73-9cb8-4593-8718-40d5bc4b7f6f.json) |
 | [CosmosRestoreOperator](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) | [5432c526-bc82-444a-b7ba-57c5b0b5b34f](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) |
 | [Cost Management Contributor](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) | [434105ed-43f6-45c7-a02f-909b2ba83430](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) |
@@ -578,7 +580,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |
 | [Policy Enrollments Contributor](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) | [285ce6d6-fa11-43bd-94ef-42a9b3740bfd](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) |
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
-| [Portal Dashboard Writer Service Role](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) | [78eacb5e-e318-4560-85a9-e6a724ca60c9](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) |
+| [Portal Dashboard Writer Role](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) | [78eacb5e-e318-4560-85a9-e6a724ca60c9](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) |
 | [PostgreSQL Flexible Server Long Term Retention Backup Role](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) | [c088a766-074b-43ba-90d4-1fb21feae531](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) |
 | [Power Platform Account Contributor](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) | [2593f4c7-8bf4-4fff-9804-2ee069b41902](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) |
 | [Power Platform Enterprise Policy Contributor](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) | [babe7770-cdbc-4f46-9bd7-b90b34842946](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) |

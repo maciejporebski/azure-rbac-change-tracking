@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Data Transfer Owner",
+  "Id": "eded264d-1796-4e25-8500-a78427f8a316",
+  "IsCustom": false,
+  "Description": "Create, read, modify, and delete pipelines, connections, and flows in Azure Data Transfer. Also perform any appropriate control plane operations for managing Azure Data Transfer resources.",
+  "Actions": [
+    "Microsoft.AzureDataTransfer/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

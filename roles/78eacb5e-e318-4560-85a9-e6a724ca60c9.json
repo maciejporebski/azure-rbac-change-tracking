@@ -1,5 +1,5 @@
 {
-  "Name": "Portal Dashboard Writer Service Role",
+  "Name": "Portal Dashboard Writer Role",
   "Id": "78eacb5e-e318-4560-85a9-e6a724ca60c9",
   "IsCustom": false,
   "Description": "Can write an Azure Portal Dashboard",
@@ -13,6 +13,6 @@
   "AssignableScopes": [
     "/"
   ],
-  "Condition": "@Resource[HasObotoken] boolequals true",
-  "ConditionVersion": "1.0"
+  "Condition": null,
+  "ConditionVersion": null
 }

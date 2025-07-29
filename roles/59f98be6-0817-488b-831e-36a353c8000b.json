@@ -1,0 +1,25 @@
+{
+  "Name": "Sites Reader",
+  "Id": "59f98be6-0817-488b-831e-36a353c8000b",
+  "IsCustom": false,
+  "Description": "View all Sites related resources but does not allow you to make any changes.",
+  "Actions": [
+    "Microsoft.Edge/sites/read",
+    "Microsoft.Edge/configurations/read",
+    "Microsoft.Edge/configurations/networkConfigurations/read",
+    "Microsoft.Edge/configurations/securityConfigurations/read",
+    "Microsoft.Edge/configurations/timeServerConfigurations/read",
+    "Microsoft.Edge/configurations/connectivityConfigurations/read",
+    "Microsoft.Edge/configurations/provisioningConfigurations/read",
+    "Microsoft.Edge/configurations/arcGatewayConfigurations/read",
+    "Microsoft.Edge/configurationReferences/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

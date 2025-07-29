@@ -92,6 +92,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Batch Job Submitter](roles/48e5e92e-a480-4e71-aa9c-2778f4c13781.json) | [48e5e92e-a480-4e71-aa9c-2778f4c13781](roles/48e5e92e-a480-4e71-aa9c-2778f4c13781.json) |
 | [Azure Batch Service Orchestration Role](roles/a35466a1-cfd6-450a-b35e-683fcdf30363.json) | [a35466a1-cfd6-450a-b35e-683fcdf30363](roles/a35466a1-cfd6-450a-b35e-683fcdf30363.json) |
 | [Azure Bot Service Contributor Role](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) | [9fc6112f-f48e-4e27-8b09-72a5c94e4ae9](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) |
+| [Azure Business Continuity DUPI Reader](roles/f4eb044f-76b9-47af-92f9-1d95c4c14ab5.json) | [f4eb044f-76b9-47af-92f9-1d95c4c14ab5](roles/f4eb044f-76b9-47af-92f9-1d95c4c14ab5.json) |
 | [Azure Center for SAP solutions administrator](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) | [7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) |
 | [Azure Center for SAP solutions Management role](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) | [6d949e1d-41e2-46e3-8920-c6e4f31a8310](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) |
 | [Azure Center for SAP solutions reader](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) | [05352d14-a920-4328-a0de-4cbe7430e26b](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) |
@@ -640,6 +641,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Site Recovery Contributor](roles/6670b86e-a3f7-4917-ac9b-5d6ab1be4567.json) | [6670b86e-a3f7-4917-ac9b-5d6ab1be4567](roles/6670b86e-a3f7-4917-ac9b-5d6ab1be4567.json) |
 | [Site Recovery Operator](roles/494ae006-db33-4328-bf46-533a6560a3ca.json) | [494ae006-db33-4328-bf46-533a6560a3ca](roles/494ae006-db33-4328-bf46-533a6560a3ca.json) |
 | [Site Recovery Reader](roles/dbaa88c4-0c30-4179-9fb3-46319faa6149.json) | [dbaa88c4-0c30-4179-9fb3-46319faa6149](roles/dbaa88c4-0c30-4179-9fb3-46319faa6149.json) |
+| [Sites Owner](roles/1cd7e4da-2789-457f-adbe-3e9e84037a93.json) | [1cd7e4da-2789-457f-adbe-3e9e84037a93](roles/1cd7e4da-2789-457f-adbe-3e9e84037a93.json) |
+| [Sites Reader](roles/59f98be6-0817-488b-831e-36a353c8000b.json) | [59f98be6-0817-488b-831e-36a353c8000b](roles/59f98be6-0817-488b-831e-36a353c8000b.json) |
 | [Spatial Anchors Account Contributor](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) | [8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) |
 | [Spatial Anchors Account Owner](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) | [70bbe301-9835-447d-afdd-19eb3167307c](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) |
 | [Spatial Anchors Account Reader](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) | [5d51204f-eb77-4b1c-b86a-2ec626c49413](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) |
@@ -692,6 +695,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Trusted Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
 | [Usage Billing Contributor](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) | [33cdeeac-0940-4f85-9317-7e2432c17289](roles/33cdeeac-0940-4f85-9317-7e2432c17289.json) |
 | [User Access Administrator](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) | [18d7d88d-d35e-4fb5-a5c3-7773c20a72d9](roles/18d7d88d-d35e-4fb5-a5c3-7773c20a72d9.json) |
+| [Video Indexer Account Contributor](roles/3f99eaab-6f59-4877-adf5-1cacd22e20b0.json) | [3f99eaab-6f59-4877-adf5-1cacd22e20b0](roles/3f99eaab-6f59-4877-adf5-1cacd22e20b0.json) |
 | [Video Indexer Restricted Viewer](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) | [a2c4a527-7dc0-4ee3-897b-403ade70fafb](roles/a2c4a527-7dc0-4ee3-897b-403ade70fafb.json) |
 | [Virtual Enclave Owner Role](roles/1abf4029-2200-4343-800c-e4c4c01eddbd.json) | [1abf4029-2200-4343-800c-e4c4c01eddbd](roles/1abf4029-2200-4343-800c-e4c4c01eddbd.json) |
 | [Virtual Machine Administrator Login](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) | [1c0163c0-47e6-4577-8991-ea5c82e286e4](roles/1c0163c0-47e6-4577-8991-ea5c82e286e4.json) |

@@ -1,0 +1,32 @@
+{
+  "Name": "Video Indexer Account Contributor",
+  "Id": "3f99eaab-6f59-4877-adf5-1cacd22e20b0",
+  "IsCustom": false,
+  "Description": "Can manage Video Indexer Account resources and generate access tokens for data plane operations.",
+  "Actions": [
+    "Microsoft.VideoIndexer/checknameavailability/action",
+    "Microsoft.VideoIndexer/accounts/generateAccessToken/action",
+    "Microsoft.VideoIndexer/accounts/generateRestrictedViewerAccessToken/action",
+    "Microsoft.VideoIndexer/accounts/generateExtensionAccessToken/action",
+    "Microsoft.VideoIndexer/accounts/generateExtensionRestrictedViewerAccessToken/action",
+    "Microsoft.VideoIndexer/accounts/read",
+    "Microsoft.VideoIndexer/accounts/write",
+    "Microsoft.VideoIndexer/accounts/delete",
+    "Microsoft.VideoIndexer/accounts/PrivateEndpointConnectionsApproval/action",
+    "Microsoft.VideoIndexer/accounts/privateEndpointConnections/read",
+    "Microsoft.VideoIndexer/accounts/privateEndpointConnections/write",
+    "Microsoft.VideoIndexer/accounts/privateEndpointConnections/delete",
+    "Microsoft.VideoIndexer/accounts/privateLinkResources/read",
+    "Microsoft.VideoIndexer/locations/operationstatuses/read",
+    "Microsoft.VideoIndexer/locations/operationstatuses/write",
+    "Microsoft.VideoIndexer/operations/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

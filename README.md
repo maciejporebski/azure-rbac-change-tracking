@@ -641,8 +641,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Site Recovery Contributor](roles/6670b86e-a3f7-4917-ac9b-5d6ab1be4567.json) | [6670b86e-a3f7-4917-ac9b-5d6ab1be4567](roles/6670b86e-a3f7-4917-ac9b-5d6ab1be4567.json) |
 | [Site Recovery Operator](roles/494ae006-db33-4328-bf46-533a6560a3ca.json) | [494ae006-db33-4328-bf46-533a6560a3ca](roles/494ae006-db33-4328-bf46-533a6560a3ca.json) |
 | [Site Recovery Reader](roles/dbaa88c4-0c30-4179-9fb3-46319faa6149.json) | [dbaa88c4-0c30-4179-9fb3-46319faa6149](roles/dbaa88c4-0c30-4179-9fb3-46319faa6149.json) |
-| [Sites Owner](roles/1cd7e4da-2789-457f-adbe-3e9e84037a93.json) | [1cd7e4da-2789-457f-adbe-3e9e84037a93](roles/1cd7e4da-2789-457f-adbe-3e9e84037a93.json) |
-| [Sites Reader](roles/59f98be6-0817-488b-831e-36a353c8000b.json) | [59f98be6-0817-488b-831e-36a353c8000b](roles/59f98be6-0817-488b-831e-36a353c8000b.json) |
 | [Spatial Anchors Account Contributor](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) | [8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) |
 | [Spatial Anchors Account Owner](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) | [70bbe301-9835-447d-afdd-19eb3167307c](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) |
 | [Spatial Anchors Account Reader](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) | [5d51204f-eb77-4b1c-b86a-2ec626c49413](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) |

@@ -1,0 +1,20 @@
+{
+  "Name": "Liftr PureStorage Owner role",
+  "Id": "85546f1f-f28b-4cb3-b852-73e422a96897",
+  "IsCustom": false,
+  "Description": "Provides access to all PureStorage related operations",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "PureStorage.Block/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

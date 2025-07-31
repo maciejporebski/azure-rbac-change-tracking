@@ -503,7 +503,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Landing Zone Account Reader](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) | [2718b1f7-eb07-424e-8868-0137541392a1](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) |
 | [Landing Zone Management Owner](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) | [38863829-c2a4-4f8d-b1d2-2e325973ebc7](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) |
 | [Landing Zone Management Reader](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) | [8fe6e843-6d9e-417b-9073-106b048f50bb](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) |
+| [Liftr Dell Owner role](roles/d683b71b-2b91-4fc1-a43e-b53b3d85bed9.json) | [d683b71b-2b91-4fc1-a43e-b53b3d85bed9](roles/d683b71b-2b91-4fc1-a43e-b53b3d85bed9.json) |
 | [Liftr Elastic Owner](roles/225efd4d-4ca0-42a1-ae53-5f233ba23c73.json) | [225efd4d-4ca0-42a1-ae53-5f233ba23c73](roles/225efd4d-4ca0-42a1-ae53-5f233ba23c73.json) |
+| [Liftr PureStorage Owner role](roles/85546f1f-f28b-4cb3-b852-73e422a96897.json) | [85546f1f-f28b-4cb3-b852-73e422a96897](roles/85546f1f-f28b-4cb3-b852-73e422a96897.json) |
 | [Load Test Contributor](roles/749a398d-560b-491b-bb21-08924219302e.json) | [749a398d-560b-491b-bb21-08924219302e](roles/749a398d-560b-491b-bb21-08924219302e.json) |
 | [Load Test Owner](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) | [45bb0b16-2f0c-4e78-afaa-a07599b003f6](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) |
 | [Load Test Reader](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) | [3ae3fb29-0000-4ccd-bf80-542e7b26e081](roles/3ae3fb29-0000-4ccd-bf80-542e7b26e081.json) |
@@ -641,6 +643,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Site Recovery Contributor](roles/6670b86e-a3f7-4917-ac9b-5d6ab1be4567.json) | [6670b86e-a3f7-4917-ac9b-5d6ab1be4567](roles/6670b86e-a3f7-4917-ac9b-5d6ab1be4567.json) |
 | [Site Recovery Operator](roles/494ae006-db33-4328-bf46-533a6560a3ca.json) | [494ae006-db33-4328-bf46-533a6560a3ca](roles/494ae006-db33-4328-bf46-533a6560a3ca.json) |
 | [Site Recovery Reader](roles/dbaa88c4-0c30-4179-9fb3-46319faa6149.json) | [dbaa88c4-0c30-4179-9fb3-46319faa6149](roles/dbaa88c4-0c30-4179-9fb3-46319faa6149.json) |
+| [Sites Owner](roles/1cd7e4da-2789-457f-adbe-3e9e84037a93.json) | [1cd7e4da-2789-457f-adbe-3e9e84037a93](roles/1cd7e4da-2789-457f-adbe-3e9e84037a93.json) |
+| [Sites Reader](roles/59f98be6-0817-488b-831e-36a353c8000b.json) | [59f98be6-0817-488b-831e-36a353c8000b](roles/59f98be6-0817-488b-831e-36a353c8000b.json) |
 | [Spatial Anchors Account Contributor](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) | [8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827](roles/8bbe83f1-e2a6-4df7-8cb4-4e04d4e5c827.json) |
 | [Spatial Anchors Account Owner](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) | [70bbe301-9835-447d-afdd-19eb3167307c](roles/70bbe301-9835-447d-afdd-19eb3167307c.json) |
 | [Spatial Anchors Account Reader](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) | [5d51204f-eb77-4b1c-b86a-2ec626c49413](roles/5d51204f-eb77-4b1c-b86a-2ec626c49413.json) |
@@ -681,6 +685,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Stream Analytics Query Tester](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) | [1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) |
 | [Stream Analytics Reader](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) | [1dfc38e8-6ce7-447f-807c-029c65262c5f](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) |
 | [Support Request Contributor](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) | [cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) |
+| [SupportPlan Contributor](roles/6d6f52ba-a7de-4c56-a58f-522154514fba.json) | [6d6f52ba-a7de-4c56-a58f-522154514fba](roles/6d6f52ba-a7de-4c56-a58f-522154514fba.json) |
 | [Tag Contributor](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) | [4a9ae827-6dc8-4573-8ac7-8239d42aa03f](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) |
 | [Template Spec Contributor](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) | [1c9b6475-caf0-4164-b5a1-2142a7116f4b](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) |
 | [Template Spec Reader](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) | [392ae280-861d-42bd-9ea5-08ee6d83b80e](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) |

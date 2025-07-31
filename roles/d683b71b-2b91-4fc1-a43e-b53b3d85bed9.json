@@ -1,0 +1,20 @@
+{
+  "Name": "Liftr Dell Owner role",
+  "Id": "d683b71b-2b91-4fc1-a43e-b53b3d85bed9",
+  "IsCustom": false,
+  "Description": "Provides access to all Dell related operations",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Dell.Storage/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

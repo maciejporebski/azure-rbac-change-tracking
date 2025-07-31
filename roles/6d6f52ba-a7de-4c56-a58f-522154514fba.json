@@ -1,0 +1,21 @@
+{
+  "Name": "SupportPlan Contributor",
+  "Id": "6d6f52ba-a7de-4c56-a58f-522154514fba",
+  "IsCustom": false,
+  "Description": "Contributor role for Enterprise Support Resource Provider",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.EnterpriseSupport/services/delete",
+    "Microsoft.EnterpriseSupport/services/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

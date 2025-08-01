@@ -203,6 +203,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Apps Job Log Reader Role](roles/b459aa1d-e3c8-436f-ae21-c0531140f43e.json) | [b459aa1d-e3c8-436f-ae21-c0531140f43e](roles/b459aa1d-e3c8-436f-ae21-c0531140f43e.json) |
 | [Azure Spring Apps Managed Components Log Reader Role](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) | [52fd16bd-6ed5-46af-9c40-29cbd7952a29](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) |
 | [Azure Spring Apps Remote Debugging Role](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) | [a99b0159-1064-4c22-a57b-c9b3caa1c054](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) |
+| [Azure Spring Apps Service Owner](roles/4037dd68-1cc7-4a64-8765-3a79963a9940.json) | [4037dd68-1cc7-4a64-8765-3a79963a9940](roles/4037dd68-1cc7-4a64-8765-3a79963a9940.json) |
 | [Azure Spring Apps Spring Cloud Config Server Log Reader Role](roles/74252426-c508-480e-9345-4607bbebead4.json) | [74252426-c508-480e-9345-4607bbebead4](roles/74252426-c508-480e-9345-4607bbebead4.json) |
 | [Azure Spring Apps Spring Cloud Gateway Log Reader Role](roles/4301dc2a-25a9-44b0-ae63-3636cf7f2bd2.json) | [4301dc2a-25a9-44b0-ae63-3636cf7f2bd2](roles/4301dc2a-25a9-44b0-ae63-3636cf7f2bd2.json) |
 | [Azure Spring Cloud Config Server Contributor](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) | [a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) |

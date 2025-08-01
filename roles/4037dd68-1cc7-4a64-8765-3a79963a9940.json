@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Spring Apps Service Owner",
+  "Id": "4037dd68-1cc7-4a64-8765-3a79963a9940",
+  "IsCustom": false,
+  "Description": "Full access to Azure Spring Apps Service REST APIs",
+  "Actions": [
+    "Microsoft.AppPlatform/Spring/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.AppPlatform/Spring/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

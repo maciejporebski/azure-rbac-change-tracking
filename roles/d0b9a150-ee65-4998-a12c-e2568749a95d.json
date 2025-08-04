@@ -1,0 +1,17 @@
+{
+  "Name": "Neon Postgres Service Role for Production",
+  "Id": "d0b9a150-ee65-4998-a12c-e2568749a95d",
+  "IsCustom": false,
+  "Description": "Neon Postgres Service Role for Production",
+  "Actions": [
+    "Neon.Postgres/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

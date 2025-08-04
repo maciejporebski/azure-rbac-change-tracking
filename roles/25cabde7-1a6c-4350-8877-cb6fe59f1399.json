@@ -1,0 +1,22 @@
+{
+  "Name": "Azure AI Enterprise Networking Outbound Rules Operator",
+  "Id": "25cabde7-1a6c-4350-8877-cb6fe59f1399",
+  "IsCustom": false,
+  "Description": "A Built-in role that can authorize users to access and update the managed network settings of a machine learning workspace.",
+  "Actions": [
+    "Microsoft.MachineLearningServices/workspaces/managedNetworks/read",
+    "Microsoft.MachineLearningServices/workspaces/managedNetworks/write",
+    "Microsoft.MachineLearningServices/workspaces/managedNetworks/outboundRules/read",
+    "Microsoft.MachineLearningServices/workspaces/managedNetworks/outboundRules/write",
+    "Microsoft.MachineLearningServices/workspaces/managedNetworks/outboundRules/delete",
+    "Microsoft.MachineLearningServices/workspaces/managedNetworks/batchOutboundRules/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

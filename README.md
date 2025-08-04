@@ -19,6 +19,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AgFood Platform Service Admin](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) | [f8da80de-1ff9-4747-ad80-a19b7f6079e3](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) |
 | [AgFood Platform Service Contributor](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) | [8508508a-4469-4e45-963b-2518ee0bb728](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) |
 | [AgFood Platform Service Reader](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) | [7ec7ccdc-f61e-41fe-9aaf-980df0a44eba](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) |
+| [AI Model Scanner Operator](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) | [8b9beb50-e28c-4879-8472-24c9d328085f](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) |
 | [AnyBuild Builder](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) | [a2138dac-4907-4679-a376-736901ed8ad8](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) |
 | [API Management Developer Portal Content Editor](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) | [c031e6a8-4391-4de0-8d69-4706a7ed3729](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) |
 | [API Management Service Contributor](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) | [312a565d-c81f-4fd8-895a-4e21e48d571c](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) |
@@ -62,6 +63,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Administrator](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) | [b78c5d69-af96-48a3-bf8d-a8b4d589de94](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
+| [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
 | [Azure AI Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
@@ -93,6 +95,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Batch Service Orchestration Role](roles/a35466a1-cfd6-450a-b35e-683fcdf30363.json) | [a35466a1-cfd6-450a-b35e-683fcdf30363](roles/a35466a1-cfd6-450a-b35e-683fcdf30363.json) |
 | [Azure Bot Service Contributor Role](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) | [9fc6112f-f48e-4e27-8b09-72a5c94e4ae9](roles/9fc6112f-f48e-4e27-8b09-72a5c94e4ae9.json) |
 | [Azure Business Continuity DUPI Reader](roles/f4eb044f-76b9-47af-92f9-1d95c4c14ab5.json) | [f4eb044f-76b9-47af-92f9-1d95c4c14ab5](roles/f4eb044f-76b9-47af-92f9-1d95c4c14ab5.json) |
+| [Azure Business Continuity UPI Reader](roles/3b5a0aa9-eccd-48dc-9011-f2fd03b5e5f9.json) | [3b5a0aa9-eccd-48dc-9011-f2fd03b5e5f9](roles/3b5a0aa9-eccd-48dc-9011-f2fd03b5e5f9.json) |
 | [Azure Center for SAP solutions administrator](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) | [7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7](roles/7b0c7e81-271f-4c71-90bf-e30bdfdbc2f7.json) |
 | [Azure Center for SAP solutions Management role](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) | [6d949e1d-41e2-46e3-8920-c6e4f31a8310](roles/6d949e1d-41e2-46e3-8920-c6e4f31a8310.json) |
 | [Azure Center for SAP solutions reader](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) | [05352d14-a920-4328-a0de-4cbe7430e26b](roles/05352d14-a920-4328-a0de-4cbe7430e26b.json) |
@@ -203,6 +206,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Spring Apps Job Log Reader Role](roles/b459aa1d-e3c8-436f-ae21-c0531140f43e.json) | [b459aa1d-e3c8-436f-ae21-c0531140f43e](roles/b459aa1d-e3c8-436f-ae21-c0531140f43e.json) |
 | [Azure Spring Apps Managed Components Log Reader Role](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) | [52fd16bd-6ed5-46af-9c40-29cbd7952a29](roles/52fd16bd-6ed5-46af-9c40-29cbd7952a29.json) |
 | [Azure Spring Apps Remote Debugging Role](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) | [a99b0159-1064-4c22-a57b-c9b3caa1c054](roles/a99b0159-1064-4c22-a57b-c9b3caa1c054.json) |
+| [Azure Spring Apps Service Owner](roles/4037dd68-1cc7-4a64-8765-3a79963a9940.json) | [4037dd68-1cc7-4a64-8765-3a79963a9940](roles/4037dd68-1cc7-4a64-8765-3a79963a9940.json) |
 | [Azure Spring Apps Spring Cloud Config Server Log Reader Role](roles/74252426-c508-480e-9345-4607bbebead4.json) | [74252426-c508-480e-9345-4607bbebead4](roles/74252426-c508-480e-9345-4607bbebead4.json) |
 | [Azure Spring Apps Spring Cloud Gateway Log Reader Role](roles/4301dc2a-25a9-44b0-ae63-3636cf7f2bd2.json) | [4301dc2a-25a9-44b0-ae63-3636cf7f2bd2](roles/4301dc2a-25a9-44b0-ae63-3636cf7f2bd2.json) |
 | [Azure Spring Cloud Config Server Contributor](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) | [a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b](roles/a06f5c24-21a7-4e1a-aa2b-f19eb6684f5b.json) |
@@ -462,6 +466,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [HybridCompute Machine ListAccessDetails Action In-Built Role](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) | [e9701b4d-e6e7-4657-91cd-360a0881d224](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) |
 | [Impact Reader](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) | [68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) |
 | [Impact Reporter](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) | [36e80216-a7e8-4f42-a7e1-f12c98cbaf8a](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) |
+| [Informatica.DataManagement service role](roles/523d2d58-9c67-49a6-8151-4ba8dfeb9272.json) | [523d2d58-9c67-49a6-8151-4ba8dfeb9272](roles/523d2d58-9c67-49a6-8151-4ba8dfeb9272.json) |
 | [Integration Service Environment Contributor](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) | [a41e2c5b-bd99-4a07-88f4-9bf657a760b8](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) |
 | [Integration Service Environment Developer](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) | [c7aa55d3-1abb-444a-a5ca-5e51e485d6ec](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) |
 | [Intelligent Systems Account Contributor](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) | [03a6d094-3444-4b3d-88af-7477090a9e5e](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) |
@@ -503,8 +508,11 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Landing Zone Account Reader](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) | [2718b1f7-eb07-424e-8868-0137541392a1](roles/2718b1f7-eb07-424e-8868-0137541392a1.json) |
 | [Landing Zone Management Owner](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) | [38863829-c2a4-4f8d-b1d2-2e325973ebc7](roles/38863829-c2a4-4f8d-b1d2-2e325973ebc7.json) |
 | [Landing Zone Management Reader](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) | [8fe6e843-6d9e-417b-9073-106b048f50bb](roles/8fe6e843-6d9e-417b-9073-106b048f50bb.json) |
+| [Liftr Datadog Contributor](roles/81b67e46-ef5b-4404-bddd-090985bb4a28.json) | [81b67e46-ef5b-4404-bddd-090985bb4a28](roles/81b67e46-ef5b-4404-bddd-090985bb4a28.json) |
 | [Liftr Dell Owner role](roles/d683b71b-2b91-4fc1-a43e-b53b3d85bed9.json) | [d683b71b-2b91-4fc1-a43e-b53b3d85bed9](roles/d683b71b-2b91-4fc1-a43e-b53b3d85bed9.json) |
+| [Liftr Dynatrace Contributor](roles/fa96a588-3fac-4adb-bfb2-f8404ece07e0.json) | [fa96a588-3fac-4adb-bfb2-f8404ece07e0](roles/fa96a588-3fac-4adb-bfb2-f8404ece07e0.json) |
 | [Liftr Elastic Owner](roles/225efd4d-4ca0-42a1-ae53-5f233ba23c73.json) | [225efd4d-4ca0-42a1-ae53-5f233ba23c73](roles/225efd4d-4ca0-42a1-ae53-5f233ba23c73.json) |
+| [Liftr Newrelic Contributor](roles/a60da355-bdec-443f-8d42-a03f0422f04d.json) | [a60da355-bdec-443f-8d42-a03f0422f04d](roles/a60da355-bdec-443f-8d42-a03f0422f04d.json) |
 | [Liftr PureStorage Owner role](roles/85546f1f-f28b-4cb3-b852-73e422a96897.json) | [85546f1f-f28b-4cb3-b852-73e422a96897](roles/85546f1f-f28b-4cb3-b852-73e422a96897.json) |
 | [Load Test Contributor](roles/749a398d-560b-491b-bb21-08924219302e.json) | [749a398d-560b-491b-bb21-08924219302e](roles/749a398d-560b-491b-bb21-08924219302e.json) |
 | [Load Test Owner](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) | [45bb0b16-2f0c-4e78-afaa-a07599b003f6](roles/45bb0b16-2f0c-4e78-afaa-a07599b003f6.json) |
@@ -543,6 +551,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft.AzureStackHCI Device Pool Machine Manager](roles/b6d9c0f6-d69f-472b-91b4-7a6838c6d1cb.json) | [b6d9c0f6-d69f-472b-91b4-7a6838c6d1cb](roles/b6d9c0f6-d69f-472b-91b4-7a6838c6d1cb.json) |
 | [Microsoft.AzureStackHCI Device Pool Manager](roles/adc3c795-c41e-4a89-a478-0b321783324c.json) | [adc3c795-c41e-4a89-a478-0b321783324c](roles/adc3c795-c41e-4a89-a478-0b321783324c.json) |
 | [Microsoft.AzureStackHCI EdgeMachine Reader](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) | [5f569efd-4da5-4123-99cd-d42fbb2a836e](roles/5f569efd-4da5-4123-99cd-d42fbb2a836e.json) |
+| [Microsoft.Confluent service role](roles/4db34280-b0be-4827-aa5b-418391409cee.json) | [4db34280-b0be-4827-aa5b-418391409cee](roles/4db34280-b0be-4827-aa5b-418391409cee.json) |
 | [Microsoft.Edge Winfields federated subscription read access role](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) | [83ee7727-862c-4213-8ed8-2ce6c5d69a40](roles/83ee7727-862c-4213-8ed8-2ce6c5d69a40.json) |
 | [Microsoft.Kubernetes connected cluster role](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) | [5548b2cf-c94c-4228-90ba-30851930a12f](roles/5548b2cf-c94c-4228-90ba-30851930a12f.json) |
 | [Microsoft.OffAzureSpringBoot Service Owner](roles/79732128-7761-4733-aebf-35590da9f29b.json) | [79732128-7761-4733-aebf-35590da9f29b](roles/79732128-7761-4733-aebf-35590da9f29b.json) |
@@ -553,6 +562,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Monitoring Policy Contributor](roles/47be4a87-7950-4631-9daf-b664a405f074.json) | [47be4a87-7950-4631-9daf-b664a405f074](roles/47be4a87-7950-4631-9daf-b664a405f074.json) |
 | [Monitoring Reader](roles/43d0d8ad-25c7-4714-9337-8ba259a9fe05.json) | [43d0d8ad-25c7-4714-9337-8ba259a9fe05](roles/43d0d8ad-25c7-4714-9337-8ba259a9fe05.json) |
 | [MySQL Backup And Export Operator](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) | [d18ad5f3-1baf-4119-b49b-d944edb1f9d0](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) |
+| [Neon Postgres Service Role for Production](roles/d0b9a150-ee65-4998-a12c-e2568749a95d.json) | [d0b9a150-ee65-4998-a12c-e2568749a95d](roles/d0b9a150-ee65-4998-a12c-e2568749a95d.json) |
 | [Network Contributor](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) | [4d97b98b-1d4f-4787-a291-c67834d212e7](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) |
 | [New Relic APM Account Contributor](roles/5d28c62d-5b37-4476-8438-e587778df237.json) | [5d28c62d-5b37-4476-8438-e587778df237](roles/5d28c62d-5b37-4476-8438-e587778df237.json) |
 | [Nexus Identity Owner](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) | [374a1cc6-96cb-4946-8d8b-a41054c8ae97](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) |

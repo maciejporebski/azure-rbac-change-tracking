@@ -1,0 +1,17 @@
+{
+  "Name": "Microsoft.Confluent service role",
+  "Id": "4db34280-b0be-4827-aa5b-418391409cee",
+  "IsCustom": false,
+  "Description": "Microsoft.Confluent service role to access the resources of Microsoft.Confluent stored with RPSAAS.",
+  "Actions": [
+    "Microsoft.Confluent/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

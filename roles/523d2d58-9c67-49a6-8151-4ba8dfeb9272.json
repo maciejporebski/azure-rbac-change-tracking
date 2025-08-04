@@ -1,0 +1,17 @@
+{
+  "Name": "Informatica.DataManagement service role",
+  "Id": "523d2d58-9c67-49a6-8151-4ba8dfeb9272",
+  "IsCustom": false,
+  "Description": "Informatica.DataManagement service role to access the resources of Informatica.DataManagement stored with RPSAAS.",
+  "Actions": [
+    "Informatica.DataManagement/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -3,7 +3,13 @@
   "Id": "8b9beb50-e28c-4879-8472-24c9d328085f",
   "IsCustom": false,
   "Description": "Grants Microsoft Defender for AI access to AI services and resources.",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.MachineLearningServices/workspaces/read",
+    "Microsoft.MachineLearningServices/workspaces/models/read",
+    "Microsoft.MachineLearningServices/workspaces/models/versions/read",
+    "Microsoft.MachineLearningServices/workspaces/datastores/read",
+    "Microsoft.MachineLearningServices/workspaces/metadata/artifacts/read"
+  ],
   "NotActions": [],
   "DataActions": [],
   "NotDataActions": [],

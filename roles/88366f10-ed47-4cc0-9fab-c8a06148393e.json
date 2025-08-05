@@ -7,7 +7,6 @@
     "Microsoft.Compute/disks/delete",
     "Microsoft.Compute/disks/read",
     "Microsoft.Compute/disks/write",
-    "Microsoft.Compute/diskEncryptionSets/read",
     "Microsoft.Compute/availabilitySets/delete",
     "Microsoft.Compute/availabilitySets/read",
     "Microsoft.Compute/availabilitySets/write",

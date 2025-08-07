@@ -511,7 +511,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Liftr Datadog Contributor](roles/81b67e46-ef5b-4404-bddd-090985bb4a28.json) | [81b67e46-ef5b-4404-bddd-090985bb4a28](roles/81b67e46-ef5b-4404-bddd-090985bb4a28.json) |
 | [Liftr Dell Owner role](roles/d683b71b-2b91-4fc1-a43e-b53b3d85bed9.json) | [d683b71b-2b91-4fc1-a43e-b53b3d85bed9](roles/d683b71b-2b91-4fc1-a43e-b53b3d85bed9.json) |
 | [Liftr Dynatrace Contributor](roles/fa96a588-3fac-4adb-bfb2-f8404ece07e0.json) | [fa96a588-3fac-4adb-bfb2-f8404ece07e0](roles/fa96a588-3fac-4adb-bfb2-f8404ece07e0.json) |
-| [Liftr Elastic Contributor](roles/d68eeb8d-afae-4932-a331-203b7957e509.json) | [d68eeb8d-afae-4932-a331-203b7957e509](roles/d68eeb8d-afae-4932-a331-203b7957e509.json) |
 | [Liftr Elastic Owner](roles/225efd4d-4ca0-42a1-ae53-5f233ba23c73.json) | [225efd4d-4ca0-42a1-ae53-5f233ba23c73](roles/225efd4d-4ca0-42a1-ae53-5f233ba23c73.json) |
 | [Liftr Newrelic Contributor](roles/a60da355-bdec-443f-8d42-a03f0422f04d.json) | [a60da355-bdec-443f-8d42-a03f0422f04d](roles/a60da355-bdec-443f-8d42-a03f0422f04d.json) |
 | [Liftr PureStorage Owner role](roles/85546f1f-f28b-4cb3-b852-73e422a96897.json) | [85546f1f-f28b-4cb3-b852-73e422a96897](roles/85546f1f-f28b-4cb3-b852-73e422a96897.json) |
@@ -570,7 +569,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Nexus Network Fabric Owner](roles/46c70067-0f50-457f-8137-2449c90de518.json) | [46c70067-0f50-457f-8137-2449c90de518](roles/46c70067-0f50-457f-8137-2449c90de518.json) |
 | [Nexus Network Fabric Service Reader](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) | [05fdd44c-adc6-4aff-981c-61041f0c929a](roles/05fdd44c-adc6-4aff-981c-61041f0c929a.json) |
 | [Nexus Network Fabric Service Writer](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) | [a5eb8433-97a5-4a06-80b2-a877e1622c31](roles/a5eb8433-97a5-4a06-80b2-a877e1622c31.json) |
-| [NginxPlus Contributor service role](roles/61aed14c-6c9a-4ed5-aa44-49fc5e96a167.json) | [61aed14c-6c9a-4ed5-aa44-49fc5e96a167](roles/61aed14c-6c9a-4ed5-aa44-49fc5e96a167.json) |
 | [Object Anchors Account Owner](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) | [ca0835dd-bacc-42dd-8ed2-ed5e7230d15b](roles/ca0835dd-bacc-42dd-8ed2-ed5e7230d15b.json) |
 | [Object Anchors Account Reader](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) | [4a167cdf-cb95-4554-9203-2347fe489bd9](roles/4a167cdf-cb95-4554-9203-2347fe489bd9.json) |
 | [Object Understanding Account Owner](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) | [4dd61c23-6743-42fe-a388-d8bdd41cb745](roles/4dd61c23-6743-42fe-a388-d8bdd41cb745.json) |

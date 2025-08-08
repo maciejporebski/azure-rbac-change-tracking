@@ -1,0 +1,26 @@
+{
+  "Name": "LambdaTest.HyperExecute Contributor Role",
+  "Id": "44a00263-b2a0-45d5-a618-5d8d11709349",
+  "IsCustom": false,
+  "Description": "Provides access to all LambdaTest.HyperExecute related operations",
+  "Actions": [
+    "LambdaTest.HyperExecute/checkNameAvailability/action",
+    "LambdaTest.HyperExecute/register/action",
+    "LambdaTest.HyperExecute/unregister/action",
+    "LambdaTest.HyperExecute/locations/operationStatuses/read",
+    "LambdaTest.HyperExecute/locations/operationStatuses/write",
+    "LambdaTest.HyperExecute/operations/read",
+    "LambdaTest.HyperExecute/organizations/read",
+    "LambdaTest.HyperExecute/organizations/write",
+    "LambdaTest.HyperExecute/organizations/delete",
+    "LambdaTest.HyperExecute/registeredSubscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

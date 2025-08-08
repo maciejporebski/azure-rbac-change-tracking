@@ -1,0 +1,26 @@
+{
+  "Name": "Pinecone.VectorDb Contributor Role",
+  "Id": "dd799a69-ffc8-4aa8-9701-b51f686857d9",
+  "IsCustom": false,
+  "Description": "Provides access to all Pinecone.VectorDb related operations",
+  "Actions": [
+    "Pinecone.VectorDb/checkNameAvailability/action",
+    "Pinecone.VectorDb/register/action",
+    "Pinecone.VectorDb/unregister/action",
+    "Pinecone.VectorDb/locations/operationStatuses/read",
+    "Pinecone.VectorDb/locations/operationStatuses/write",
+    "Pinecone.VectorDb/operations/read",
+    "Pinecone.VectorDb/organizations/read",
+    "Pinecone.VectorDb/organizations/write",
+    "Pinecone.VectorDb/organizations/delete",
+    "Pinecone.VectorDb/registeredSubscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

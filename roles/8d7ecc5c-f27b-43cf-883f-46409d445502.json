@@ -5,6 +5,7 @@
   "Description": "Can read all issues data and update issues settings.",
   "Actions": [
     "Microsoft.AlertsManagement/Issues/*",
+    "microsoft.monitor/accounts/issues/*",
     "Microsoft.Insights/components/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",

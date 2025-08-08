@@ -1,0 +1,26 @@
+{
+  "Name": "Microsoft.WeightsAndBiases Contributor Role",
+  "Id": "246fffca-69ee-4945-bbf1-2a867dce4fda",
+  "IsCustom": false,
+  "Description": "Provides access to all Microsoft.WeightsAndBiases related operations",
+  "Actions": [
+    "Microsoft.WeightsAndBiases/checkNameAvailability/action",
+    "Microsoft.WeightsAndBiases/register/action",
+    "Microsoft.WeightsAndBiases/unregister/action",
+    "Microsoft.WeightsAndBiases/instances/read",
+    "Microsoft.WeightsAndBiases/instances/write",
+    "Microsoft.WeightsAndBiases/instances/delete",
+    "Microsoft.WeightsAndBiases/locations/operationStatuses/read",
+    "Microsoft.WeightsAndBiases/locations/operationStatuses/write",
+    "Microsoft.WeightsAndBiases/operations/read",
+    "Microsoft.WeightsAndBiases/registeredSubscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

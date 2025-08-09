@@ -5,14 +5,14 @@
   "Description": "Grants full access to manage all Batch resources, including Batch accounts, pools and jobs.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Batch/*",
+    "Microsoft.Batch/batchAccounts/*",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.Batch/*"
+    "Microsoft.Batch/batchAccounts/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

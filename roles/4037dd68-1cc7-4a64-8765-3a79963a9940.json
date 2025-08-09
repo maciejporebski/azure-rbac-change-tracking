@@ -4,11 +4,11 @@
   "IsCustom": false,
   "Description": "Full access to Azure Spring Apps Service REST APIs",
   "Actions": [
-    "Microsoft.AppPlatform/*"
+    "Microsoft.AppPlatform/Spring/*"
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.AppPlatform/*"
+    "Microsoft.AppPlatform/Spring/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

@@ -4,7 +4,7 @@
   "IsCustom": false,
   "Description": "Full access to Azure Microsoft.OffAzureSpringBoot Service REST APIs",
   "Actions": [
-    "Microsoft.OffAzureSpringBoot/springbootsites/*"
+    "Microsoft.OffAzureSpringBoot/*"
   ],
   "NotActions": [],
   "DataActions": [],

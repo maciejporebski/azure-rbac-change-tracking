@@ -4,13 +4,12 @@
   "IsCustom": false,
   "Description": "Lets you view all resources including pools and jobs in the Batch account.",
   "Actions": [
-    "Microsoft.Batch/batchAccounts/read",
-    "Microsoft.Batch/batchAccounts/*/read",
+    "Microsoft.Batch/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.Batch/batchAccounts/*/read"
+    "Microsoft.Batch/*/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

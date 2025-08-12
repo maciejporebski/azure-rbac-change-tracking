@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Resilience Management Drills Reader",
+  "Id": "d2e8fe82-9212-490f-af3e-34bb52d87d3d",
+  "IsCustom": false,
+  "Description": "Reader Role of Azure Resilience Management Drills Service",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.AzureResilienceManagement/drills/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

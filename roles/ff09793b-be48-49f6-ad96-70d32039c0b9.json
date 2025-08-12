@@ -1,0 +1,26 @@
+{
+  "Name": "Azure Resilience Management Drills Operator",
+  "Id": "ff09793b-be48-49f6-ad96-70d32039c0b9",
+  "IsCustom": false,
+  "Description": "Operator Role of Azure Resilience Management Drills Service",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.AzureResilienceManagement/drills/*/action",
+    "Microsoft.AzureResilienceManagement/drills/*/read",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",
+    "Microsoft.Insights/alertRules/",
+    "Microsoft.Monitor/accounts/read",
+    "Microsoft.Monitor/slis/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

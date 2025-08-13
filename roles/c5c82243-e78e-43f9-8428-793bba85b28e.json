@@ -1,0 +1,15 @@
+{
+  "Name": "Defender For Container Registries Operator",
+  "Id": "c5c82243-e78e-43f9-8428-793bba85b28e",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for Cloud access to Azure Container Registries",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

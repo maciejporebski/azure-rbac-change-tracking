@@ -1,0 +1,34 @@
+{
+  "Name": "Change Safety Contributor",
+  "Id": "fdb3df26-8dd6-49ff-9a74-e95dbfadcad3",
+  "IsCustom": false,
+  "Description": "Grants access to manage all Microsoft.ChangeSafety resources.",
+  "Actions": [
+    "Microsoft.ChangeSafety/changeStates/read",
+    "Microsoft.ChangeSafety/changeStates/write",
+    "Microsoft.ChangeSafety/changeStates/delete",
+    "Microsoft.ChangeSafety/changeStates/stageProgressions/read",
+    "Microsoft.ChangeSafety/changeStates/stageProgressions/write",
+    "Microsoft.ChangeSafety/changeStates/stageProgressions/delete",
+    "Microsoft.ChangeSafety/locations/operationstatuses/read",
+    "Microsoft.ChangeSafety/locations/operationstatuses/write",
+    "Microsoft.ChangeSafety/safeRollouts/read",
+    "Microsoft.ChangeSafety/safeRollouts/write",
+    "Microsoft.ChangeSafety/safeRollouts/delete",
+    "Microsoft.ChangeSafety/safeRollouts/steps/read",
+    "Microsoft.ChangeSafety/stageMaps/read",
+    "Microsoft.ChangeSafety/stageMaps/write",
+    "Microsoft.ChangeSafety/stageMaps/delete",
+    "Microsoft.ChangeSafety/validations/read",
+    "Microsoft.ChangeSafety/validations/write",
+    "Microsoft.ChangeSafety/validations/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

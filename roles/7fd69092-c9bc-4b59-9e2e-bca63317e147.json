@@ -5,7 +5,9 @@
   "Description": "Allows the usage of SAS tokens for authentication.",
   "Actions": [],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.AppConfiguration/configurationStores/useSasAuth/action"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

@@ -5,9 +5,7 @@
   "Description": "Grants access to Serverless resources and thier connections",
   "Actions": [
     "microsoft.web/sites/publish/action",
-    "microsoft.web/sites/slots/publish/action",
-    "microsoft.web/sites/config/list/action",
-    "microsoft.web/sites/slots/config/list/action"
+    "microsoft.web/sites/slots/publish/action"
   ],
   "NotActions": [],
   "DataActions": [],

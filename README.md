@@ -136,6 +136,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Hybrid Database Administrator - Read Only Service Role](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) | [5d9c6a55-fc0e-4e21-ae6f-f7b095497342](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) |
 | [Azure impact-insight reader](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) | [dfb2f09d-25f8-4558-8986-497084006d7a](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) |
 | [Azure IoT Operations Administrator](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) | [5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) |
+| [Azure IoT Operations Diagnostic Platform 1p App Roles](roles/479333aa-46b6-4a12-b41a-40f6ca1c1eec.json) | [479333aa-46b6-4a12-b41a-40f6ca1c1eec](roles/479333aa-46b6-4a12-b41a-40f6ca1c1eec.json) |
 | [Azure IoT Operations Onboarding](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) | [7b7c71ed-33fa-4ed2-a91a-e56d5da260b5](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) |
 | [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
 | [Azure Kubernetes Fleet Manager Hub Agent Role](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) | [de2b316d-7a2c-4143-b4cd-c148f6a355a1](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) |

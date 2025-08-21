@@ -1,0 +1,17 @@
+{
+  "Name": "Clinical Coder Data User",
+  "Id": "d0a94e7a-d791-4571-b2e0-8bdd8f867544",
+  "IsCustom": false,
+  "Description": "Allows processing of health data in Clinical Coder",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthBot/healthBots/AIActions/ClinicalCoder/Process/Action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

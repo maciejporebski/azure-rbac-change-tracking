@@ -266,7 +266,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Classic Storage Account Key Operator Service Role](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) | [985d6b00-f706-48f5-a6fe-d0ca12fb668d](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) |
 | [Classic Virtual Machine Contributor](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) | [d73bb868-a0df-4d4d-bd69-98a00b01fccb](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) |
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
-| [Clinical Coder Data User](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) | [d0a94e7a-d791-4571-b2e0-8bdd8f867544](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) |
 | [CloudTest Contributor Role](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) | [4e9d0bd4-5aab-4f91-92df-9def33fe287c](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) |
 | [Cognitive Search Serverless Data Contributor (Deprecated)](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
 | [Cognitive Search Serverless Data Reader (Deprecated)](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) | [79b01272-bf9f-4f4c-9517-5506269cf524](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) |
@@ -574,6 +573,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Monitoring Policy Contributor](roles/47be4a87-7950-4631-9daf-b664a405f074.json) | [47be4a87-7950-4631-9daf-b664a405f074](roles/47be4a87-7950-4631-9daf-b664a405f074.json) |
 | [Monitoring Reader](roles/43d0d8ad-25c7-4714-9337-8ba259a9fe05.json) | [43d0d8ad-25c7-4714-9337-8ba259a9fe05](roles/43d0d8ad-25c7-4714-9337-8ba259a9fe05.json) |
 | [MySQL Backup And Export Operator](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) | [d18ad5f3-1baf-4119-b49b-d944edb1f9d0](roles/d18ad5f3-1baf-4119-b49b-d944edb1f9d0.json) |
+| [Neon Postgres Service Role for Production](roles/d0b9a150-ee65-4998-a12c-e2568749a95d.json) | [d0b9a150-ee65-4998-a12c-e2568749a95d](roles/d0b9a150-ee65-4998-a12c-e2568749a95d.json) |
 | [Network Contributor](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) | [4d97b98b-1d4f-4787-a291-c67834d212e7](roles/4d97b98b-1d4f-4787-a291-c67834d212e7.json) |
 | [New Relic APM Account Contributor](roles/5d28c62d-5b37-4476-8438-e587778df237.json) | [5d28c62d-5b37-4476-8438-e587778df237](roles/5d28c62d-5b37-4476-8438-e587778df237.json) |
 | [Nexus Identity Owner](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) | [374a1cc6-96cb-4946-8d8b-a41054c8ae97](roles/374a1cc6-96cb-4946-8d8b-a41054c8ae97.json) |

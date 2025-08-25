@@ -7,7 +7,9 @@
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Compute/disks/write",
-    "Microsoft.Compute/disks/read"
+    "Microsoft.Compute/disks/read",
+    "Microsoft.Compute/disks/beginGetAccess/action",
+    "Microsoft.Compute/disks/endGetAccess/action"
   ],
   "NotActions": [],
   "DataActions": [],

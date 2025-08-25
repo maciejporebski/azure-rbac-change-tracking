@@ -1,5 +1,5 @@
 {
-  "Name": "Azure Business Continuity DUPI Reader",
+  "Name": "Azure Business Continuity DUPI Reader",
   "Id": "f4eb044f-76b9-47af-92f9-1d95c4c14ab5",
   "IsCustom": false,
   "Description": "Lets you view Deleted Unified Protected items in Azure Business Continuity Center.",

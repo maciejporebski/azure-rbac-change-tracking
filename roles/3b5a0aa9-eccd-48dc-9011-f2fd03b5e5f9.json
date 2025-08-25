@@ -1,5 +1,5 @@
 {
-  "Name": "Azure Business Continuity UPI Reader",
+  "Name": "Azure Business Continuity UPI Reader",
   "Id": "3b5a0aa9-eccd-48dc-9011-f2fd03b5e5f9",
   "IsCustom": false,
   "Description": "Lets you view Unified Protected items in Azure Business Continuity Center.",

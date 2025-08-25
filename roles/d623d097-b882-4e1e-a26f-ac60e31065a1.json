@@ -19,8 +19,7 @@
     "Microsoft.Resources/deployments/*/read",
     "Microsoft.Network/virtualNetworks/subnets/read",
     "Microsoft.Network/virtualNetworks/read",
-    "Microsoft.Network/locations/operations/read",
-    "Microsoft.Resources/deployments/*"
+    "Microsoft.Network/locations/operations/read"
   ],
   "NotActions": [],
   "DataActions": [],

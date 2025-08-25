@@ -6,13 +6,25 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.HealthBot/healthBots/*/Read",
-    "Microsoft.HealthBot/healthBots/Reader/Action"
+    "Microsoft.HealthBot/healthBots/ResourceData/Read",
+    "Microsoft.HealthBot/healthBots/Metadata/Read",
+    "Microsoft.HealthBot/healthBots/CopilotStudioSolution/RestoreBuiltinTemplate/Read",
+    "Microsoft.HealthBot/healthBots/Feedback/Read",
+    "Microsoft.HealthBot/healthBots/Users/Read",
+    "Microsoft.HealthBot/healthBots/AuditTrails/Read",
+    "Microsoft.HealthBot/healthBots/AnalyticReport/Read",
+    "Microsoft.HealthBot/healthBots/ExposedSkill/Read",
+    "Microsoft.HealthBot/healthBots/RegisteredSkills/Read",
+    "Microsoft.HealthBot/healthBots/Configuration/Read",
+    "Microsoft.HealthBot/healthBots/Localization/Read",
+    "Microsoft.HealthBot/healthBots/AuthenticationProviders/Read",
+    "Microsoft.HealthBot/healthBots/DataConnections/Read",
+    "Microsoft.HealthBot/healthBots/OpenAPIPlugins/Read",
+    "Microsoft.HealthBot/healthBots/Scenarios/*/Read",
+    "Microsoft.HealthBot/healthBots/LanguageModels/Read",
+    "Microsoft.HealthBot/healthBots/Resources/Files/Read"
   ],
-  "NotDataActions": [
-    "Microsoft.HealthBot/healthBots/Admin/*",
-    "Microsoft.HealthBot/healthBots/HealthSafeguards/*"
-  ],
+  "NotDataActions": [],
   "AssignableScopes": [
     "/"
   ],

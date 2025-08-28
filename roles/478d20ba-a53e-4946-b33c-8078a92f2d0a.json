@@ -1,0 +1,24 @@
+{
+  "Name": "Azure Local Disconnected Operations Role",
+  "Id": "478d20ba-a53e-4946-b33c-8078a92f2d0a",
+  "IsCustom": false,
+  "Description": "Azure Local Disconnected Operations Role",
+  "Actions": [
+    "Microsoft.Edge/disconnectedOperations/*/read",
+    "Microsoft.Edge/disconnectedOperations/*/write",
+    "Microsoft.Edge/disconnectedOperations/*/delete",
+    "Microsoft.Edge/winfields/*/read",
+    "Microsoft.Edge/winfields/*/write",
+    "Microsoft.Edge/winfields/*/delete",
+    "Microsoft.Edge/winfields/*/action",
+    "Microsoft.Edge/disconnectedOperations/*/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Garnet Script Data Contributor",
+  "Id": "7021ea36-e168-4bc0-af53-88de51d20665",
+  "IsCustom": false,
+  "Description": "Allows execution and management of scripts on the Garnet resource",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DocumentDB/garnetClusters/acl/clientid/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/clientinfo/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/configget/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/echo/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/info/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/keyslot/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/nodes/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/ping/read",
+    "Microsoft.DocumentDB/garnetClusters/acl/scripteval/action",
+    "Microsoft.DocumentDB/garnetClusters/acl/scriptevalsha/action",
+    "Microsoft.DocumentDB/garnetClusters/acl/scriptexists/action",
+    "Microsoft.DocumentDB/garnetClusters/acl/scriptflush/action",
+    "Microsoft.DocumentDB/garnetClusters/acl/scriptload/action",
+    "Microsoft.DocumentDB/garnetClusters/acl/slots/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

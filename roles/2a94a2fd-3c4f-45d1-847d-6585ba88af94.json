@@ -1,0 +1,25 @@
+{
+  "Name": "Firmware Analysis Reader",
+  "Id": "2a94a2fd-3c4f-45d1-847d-6585ba88af94",
+  "IsCustom": false,
+  "Description": "View firmware images but not upload them or perform any workspace configuration",
+  "Actions": [
+    "Microsoft.IoTFirmwareDefense/*/read",
+    "Microsoft.IoTFirmwareDefense/workspaces/firmwares/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [
+    "Microsoft.IoTFirmwareDefense/firmwareGroups/*",
+    "Microsoft.IoTFirmwareDefense/workspaces/firmwares/write",
+    "Microsoft.IoTFirmwareDefense/workspaces/firmwares/delete"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

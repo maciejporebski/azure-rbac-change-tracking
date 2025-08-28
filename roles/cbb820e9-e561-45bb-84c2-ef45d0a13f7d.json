@@ -1,0 +1,22 @@
+{
+  "Name": "Workload Orchestration Administrator",
+  "Id": "cbb820e9-e561-45bb-84c2-ef45d0a13f7d",
+  "IsCustom": false,
+  "Description": "Workload Orchestration Administrator Role",
+  "Actions": [
+    "Microsoft.Edge/contexts/*",
+    "Microsoft.Edge/configTemplates/*",
+    "Microsoft.Edge/solutionTemplates/*",
+    "Microsoft.Edge/configurations/*",
+    "Microsoft.Edge/schemas/*",
+    "Microsoft.Edge/targets/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

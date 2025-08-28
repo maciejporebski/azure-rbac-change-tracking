@@ -1,0 +1,17 @@
+{
+  "Name": "Garnet Data Owner",
+  "Id": "04f6c337-ffae-414c-b00f-3e80c9ab8a2c",
+  "IsCustom": false,
+  "Description": "Allows read, write, destructive and scripting actions on the Garnet resource",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DocumentDB/garnetClusters/acl/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

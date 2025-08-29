@@ -449,10 +449,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
 | [Firmware Analysis Reader](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) | [2a94a2fd-3c4f-45d1-847d-6585ba88af94](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) |
 | [Flux Configurations Contributor](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) | [61eb6405-5f4a-440b-ad03-fe06c5c85e44](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) |
-| [Garnet Data Contributor](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) | [1694e55a-2496-4d07-b005-7259aa3fcbe8](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) |
-| [Garnet Data Owner](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) | [04f6c337-ffae-414c-b00f-3e80c9ab8a2c](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) |
-| [Garnet Data Reader](roles/d9cd91b9-dada-4fa9-9406-454c4659c137.json) | [d9cd91b9-dada-4fa9-9406-454c4659c137](roles/d9cd91b9-dada-4fa9-9406-454c4659c137.json) |
-| [Garnet Script Data Contributor](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) | [7021ea36-e168-4bc0-af53-88de51d20665](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |

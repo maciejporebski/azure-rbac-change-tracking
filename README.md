@@ -341,7 +341,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |
 | [Cosmos DB Operator](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) | [230815da-be43-4aae-9cb4-875f7bd000aa](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) |
 | [CosmosBackupOperator](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) | [db7b14f2-5adf-42da-9f96-f2ee17bab5cb](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) |
-| [CosmosDB Fleet Analytics Storage Data](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) | [bf41e52e-617f-4981-8b7a-47431bd4e011](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) |
+| [CosmosDB Fleet Analytics Storage Data Writer](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) | [bf41e52e-617f-4981-8b7a-47431bd4e011](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) |
 | [CosmosDB Fleet Operator Role](roles/35ffec73-9cb8-4593-8718-40d5bc4b7f6f.json) | [35ffec73-9cb8-4593-8718-40d5bc4b7f6f](roles/35ffec73-9cb8-4593-8718-40d5bc4b7f6f.json) |
 | [CosmosRestoreOperator](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) | [5432c526-bc82-444a-b7ba-57c5b0b5b34f](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) |
 | [Cost Management Contributor](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) | [434105ed-43f6-45c7-a02f-909b2ba83430](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) |
@@ -364,7 +364,12 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [Defender Serverless Scanner](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) | [68ac31b4-936a-4046-a6d2-ba6f8a757bf6](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) |
+| [Defender Unified RBAC Authorization Manager](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) | [1fd5d8bf-9037-4ede-89bf-680f798e2765](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) |
+| [Defender Unified RBAC Authorization Reader](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) | [ca62263b-07d5-4b48-b437-088803f5c2ff](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) |
+| [Defender Unified RBAC Contributor and Responder](roles/625a1cea-653b-4a19-bd3a-df1d66ab6637.json) | [625a1cea-653b-4a19-bd3a-df1d66ab6637](roles/625a1cea-653b-4a19-bd3a-df1d66ab6637.json) |
 | [Defender Unified RBAC Data Manager](roles/40ead2a5-466e-4039-8a80-325542d9d2dd.json) | [40ead2a5-466e-4039-8a80-325542d9d2dd](roles/40ead2a5-466e-4039-8a80-325542d9d2dd.json) |
+| [Defender Unified RBAC Reader](roles/78b7345a-1e1b-483a-ac62-62228c6ea89d.json) | [78b7345a-1e1b-483a-ac62-62228c6ea89d](roles/78b7345a-1e1b-483a-ac62-62228c6ea89d.json) |
+| [Defender Unified RBAC Responder](roles/1bacae94-6c0f-4d2d-8dfa-408d5a28e6ec.json) | [1bacae94-6c0f-4d2d-8dfa-408d5a28e6ec](roles/1bacae94-6c0f-4d2d-8dfa-408d5a28e6ec.json) |
 | [DeID Batch Data Owner](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) | [8a90fa6b-6997-4a07-8a95-30633a7c97b9](roles/8a90fa6b-6997-4a07-8a95-30633a7c97b9.json) |
 | [DeID Batch Data Reader](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) | [b73a14ee-91f5-41b7-bd81-920e12466be9](roles/b73a14ee-91f5-41b7-bd81-920e12466be9.json) |
 | [DeID Data Owner](roles/78e4b983-1a0b-472e-8b7d-8d770f7c5890.json) | [78e4b983-1a0b-472e-8b7d-8d770f7c5890](roles/78e4b983-1a0b-472e-8b7d-8d770f7c5890.json) |
@@ -449,6 +454,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
 | [Firmware Analysis Reader](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) | [2a94a2fd-3c4f-45d1-847d-6585ba88af94](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) |
 | [Flux Configurations Contributor](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) | [61eb6405-5f4a-440b-ad03-fe06c5c85e44](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) |
+| [Garnet Data Contributor](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) | [1694e55a-2496-4d07-b005-7259aa3fcbe8](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) |
+| [Garnet Data Owner](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) | [04f6c337-ffae-414c-b00f-3e80c9ab8a2c](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) |
+| [Garnet Data Reader](roles/d9cd91b9-dada-4fa9-9406-454c4659c137.json) | [d9cd91b9-dada-4fa9-9406-454c4659c137](roles/d9cd91b9-dada-4fa9-9406-454c4659c137.json) |
+| [Garnet Script Data Contributor](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) | [7021ea36-e168-4bc0-af53-88de51d20665](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |

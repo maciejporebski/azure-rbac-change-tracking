@@ -1,10 +1,10 @@
 {
-  "Name": "CosmosDB Fleet Analytics Storage Data Writer",
+  "Name": "CosmosDB Fleet Analytics Storage Data",
   "Id": "bf41e52e-617f-4981-8b7a-47431bd4e011",
   "IsCustom": false,
-  "Description": "Write telemetry data from the Fleet Analytics Synapse workspace to customer-provided storage accounts or Fabric Lakehouses.",
+  "Description": "Write telemetry data from the Fleet Analytics Synapse workspace to customer-provided storage accounts",
   "Actions": [
-    "Microsoft.Storage/storageAccounts/blobServices/containers/write",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/delete",
     "Microsoft.Storage/storageAccounts/blobServices/containers/read"
   ],
   "NotActions": [],

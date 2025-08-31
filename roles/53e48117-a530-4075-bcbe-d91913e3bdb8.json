@@ -4,8 +4,7 @@
   "IsCustom": false,
   "Description": "Enables users access to Edge Management Copilot.",
   "Actions": [
-    "Microsoft.EdgeManagement/locations/chat/action",
-    "Microsoft.EdgeManagement/troubleshoot/action"
+    "Microsoft.EdgeManagement/locations/chat/action"
   ],
   "NotActions": [],
   "DataActions": [],

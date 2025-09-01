@@ -341,7 +341,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |
 | [Cosmos DB Operator](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) | [230815da-be43-4aae-9cb4-875f7bd000aa](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) |
 | [CosmosBackupOperator](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) | [db7b14f2-5adf-42da-9f96-f2ee17bab5cb](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) |
-| [CosmosDB Fleet Analytics Storage Data](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) | [bf41e52e-617f-4981-8b7a-47431bd4e011](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) |
+| [CosmosDB Fleet Analytics Storage Data Writer](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) | [bf41e52e-617f-4981-8b7a-47431bd4e011](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) |
 | [CosmosDB Fleet Operator Role](roles/35ffec73-9cb8-4593-8718-40d5bc4b7f6f.json) | [35ffec73-9cb8-4593-8718-40d5bc4b7f6f](roles/35ffec73-9cb8-4593-8718-40d5bc4b7f6f.json) |
 | [CosmosRestoreOperator](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) | [5432c526-bc82-444a-b7ba-57c5b0b5b34f](roles/5432c526-bc82-444a-b7ba-57c5b0b5b34f.json) |
 | [Cost Management Contributor](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) | [434105ed-43f6-45c7-a02f-909b2ba83430](roles/434105ed-43f6-45c7-a02f-909b2ba83430.json) |

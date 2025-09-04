@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Monitor Pipeline Contributor",
+  "Id": "679dc20a-52e8-4ac0-a23c-3b557dfb1e24",
+  "IsCustom": false,
+  "Description": "Manage Azure Monitor Pipeline resources, providing full read and write access to pipeline configurations and monitoring features.",
+  "Actions": [
+    "Microsoft.Monitor/pipelineGroups/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

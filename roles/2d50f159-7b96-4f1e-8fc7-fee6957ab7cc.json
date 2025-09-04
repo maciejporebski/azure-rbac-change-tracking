@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Monitor Pipeline Reader",
+  "Id": "2d50f159-7b96-4f1e-8fc7-fee6957ab7cc",
+  "IsCustom": false,
+  "Description": "Read Azure Monitor Pipeline resources, including pipeline configurations and monitoring features.",
+  "Actions": [
+    "Microsoft.Monitor/pipelineGroups/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Authorization/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

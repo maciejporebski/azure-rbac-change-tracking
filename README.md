@@ -174,8 +174,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Messaging Catalog Data Owner](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) | [f27b7598-bc64-41f7-8a44-855ff16326c2](roles/f27b7598-bc64-41f7-8a44-855ff16326c2.json) |
 | [Azure Messaging Connectors Owner](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) | [ff478a4e-8633-416e-91bc-ec33ce7c9516](roles/ff478a4e-8633-416e-91bc-ec33ce7c9516.json) |
 | [Azure Monitor Dashboards with Grafana Contributor](roles/0618ae3d-2930-4bb7-aa00-718db34ee9f9.json) | [0618ae3d-2930-4bb7-aa00-718db34ee9f9](roles/0618ae3d-2930-4bb7-aa00-718db34ee9f9.json) |
-| [Azure Monitor Pipeline Contributor](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) | [679dc20a-52e8-4ac0-a23c-3b557dfb1e24](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) |
-| [Azure Monitor Pipeline Reader](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) | [2d50f159-7b96-4f1e-8fc7-fee6957ab7cc](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure Red Hat OpenShift Cloud Controller Manager](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |

@@ -25,9 +25,7 @@
     "Microsoft.EventGrid/topics/read",
     "Microsoft.EventGrid/eventSubscriptions/read",
     "Microsoft.EventGrid/eventSubscriptions/write",
-    "Microsoft.EventGrid/eventSubscriptions/delete",
-    "Microsoft.Storage/storageAccounts/blobServices/read",
-    "Microsoft.Storage/storageAccounts/blobServices/write"
+    "Microsoft.EventGrid/eventSubscriptions/delete"
   ],
   "NotActions": [],
   "DataActions": [],

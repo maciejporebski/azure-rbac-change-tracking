@@ -8,11 +8,8 @@
     "Microsoft.Edge/configTemplates/*",
     "Microsoft.Edge/solutionTemplates/*",
     "Microsoft.Edge/configurations/*",
-    "Microsoft.Edge/configurationreferences/*",
     "Microsoft.Edge/schemas/*",
-    "Microsoft.Edge/schemaReferences/*",
-    "Microsoft.Edge/targets/*",
-    "Microsoft.Edge/jobs/*"
+    "Microsoft.Edge/targets/*"
   ],
   "NotActions": [],
   "DataActions": [],

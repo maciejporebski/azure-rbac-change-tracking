@@ -4,13 +4,15 @@
   "IsCustom": false,
   "Description": "Grants access to read blobs and update index tags. This role is used by the data scanner of Defender for Storage.",
   "Actions": [
-    "Microsoft.Storage/storageAccounts/blobServices/containers/read"
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/storageAccounts/blobServices/read"
   ],
   "NotActions": [],
   "DataActions": [
     "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read",
     "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/write",
-    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/read"
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

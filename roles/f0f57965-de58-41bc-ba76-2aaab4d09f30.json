@@ -1,0 +1,23 @@
+{
+  "Name": "Hybrid Connectivity contributor role",
+  "Id": "f0f57965-de58-41bc-ba76-2aaab4d09f30",
+  "IsCustom": false,
+  "Description": "Microsoft.HybridConnectivity contributor role",
+  "Actions": [
+    "Microsoft.HybridConnectivity/endpoints/listIngressGatewayCredentials/action",
+    "Microsoft.HybridConnectivity/publicCloudConnectors/delete",
+    "Microsoft.HybridConnectivity/publicCloudConnectors/testPermissions/action",
+    "Microsoft.HybridConnectivity/publicCloudConnectors/write",
+    "Microsoft.HybridConnectivity/solutionConfigurations/delete",
+    "Microsoft.HybridConnectivity/solutionConfigurations/syncNow/action",
+    "Microsoft.HybridConnectivity/solutionConfigurations/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -58,6 +58,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Avere Operator](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) | [c025889f-8102-4ebf-b32c-fc0c6f0c6bd9](roles/c025889f-8102-4ebf-b32c-fc0c6f0c6bd9.json) |
 | [AVS on Fleet VIS Role](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) | [49fc33c1-886f-4b21-a00e-1d9993234734](roles/49fc33c1-886f-4b21-a00e-1d9993234734.json) |
 | [AVS Orchestrator Role](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) | [d715fb95-a0f0-4f1c-8be6-5ad2d2767f67](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) |
+| [Aws Connector contributor role](roles/98c206fe-ea1b-4578-93f8-83a99a5628fc.json) | [98c206fe-ea1b-4578-93f8-83a99a5628fc](roles/98c206fe-ea1b-4578-93f8-83a99a5628fc.json) |
 | [Azure Advisor Service Role](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) | [69a41f41-6dce-4ea7-8a34-8e095ddba55c](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) |
 | [Azure AI Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
 | [Azure AI Administrator](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) | [b78c5d69-af96-48a3-bf8d-a8b4d589de94](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) |
@@ -422,6 +423,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Durable Task Data Reader](roles/d6a5505f-6ebb-45a4-896e-ac8274cfc0ac.json) | [d6a5505f-6ebb-45a4-896e-ac8274cfc0ac](roles/d6a5505f-6ebb-45a4-896e-ac8274cfc0ac.json) |
 | [Durable Task Worker](roles/80d0d6b0-f522-40a4-8886-a5a11720c375.json) | [80d0d6b0-f522-40a4-8886-a5a11720c375](roles/80d0d6b0-f522-40a4-8886-a5a11720c375.json) |
 | [Edge Management Copilot User](roles/53e48117-a530-4075-bcbe-d91913e3bdb8.json) | [53e48117-a530-4075-bcbe-d91913e3bdb8](roles/53e48117-a530-4075-bcbe-d91913e3bdb8.json) |
+| [Edge Order Partner Inventory Manager Service Role](roles/f24a559b-c2fc-4409-b96e-9af4b0c28ad6.json) | [f24a559b-c2fc-4409-b96e-9af4b0c28ad6](roles/f24a559b-c2fc-4409-b96e-9af4b0c28ad6.json) |
 | [Elastic SAN Network Admin](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) | [fa6cecf6-5db3-4c43-8470-c540bcb4eafa](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) |
 | [Elastic SAN Owner](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) | [80dcbedb-47ef-405d-95bd-188a1b4ac406](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) |
 | [Elastic SAN Reader](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) | [af6a70f8-3c9f-4105-acf1-d719e9fca4ca](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) |
@@ -483,6 +485,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Healthcare Agent Reader](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) | [eb5a76d5-50e7-4c33-a449-070e7c9c4cf2](roles/eb5a76d5-50e7-4c33-a449-070e7c9c4cf2.json) |
 | [Healthcare Apis contributor](roles/29f61507-bdfb-4987-b629-20033be2d6c3.json) | [29f61507-bdfb-4987-b629-20033be2d6c3](roles/29f61507-bdfb-4987-b629-20033be2d6c3.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
+| [Hybrid Connectivity contributor role](roles/f0f57965-de58-41bc-ba76-2aaab4d09f30.json) | [f0f57965-de58-41bc-ba76-2aaab4d09f30](roles/f0f57965-de58-41bc-ba76-2aaab4d09f30.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
 | [HybridCompute Machine ListAccessDetails Action In-Built Role](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) | [e9701b4d-e6e7-4657-91cd-360a0881d224](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) |
@@ -691,6 +694,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlDb Migration Role](roles/189207d4-bb67-4208-a635-b06afe8b2c57.json) | [189207d4-bb67-4208-a635-b06afe8b2c57](roles/189207d4-bb67-4208-a635-b06afe8b2c57.json) |
 | [SqlMI Migration Role](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) | [1d335eef-eee1-47fe-a9e0-53214eba8872](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) |
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
+| [SRE Agent Reader](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) | [a4b156ac-253f-4a1a-9851-96d62b71b047](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) |
 | [SSH PublicKeys Contributor Role](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) | [fc6e3395-6a8c-4527-bb4c-d0abd41e8e74](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) |
 | [SSH PublicKeys Reader Role](roles/31ef6312-5b0c-4ce9-8c5d-587a91344fe7.json) | [31ef6312-5b0c-4ce9-8c5d-587a91344fe7](roles/31ef6312-5b0c-4ce9-8c5d-587a91344fe7.json) |
 | [Standby Container Group Pool Contributor](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) | [39fcb0de-8844-4706-b050-c28ddbe3ff83](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) |

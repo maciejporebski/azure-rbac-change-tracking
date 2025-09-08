@@ -1,0 +1,23 @@
+{
+  "Name": "SRE Agent Reader",
+  "Id": "a4b156ac-253f-4a1a-9851-96d62b71b047",
+  "IsCustom": false,
+  "Description": "View all SRE Agent resources, but does not allow you to make any changes.",
+  "Actions": [
+    "Microsoft.App/agents/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/agents/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

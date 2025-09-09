@@ -1,0 +1,24 @@
+{
+  "Name": "Storage File Data SMB MI Admin",
+  "Id": "a235d3ee-5935-4cfb-8cc5-a3303ad5995e",
+  "IsCustom": false,
+  "Description": "Allows for admin-level access for managed identities on files/directories in Azure file shares.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/fileServices/readFileBackupSemantics/action",
+    "Microsoft.Storage/storageAccounts/fileServices/writeFileBackupSemantics/action",
+    "Microsoft.Storage/storageAccounts/fileServices/takeOwnership/action",
+    "Microsoft.Storage/storageAccounts/fileServices/runAsBuiltInFileAdministrator/action",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/write",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/delete",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/modifypermissions/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

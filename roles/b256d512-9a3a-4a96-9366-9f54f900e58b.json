@@ -1,0 +1,21 @@
+{
+  "Name": "Common Edge Admin",
+  "Id": "b256d512-9a3a-4a96-9366-9f54f900e58b",
+  "IsCustom": false,
+  "Description": "Common Edge Admin Role",
+  "Actions": [
+    "Microsoft.Edge/connectivityStatuses/delete",
+    "Microsoft.Edge/connectivityStatuses/write",
+    "Microsoft.Edge/locations/operationStatuses/write",
+    "Microsoft.Edge/updates/delete",
+    "Microsoft.Edge/updates/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

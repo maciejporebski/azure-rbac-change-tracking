@@ -1,0 +1,23 @@
+{
+  "Name": "SRE Agent Administrator",
+  "Id": "e79298df-d852-4c6d-84f9-5d13249d1e55",
+  "IsCustom": false,
+  "Description": "Full management of SRE Agent, including updating agent, chatting and execution of commands.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/agents/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/agents/*/read",
+    "Microsoft.App/agents/*/write",
+    "Microsoft.App/agents/threads/approve/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

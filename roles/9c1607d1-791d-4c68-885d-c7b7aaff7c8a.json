@@ -2,7 +2,7 @@
   "Name": "Firmware Analysis Admin",
   "Id": "9c1607d1-791d-4c68-885d-c7b7aaff7c8a",
   "IsCustom": false,
-  "Description": "Upload and analyze firmware images in Defender for IoT",
+  "Description": "Administrative user that can upload/view firmwares & configure firmware workspaces",
   "Actions": [
     "Microsoft.IoTFirmwareDefense/*",
     "Microsoft.Authorization/*/read",

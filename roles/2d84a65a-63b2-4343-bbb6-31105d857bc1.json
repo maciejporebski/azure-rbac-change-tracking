@@ -1,0 +1,22 @@
+{
+  "Name": "SRE Agent User",
+  "Id": "2d84a65a-63b2-4343-bbb6-31105d857bc1",
+  "IsCustom": false,
+  "Description": "User of SRE Agent including chatting with agent.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/agents/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/agents/*/read",
+    "Microsoft.App/agents/*/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

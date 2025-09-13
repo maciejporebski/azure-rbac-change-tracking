@@ -301,6 +301,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services User](roles/a97b65f3-24c7-4388-baec-2e87135dc908.json) | [a97b65f3-24c7-4388-baec-2e87135dc908](roles/a97b65f3-24c7-4388-baec-2e87135dc908.json) |
 | [Collaborative Data Contributor](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) | [daa9e50b-21df-454c-94a6-a8050adab352](roles/daa9e50b-21df-454c-94a6-a8050adab352.json) |
 | [Collaborative Runtime Operator](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) | [7a6f0e70-c033-4fb1-828c-08514e5f4102](roles/7a6f0e70-c033-4fb1-828c-08514e5f4102.json) |
+| [Common Edge Admin](roles/b256d512-9a3a-4a96-9366-9f54f900e58b.json) | [b256d512-9a3a-4a96-9366-9f54f900e58b](roles/b256d512-9a3a-4a96-9366-9f54f900e58b.json) |
 | [Communication and Email Service Owner](roles/09976791-48a7-449e-bb21-39d1a415f350.json) | [09976791-48a7-449e-bb21-39d1a415f350](roles/09976791-48a7-449e-bb21-39d1a415f350.json) |
 | [Community Contributor Role](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) | [49435da6-99fe-48a5-a235-fc668b9dc04a](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) |
 | [Community Owner Role](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) | [5e28a61e-8040-49db-b175-bb5b88af6239](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) |
@@ -457,6 +458,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR SMART User](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) | [4ba50f17-9666-485c-a643-ff00808643f0](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) |
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
 | [Firmware Analysis Reader](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) | [2a94a2fd-3c4f-45d1-847d-6585ba88af94](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) |
+| [Firmware Analysis User](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) | [53b2724d-1e51-44fa-b586-bcace0c82609](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) |
 | [Flux Configurations Contributor](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) | [61eb6405-5f4a-440b-ad03-fe06c5c85e44](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) |
 | [Garnet Data Contributor](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) | [1694e55a-2496-4d07-b005-7259aa3fcbe8](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) |
 | [Garnet Data Owner](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) | [04f6c337-ffae-414c-b00f-3e80c9ab8a2c](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) |
@@ -694,7 +696,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlDb Migration Role](roles/189207d4-bb67-4208-a635-b06afe8b2c57.json) | [189207d4-bb67-4208-a635-b06afe8b2c57](roles/189207d4-bb67-4208-a635-b06afe8b2c57.json) |
 | [SqlMI Migration Role](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) | [1d335eef-eee1-47fe-a9e0-53214eba8872](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) |
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
+| [SRE Agent Administrator](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) | [e79298df-d852-4c6d-84f9-5d13249d1e55](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) |
 | [SRE Agent Reader](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) | [a4b156ac-253f-4a1a-9851-96d62b71b047](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) |
+| [SRE Agent User](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) | [2d84a65a-63b2-4343-bbb6-31105d857bc1](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) |
 | [SSH PublicKeys Contributor Role](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) | [fc6e3395-6a8c-4527-bb4c-d0abd41e8e74](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) |
 | [SSH PublicKeys Reader Role](roles/31ef6312-5b0c-4ce9-8c5d-587a91344fe7.json) | [31ef6312-5b0c-4ce9-8c5d-587a91344fe7](roles/31ef6312-5b0c-4ce9-8c5d-587a91344fe7.json) |
 | [Standby Container Group Pool Contributor](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) | [39fcb0de-8844-4706-b050-c28ddbe3ff83](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) |

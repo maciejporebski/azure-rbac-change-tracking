@@ -3,9 +3,17 @@
   "Id": "c5c82243-e78e-43f9-8428-793bba85b28e",
   "IsCustom": false,
   "Description": "Grants Microsoft Defender for Cloud access to Azure Container Registries",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/pull/read",
+    "Microsoft.ContainerRegistry/registries/metadata/read",
+    "Microsoft.ContainerRegistry/registries/read"
+  ],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/repositories/content/read",
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/read",
+    "Microsoft.ContainerRegistry/registries/catalog/read"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

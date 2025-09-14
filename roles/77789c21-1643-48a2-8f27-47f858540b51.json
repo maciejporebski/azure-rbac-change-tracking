@@ -1,0 +1,29 @@
+{
+  "Name": "Storage Actions Task Assignment Contributor",
+  "Id": "77789c21-1643-48a2-8f27-47f858540b51",
+  "IsCustom": false,
+  "Description": "Used by the Storage Actions assigner to create a Task Assignment on their target Storage Account, with RBAC privileges for Managed Identity",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Storage/storageAccounts/reports/read",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Storage/storageAccounts/blobServices/read",
+    "Microsoft.Storage/storageAccounts/storageTaskAssignments/read",
+    "Microsoft.Storage/storageAccounts/storageTaskAssignments/write",
+    "Microsoft.Storage/storageAccounts/storageTaskAssignments/delete",
+    "Microsoft.Storage/storageAccounts/storageTaskAssignments/reports/read",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Log Analytics Data Reader",
+  "Id": "3b03c2da-16b3-4a49-8834-0f8130efdd3b",
+  "IsCustom": false,
+  "Description": "Log Analytics Data Reader can query and search the logs it is allowed to view over Log Analytics workspaces and tables",
+  "Actions": [
+    "Microsoft.OperationalInsights/workspaces/query/read",
+    "Microsoft.OperationalInsights/workspaces/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.OperationalInsights/workspaces/tables/data/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

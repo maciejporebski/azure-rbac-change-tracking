@@ -27,7 +27,9 @@
     "Microsoft.OperationalInsights/workspaces/dataSources/read",
     "Microsoft.OperationalInsights/querypacks/*/read",
     "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/workbooks/read",
+    "Microsoft.Authorization/*/read"
   ],
   "NotActions": [
     "Microsoft.SecurityInsights/cases/*/Delete",

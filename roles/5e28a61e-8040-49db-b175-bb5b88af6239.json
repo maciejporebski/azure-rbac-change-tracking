@@ -12,8 +12,6 @@
     "Microsoft.Mission/communities/read",
     "Microsoft.Mission/communities/write",
     "Microsoft.Mission/communities/delete",
-    "Microsoft.Mission/communities/setMaintenanceMode/action",
-    "Microsoft.Mission/communities/communityendpoints/connect/action",
     "Microsoft.Mission/virtualEnclaves/read",
     "Microsoft.Mission/virtualEnclaves/write",
     "Microsoft.Mission/virtualEnclaves/delete",

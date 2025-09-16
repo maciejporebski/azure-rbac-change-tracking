@@ -1,8 +1,8 @@
 {
-  "Name": "SRE Agent User",
+  "Name": "SRE Agent Standard User",
   "Id": "2d84a65a-63b2-4343-bbb6-31105d857bc1",
   "IsCustom": false,
-  "Description": "User of SRE Agent including chatting with agent.",
+  "Description": "Grants access to interact with the SRE Agent to triage incidents and run diagnostics.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
@@ -10,8 +10,13 @@
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.App/agents/*/read",
-    "Microsoft.App/agents/*/write"
+    "Microsoft.App/agents/threads/read",
+    "Microsoft.App/agents/graph/read",
+    "Microsoft.App/agents/memory/read",
+    "Microsoft.App/agents/incidentManagement/read",
+    "Microsoft.App/agents/threads/write",
+    "Microsoft.App/agents/graph/write",
+    "Microsoft.App/agents/memory/write"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

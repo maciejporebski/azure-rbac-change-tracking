@@ -1,0 +1,26 @@
+{
+  "Name": "Storage Actions Contributor",
+  "Id": "bd8acdb0-202c-4493-a7fe-ef98eefbfbc4",
+  "IsCustom": false,
+  "Description": "Used by the Storage Actions author to create, read, update, and delete Storage Actions",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.StorageActions/storageTasks/read",
+    "Microsoft.StorageActions/storageTasks/write",
+    "Microsoft.StorageActions/storageTasks/delete",
+    "Microsoft.StorageActions/storageTasks/storageTaskAssignments/read",
+    "Microsoft.StorageActions/storageTasks/reports/read",
+    "Microsoft.StorageActions/locations/previewActions/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

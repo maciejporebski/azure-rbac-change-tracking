@@ -2,17 +2,18 @@
   "Name": "SRE Agent Reader",
   "Id": "a4b156ac-253f-4a1a-9851-96d62b71b047",
   "IsCustom": false,
-  "Description": "View all SRE Agent resources, but does not allow you to make any changes.",
+  "Description": "Grants read-only access to all SRE Agent data, including chats, incidents, logs, and configurations. Does not permit interaction with the agent.",
   "Actions": [
-    "Microsoft.App/agents/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.App/agents/read"
   ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.App/agents/*/read"
+    "Microsoft.App/agents/threads/read",
+    "Microsoft.App/agents/graph/read",
+    "Microsoft.App/agents/memory/read",
+    "Microsoft.App/agents/incidentManagement/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

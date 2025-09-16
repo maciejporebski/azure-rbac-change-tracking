@@ -1,5 +1,5 @@
 {
-  "Name": "Kubernetes Agentless Operator",
+  "Name": "Defender Kubernetes API Access",
   "Id": "d5a2ae44-610b-4500-93be-660a0c5f5ca6",
   "IsCustom": false,
   "Description": "Grants Microsoft Defender for Cloud access to Azure Kubernetes Services",

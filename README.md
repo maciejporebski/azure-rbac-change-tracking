@@ -178,6 +178,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Monitor Dashboards with Grafana Contributor](roles/0618ae3d-2930-4bb7-aa00-718db34ee9f9.json) | [0618ae3d-2930-4bb7-aa00-718db34ee9f9](roles/0618ae3d-2930-4bb7-aa00-718db34ee9f9.json) |
 | [Azure Monitor Pipeline Contributor](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) | [679dc20a-52e8-4ac0-a23c-3b557dfb1e24](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) |
 | [Azure Monitor Pipeline Reader](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) | [2d50f159-7b96-4f1e-8fc7-fee6957ab7cc](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) |
+| [Azure Native Dynatrace Agent Management Role](roles/55077723-1b30-4603-a70b-68de134cfa20.json) | [55077723-1b30-4603-a70b-68de134cfa20](roles/55077723-1b30-4603-a70b-68de134cfa20.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure Red Hat OpenShift Cloud Controller Manager](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
@@ -368,6 +369,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
+| [Defender Kubernetes API Access](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Defender Serverless Scanner](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) | [68ac31b4-936a-4046-a6d2-ba6f8a757bf6](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) |
 | [Defender Unified RBAC Authorization Manager](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) | [1fd5d8bf-9037-4ede-89bf-680f798e2765](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) |
 | [Defender Unified RBAC Authorization Reader](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) | [ca62263b-07d5-4b48-b437-088803f5c2ff](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) |
@@ -520,7 +522,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Knowledge Consumer](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) | [ee361c5d-f7b5-4119-b4b6-892157c8f64c](roles/ee361c5d-f7b5-4119-b4b6-892157c8f64c.json) |
 | [Kubernetes Agent Operator](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) | [5e93ba01-8f92-4c7a-b12a-801e3df23824](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) |
 | [Kubernetes Agent Subscription Level Operator](roles/ada52afe-776a-4b4d-a8f2-55670d3d8178.json) | [ada52afe-776a-4b4d-a8f2-55670d3d8178](roles/ada52afe-776a-4b4d-a8f2-55670d3d8178.json) |
-| [Kubernetes Agentless Operator](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Kubernetes Cluster - Azure Arc Onboarding](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) | [34e09817-6cbe-4d01-b1a2-e0eac5743d41](roles/34e09817-6cbe-4d01-b1a2-e0eac5743d41.json) |
 | [Kubernetes Extension Contributor](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) | [85cb6faf-e071-4c9b-8136-154b5a04f717](roles/85cb6faf-e071-4c9b-8136-154b5a04f717.json) |
 | [Kubernetes Namespace User](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) | [ba79058c-0414-4a34-9e42-c3399d80cd5a](roles/ba79058c-0414-4a34-9e42-c3399d80cd5a.json) |
@@ -701,7 +702,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
 | [SRE Agent Administrator](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) | [e79298df-d852-4c6d-84f9-5d13249d1e55](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) |
 | [SRE Agent Reader](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) | [a4b156ac-253f-4a1a-9851-96d62b71b047](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) |
-| [SRE Agent User](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) | [2d84a65a-63b2-4343-bbb6-31105d857bc1](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) |
+| [SRE Agent Standard User](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) | [2d84a65a-63b2-4343-bbb6-31105d857bc1](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) |
 | [SSH PublicKeys Contributor Role](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) | [fc6e3395-6a8c-4527-bb4c-d0abd41e8e74](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) |
 | [SSH PublicKeys Reader Role](roles/31ef6312-5b0c-4ce9-8c5d-587a91344fe7.json) | [31ef6312-5b0c-4ce9-8c5d-587a91344fe7](roles/31ef6312-5b0c-4ce9-8c5d-587a91344fe7.json) |
 | [Standby Container Group Pool Contributor](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) | [39fcb0de-8844-4706-b050-c28ddbe3ff83](roles/39fcb0de-8844-4706-b050-c28ddbe3ff83.json) |
@@ -709,6 +710,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage Account Contributor](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) | [17d1049b-9a84-46fb-8f53-869881c3d3ab](roles/17d1049b-9a84-46fb-8f53-869881c3d3ab.json) |
 | [Storage Account Encryption Scope Contributor Role](roles/a316ed6d-1efe-48ac-ac08-f7995a9c26fb.json) | [a316ed6d-1efe-48ac-ac08-f7995a9c26fb](roles/a316ed6d-1efe-48ac-ac08-f7995a9c26fb.json) |
 | [Storage Account Key Operator Service Role](roles/81a9662b-bebf-436f-a333-f67b29880f12.json) | [81a9662b-bebf-436f-a333-f67b29880f12](roles/81a9662b-bebf-436f-a333-f67b29880f12.json) |
+| [Storage Actions Blob Data Operator](roles/4bad4d9e-2a13-4888-94bb-c8432f6f3040.json) | [4bad4d9e-2a13-4888-94bb-c8432f6f3040](roles/4bad4d9e-2a13-4888-94bb-c8432f6f3040.json) |
+| [Storage Actions Contributor](roles/bd8acdb0-202c-4493-a7fe-ef98eefbfbc4.json) | [bd8acdb0-202c-4493-a7fe-ef98eefbfbc4](roles/bd8acdb0-202c-4493-a7fe-ef98eefbfbc4.json) |
+| [Storage Actions Task Assignment Contributor](roles/77789c21-1643-48a2-8f27-47f858540b51.json) | [77789c21-1643-48a2-8f27-47f858540b51](roles/77789c21-1643-48a2-8f27-47f858540b51.json) |
 | [Storage Blob Data Contributor](roles/ba92f5b4-2d11-453d-a403-e96b0029c9fe.json) | [ba92f5b4-2d11-453d-a403-e96b0029c9fe](roles/ba92f5b4-2d11-453d-a403-e96b0029c9fe.json) |
 | [Storage Blob Data Owner](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) | [b7e6dc6d-f1e8-4753-8033-0f276bb0955b](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) |
 | [Storage Blob Data Reader](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) | [2a2b9908-6ea1-4ae2-8e65-a410df84e7d1](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) |

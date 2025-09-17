@@ -28,7 +28,16 @@
     "Microsoft.Kubernetes/connectedClusters/Write",
     "Microsoft.Kubernetes/connectedClusters/Delete",
     "Microsoft.Kubernetes/connectedClusters/listClusterUserCredential/action",
-    "Microsoft.AzureStackHCI/clusters/read"
+    "Microsoft.AzureStackHCI/clusters/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/write",
+    "Microsoft.Resources/deployments/delete",
+    "Microsoft.Resources/deployments/cancel/action",
+    "Microsoft.Resources/deployments/validate/action",
+    "Microsoft.Resources/deployments/whatIf/action",
+    "Microsoft.Resources/deployments/exportTemplate/action",
+    "Microsoft.Resources/deployments/operations/read",
+    "Microsoft.Resources/deployments/operationstatuses/read"
   ],
   "NotActions": [],
   "DataActions": [],

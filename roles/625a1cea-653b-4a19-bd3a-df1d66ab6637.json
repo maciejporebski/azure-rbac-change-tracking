@@ -27,7 +27,9 @@
     "Microsoft.SecurityInsights/threatIntelligence/indicators/appendTags/action",
     "Microsoft.SecurityInsights/threatIntelligence/indicators/query/action",
     "Microsoft.SecurityInsights/threatIntelligence/indicators/replaceTags/action",
-    "Microsoft.SecurityInsights/threatIntelligence/queryIndicators/action"
+    "Microsoft.SecurityInsights/threatIntelligence/queryIndicators/action",
+    "Microsoft.Insights/workbooks/*",
+    "Microsoft.Authorization/*/read"
   ],
   "NotActions": [
     "Microsoft.SecurityInsights/cases/*/Delete",

@@ -14,7 +14,8 @@
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
-    "/"
+    "/",
+    "/providers/Microsoft.Management/serviceGroups"
   ],
   "Condition": null,
   "ConditionVersion": null

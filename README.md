@@ -35,7 +35,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [App Configuration Contributor](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) | [fe86443c-f201-4fc4-9d2a-ac61149fbda0](roles/fe86443c-f201-4fc4-9d2a-ac61149fbda0.json) |
 | [App Configuration Data Owner](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) | [5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b](roles/5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b.json) |
 | [App Configuration Data Reader](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) | [516239f1-63e1-4d78-a4de-a74fb236a071](roles/516239f1-63e1-4d78-a4de-a74fb236a071.json) |
-| [App Configuration Data SAS User](roles/7fd69092-c9bc-4b59-9e2e-bca63317e147.json) | [7fd69092-c9bc-4b59-9e2e-bca63317e147](roles/7fd69092-c9bc-4b59-9e2e-bca63317e147.json) |
 | [App Configuration Reader](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) | [175b81b9-6e0d-490a-85e4-0d422273c10c](roles/175b81b9-6e0d-490a-85e4-0d422273c10c.json) |
 | [App Service Environment Contributor](roles/8ea85a25-eb16-4e29-ab4d-6f2a26c711a2.json) | [8ea85a25-eb16-4e29-ab4d-6f2a26c711a2](roles/8ea85a25-eb16-4e29-ab4d-6f2a26c711a2.json) |
 | [AppGw for Containers Configuration Manager](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) | [fbc52c3f-28ad-4303-a892-8a056630b8f1](roles/fbc52c3f-28ad-4303-a892-8a056630b8f1.json) |
@@ -439,6 +438,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Enclave Contributor Role](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) | [19feefae-eacc-4106-81fd-ac34c0671f14](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) |
 | [Enclave Owner Role](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) | [3d5f3eff-eb94-473d-91e3-7aac74d6c0bb](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) |
 | [Enclave Reader Role](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) | [86fede04-b259-4277-8c3e-e26b9865abd8](roles/86fede04-b259-4277-8c3e-e26b9865abd8.json) |
+| [Essential Machine Management Administrator](roles/34013b0a-565b-43aa-8755-1b7c286f6cf7.json) | [34013b0a-565b-43aa-8755-1b7c286f6cf7](roles/34013b0a-565b-43aa-8755-1b7c286f6cf7.json) |
 | [EventGrid Contributor](roles/1e241071-0855-49ea-94dc-649edcd759de.json) | [1e241071-0855-49ea-94dc-649edcd759de](roles/1e241071-0855-49ea-94dc-649edcd759de.json) |
 | [EventGrid Data Contributor](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) | [1d8c3fe3-8864-474b-8749-01e3783e8157](roles/1d8c3fe3-8864-474b-8749-01e3783e8157.json) |
 | [EventGrid Data Receiver](roles/78cbd9e7-9798-4e2e-9b5a-547d9ebb31fb.json) | [78cbd9e7-9798-4e2e-9b5a-547d9ebb31fb](roles/78cbd9e7-9798-4e2e-9b5a-547d9ebb31fb.json) |

@@ -29,7 +29,15 @@
     "Microsoft.Mission/virtualEnclaves/approvalCallback/action",
     "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/approvalCallback/action",
     "Microsoft.Mission/communities/communityEndpoints/approvalCallback/action",
-    "Microsoft.Mission/approvals/initiatorCallback/action"
+    "Microsoft.Mission/approvals/initiatorCallback/action",
+    "Microsoft.Mission/communities/setMaintenanceMode/action",
+    "Microsoft.Mission/communities/communityendpoints/connect/action",
+    "Microsoft.Mission/virtualEnclaves/setWorkloadRoleAssignments/action",
+    "Microsoft.Mission/virtualEnclaves/setEnclaveRoleAssignments/action",
+    "Microsoft.Mission/virtualEnclaves/setSubnetConfiguration/action",
+    "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/connect/action",
+    "Microsoft.Mission/enclaveConnections/setSourceCidr/action",
+    "Microsoft.Mission/virtualenclaves/setMaintenanceMode/action"
   ],
   "NotActions": [],
   "DataActions": [],

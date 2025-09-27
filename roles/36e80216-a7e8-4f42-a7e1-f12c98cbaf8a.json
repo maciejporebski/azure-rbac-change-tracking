@@ -1,13 +1,11 @@
 {
-  "Name": "Azure impact Reporter role",
+  "Name": "Impact Reporter",
   "Id": "36e80216-a7e8-4f42-a7e1-f12c98cbaf8a",
   "IsCustom": false,
-  "Description": "built-in role for azure impact write access",
+  "Description": "Allows access to create/report, read and delete impacts",
   "Actions": [
     "Microsoft.Impact/WorkloadImpacts/*",
-    "Microsoft.Impact/ImpactCategories/read",
-    "Microsoft.Impact/TopologyImpacts/*",
-    "Microsoft.Impact/getUploadToken/action"
+    "Microsoft.Impact/ImpactCategories/read"
   ],
   "NotActions": [],
   "DataActions": [],

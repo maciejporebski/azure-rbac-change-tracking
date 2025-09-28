@@ -5,6 +5,7 @@
   "Description": "Grants access to read and write Azure Kubernetes Services hybrid clusters",
   "Actions": [
     "Microsoft.HybridContainerService/Locations/operationStatuses/read",
+    "Microsoft.HybridContainerService/Locations/operationStatuses/write",
     "Microsoft.HybridContainerService/Operations/read",
     "Microsoft.HybridContainerService/kubernetesVersions/read",
     "Microsoft.HybridContainerService/kubernetesVersions/write",
@@ -37,7 +38,9 @@
     "Microsoft.Resources/deployments/whatIf/action",
     "Microsoft.Resources/deployments/exportTemplate/action",
     "Microsoft.Resources/deployments/operations/read",
-    "Microsoft.Resources/deployments/operationstatuses/read"
+    "Microsoft.Resources/deployments/operationstatuses/read",
+    "Microsoft.HybridContainerService/provisionedClusterInstances/hybridIdentityMetadata/delete",
+    "Microsoft.HybridContainerService/provisionedClusterInstances/hybridIdentityMetadata/write"
   ],
   "NotActions": [],
   "DataActions": [],

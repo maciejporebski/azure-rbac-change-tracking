@@ -133,6 +133,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Front Door Secret Contributor](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) | [3f2eb865-5811-4578-b90a-6fc6fa0df8e5](roles/3f2eb865-5811-4578-b90a-6fc6fa0df8e5.json) |
 | [Azure Front Door Secret Reader](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) | [0db238c4-885e-4c4f-a933-aa2cef684fca](roles/0db238c4-885e-4c4f-a933-aa2cef684fca.json) |
 | [Azure Hybrid Database Administrator - Read Only Service Role](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) | [5d9c6a55-fc0e-4e21-ae6f-f7b095497342](roles/5d9c6a55-fc0e-4e21-ae6f-f7b095497342.json) |
+| [Azure impact Reporter role](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) | [36e80216-a7e8-4f42-a7e1-f12c98cbaf8a](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) |
 | [Azure impact-insight reader](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) | [dfb2f09d-25f8-4558-8986-497084006d7a](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) |
 | [Azure IoT Operations Administrator](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) | [5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) |
 | [Azure IoT Operations Onboarding](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) | [7b7c71ed-33fa-4ed2-a91a-e56d5da260b5](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) |
@@ -467,6 +468,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Garnet Data Contributor](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) | [1694e55a-2496-4d07-b005-7259aa3fcbe8](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) |
 | [Garnet Data Owner](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) | [04f6c337-ffae-414c-b00f-3e80c9ab8a2c](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) |
 | [Garnet Data Reader](roles/d9cd91b9-dada-4fa9-9406-454c4659c137.json) | [d9cd91b9-dada-4fa9-9406-454c4659c137](roles/d9cd91b9-dada-4fa9-9406-454c4659c137.json) |
+| [Garnet PubSub Data Contributor](roles/56e95fdc-3337-468d-b964-30d07f2a2018.json) | [56e95fdc-3337-468d-b964-30d07f2a2018](roles/56e95fdc-3337-468d-b964-30d07f2a2018.json) |
+| [Garnet PubSub Data Reader](roles/da9adf61-39cd-41d5-87a0-30b21f7270d8.json) | [da9adf61-39cd-41d5-87a0-30b21f7270d8](roles/da9adf61-39cd-41d5-87a0-30b21f7270d8.json) |
 | [Garnet Script Data Contributor](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) | [7021ea36-e168-4bc0-af53-88de51d20665](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
@@ -496,7 +499,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
 | [HybridCompute Machine ListAccessDetails Action In-Built Role](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) | [e9701b4d-e6e7-4657-91cd-360a0881d224](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) |
 | [Impact Reader](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) | [68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) |
-| [Impact Reporter](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) | [36e80216-a7e8-4f42-a7e1-f12c98cbaf8a](roles/36e80216-a7e8-4f42-a7e1-f12c98cbaf8a.json) |
 | [Integration Service Environment Contributor](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) | [a41e2c5b-bd99-4a07-88f4-9bf657a760b8](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) |
 | [Integration Service Environment Developer](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) | [c7aa55d3-1abb-444a-a5ca-5e51e485d6ec](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) |
 | [Intelligent Systems Account Contributor](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) | [03a6d094-3444-4b3d-88af-7477090a9e5e](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) |
@@ -740,6 +742,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Tag Contributor](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) | [4a9ae827-6dc8-4573-8ac7-8239d42aa03f](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) |
 | [Template Spec Contributor](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) | [1c9b6475-caf0-4164-b5a1-2142a7116f4b](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) |
 | [Template Spec Reader](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) | [392ae280-861d-42bd-9ea5-08ee6d83b80e](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) |
+| [Tenant Contributor](roles/0a7c2fa1-6f28-41a4-86b8-e74937c63222.json) | [0a7c2fa1-6f28-41a4-86b8-e74937c63222](roles/0a7c2fa1-6f28-41a4-86b8-e74937c63222.json) |
 | [Test Base Reader](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) | [15e0f5a1-3450-4248-8e25-e2afe88a9e85](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) |
 | [ToolchainOrchestrator Admin Role](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) | [2ccf8795-8983-4912-8036-1c45212c95e8](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) |
 | [ToolchainOrchestrator Viewer Role](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) | [c5826735-177b-4a0d-a9a3-d0e4b4bda107](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) |

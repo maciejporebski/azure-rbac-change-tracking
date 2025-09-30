@@ -742,7 +742,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Tag Contributor](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) | [4a9ae827-6dc8-4573-8ac7-8239d42aa03f](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) |
 | [Template Spec Contributor](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) | [1c9b6475-caf0-4164-b5a1-2142a7116f4b](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) |
 | [Template Spec Reader](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) | [392ae280-861d-42bd-9ea5-08ee6d83b80e](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) |
-| [Tenant Contributor](roles/0a7c2fa1-6f28-41a4-86b8-e74937c63222.json) | [0a7c2fa1-6f28-41a4-86b8-e74937c63222](roles/0a7c2fa1-6f28-41a4-86b8-e74937c63222.json) |
 | [Test Base Reader](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) | [15e0f5a1-3450-4248-8e25-e2afe88a9e85](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) |
 | [ToolchainOrchestrator Admin Role](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) | [2ccf8795-8983-4912-8036-1c45212c95e8](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) |
 | [ToolchainOrchestrator Viewer Role](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) | [c5826735-177b-4a0d-a9a3-d0e4b4bda107](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) |

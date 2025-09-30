@@ -10,10 +10,7 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Insights/alertRules/*"
   ],
-  "NotActions": [
-    "Microsoft.LoadTestService/PlaywrightWorkspaces/*",
-    "Microsoft.LoadTestService/locations/PlaywrightQuotas/*"
-  ],
+  "NotActions": [],
   "DataActions": [
     "Microsoft.LoadTestService/*"
   ],

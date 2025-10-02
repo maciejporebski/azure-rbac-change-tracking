@@ -1,0 +1,23 @@
+{
+  "Name": "Storage File Data SMB Admin",
+  "Id": "bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b",
+  "IsCustom": false,
+  "Description": "Allows for admin access equivalent to storage account key for end users over SMB.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/write",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/delete",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/modifypermissions/action",
+    "Microsoft.Storage/storageAccounts/fileServices/readFileBackupSemantics/action",
+    "Microsoft.Storage/storageAccounts/fileServices/writeFileBackupSemantics/action",
+    "Microsoft.Storage/storageAccounts/fileServices/takeOwnership/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -31,6 +31,7 @@
     "Microsoft.Insights/privateLinkScopes/*",
     "Microsoft.Insights/privateLinkScopeOperationStatuses/*",
     "Microsoft.Monitor/accounts/*",
+    "Microsoft.Monitor/settings/*",
     "Microsoft.OperationalInsights/workspaces/write",
     "Microsoft.OperationalInsights/workspaces/intelligencepacks/*",
     "Microsoft.OperationalInsights/workspaces/savedSearches/*",
@@ -47,7 +48,8 @@
     "Microsoft.AlertsManagement/migrateFromSmartDetection/*",
     "Microsoft.AlertsManagement/investigations/*",
     "Microsoft.AlertsManagement/prometheusRuleGroups/*",
-    "Microsoft.Monitor/investigations/*"
+    "Microsoft.Monitor/investigations/*",
+    "Microsoft.Resources/deployments/*"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -36,7 +36,7 @@
     "Microsoft.Sql/servers/advancedThreatProtectionSettings/read",
     "Microsoft.Sql/servers/advancedThreatProtectionSettings/write",
     "Microsoft.Sql/servers/auditingSettings/*",
-    "Microsoft.Sql/servers/extendedAuditingSettings/read",
+    "Microsoft.Sql/servers/extendedAuditingSettings/*",
     "Microsoft.Sql/servers/databases/advancedThreatProtectionSettings/read",
     "Microsoft.Sql/servers/databases/advancedThreatProtectionSettings/write",
     "Microsoft.Sql/servers/databases/advancedThreatProtectionSettings/read",

@@ -721,6 +721,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage Blob Delegator](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) | [db58b8e5-c6ad-4a2a-8342-4190687cbf4a](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) |
 | [Storage File Data Privileged Contributor](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) | [69566ab7-960f-475b-8e7c-b3118f30c6bd](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) |
 | [Storage File Data Privileged Reader](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) | [b8eda974-7b85-4f76-af95-65846b26df6d](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) |
+| [Storage File Data SMB Admin](roles/bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b.json) | [bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b](roles/bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b.json) |
 | [Storage File Data SMB MI Admin](roles/a235d3ee-5935-4cfb-8cc5-a3303ad5995e.json) | [a235d3ee-5935-4cfb-8cc5-a3303ad5995e](roles/a235d3ee-5935-4cfb-8cc5-a3303ad5995e.json) |
 | [Storage File Data SMB Share Contributor](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) | [0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) |
 | [Storage File Data SMB Share Elevated Contributor](roles/a7264617-510b-434b-a828-9731dc254ea7.json) | [a7264617-510b-434b-a828-9731dc254ea7](roles/a7264617-510b-434b-a828-9731dc254ea7.json) |
@@ -742,6 +743,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Tag Contributor](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) | [4a9ae827-6dc8-4573-8ac7-8239d42aa03f](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) |
 | [Template Spec Contributor](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) | [1c9b6475-caf0-4164-b5a1-2142a7116f4b](roles/1c9b6475-caf0-4164-b5a1-2142a7116f4b.json) |
 | [Template Spec Reader](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) | [392ae280-861d-42bd-9ea5-08ee6d83b80e](roles/392ae280-861d-42bd-9ea5-08ee6d83b80e.json) |
+| [Tenant Contributor](roles/0a7c2fa1-6f28-41a4-86b8-e74937c63222.json) | [0a7c2fa1-6f28-41a4-86b8-e74937c63222](roles/0a7c2fa1-6f28-41a4-86b8-e74937c63222.json) |
 | [Test Base Reader](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) | [15e0f5a1-3450-4248-8e25-e2afe88a9e85](roles/15e0f5a1-3450-4248-8e25-e2afe88a9e85.json) |
 | [ToolchainOrchestrator Admin Role](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) | [2ccf8795-8983-4912-8036-1c45212c95e8](roles/2ccf8795-8983-4912-8036-1c45212c95e8.json) |
 | [ToolchainOrchestrator Viewer Role](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) | [c5826735-177b-4a0d-a9a3-d0e4b4bda107](roles/c5826735-177b-4a0d-a9a3-d0e4b4bda107.json) |

@@ -11,6 +11,7 @@
     "Microsoft.ResourceNotifications/systemTopics/subscribeToComputeScheduleResources/action",
     "Microsoft.ResourceNotifications/systemTopics/subscribeToContainerServiceEventResources/action",
     "Microsoft.ResourceNotifications/systemTopics/subscribeToImpactReportingResources/action",
+    "Microsoft.ResourceNotifications/systemTopics/subscribeToAksResources/action",
     "Microsoft.EventGrid/eventSubscriptions/write",
     "Microsoft.EventGrid/systemTopics/eventSubscriptions/write"
   ],

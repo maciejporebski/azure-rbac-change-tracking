@@ -1,0 +1,21 @@
+{
+  "Name": "Supercomputer Infrastructure Contributor",
+  "Id": "68899692-f960-4247-af28-82f55b357997",
+  "IsCustom": false,
+  "Description": "Lets you manage Supercomputer Infrastructure resources, but not access to them.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.SupercomputerInfrastructure/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

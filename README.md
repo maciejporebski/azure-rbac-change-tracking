@@ -738,6 +738,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Stream Analytics Contributor](roles/6e0c8711-85a0-4490-8365-8ec13c4560b4.json) | [6e0c8711-85a0-4490-8365-8ec13c4560b4](roles/6e0c8711-85a0-4490-8365-8ec13c4560b4.json) |
 | [Stream Analytics Query Tester](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) | [1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf](roles/1ec5b3c1-b17e-4e25-8312-2acb3c3c5abf.json) |
 | [Stream Analytics Reader](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) | [1dfc38e8-6ce7-447f-807c-029c65262c5f](roles/1dfc38e8-6ce7-447f-807c-029c65262c5f.json) |
+| [Supercomputer Infrastructure Contributor](roles/68899692-f960-4247-af28-82f55b357997.json) | [68899692-f960-4247-af28-82f55b357997](roles/68899692-f960-4247-af28-82f55b357997.json) |
 | [Support Request Contributor](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) | [cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e](roles/cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e.json) |
 | [SupportPlan Contributor](roles/6d6f52ba-a7de-4c56-a58f-522154514fba.json) | [6d6f52ba-a7de-4c56-a58f-522154514fba](roles/6d6f52ba-a7de-4c56-a58f-522154514fba.json) |
 | [Tag Contributor](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) | [4a9ae827-6dc8-4573-8ac7-8239d42aa03f](roles/4a9ae827-6dc8-4573-8ac7-8239d42aa03f.json) |

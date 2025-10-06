@@ -2,7 +2,7 @@
   "Name": "Container Registry Repository Contributor",
   "Id": "2efddaa5-3f1f-4df3-97df-af3f13818f4c",
   "IsCustom": false,
-  "Description": "Allows for read, write, and delete access to Azure Container Registry repositories, but excluding catalog listing.",
+  "Description": "Allows for read, write, and delete access to Azure Container Registry repositories, but excluding catalog listing. This role is in preview and subject to change.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Resilience Management Recovery Operator",
+  "Id": "517781b0-5ad4-4418-94d5-f2421834b586",
+  "IsCustom": false,
+  "Description": "Operator Role of Azure Resilience Management Recovery Service",
+  "Actions": [
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Resilience Management Recovery Reader",
+  "Id": "8210e6a3-4e4c-4e1a-bd83-ef8bac788a45",
+  "IsCustom": false,
+  "Description": "Reader Role of Azure Resilience Management Recovery Service",
+  "Actions": [
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

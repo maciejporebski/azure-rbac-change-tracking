@@ -1,0 +1,20 @@
+{
+  "Name": "Azure Resilience Management Recovery Contributor",
+  "Id": "4c7fd853-7345-4453-babd-e9481e9b460b",
+  "IsCustom": false,
+  "Description": "Contributor Role of Azure Resilience Management Recovery Service",
+  "Actions": [
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/delete",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

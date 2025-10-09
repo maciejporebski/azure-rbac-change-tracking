@@ -1,0 +1,20 @@
+{
+  "Name": "Azure Resilience Management Recovery Administrator",
+  "Id": "481d9636-d9f0-468b-b93d-6056318e6f36",
+  "IsCustom": false,
+  "Description": "Administrator Role of Azure Resilience Management Recovery Service",
+  "Actions": [
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/delete",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

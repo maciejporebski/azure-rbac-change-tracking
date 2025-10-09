@@ -1,0 +1,19 @@
+{
+  "Name": "Healthcare Agent Contributer",
+  "Id": "13d06eae-ec82-4345-bcd6-c38625ddffbc",
+  "IsCustom": false,
+  "Description": "Manage Helathcare Agent resources - list, view details, edit and delete resources.",
+  "Actions": [
+    "Microsoft.HealthBot/healthBots/Read",
+    "Microsoft.HealthBot/healthBots/Write",
+    "Microsoft.HealthBot/healthBots/Delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

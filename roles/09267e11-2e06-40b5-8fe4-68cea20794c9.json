@@ -1,0 +1,18 @@
+{
+  "Name": "Azure Device Registry Credentials Contributor Role",
+  "Id": "09267e11-2e06-40b5-8fe4-68cea20794c9",
+  "IsCustom": false,
+  "Description": "Lets you manage Credentials and Policies in a namespace.",
+  "Actions": [
+    "microsoft.deviceregistry/namespaces/credentials/*",
+    "microsoft.deviceregistry/namespaces/credentials/policies/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

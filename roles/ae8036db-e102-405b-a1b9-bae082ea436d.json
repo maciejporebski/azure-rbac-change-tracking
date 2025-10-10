@@ -29,7 +29,8 @@
     "Microsoft.Storage/storageAccounts/blobServices/write",
     "Microsoft.Storage/storageAccounts/blobServices/containers/read",
     "Microsoft.SqlVirtualMachine/sqlVirtualMachines/read",
-    "Microsoft.SqlVirtualMachine/sqlVirtualMachines/write"
+    "Microsoft.SqlVirtualMachine/sqlVirtualMachines/write",
+    "Microsoft.DataMigration/sqlMigrationServices/validateIR/action"
   ],
   "NotActions": [],
   "DataActions": [],

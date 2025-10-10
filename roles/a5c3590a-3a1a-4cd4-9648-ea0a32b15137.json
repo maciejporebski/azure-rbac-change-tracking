@@ -1,0 +1,23 @@
+{
+  "Name": "Azure Device Registry Contributor Role",
+  "Id": "a5c3590a-3a1a-4cd4-9648-ea0a32b15137",
+  "IsCustom": false,
+  "Description": "Can create resources in a namespace.",
+  "Actions": [
+    "microsoft.deviceregistry/namespaces/read",
+    "microsoft.deviceregistry/namespaces/devices/*",
+    "microsoft.deviceregistry/namespaces/discovereddevices/*",
+    "microsoft.deviceregistry/namespaces/credentials/read",
+    "microsoft.deviceregistry/namespaces/credentials/policies/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "microsoft.deviceregistry/namespaces/credentials/policies/issueCertificate/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

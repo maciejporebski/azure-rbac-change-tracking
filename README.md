@@ -116,6 +116,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
 | [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
+| [Azure Device Registry Contributor Role](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) | [a5c3590a-3a1a-4cd4-9648-ea0a32b15137](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) |
+| [Azure Device Registry Credentials Contributor Role](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) | [09267e11-2e06-40b5-8fe4-68cea20794c9](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) |
 | [Azure Device Update Agent](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) | [2a740172-0fc2-4039-972c-b31864cd47d6](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
@@ -595,6 +597,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft.OffAzureSpringBoot Service Owner](roles/79732128-7761-4733-aebf-35590da9f29b.json) | [79732128-7761-4733-aebf-35590da9f29b](roles/79732128-7761-4733-aebf-35590da9f29b.json) |
 | [Microsoft.WeightsAndBiases Contributor Role](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) | [246fffca-69ee-4945-bbf1-2a867dce4fda](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) |
 | [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
+| [Migrate Arc Discovery Reader - Preview](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) | [5d5dddae-e124-4753-972d-aae60b37deb4](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
 | [Monitoring Metrics Publisher](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) | [3913510d-42f4-4e42-8a64-420c390055eb](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) |

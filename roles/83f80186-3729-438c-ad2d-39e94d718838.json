@@ -5,11 +5,6 @@
   "Description": "Deploy and manage your Service Fabric Managed Cluster resources. Includes managed clusters, node types, application types, application type versions, applications, and services.",
   "Actions": [
     "Microsoft.ServiceFabric/managedclusters/*",
-    "Microsoft.ServiceFabric/operations/read",
-    "Microsoft.ServiceFabric/locations/clusterVersions/read",
-    "Microsoft.ServiceFabric/locations/environments/clusterVersions/read",
-    "Microsoft.ServiceFabric/locations/operationresults/read",
-    "Microsoft.ServiceFabric/locations/operations/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",

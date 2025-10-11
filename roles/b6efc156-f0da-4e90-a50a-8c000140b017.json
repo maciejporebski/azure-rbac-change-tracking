@@ -5,11 +5,6 @@
   "Description": "Manage your Service Fabric Cluster resources. Includes clusters, application types, application type versions, applications, and services. You will need additional permissions to deploy and manage the cluster's underlying resources such as virtual machine scale sets, storage accounts, networks, etc.",
   "Actions": [
     "Microsoft.ServiceFabric/clusters/*",
-    "Microsoft.ServiceFabric/operations/read",
-    "Microsoft.ServiceFabric/locations/clusterVersions/read",
-    "Microsoft.ServiceFabric/locations/environments/clusterVersions/read",
-    "Microsoft.ServiceFabric/locations/operationresults/read",
-    "Microsoft.ServiceFabric/locations/operations/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",

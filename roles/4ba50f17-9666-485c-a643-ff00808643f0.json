@@ -7,12 +7,8 @@
   "NotActions": [],
   "DataActions": [
     "Microsoft.HealthcareApis/services/fhir/resources/read",
-    "Microsoft.HealthcareApis/services/fhir/resources/readById/action",
-    "Microsoft.HealthcareApis/services/fhir/resources/search/action",
-    "Microsoft.HealthcareApis/services/fhir/resources/smart/action",
     "Microsoft.HealthcareApis/workspaces/fhirservices/resources/read",
-    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/readById/action",
-    "Microsoft.HealthcareApis/workspaces/fhirservices/resources/search/action",
+    "Microsoft.HealthcareApis/services/fhir/resources/smart/action",
     "Microsoft.HealthcareApis/workspaces/fhirservices/resources/smart/action"
   ],
   "NotDataActions": [],

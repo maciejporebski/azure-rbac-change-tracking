@@ -27,7 +27,8 @@
     "Microsoft.DataMigration/sqlMigrationServices/listMigrations/read",
     "Microsoft.DataMigration/sqlMigrationServices/MonitoringData/read",
     "Microsoft.DataMigration/register/action",
-    "Microsoft.DataMigration/operations/read"
+    "Microsoft.DataMigration/operations/read",
+    "Microsoft.DataMigration/sqlMigrationServices/validateIR/action"
   ],
   "NotActions": [],
   "DataActions": [],

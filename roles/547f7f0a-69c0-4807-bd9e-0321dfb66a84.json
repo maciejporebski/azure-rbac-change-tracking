@@ -1,0 +1,26 @@
+{
+  "Name": "Azure Device Registry Onboarding Role",
+  "Id": "547f7f0a-69c0-4807-bd9e-0321dfb66a84",
+  "IsCustom": false,
+  "Description": "Onboard to Azure Device Registry.",
+  "Actions": [
+    "Microsoft.DeviceRegistry/namespaces/read",
+    "Microsoft.DeviceRegistry/namespaces/write",
+    "Microsoft.DeviceRegistry/namespaces/delete",
+    "Microsoft.DeviceRegistry/namespaces/credentials/*",
+    "Microsoft.DeviceRegistry/namespaces/credentials/policies/*",
+    "Microsoft.Devices/iothubs/*",
+    "Microsoft.Devices/provisioningServices/*"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Devices/provisioningServices/enrollments/*",
+    "Microsoft.Devices/provisioningServices/enrollmentGroups/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

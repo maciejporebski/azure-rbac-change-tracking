@@ -39,13 +39,7 @@
     "Microsoft.SoftwarePlan/softwareSubscriptions/write",
     "Microsoft.SoftwarePlan/softwareSubscriptions/delete",
     "Microsoft.SoftwarePlan/softwareSubscriptions/cancel/action",
-    "Microsoft.SoftwarePlan/softwareSubscriptions/listKeys/action",
-    "Microsoft.SoftwarePlan/softwareSubscriptions/refreshFulfillment/action",
-    "Microsoft.SoftwarePlan/softwareSubscriptions/productKeys/read",
-    "Microsoft.SoftwarePlan/softwareSubscriptions/productKeys/showFullKey/action",
-    "Microsoft.SoftwarePlan/softwareSubscriptions/productDownloadOptions/read",
-    "Microsoft.SoftwarePlan/softwareSubscriptions/productDownloadOptions/generateDownloadLinks/action",
-    "Microsoft.SoftwarePlan/validateSoftwareSubscriptionCreate/action"
+    "Microsoft.SoftwarePlan/softwareSubscriptions/listKeys/action"
   ],
   "NotActions": [],
   "DataActions": [],

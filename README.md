@@ -118,6 +118,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
 | [Azure Device Registry Contributor Role](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) | [a5c3590a-3a1a-4cd4-9648-ea0a32b15137](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) |
 | [Azure Device Registry Credentials Contributor Role](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) | [09267e11-2e06-40b5-8fe4-68cea20794c9](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) |
+| [Azure Device Registry Onboarding Role](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) | [547f7f0a-69c0-4807-bd9e-0321dfb66a84](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) |
 | [Azure Device Update Agent](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) | [2a740172-0fc2-4039-972c-b31864cd47d6](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
@@ -502,6 +503,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Healthcare Apis contributor](roles/29f61507-bdfb-4987-b629-20033be2d6c3.json) | [29f61507-bdfb-4987-b629-20033be2d6c3](roles/29f61507-bdfb-4987-b629-20033be2d6c3.json) |
 | [Hierarchy Settings Administrator](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) | [350f8d15-c687-4448-8ae1-157740a3936d](roles/350f8d15-c687-4448-8ae1-157740a3936d.json) |
 | [Hybrid Connectivity contributor role](roles/f0f57965-de58-41bc-ba76-2aaab4d09f30.json) | [f0f57965-de58-41bc-ba76-2aaab4d09f30](roles/f0f57965-de58-41bc-ba76-2aaab4d09f30.json) |
+| [Hybrid Network Owner](roles/9d3ef640-3c86-4e0a-8907-8d361559c012.json) | [9d3ef640-3c86-4e0a-8907-8d361559c012](roles/9d3ef640-3c86-4e0a-8907-8d361559c012.json) |
 | [Hybrid Server Onboarding](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) | [5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb](roles/5d1e5ee4-7c68-4a71-ac8b-0739630a3dfb.json) |
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
 | [HybridCompute Machine ListAccessDetails Action In-Built Role](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) | [e9701b4d-e6e7-4657-91cd-360a0881d224](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) |

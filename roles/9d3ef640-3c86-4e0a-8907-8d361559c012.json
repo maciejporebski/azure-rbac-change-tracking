@@ -1,0 +1,21 @@
+{
+  "Name": "Hybrid Network Owner",
+  "Id": "9d3ef640-3c86-4e0a-8907-8d361559c012",
+  "IsCustom": false,
+  "Description": "Provides owner access to Hybrid Network Resources",
+  "Actions": [
+    "Microsoft.HybridNetwork/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

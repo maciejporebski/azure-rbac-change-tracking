@@ -1,8 +1,8 @@
 {
-  "Name": "Azure Device Registry Credentials Contributor Role",
+  "Name": "Azure Device Registry Credentials Contributor",
   "Id": "09267e11-2e06-40b5-8fe4-68cea20794c9",
   "IsCustom": false,
-  "Description": "Lets you manage Credentials and Policies in a namespace.",
+  "Description": "Allows for full access to manage credentials and policies within Azure Device Registry Namespace.",
   "Actions": [
     "microsoft.deviceregistry/namespaces/credentials/*",
     "microsoft.deviceregistry/namespaces/credentials/policies/*"

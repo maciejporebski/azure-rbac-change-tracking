@@ -116,8 +116,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
 | [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
-| [Azure Device Registry Contributor Role](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) | [a5c3590a-3a1a-4cd4-9648-ea0a32b15137](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) |
-| [Azure Device Registry Credentials Contributor Role](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) | [09267e11-2e06-40b5-8fe4-68cea20794c9](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) |
+| [Azure Device Registry Contributor](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) | [a5c3590a-3a1a-4cd4-9648-ea0a32b15137](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) |
+| [Azure Device Registry Credentials Contributor](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) | [09267e11-2e06-40b5-8fe4-68cea20794c9](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) |
 | [Azure Device Registry Onboarding Role](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) | [547f7f0a-69c0-4807-bd9e-0321dfb66a84](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) |
 | [Azure Device Update Agent](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) | [2a740172-0fc2-4039-972c-b31864cd47d6](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
@@ -203,6 +203,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Resilience Management Drills Contributor](roles/e131102b-11a5-4ff4-8508-ed922132b74c.json) | [e131102b-11a5-4ff4-8508-ed922132b74c](roles/e131102b-11a5-4ff4-8508-ed922132b74c.json) |
 | [Azure Resilience Management Drills Operator](roles/ff09793b-be48-49f6-ad96-70d32039c0b9.json) | [ff09793b-be48-49f6-ad96-70d32039c0b9](roles/ff09793b-be48-49f6-ad96-70d32039c0b9.json) |
 | [Azure Resilience Management Drills Reader](roles/d2e8fe82-9212-490f-af3e-34bb52d87d3d.json) | [d2e8fe82-9212-490f-af3e-34bb52d87d3d](roles/d2e8fe82-9212-490f-af3e-34bb52d87d3d.json) |
+| [Azure Resilience Management Goals Administrator](roles/a2b7cc47-30ec-462f-a2f4-9ac6e1c266af.json) | [a2b7cc47-30ec-462f-a2f4-9ac6e1c266af](roles/a2b7cc47-30ec-462f-a2f4-9ac6e1c266af.json) |
+| [Azure Resilience Management Goals Contributor](roles/3910633d-19d0-4d31-b5e6-4f3101b137b9.json) | [3910633d-19d0-4d31-b5e6-4f3101b137b9](roles/3910633d-19d0-4d31-b5e6-4f3101b137b9.json) |
+| [Azure Resilience Management Goals Reader](roles/39ea2c4e-798a-4469-b81d-65dc7c54cbdb.json) | [39ea2c4e-798a-4469-b81d-65dc7c54cbdb](roles/39ea2c4e-798a-4469-b81d-65dc7c54cbdb.json) |
 | [Azure Resilience Management Recovery Administrator](roles/481d9636-d9f0-468b-b93d-6056318e6f36.json) | [481d9636-d9f0-468b-b93d-6056318e6f36](roles/481d9636-d9f0-468b-b93d-6056318e6f36.json) |
 | [Azure Resilience Management Recovery Contributor](roles/4c7fd853-7345-4453-babd-e9481e9b460b.json) | [4c7fd853-7345-4453-babd-e9481e9b460b](roles/4c7fd853-7345-4453-babd-e9481e9b460b.json) |
 | [Azure Resilience Management Recovery Operator](roles/517781b0-5ad4-4418-94d5-f2421834b586.json) | [517781b0-5ad4-4418-94d5-f2421834b586](roles/517781b0-5ad4-4418-94d5-f2421834b586.json) |

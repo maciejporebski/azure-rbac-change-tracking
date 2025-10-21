@@ -7,7 +7,6 @@
     "Microsoft.Authorization/*/read",
     "Microsoft.AzureResilienceManagement/drills/*/action",
     "Microsoft.AzureResilienceManagement/drills/*/read",
-    "Microsoft.AzureResilienceManagement/drills/*/write",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",
     "Microsoft.Insights/alertRules/",

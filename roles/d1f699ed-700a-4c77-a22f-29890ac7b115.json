@@ -1,0 +1,27 @@
+{
+  "Name": "Azure Kubernetes Fleet Manager RBAC Admin for Member Clusters",
+  "Id": "d1f699ed-700a-4c77-a22f-29890ac7b115",
+  "IsCustom": false,
+  "Description": "This role grants admin access - provides write permissions on most objects within a namespace, with the exception of ResourceQuota object and the namespace object itself. Applying this role at cluster scope will give access across all namespaces.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerService/fleets/members/*"
+  ],
+  "NotDataActions": [
+    "Microsoft.ContainerService/fleets/members/resourcequotas/write",
+    "Microsoft.ContainerService/fleets/members/resourcequotas/delete",
+    "Microsoft.ContainerService/fleets/members/namespaces/write",
+    "Microsoft.ContainerService/fleets/members/namespaces/delete"
+  ],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

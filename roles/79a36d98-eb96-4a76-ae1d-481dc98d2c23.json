@@ -1,0 +1,22 @@
+{
+  "Name": "Azure Kubernetes Fleet Manager RBAC Cluster Admin for Member Clusters",
+  "Id": "79a36d98-eb96-4a76-ae1d-481dc98d2c23",
+  "IsCustom": false,
+  "Description": "Lets you manage all resources in the member clusters in the fleet.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerService/fleets/members/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

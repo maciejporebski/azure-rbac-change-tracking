@@ -118,7 +118,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
 | [Azure Device Registry Contributor](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) | [a5c3590a-3a1a-4cd4-9648-ea0a32b15137](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) |
 | [Azure Device Registry Credentials Contributor](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) | [09267e11-2e06-40b5-8fe4-68cea20794c9](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) |
-| [Azure Device Registry Onboarding Role](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) | [547f7f0a-69c0-4807-bd9e-0321dfb66a84](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) |
+| [Azure Device Registry Onboarding](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) | [547f7f0a-69c0-4807-bd9e-0321dfb66a84](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) |
 | [Azure Device Update Agent](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) | [2a740172-0fc2-4039-972c-b31864cd47d6](roles/2a740172-0fc2-4039-972c-b31864cd47d6.json) |
 | [Azure Digital Twins Data Owner](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) | [bcd981a7-7f74-457b-83e1-cceb9e632ffe](roles/bcd981a7-7f74-457b-83e1-cceb9e632ffe.json) |
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
@@ -144,11 +144,15 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Fleet Manager Hub Agent Role](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) | [de2b316d-7a2c-4143-b4cd-c148f6a355a1](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) |
 | [Azure Kubernetes Fleet Manager Hub Cluster User Role](roles/850c5848-fc51-4a9a-8823-f220370626e3.json) | [850c5848-fc51-4a9a-8823-f220370626e3](roles/850c5848-fc51-4a9a-8823-f220370626e3.json) |
 | [Azure Kubernetes Fleet Manager RBAC Admin](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) | [434fb43a-c01c-447e-9f67-c3ad923cfaba](roles/434fb43a-c01c-447e-9f67-c3ad923cfaba.json) |
+| [Azure Kubernetes Fleet Manager RBAC Admin for Member Clusters](roles/d1f699ed-700a-4c77-a22f-29890ac7b115.json) | [d1f699ed-700a-4c77-a22f-29890ac7b115](roles/d1f699ed-700a-4c77-a22f-29890ac7b115.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Admin](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) | [18ab4d3d-a1bf-4477-8ad9-8359bc988f69](roles/18ab4d3d-a1bf-4477-8ad9-8359bc988f69.json) |
+| [Azure Kubernetes Fleet Manager RBAC Cluster Admin for Member Clusters](roles/79a36d98-eb96-4a76-ae1d-481dc98d2c23.json) | [79a36d98-eb96-4a76-ae1d-481dc98d2c23](roles/79a36d98-eb96-4a76-ae1d-481dc98d2c23.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Reader](roles/bd80684d-2f5f-4130-892a-0955546282de.json) | [bd80684d-2f5f-4130-892a-0955546282de](roles/bd80684d-2f5f-4130-892a-0955546282de.json) |
 | [Azure Kubernetes Fleet Manager RBAC Cluster Writer](roles/1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320.json) | [1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320](roles/1dc4cd5a-de51-4ee4-bc8e-b40e9c17e320.json) |
 | [Azure Kubernetes Fleet Manager RBAC Reader](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) | [30b27cfc-9c84-438e-b0ce-70e35255df80](roles/30b27cfc-9c84-438e-b0ce-70e35255df80.json) |
+| [Azure Kubernetes Fleet Manager RBAC Reader for Member Clusters](roles/463ad26c-fcce-4469-9c7f-5653d8acbab5.json) | [463ad26c-fcce-4469-9c7f-5653d8acbab5](roles/463ad26c-fcce-4469-9c7f-5653d8acbab5.json) |
 | [Azure Kubernetes Fleet Manager RBAC Writer](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) | [5af6afb3-c06c-4fa4-8848-71a8aee05683](roles/5af6afb3-c06c-4fa4-8848-71a8aee05683.json) |
+| [Azure Kubernetes Fleet Manager RBAC Writer for Member Clusters](roles/50346970-0998-40f2-b47d-f3b8809840f8.json) | [50346970-0998-40f2-b47d-f3b8809840f8](roles/50346970-0998-40f2-b47d-f3b8809840f8.json) |
 | [Azure Kubernetes Service Agent Pool Manager Role](roles/1b7f3653-4324-473a-9165-bc55e4d04ba8.json) | [1b7f3653-4324-473a-9165-bc55e4d04ba8](roles/1b7f3653-4324-473a-9165-bc55e4d04ba8.json) |
 | [Azure Kubernetes Service Arc Cluster Admin Role](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) | [b29efa5f-7782-4dc3-9537-4d5bc70a5e9f](roles/b29efa5f-7782-4dc3-9537-4d5bc70a5e9f.json) |
 | [Azure Kubernetes Service Arc Cluster User Role](roles/233ca253-b031-42ff-9fba-87ef12d6b55f.json) | [233ca253-b031-42ff-9fba-87ef12d6b55f](roles/233ca253-b031-42ff-9fba-87ef12d6b55f.json) |
@@ -203,6 +207,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Resilience Management Drills Contributor](roles/e131102b-11a5-4ff4-8508-ed922132b74c.json) | [e131102b-11a5-4ff4-8508-ed922132b74c](roles/e131102b-11a5-4ff4-8508-ed922132b74c.json) |
 | [Azure Resilience Management Drills Operator](roles/ff09793b-be48-49f6-ad96-70d32039c0b9.json) | [ff09793b-be48-49f6-ad96-70d32039c0b9](roles/ff09793b-be48-49f6-ad96-70d32039c0b9.json) |
 | [Azure Resilience Management Drills Reader](roles/d2e8fe82-9212-490f-af3e-34bb52d87d3d.json) | [d2e8fe82-9212-490f-af3e-34bb52d87d3d](roles/d2e8fe82-9212-490f-af3e-34bb52d87d3d.json) |
+| [Azure Resilience Management Goals Administrator](roles/a2b7cc47-30ec-462f-a2f4-9ac6e1c266af.json) | [a2b7cc47-30ec-462f-a2f4-9ac6e1c266af](roles/a2b7cc47-30ec-462f-a2f4-9ac6e1c266af.json) |
+| [Azure Resilience Management Goals Contributor](roles/3910633d-19d0-4d31-b5e6-4f3101b137b9.json) | [3910633d-19d0-4d31-b5e6-4f3101b137b9](roles/3910633d-19d0-4d31-b5e6-4f3101b137b9.json) |
+| [Azure Resilience Management Goals Reader](roles/39ea2c4e-798a-4469-b81d-65dc7c54cbdb.json) | [39ea2c4e-798a-4469-b81d-65dc7c54cbdb](roles/39ea2c4e-798a-4469-b81d-65dc7c54cbdb.json) |
 | [Azure Resilience Management Recovery Administrator](roles/481d9636-d9f0-468b-b93d-6056318e6f36.json) | [481d9636-d9f0-468b-b93d-6056318e6f36](roles/481d9636-d9f0-468b-b93d-6056318e6f36.json) |
 | [Azure Resilience Management Recovery Contributor](roles/4c7fd853-7345-4453-babd-e9481e9b460b.json) | [4c7fd853-7345-4453-babd-e9481e9b460b](roles/4c7fd853-7345-4453-babd-e9481e9b460b.json) |
 | [Azure Resilience Management Recovery Operator](roles/517781b0-5ad4-4418-94d5-f2421834b586.json) | [517781b0-5ad4-4418-94d5-f2421834b586](roles/517781b0-5ad4-4418-94d5-f2421834b586.json) |
@@ -578,6 +585,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Managed Identity Contributor](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) | [e40ec5ca-96e0-45a2-b4ff-59039f2c2b59](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) |
 | [Managed Identity Federated Identity Credential Contributor](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) | [7e559ce2-48d7-4b27-9128-fa1b247f1308](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) |
 | [Managed Identity Operator](roles/f1a07417-d97a-45cb-824c-7a7467783830.json) | [f1a07417-d97a-45cb-824c-7a7467783830](roles/f1a07417-d97a-45cb-824c-7a7467783830.json) |
+| [Managed Mesh for AKS Contributor Role](roles/852e55ca-96ce-48b0-abca-2cd74d9042ca.json) | [852e55ca-96ce-48b0-abca-2cd74d9042ca](roles/852e55ca-96ce-48b0-abca-2cd74d9042ca.json) |
 | [Managed Services Registration assignment Delete Role](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) | [91c1777a-f3dc-4fae-b103-61d183457e46](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) |
 | [Management Group Contributor](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) | [5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) |
 | [Management Group Reader](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) | [ac63b705-f282-497d-ac71-919bf39d939d](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) |

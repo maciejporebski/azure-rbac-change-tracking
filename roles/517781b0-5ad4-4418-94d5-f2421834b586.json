@@ -4,8 +4,15 @@
   "IsCustom": false,
   "Description": "Operator Role of Azure Resilience Management Recovery Service",
   "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Automation/automationAccounts/runbooks/read",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
-    "Microsoft.AzureResilienceManagement/recoveryPlans/*/read"
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",
+    "Microsoft.Insights/alertRules/",
+    "Microsoft.Management/ServiceGroups/read",
+    "Microsoft.Relationships/ServiceGroupMember/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [],

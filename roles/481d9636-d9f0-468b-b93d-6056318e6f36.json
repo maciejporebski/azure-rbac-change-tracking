@@ -4,10 +4,19 @@
   "IsCustom": false,
   "Description": "Administrator Role of Azure Resilience Management Recovery Service",
   "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Automation/automationAccounts/runbooks/read",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/delete",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",
-    "Microsoft.AzureResilienceManagement/recoveryPlans/*/write"
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/write",
+    "Microsoft.Insights/alertRules/",
+    "Microsoft.Management/ServiceGroups/read",
+    "Microsoft.Relationships/ServiceGroupMember/read",
+    "Microsoft.Relationships/ServiceGroupMember/write",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],
   "DataActions": [],

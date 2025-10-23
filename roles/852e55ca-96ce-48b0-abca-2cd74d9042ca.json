@@ -1,0 +1,23 @@
+{
+  "Name": "Managed Mesh for AKS Contributor Role",
+  "Id": "852e55ca-96ce-48b0-abca-2cd74d9042ca",
+  "IsCustom": false,
+  "Description": "Grant read, write and delete access to Managed Mesh for AKS",
+  "Actions": [
+    "Microsoft.AppLink/AppLinks/read",
+    "Microsoft.AppLink/AppLinks/write",
+    "Microsoft.AppLink/AppLinks/delete",
+    "Microsoft.AppLink/AppLinks/AppLinkMembers/read",
+    "Microsoft.AppLink/AppLinks/AppLinkMembers/write",
+    "Microsoft.AppLink/AppLinks/AppLinkMembers/delete",
+    "Microsoft.AppLink/locations/operationStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

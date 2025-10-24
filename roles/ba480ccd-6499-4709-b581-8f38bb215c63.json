@@ -1,0 +1,27 @@
+{
+  "Name": "Azure Migrate Service Reader",
+  "Id": "ba480ccd-6499-4709-b581-8f38bb215c63",
+  "IsCustom": false,
+  "Description": "Grants required access to the system assigned managed identity of Azure Migrate project resource.",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.ApplicationMigration/*/read",
+    "Microsoft.Migrate/*/read",
+    "Microsoft.OffAzure/*/read",
+    "Microsoft.MySQLDiscovery/*/read",
+    "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectableItems/read",
+    "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/read",
+    "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

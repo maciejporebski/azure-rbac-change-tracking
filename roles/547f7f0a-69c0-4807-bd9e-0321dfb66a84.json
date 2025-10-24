@@ -1,8 +1,8 @@
 {
-  "Name": "Azure Device Registry Onboarding",
+  "Name": "Azure Device Registry Onboarding Role",
   "Id": "547f7f0a-69c0-4807-bd9e-0321dfb66a84",
   "IsCustom": false,
-  "Description": "Allows for full access to Azure Device Registry Namespace and X.509 certificate provisioning.",
+  "Description": "Onboard to Azure Device Registry.",
   "Actions": [
     "Microsoft.DeviceRegistry/namespaces/read",
     "Microsoft.DeviceRegistry/namespaces/write",

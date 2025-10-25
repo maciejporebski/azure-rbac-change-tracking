@@ -1,0 +1,19 @@
+{
+  "Name": "Relationship Administrator",
+  "Id": "b54df9c1-53dc-45cc-a86d-7a83cced2ed0",
+  "IsCustom": false,
+  "Description": "Role definition allowing read, write and delete access to all relationship types",
+  "Actions": [
+    "Microsoft.Relationships/*/read",
+    "Microsoft.Relationships/*/write",
+    "Microsoft.Relationships/*/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

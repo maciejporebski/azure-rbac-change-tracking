@@ -1,0 +1,19 @@
+{
+  "Name": "Service Group Member Relationship Contributor",
+  "Id": "05b1aaf9-00c9-477b-b0e8-2da660b78c51",
+  "IsCustom": false,
+  "Description": "Role definition allowing read, write and delete access to Service Group Member relationship types",
+  "Actions": [
+    "Microsoft.Relationships/serviceGroupMember/read",
+    "Microsoft.Relationships/serviceGroupMember/write",
+    "Microsoft.Relationships/serviceGroupMember/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

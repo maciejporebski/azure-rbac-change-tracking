@@ -1,0 +1,17 @@
+{
+  "Name": "Relationship Reader",
+  "Id": "5eaf7b81-a48f-45ed-b6b4-c64bfe86d523",
+  "IsCustom": false,
+  "Description": "Role definition allowing read access to all relationship types",
+  "Actions": [
+    "Microsoft.Relationships/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

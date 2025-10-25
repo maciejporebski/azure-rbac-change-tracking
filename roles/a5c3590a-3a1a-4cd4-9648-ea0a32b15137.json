@@ -9,7 +9,8 @@
     "microsoft.deviceregistry/namespaces/discovereddevices/*",
     "microsoft.deviceregistry/namespaces/credentials/read",
     "microsoft.deviceregistry/namespaces/credentials/policies/read",
-    "microsoft.devices/iothubs/certificates/*"
+    "microsoft.devices/iothubs/certificates/*",
+    "microsoft.devices/iothubs/read"
   ],
   "NotActions": [],
   "DataActions": [

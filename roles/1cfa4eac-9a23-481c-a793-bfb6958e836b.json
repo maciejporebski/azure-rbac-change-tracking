@@ -45,8 +45,6 @@
     "Microsoft.RecoveryServices/register/action",
     "Microsoft.RecoveryServices/operations/read",
     "Microsoft.Resources/links/read",
-    "Microsoft.DependencyMap/*/read",
-    "Microsoft.DependencyMap/maps/*/action",
     "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Authorization/roleAssignments/delete"
   ],

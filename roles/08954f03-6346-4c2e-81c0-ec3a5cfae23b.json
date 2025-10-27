@@ -9,8 +9,7 @@
     "Microsoft.Insights/components/*/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Support/*",
-    "Microsoft.Insights/snapshots/read"
+    "Microsoft.Support/*"
   ],
   "NotActions": [],
   "DataActions": [],

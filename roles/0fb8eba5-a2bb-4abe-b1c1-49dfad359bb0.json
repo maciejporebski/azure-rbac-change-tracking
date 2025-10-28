@@ -7,7 +7,9 @@
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.App/sessionPools/*/read",
-    "Microsoft.App/sessionPools/sessions/generatesessions/action"
+    "Microsoft.App/sessionPools/sessions/generatesessions/action",
+    "Microsoft.App/sessionPools/fetchMcpServerCredentials/action",
+    "Microsoft.App/sessionPools/rotateMcpServerCredentials/action"
   ],
   "NotActions": [],
   "DataActions": [

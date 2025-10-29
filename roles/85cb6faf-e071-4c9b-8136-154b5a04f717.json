@@ -11,7 +11,8 @@
     "Microsoft.KubernetesConfiguration/extensions/write",
     "Microsoft.KubernetesConfiguration/extensions/read",
     "Microsoft.KubernetesConfiguration/extensions/delete",
-    "Microsoft.KubernetesConfiguration/extensions/operations/read"
+    "Microsoft.KubernetesConfiguration/extensions/operations/read",
+    "Microsoft.KubernetesConfiguration/register/action"
   ],
   "NotActions": [],
   "DataActions": [],

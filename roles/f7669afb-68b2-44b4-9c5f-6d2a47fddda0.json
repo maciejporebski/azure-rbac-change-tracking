@@ -20,7 +20,10 @@
     "Microsoft.App/connectedEnvironments/checknameavailability/action",
     "Microsoft.Resources/deployments/*"
   ],
-  "NotActions": [],
+  "NotActions": [
+    "Microsoft.App/sessionPools/fetchMcpServerCredentials/action",
+    "Microsoft.App/sessionPools/rotateMcpServerCredentials/action"
+  ],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [

@@ -670,6 +670,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Reader and Data Access](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) | [c12c1c16-33a1-487b-954d-41c89c60f349](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) |
 | [Recurring Scheduled Actions Contributor](roles/376d0802-aca8-4c2d-83a5-c88630f396fe.json) | [376d0802-aca8-4c2d-83a5-c88630f396fe](roles/376d0802-aca8-4c2d-83a5-c88630f396fe.json) |
 | [Redis Cache Contributor](roles/e0f68234-74aa-48ed-b826-c38b57376e17.json) | [e0f68234-74aa-48ed-b826-c38b57376e17](roles/e0f68234-74aa-48ed-b826-c38b57376e17.json) |
+| [Relationship Administrator](roles/b54df9c1-53dc-45cc-a86d-7a83cced2ed0.json) | [b54df9c1-53dc-45cc-a86d-7a83cced2ed0](roles/b54df9c1-53dc-45cc-a86d-7a83cced2ed0.json) |
+| [Relationship Reader](roles/5eaf7b81-a48f-45ed-b6b4-c64bfe86d523.json) | [5eaf7b81-a48f-45ed-b6b4-c64bfe86d523](roles/5eaf7b81-a48f-45ed-b6b4-c64bfe86d523.json) |
 | [Remote Rendering Administrator](roles/3df8b902-2a6f-47c7-8cc5-360e9b272a7e.json) | [3df8b902-2a6f-47c7-8cc5-360e9b272a7e](roles/3df8b902-2a6f-47c7-8cc5-360e9b272a7e.json) |
 | [Remote Rendering Client](roles/d39065c4-c120-43c9-ab0a-63eed9795f0a.json) | [d39065c4-c120-43c9-ab0a-63eed9795f0a](roles/d39065c4-c120-43c9-ab0a-63eed9795f0a.json) |
 | [Reservation Purchaser](roles/f7b75c60-3036-4b75-91c3-6b41c27c1689.json) | [f7b75c60-3036-4b75-91c3-6b41c27c1689](roles/f7b75c60-3036-4b75-91c3-6b41c27c1689.json) |
@@ -699,6 +701,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
 | [Service Fabric Cluster Contributor](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) | [b6efc156-f0da-4e90-a50a-8c000140b017](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) |
 | [Service Fabric Managed Cluster Contributor](roles/83f80186-3729-438c-ad2d-39e94d718838.json) | [83f80186-3729-438c-ad2d-39e94d718838](roles/83f80186-3729-438c-ad2d-39e94d718838.json) |
+| [Service Group Member Relationship Contributor](roles/05b1aaf9-00c9-477b-b0e8-2da660b78c51.json) | [05b1aaf9-00c9-477b-b0e8-2da660b78c51](roles/05b1aaf9-00c9-477b-b0e8-2da660b78c51.json) |
 | [Service Health Billing Reader](roles/32c34659-0f83-4a4c-80f2-63a244f8ae0b.json) | [32c34659-0f83-4a4c-80f2-63a244f8ae0b](roles/32c34659-0f83-4a4c-80f2-63a244f8ae0b.json) |
 | [Service Health Security Reader](roles/1a928ab0-1fee-43cf-9266-f9d8c22a8ddb.json) | [1a928ab0-1fee-43cf-9266-f9d8c22a8ddb](roles/1a928ab0-1fee-43cf-9266-f9d8c22a8ddb.json) |
 | [Services Hub Operator](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) | [82200a5b-e217-47a5-b665-6d8765ee745b](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) |
@@ -725,6 +728,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlMI Migration Role](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) | [1d335eef-eee1-47fe-a9e0-53214eba8872](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) |
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
 | [SRE Agent Administrator](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) | [e79298df-d852-4c6d-84f9-5d13249d1e55](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) |
+| [SRE Agent Author](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) | [eb64ab4c-23eb-4f63-a9c2-27da365f04e7](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) |
 | [SRE Agent Reader](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) | [a4b156ac-253f-4a1a-9851-96d62b71b047](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) |
 | [SRE Agent Standard User](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) | [2d84a65a-63b2-4343-bbb6-31105d857bc1](roles/2d84a65a-63b2-4343-bbb6-31105d857bc1.json) |
 | [SSH PublicKeys Contributor Role](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) | [fc6e3395-6a8c-4527-bb4c-d0abd41e8e74](roles/fc6e3395-6a8c-4527-bb4c-d0abd41e8e74.json) |

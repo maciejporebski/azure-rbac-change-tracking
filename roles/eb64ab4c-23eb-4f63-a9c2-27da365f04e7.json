@@ -1,0 +1,27 @@
+{
+  "Name": "SRE Agent Author",
+  "Id": "eb64ab4c-23eb-4f63-a9c2-27da365f04e7",
+  "IsCustom": false,
+  "Description": "Allows users to add custom features to the SRE Agent using incident handlers and extended agents.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.App/agents/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/agents/threads/read",
+    "Microsoft.App/agents/incidentManagement/read",
+    "Microsoft.App/agents/incidentManagement/write",
+    "Microsoft.App/agents/incidentManagement/delete",
+    "Microsoft.App/agents/extendedAgents/read",
+    "Microsoft.App/agents/extendedAgents/write",
+    "Microsoft.App/agents/extendedAgents/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Defender Cloud Secrets Posture",
+  "Id": "512ef07a-840c-48d2-9be4-9a30a75a5c70",
+  "IsCustom": false,
+  "Description": "Service role that provides permissions for Microsoft Defender Cloud Secrets Posture",
+  "Actions": [
+    "Microsoft.DocumentDB/databaseAccounts/listKeys/action",
+    "Microsoft.documentdb/mongoClusters/read",
+    "Microsoft.DocumentDB/databaseAccounts/listConnectionStrings/action",
+    "Microsoft.CognitiveServices/accounts/listKeys/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

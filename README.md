@@ -381,7 +381,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
 | [Dedicated Host Contributor Role](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) | [96ebd254-ecc7-4590-aff5-e9af3ff5f3b3](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) |
-| [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
 | [Defender CSPM Storage Data Scanner](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
@@ -520,7 +519,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
 | [HybridCompute Machine ListAccessDetails Action In-Built Role](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) | [e9701b4d-e6e7-4657-91cd-360a0881d224](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) |
 | [Impact Reader](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) | [68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) |
-| [Informatica DataManagement Contributor role](roles/2e481b5d-5af3-463b-8b01-f9c948aaf0c5.json) | [2e481b5d-5af3-463b-8b01-f9c948aaf0c5](roles/2e481b5d-5af3-463b-8b01-f9c948aaf0c5.json) |
 | [Integration Service Environment Contributor](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) | [a41e2c5b-bd99-4a07-88f4-9bf657a760b8](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) |
 | [Integration Service Environment Developer](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) | [c7aa55d3-1abb-444a-a5ca-5e51e485d6ec](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) |
 | [Intelligent Systems Account Contributor](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) | [03a6d094-3444-4b3d-88af-7477090a9e5e](roles/03a6d094-3444-4b3d-88af-7477090a9e5e.json) |
@@ -595,7 +593,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Managed Services Registration assignment Delete Role](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) | [91c1777a-f3dc-4fae-b103-61d183457e46](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) |
 | [Management Group Contributor](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) | [5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) |
 | [Management Group Reader](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) | [ac63b705-f282-497d-ac71-919bf39d939d](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) |
-| [Microsoft Confluent Contributor role](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) | [5052f0f9-7e27-4570-bc13-9ee1cf442526](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) |
 | [Microsoft Discovery Platform Administrator (Preview)](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) | [7a2b6e6c-472e-4b39-8878-a26eb63d75c6](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) |
 | [Microsoft Discovery Platform Contributor (Preview)](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) | [01288891-85ee-45a7-b367-9db3b752fc65](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) |
 | [Microsoft Discovery Platform Reader (Preview)](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) | [3bb7c424-af4e-436b-bfcc-8779c8934c31](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) |

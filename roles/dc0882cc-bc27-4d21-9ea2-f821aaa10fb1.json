@@ -1,0 +1,18 @@
+{
+  "Name": "ARN Service Event Grid Subscriber Role",
+  "Id": "dc0882cc-bc27-4d21-9ea2-f821aaa10fb1",
+  "IsCustom": false,
+  "Description": "Allows ARN to subscribe to partner event grid topics",
+  "Actions": [
+    "Microsoft.EventGrid/EventSubscriptions/write",
+    "Microsoft.EventGrid/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

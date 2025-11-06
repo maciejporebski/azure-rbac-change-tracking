@@ -43,6 +43,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Application Insights Snapshot Debugger](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) | [08954f03-6346-4c2e-81c0-ec3a5cfae23b](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) |
 | [Arc Gateway Manager](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) | [f6e92014-8af2-414d-9948-9b1abf559285](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) |
 | [ArizeAi.ObservabilityEval Contributor Role](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) | [dca88c6f-5090-44cd-a0ff-a88f337b12a5](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) |
+| [ARN Service Event Grid Subscriber Role](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) | [dc0882cc-bc27-4d21-9ea2-f821aaa10fb1](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) |
 | [Attestation Contributor](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) | [bbf86eb8-f7b4-4cce-96e4-18cddf81d86e](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) |
 | [Attestation Reader](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) | [fd1bd22b-8476-40bc-a0bc-69b95687b9f3](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) |
 | [Auto Actions Contributor](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) | [a8d01690-9418-4783-8ca2-9f0f1791783d](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) |

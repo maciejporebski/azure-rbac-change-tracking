@@ -1,0 +1,29 @@
+{
+  "Name": "Gcp Connector contributor role",
+  "Id": "a51d5f27-deba-47d1-9ccd-8589014b2e28",
+  "IsCustom": false,
+  "Description": "Microsoft.GcpConnector contributor role",
+  "Actions": [
+    "Microsoft.GcpConnector/bigQueryDatasets/delete",
+    "Microsoft.GcpConnector/bigQueryDatasets/write",
+    "Microsoft.GcpConnector/cloudFunctions/delete",
+    "Microsoft.GcpConnector/cloudFunctions/write",
+    "Microsoft.GcpConnector/computeInstances/delete",
+    "Microsoft.GcpConnector/computeInstances/write",
+    "Microsoft.GcpConnector/containerClusters/delete",
+    "Microsoft.GcpConnector/containerClusters/write",
+    "Microsoft.GcpConnector/Locations/OperationStatuses/write",
+    "Microsoft.GcpConnector/sqlAdminInstances/delete",
+    "Microsoft.GcpConnector/sqlAdminInstances/write",
+    "Microsoft.GcpConnector/storageBuckets/delete",
+    "Microsoft.GcpConnector/storageBuckets/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

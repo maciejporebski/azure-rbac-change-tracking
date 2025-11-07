@@ -1,0 +1,31 @@
+{
+  "Name": "Storage DataShare Contributor",
+  "Id": "35c49d44-ccc1-4b18-8267-cfb3bacdd396",
+  "IsCustom": false,
+  "Description": "Allows creating and managing storage dataShares to share data from storage accounts in-place. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Storage/storageAccounts/listServiceSas/action",
+    "Microsoft.Storage/storageAccounts/blobServices/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/locations/DataManagementRPOperationStatuses/read",
+    "Microsoft.Storage/locations/DataManagementRPOperationStatuses/write",
+    "Microsoft.Storage/storageAccounts/dataShares/read",
+    "Microsoft.Storage/storageAccounts/dataShares/delete",
+    "Microsoft.Storage/storageAccounts/dataShares/write"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

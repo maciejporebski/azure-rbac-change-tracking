@@ -387,6 +387,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
 | [Dedicated Host Contributor Role](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) | [96ebd254-ecc7-4590-aff5-e9af3ff5f3b3](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) |
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
+| [Defender CSPM](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) | [46023a6a-0702-4cbf-956c-d8c3ac27bc2b](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) |
 | [Defender CSPM Storage Data Scanner](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
@@ -495,6 +496,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Garnet PubSub Data Contributor](roles/56e95fdc-3337-468d-b964-30d07f2a2018.json) | [56e95fdc-3337-468d-b964-30d07f2a2018](roles/56e95fdc-3337-468d-b964-30d07f2a2018.json) |
 | [Garnet PubSub Data Reader](roles/da9adf61-39cd-41d5-87a0-30b21f7270d8.json) | [da9adf61-39cd-41d5-87a0-30b21f7270d8](roles/da9adf61-39cd-41d5-87a0-30b21f7270d8.json) |
 | [Garnet Script Data Contributor](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) | [7021ea36-e168-4bc0-af53-88de51d20665](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) |
+| [Gcp Connector contributor role](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) | [a51d5f27-deba-47d1-9ccd-8589014b2e28](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |
@@ -753,6 +755,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage Blob Data Owner](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) | [b7e6dc6d-f1e8-4753-8033-0f276bb0955b](roles/b7e6dc6d-f1e8-4753-8033-0f276bb0955b.json) |
 | [Storage Blob Data Reader](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) | [2a2b9908-6ea1-4ae2-8e65-a410df84e7d1](roles/2a2b9908-6ea1-4ae2-8e65-a410df84e7d1.json) |
 | [Storage Blob Delegator](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) | [db58b8e5-c6ad-4a2a-8342-4190687cbf4a](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) |
+| [Storage Connector Contributor](roles/9d819e60-1b9f-4871-b492-4e6cdee0b50a.json) | [9d819e60-1b9f-4871-b492-4e6cdee0b50a](roles/9d819e60-1b9f-4871-b492-4e6cdee0b50a.json) |
+| [Storage DataShare Contributor](roles/35c49d44-ccc1-4b18-8267-cfb3bacdd396.json) | [35c49d44-ccc1-4b18-8267-cfb3bacdd396](roles/35c49d44-ccc1-4b18-8267-cfb3bacdd396.json) |
 | [Storage File Data Privileged Contributor](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) | [69566ab7-960f-475b-8e7c-b3118f30c6bd](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) |
 | [Storage File Data Privileged Reader](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) | [b8eda974-7b85-4f76-af95-65846b26df6d](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) |
 | [Storage File Data SMB Admin](roles/bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b.json) | [bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b](roles/bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b.json) |
@@ -760,6 +764,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage File Data SMB Share Contributor](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) | [0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb](roles/0c867c2a-1d8c-454a-a3db-ab2ea1bdc8bb.json) |
 | [Storage File Data SMB Share Elevated Contributor](roles/a7264617-510b-434b-a828-9731dc254ea7.json) | [a7264617-510b-434b-a828-9731dc254ea7](roles/a7264617-510b-434b-a828-9731dc254ea7.json) |
 | [Storage File Data SMB Share Reader](roles/aba4ae5f-2193-4029-9191-0cb91df5e314.json) | [aba4ae5f-2193-4029-9191-0cb91df5e314](roles/aba4ae5f-2193-4029-9191-0cb91df5e314.json) |
+| [Storage File Data SMB Take Ownership](roles/5d9bac3f-34b2-432f-bde5-78aa8e73ce6b.json) | [5d9bac3f-34b2-432f-bde5-78aa8e73ce6b](roles/5d9bac3f-34b2-432f-bde5-78aa8e73ce6b.json) |
 | [Storage File Delegator](roles/765a04e0-5de8-4bb2-9bf6-b2a30bc03e91.json) | [765a04e0-5de8-4bb2-9bf6-b2a30bc03e91](roles/765a04e0-5de8-4bb2-9bf6-b2a30bc03e91.json) |
 | [Storage Queue Data Contributor](roles/974c5e8b-45b9-4653-ba55-5f855dd0fb88.json) | [974c5e8b-45b9-4653-ba55-5f855dd0fb88](roles/974c5e8b-45b9-4653-ba55-5f855dd0fb88.json) |
 | [Storage Queue Data Message Processor](roles/8a0f0c08-91a1-4084-bc3d-661d67233fed.json) | [8a0f0c08-91a1-4084-bc3d-661d67233fed](roles/8a0f0c08-91a1-4084-bc3d-661d67233fed.json) |

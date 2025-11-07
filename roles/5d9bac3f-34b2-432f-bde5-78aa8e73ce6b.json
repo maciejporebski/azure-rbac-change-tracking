@@ -1,0 +1,17 @@
+{
+  "Name": "Storage File Data SMB Take Ownership",
+  "Id": "5d9bac3f-34b2-432f-bde5-78aa8e73ce6b",
+  "IsCustom": false,
+  "Description": "Allows end user to assume ownership of a file/directory",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/fileServices/takeOwnership/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

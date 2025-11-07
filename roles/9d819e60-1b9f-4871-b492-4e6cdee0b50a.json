@@ -1,0 +1,34 @@
+{
+  "Name": "Storage Connector Contributor",
+  "Id": "9d819e60-1b9f-4871-b492-4e6cdee0b50a",
+  "IsCustom": false,
+  "Description": "Allows creating and managing storage connectors to access remote data sources in-place in a storage account. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Storage/storageAccounts/read",
+    "Microsoft.Storage/storageAccounts/listServiceSas/action",
+    "Microsoft.Storage/storageAccounts/blobServices/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/write",
+    "Microsoft.Storage/locations/DataManagementRPOperationStatuses/read",
+    "Microsoft.Storage/locations/DataManagementRPOperationStatuses/write",
+    "Microsoft.Storage/storageAccounts/connectors/read",
+    "Microsoft.Storage/storageAccounts/connectors/delete",
+    "Microsoft.Storage/storageAccounts/connectors/write",
+    "Microsoft.Storage/storageAccounts/connectors/testExistingConnection/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -320,6 +320,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cognitive Services OpenAI User](roles/5e0bd9bd-7b93-4f28-af87-19fc36ad61bd.json) | [5e0bd9bd-7b93-4f28-af87-19fc36ad61bd](roles/5e0bd9bd-7b93-4f28-af87-19fc36ad61bd.json) |
 | [Cognitive Services QnA Maker Editor](roles/f4cc2bf9-21be-47a1-bdf1-5c5804381025.json) | [f4cc2bf9-21be-47a1-bdf1-5c5804381025](roles/f4cc2bf9-21be-47a1-bdf1-5c5804381025.json) |
 | [Cognitive Services QnA Maker Reader](roles/466ccd10-b268-4a11-b098-b4849f024126.json) | [466ccd10-b268-4a11-b098-b4849f024126](roles/466ccd10-b268-4a11-b098-b4849f024126.json) |
+| [Cognitive Services Security Integration Admin](roles/14f26b53-9d80-4924-8141-f664426a48f6.json) | [14f26b53-9d80-4924-8141-f664426a48f6](roles/14f26b53-9d80-4924-8141-f664426a48f6.json) |
 | [Cognitive Services Speech Contributor](roles/0e75ca1e-0464-4b4d-8b93-68208a576181.json) | [0e75ca1e-0464-4b4d-8b93-68208a576181](roles/0e75ca1e-0464-4b4d-8b93-68208a576181.json) |
 | [Cognitive Services Speech User](roles/f2dc8367-1007-4938-bd23-fe263f013447.json) | [f2dc8367-1007-4938-bd23-fe263f013447](roles/f2dc8367-1007-4938-bd23-fe263f013447.json) |
 | [Cognitive Services Usages Reader](roles/bba48692-92b0-4667-a9ad-c31c7b334ac2.json) | [bba48692-92b0-4667-a9ad-c31c7b334ac2](roles/bba48692-92b0-4667-a9ad-c31c7b334ac2.json) |

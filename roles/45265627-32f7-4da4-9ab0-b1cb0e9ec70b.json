@@ -1,0 +1,21 @@
+{
+  "Name": "Playwright Workspace Owner",
+  "Id": "45265627-32f7-4da4-9ab0-b1cb0e9ec70b",
+  "IsCustom": false,
+  "Description": "Perform all operations on Playwright Workspace resources. Can manage service access tokens and execute Playwright tests.",
+  "Actions": [
+    "Microsoft.Loadtestservice/playwrightworkspaces/*",
+    "Microsoft.Loadtestservice/locations/playwrightquotas/*",
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

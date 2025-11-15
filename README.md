@@ -387,16 +387,19 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Operator for Managed Disks](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) | [959f8984-c045-4866-89c7-12bf9737be2e](roles/959f8984-c045-4866-89c7-12bf9737be2e.json) |
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
 | [Dedicated Host Contributor Role](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) | [96ebd254-ecc7-4590-aff5-e9af3ff5f3b3](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) |
+| [Defender Agentless VM Scan](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |
+| [Defender API Security](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) | [6f91a4f9-10ee-4b95-b8cd-96ee73c5968d](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) |
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
 | [Defender CSPM](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) | [46023a6a-0702-4cbf-956c-d8c3ac27bc2b](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) |
-| [Defender CSPM Storage Data Scanner](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [Defender Kubernetes API Access](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
+| [Defender Sensitive Data Discovery](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender Serverless Scanner](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) | [68ac31b4-936a-4046-a6d2-ba6f8a757bf6](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) |
+| [Defender Settings Contributor](roles/7d0c0268-1199-449b-a52e-75c20879f46b.json) | [7d0c0268-1199-449b-a52e-75c20879f46b](roles/7d0c0268-1199-449b-a52e-75c20879f46b.json) |
 | [Defender Unified RBAC Authorization Manager](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) | [1fd5d8bf-9037-4ede-89bf-680f798e2765](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) |
 | [Defender Unified RBAC Authorization Reader](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) | [ca62263b-07d5-4b48-b437-088803f5c2ff](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) |
 | [Defender Unified RBAC Contributor and Responder](roles/625a1cea-653b-4a19-bd3a-df1d66ab6637.json) | [625a1cea-653b-4a19-bd3a-df1d66ab6637](roles/625a1cea-653b-4a19-bd3a-df1d66ab6637.json) |
@@ -659,6 +662,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Pinecone.VectorDb Contributor Role](roles/dd799a69-ffc8-4aa8-9701-b51f686857d9.json) | [dd799a69-ffc8-4aa8-9701-b51f686857d9](roles/dd799a69-ffc8-4aa8-9701-b51f686857d9.json) |
 | [PlayFab Contributor](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) | [0c8b84dc-067c-4039-9615-fa1a4b77c726](roles/0c8b84dc-067c-4039-9615-fa1a4b77c726.json) |
 | [PlayFab Reader](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) | [a9a19cc5-31f4-447c-901f-56c0bb18fcaf](roles/a9a19cc5-31f4-447c-901f-56c0bb18fcaf.json) |
+| [Playwright Workspace Contributor](roles/78cf819f-0969-4ebe-8759-015c6efcd5bf.json) | [78cf819f-0969-4ebe-8759-015c6efcd5bf](roles/78cf819f-0969-4ebe-8759-015c6efcd5bf.json) |
+| [Playwright Workspace Owner](roles/45265627-32f7-4da4-9ab0-b1cb0e9ec70b.json) | [45265627-32f7-4da4-9ab0-b1cb0e9ec70b](roles/45265627-32f7-4da4-9ab0-b1cb0e9ec70b.json) |
+| [Playwright Workspace Reader](roles/19d36063-d00b-4ea5-a1ac-a7c4926a0b78.json) | [19d36063-d00b-4ea5-a1ac-a7c4926a0b78](roles/19d36063-d00b-4ea5-a1ac-a7c4926a0b78.json) |
 | [Policy Enrollments Contributor](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) | [285ce6d6-fa11-43bd-94ef-42a9b3740bfd](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) |
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
 | [Portal Dashboard Writer Role](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) | [78eacb5e-e318-4560-85a9-e6a724ca60c9](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) |
@@ -803,7 +809,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Virtual Machine Local User Login](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) | [602da2ba-a5c2-41da-b01d-5360126ab525](roles/602da2ba-a5c2-41da-b01d-5360126ab525.json) |
 | [Virtual Machine User Login](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) | [fb879df8-f326-4884-b1cf-06f3ad86be52](roles/fb879df8-f326-4884-b1cf-06f3ad86be52.json) |
 | [VM Restore Operator](roles/dfce8971-25e3-42e3-ba33-6055438e3080.json) | [dfce8971-25e3-42e3-ba33-6055438e3080](roles/dfce8971-25e3-42e3-ba33-6055438e3080.json) |
-| [VM Scanner Operator](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |
 | [Web Plan Contributor](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) | [2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b](roles/2cc479cb-7b4d-49a8-b449-8c00fd0f0a4b.json) |
 | [Web PubSub Service Owner](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) | [12cf5a90-567b-43ae-8102-96cf46c7d9b4](roles/12cf5a90-567b-43ae-8102-96cf46c7d9b4.json) |
 | [Web PubSub Service Reader](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) | [bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf](roles/bfb1c7d2-fb1a-466b-b2ba-aee63b92deaf.json) |

@@ -1,0 +1,25 @@
+{
+  "Name": "Defender API Security",
+  "Id": "6f91a4f9-10ee-4b95-b8cd-96ee73c5968d",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for Cloud access to computes to provide API security",
+  "Actions": [
+    "Microsoft.Security/pricings/read",
+    "Microsoft.Security/apiCollections/read",
+    "Microsoft.ApiManagement/service/read",
+    "Microsoft.ApiManagement/service/apis/read",
+    "Microsoft.ApiManagement/service/apis/operations/read",
+    "Microsoft.ApiManagement/service/apiVersionSets/read",
+    "Microsoft.ApiManagement/service/apis/diagnostics/read",
+    "Microsoft.ApiManagement/service/apis/diagnostics/write",
+    "Microsoft.ApiManagement/service/apis/diagnostics/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

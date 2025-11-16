@@ -1,5 +1,5 @@
 {
-  "Name": "Defender Agentless VM Scan",
+  "Name": "VM Scanner Operator",
   "Id": "d24ecba3-c1f4-40fa-a7bb-4588a071e8fd",
   "IsCustom": false,
   "Description": "Role that provides access to disk snapshot for security analysis.",

@@ -15,9 +15,7 @@
   "DataActions": [
     "Microsoft.ContainerService/fleets/*"
   ],
-  "NotDataActions": [
-    "Microsoft.ContainerService/fleets/members/*"
-  ],
+  "NotDataActions": [],
   "AssignableScopes": [
     "/"
   ],

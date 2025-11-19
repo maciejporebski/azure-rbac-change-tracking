@@ -15,6 +15,7 @@
     "Oracle.Database/exadbVmClusters/*/read",
     "Oracle.Database/resourceAnchors/read",
     "Oracle.Database/networkAnchors/read",
+    "Oracle.Database/autonomousDatabases/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/deployments/*/read",
     "Microsoft.Network/virtualNetworks/subnets/read",

@@ -116,6 +116,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Data Transfer Owner](roles/eded264d-1796-4e25-8500-a78427f8a316.json) | [eded264d-1796-4e25-8500-a78427f8a316](roles/eded264d-1796-4e25-8500-a78427f8a316.json) |
 | [Azure Deployment Stack Contributor](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) | [bf7f8882-3383-422a-806a-6526c631a88a](roles/bf7f8882-3383-422a-806a-6526c631a88a.json) |
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
+| [Azure Device Onboarding Contributor](roles/a954a0e0-f57f-4606-8421-fd7bd4e54b0f.json) | [a954a0e0-f57f-4606-8421-fd7bd4e54b0f](roles/a954a0e0-f57f-4606-8421-fd7bd4e54b0f.json) |
 | [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
 | [Azure Device Registry Contributor](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) | [a5c3590a-3a1a-4cd4-9648-ea0a32b15137](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) |
 | [Azure Device Registry Credentials Contributor](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) | [09267e11-2e06-40b5-8fe4-68cea20794c9](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) |
@@ -392,6 +393,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
 | [Defender CSPM](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) | [46023a6a-0702-4cbf-956c-d8c3ac27bc2b](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
+| [Defender for AI Threat Protection Purview Operator](roles/cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9.json) | [cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9](roles/cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9.json) |
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |

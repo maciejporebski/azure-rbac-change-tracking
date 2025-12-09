@@ -1,0 +1,15 @@
+{
+  "Name": "Defender for AI Threat Protection Purview Operator",
+  "Id": "cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9",
+  "IsCustom": false,
+  "Description": "Service role that provides permissions for Microsoft Defender for AI Threat Protection to work with Purview service",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

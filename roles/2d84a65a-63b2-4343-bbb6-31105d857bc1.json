@@ -16,7 +16,10 @@
     "Microsoft.App/agents/incidentManagement/read",
     "Microsoft.App/agents/threads/write",
     "Microsoft.App/agents/graph/write",
-    "Microsoft.App/agents/memory/write"
+    "Microsoft.App/agents/memory/write",
+    "Microsoft.App/agents/scheduledtasks/read",
+    "Microsoft.App/agents/scheduledtasks/write",
+    "Microsoft.App/agents/scheduledtasks/delete"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

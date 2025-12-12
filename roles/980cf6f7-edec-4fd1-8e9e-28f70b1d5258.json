@@ -1,0 +1,25 @@
+{
+  "Name": "Compute Limit Operator",
+  "Id": "980cf6f7-edec-4fd1-8e9e-28f70b1d5258",
+  "IsCustom": false,
+  "Description": "Read and manage compute limits using compute limit operations.",
+  "Actions": [
+    "Microsoft.ComputeLimit/locations/guestSubscriptions/read",
+    "Microsoft.ComputeLimit/locations/guestSubscriptions/write",
+    "Microsoft.ComputeLimit/locations/guestSubscriptions/delete",
+    "Microsoft.ComputeLimit/locations/sharedLimits/read",
+    "Microsoft.ComputeLimit/locations/sharedLimits/write",
+    "Microsoft.ComputeLimit/locations/sharedLimits/delete",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "MongoDB Atlas Contributor",
+  "Id": "045b6ee5-0c68-42c4-9be0-7389794309f5",
+  "IsCustom": false,
+  "Description": "Provides access to MongoDB.Atlas Control Plane Operations",
+  "Actions": [
+    "MongoDB.Atlas/checkNameAvailability/action",
+    "MongoDB.Atlas/register/action",
+    "MongoDB.Atlas/unregister/action",
+    "MongoDB.Atlas/operations/read",
+    "MongoDB.Atlas/locations/operationStatuses/read",
+    "MongoDB.Atlas/locations/operationStatuses/write",
+    "MongoDB.Atlas/registeredSubscriptions/read",
+    "MongoDB.Atlas/organizations/read",
+    "MongoDB.Atlas/organizations/write",
+    "MongoDB.Atlas/organizations/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -338,6 +338,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Compute Gallery Artifacts Publisher](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) | [85a2d0d9-2eba-4c9c-b355-11c2cc0788ab](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) |
 | [Compute Gallery Image Reader](roles/cf7c76d2-98a3-4358-a134-615aa78bf44d.json) | [cf7c76d2-98a3-4358-a134-615aa78bf44d](roles/cf7c76d2-98a3-4358-a134-615aa78bf44d.json) |
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |
+| [Compute Limit Operator](roles/980cf6f7-edec-4fd1-8e9e-28f70b1d5258.json) | [980cf6f7-edec-4fd1-8e9e-28f70b1d5258](roles/980cf6f7-edec-4fd1-8e9e-28f70b1d5258.json) |
 | [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
@@ -629,6 +630,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft.WeightsAndBiases Contributor Role](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) | [246fffca-69ee-4945-bbf1-2a867dce4fda](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) |
 | [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
 | [Migrate Arc Discovery Reader - Preview](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) | [5d5dddae-e124-4753-972d-aae60b37deb4](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) |
+| [MongoDB Atlas Contributor](roles/045b6ee5-0c68-42c4-9be0-7389794309f5.json) | [045b6ee5-0c68-42c4-9be0-7389794309f5](roles/045b6ee5-0c68-42c4-9be0-7389794309f5.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
 | [Monitoring Metrics Publisher](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) | [3913510d-42f4-4e42-8a64-420c390055eb](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) |

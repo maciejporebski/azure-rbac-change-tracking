@@ -630,7 +630,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft.WeightsAndBiases Contributor Role](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) | [246fffca-69ee-4945-bbf1-2a867dce4fda](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) |
 | [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
 | [Migrate Arc Discovery Reader - Preview](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) | [5d5dddae-e124-4753-972d-aae60b37deb4](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) |
-| [MongoDB Atlas Contributor](roles/045b6ee5-0c68-42c4-9be0-7389794309f5.json) | [045b6ee5-0c68-42c4-9be0-7389794309f5](roles/045b6ee5-0c68-42c4-9be0-7389794309f5.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
 | [Monitoring Metrics Publisher](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) | [3913510d-42f4-4e42-8a64-420c390055eb](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) |

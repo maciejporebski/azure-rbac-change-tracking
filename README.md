@@ -41,6 +41,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |
 | [Application Insights Component Contributor](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) | [ae349356-3a1b-4a5e-921d-050484c6347e](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) |
 | [Application Insights Snapshot Debugger](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) | [08954f03-6346-4c2e-81c0-ec3a5cfae23b](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) |
+| [Arc Container Storage Contributor](roles/ee99642a-225b-4fe8-a771-9d9036053e87.json) | [ee99642a-225b-4fe8-a771-9d9036053e87](roles/ee99642a-225b-4fe8-a771-9d9036053e87.json) |
 | [Arc Gateway Manager](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) | [f6e92014-8af2-414d-9948-9b1abf559285](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) |
 | [ArizeAi.ObservabilityEval Contributor Role](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) | [dca88c6f-5090-44cd-a0ff-a88f337b12a5](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) |
 | [ARN Service Event Grid Subscriber Role](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) | [dc0882cc-bc27-4d21-9ea2-f821aaa10fb1](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) |
@@ -394,7 +395,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
 | [Defender CSPM](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) | [46023a6a-0702-4cbf-956c-d8c3ac27bc2b](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
-| [Defender for AI Threat Protection Purview Operator](roles/cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9.json) | [cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9](roles/cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9.json) |
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
@@ -630,6 +630,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft.WeightsAndBiases Contributor Role](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) | [246fffca-69ee-4945-bbf1-2a867dce4fda](roles/246fffca-69ee-4945-bbf1-2a867dce4fda.json) |
 | [Microsoft.Windows365.CloudPcDelegatedMsis Writer User](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) | [21bffb94-04c0-4ed0-b676-68bb926e832b](roles/21bffb94-04c0-4ed0-b676-68bb926e832b.json) |
 | [Migrate Arc Discovery Reader - Preview](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) | [5d5dddae-e124-4753-972d-aae60b37deb4](roles/5d5dddae-e124-4753-972d-aae60b37deb4.json) |
+| [MongoDB Atlas Contributor](roles/045b6ee5-0c68-42c4-9be0-7389794309f5.json) | [045b6ee5-0c68-42c4-9be0-7389794309f5](roles/045b6ee5-0c68-42c4-9be0-7389794309f5.json) |
 | [Monitoring Contributor](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) | [749f88d5-cbae-40b8-bcfc-e573ddc772fa](roles/749f88d5-cbae-40b8-bcfc-e573ddc772fa.json) |
 | [Monitoring Data Reader](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) | [b0d8363b-8ddd-447d-831f-62ca05bff136](roles/b0d8363b-8ddd-447d-831f-62ca05bff136.json) |
 | [Monitoring Metrics Publisher](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) | [3913510d-42f4-4e42-8a64-420c390055eb](roles/3913510d-42f4-4e42-8a64-420c390055eb.json) |

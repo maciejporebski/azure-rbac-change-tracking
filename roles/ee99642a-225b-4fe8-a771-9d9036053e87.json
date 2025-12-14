@@ -1,0 +1,30 @@
+{
+  "Name": "Arc Container Storage Contributor",
+  "Id": "ee99642a-225b-4fe8-a771-9d9036053e87",
+  "IsCustom": false,
+  "Description": "Create, read, modify, and delete Arc Container Storage resources on connected clusters. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.ArcContainerStorage/edgeStorageConfigurations/read",
+    "Microsoft.ArcContainerStorage/edgeStorageConfigurations/write",
+    "Microsoft.ArcContainerStorage/edgeStorageConfigurations/delete",
+    "Microsoft.ArcContainerStorage/edgeVolumes/read",
+    "Microsoft.ArcContainerStorage/edgeVolumes/write",
+    "Microsoft.ArcContainerStorage/edgeVolumes/delete",
+    "Microsoft.ArcContainerStorage/edgeVolumes/ingestSubvolumes/read",
+    "Microsoft.ArcContainerStorage/edgeVolumes/ingestSubvolumes/write",
+    "Microsoft.ArcContainerStorage/edgeVolumes/ingestSubvolumes/delete",
+    "Microsoft.ArcContainerStorage/locations/operationStatuses/read",
+    "Microsoft.ArcContainerStorage/locations/operationStatuses/write"
+  ],
+  "NotActions": [
+    "Microsoft.ArcContainerStorage/register/action",
+    "Microsoft.ArcContainerStorage/unregister/action"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

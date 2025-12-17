@@ -1,0 +1,27 @@
+{
+  "Name": "Azure Red Hat OpenShift First Party Network",
+  "Id": "42f3c60f-e7b1-46d7-ba56-6de681664342",
+  "IsCustom": false,
+  "Description": "Grant ARO Classic First Party Service Principal or managed identity required network permissions.",
+  "Actions": [
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/virtualNetworks/subnets/join/action",
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/routeTables/join/action",
+    "Microsoft.Network/routeTables/read",
+    "Microsoft.Network/natGateways/join/action",
+    "Microsoft.Network/networkSecurityGroups/join/action",
+    "Microsoft.Network/networkSecurityGroups/read",
+    "Microsoft.Network/serviceEndpointPolicies/join/action",
+    "Microsoft.Network/networkIntentPolicies/join/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

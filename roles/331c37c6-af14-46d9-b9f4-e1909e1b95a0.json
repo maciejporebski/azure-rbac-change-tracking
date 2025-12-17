@@ -39,7 +39,8 @@
     "Microsoft.DevCenter/projects/users/environments/adminAction/action",
     "Microsoft.DevCenter/projects/users/environments/adminActionRead/action",
     "Microsoft.DevCenter/projects/users/environments/adminActionManage/action",
-    "Microsoft.DevCenter/projects/users/environments/adminOutputsRead/action"
+    "Microsoft.DevCenter/projects/users/environments/adminOutputsRead/action",
+    "Microsoft.DevCenter/projects/pools/align/action"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

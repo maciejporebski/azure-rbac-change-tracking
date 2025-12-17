@@ -41,6 +41,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Application Group Contributor](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) | [ca6382a4-1721-4bcf-a114-ff0c70227b6b](roles/ca6382a4-1721-4bcf-a114-ff0c70227b6b.json) |
 | [Application Insights Component Contributor](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) | [ae349356-3a1b-4a5e-921d-050484c6347e](roles/ae349356-3a1b-4a5e-921d-050484c6347e.json) |
 | [Application Insights Snapshot Debugger](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) | [08954f03-6346-4c2e-81c0-ec3a5cfae23b](roles/08954f03-6346-4c2e-81c0-ec3a5cfae23b.json) |
+| [Arc Container Storage Contributor](roles/ee99642a-225b-4fe8-a771-9d9036053e87.json) | [ee99642a-225b-4fe8-a771-9d9036053e87](roles/ee99642a-225b-4fe8-a771-9d9036053e87.json) |
 | [Arc Gateway Manager](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) | [f6e92014-8af2-414d-9948-9b1abf559285](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) |
 | [ArizeAi.ObservabilityEval Contributor Role](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) | [dca88c6f-5090-44cd-a0ff-a88f337b12a5](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) |
 | [ARN Service Event Grid Subscriber Role](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) | [dc0882cc-bc27-4d21-9ea2-f821aaa10fb1](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) |
@@ -66,6 +67,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure AI Owner](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) | [c883944f-8b7b-4483-af10-35834be79c4a](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) |
 | [Azure AI Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure AI User](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) | [53ca6127-db72-4b80-b1b0-d745d6d5456d](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) |
@@ -199,6 +201,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Red Hat OpenShift Disk Storage Operator](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
 | [Azure Red Hat OpenShift Federated Credential](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
 | [Azure Red Hat OpenShift File Storage Operator](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
+| [Azure Red Hat OpenShift First Party Network](roles/42f3c60f-e7b1-46d7-ba56-6de681664342.json) | [42f3c60f-e7b1-46d7-ba56-6de681664342](roles/42f3c60f-e7b1-46d7-ba56-6de681664342.json) |
 | [Azure Red Hat OpenShift Hosted Control Planes Cluster API Provider](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) | [88366f10-ed47-4cc0-9fab-c8a06148393e](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) |
 | [Azure Red Hat OpenShift Hosted Control Planes Control Plane Operator](roles/fc0c873f-45e9-4d0d-a7d1-585aab30c6ed.json) | [fc0c873f-45e9-4d0d-a7d1-585aab30c6ed](roles/fc0c873f-45e9-4d0d-a7d1-585aab30c6ed.json) |
 | [Azure Red Hat OpenShift Hosted Control Planes Service Managed Identity](roles/c0ff367d-66d8-445e-917c-583feb0ef0d4.json) | [c0ff367d-66d8-445e-917c-583feb0ef0d4](roles/c0ff367d-66d8-445e-917c-583feb0ef0d4.json) |
@@ -394,7 +397,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
 | [Defender CSPM](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) | [46023a6a-0702-4cbf-956c-d8c3ac27bc2b](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
-| [Defender for AI Threat Protection Purview Operator](roles/cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9.json) | [cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9](roles/cc27d9db-08f8-4bdf-81a8-d03bb8db2dd9.json) |
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |

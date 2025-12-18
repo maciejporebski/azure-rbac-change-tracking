@@ -18,8 +18,6 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.AzureStackHCI/StorageContainers/Write",
     "Microsoft.AzureStackHCI/StorageContainers/Read",
-    "Microsoft.AzureStackHCI/LogicalNetworks/Read",
-    "Microsoft.AzureStackHCI/LogicalNetworks/Write",
     "Microsoft.AzureStackHCI/Register/Action",
     "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
     "Microsoft.KubernetesConfiguration/extensions/write",

@@ -67,6 +67,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure AI Owner](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) | [c883944f-8b7b-4483-af10-35834be79c4a](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) |
 | [Azure AI Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure AI User](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) | [53ca6127-db72-4b80-b1b0-d745d6d5456d](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) |
@@ -200,6 +201,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Red Hat OpenShift Disk Storage Operator](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) | [5b7237c5-45e1-49d6-bc18-a1f62f400748](roles/5b7237c5-45e1-49d6-bc18-a1f62f400748.json) |
 | [Azure Red Hat OpenShift Federated Credential](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) | [ef318e2a-8334-4a05-9e4a-295a196c6a6e](roles/ef318e2a-8334-4a05-9e4a-295a196c6a6e.json) |
 | [Azure Red Hat OpenShift File Storage Operator](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) | [0d7aedc0-15fd-4a67-a412-efad370c947e](roles/0d7aedc0-15fd-4a67-a412-efad370c947e.json) |
+| [Azure Red Hat OpenShift First Party Network](roles/42f3c60f-e7b1-46d7-ba56-6de681664342.json) | [42f3c60f-e7b1-46d7-ba56-6de681664342](roles/42f3c60f-e7b1-46d7-ba56-6de681664342.json) |
 | [Azure Red Hat OpenShift Hosted Control Planes Cluster API Provider](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) | [88366f10-ed47-4cc0-9fab-c8a06148393e](roles/88366f10-ed47-4cc0-9fab-c8a06148393e.json) |
 | [Azure Red Hat OpenShift Hosted Control Planes Control Plane Operator](roles/fc0c873f-45e9-4d0d-a7d1-585aab30c6ed.json) | [fc0c873f-45e9-4d0d-a7d1-585aab30c6ed](roles/fc0c873f-45e9-4d0d-a7d1-585aab30c6ed.json) |
 | [Azure Red Hat OpenShift Hosted Control Planes Service Managed Identity](roles/c0ff367d-66d8-445e-917c-583feb0ef0d4.json) | [c0ff367d-66d8-445e-917c-583feb0ef0d4](roles/c0ff367d-66d8-445e-917c-583feb0ef0d4.json) |

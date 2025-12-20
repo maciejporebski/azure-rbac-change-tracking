@@ -1,0 +1,21 @@
+{
+  "Name": "Elastic SAN Volume Data Contributor",
+  "Id": "8da79822-b118-42bc-83c9-789fdbdcd77b",
+  "IsCustom": false,
+  "Description": "Allows for read and write access to a volume data on Azure Elastic SAN",
+  "Actions": [
+    "Microsoft.ElasticSan/elasticsans/volumeGroups/volumes/write",
+    "Microsoft.ElasticSan/elasticsans/volumeGroups/volumes/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ElasticSan/elasticsans/volumeGroups/volumes/data/read",
+    "Microsoft.ElasticSan/elasticsans/volumeGroups/volumes/data/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

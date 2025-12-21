@@ -468,7 +468,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Owner](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) | [80dcbedb-47ef-405d-95bd-188a1b4ac406](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) |
 | [Elastic SAN Reader](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) | [af6a70f8-3c9f-4105-acf1-d719e9fca4ca](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) |
 | [Elastic SAN Snapshot Exporter](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) | [1c4770c0-34f7-4110-a1ea-a5855cc7a939](roles/1c4770c0-34f7-4110-a1ea-a5855cc7a939.json) |
-| [Elastic SAN Volume Data Contributor](roles/8da79822-b118-42bc-83c9-789fdbdcd77b.json) | [8da79822-b118-42bc-83c9-789fdbdcd77b](roles/8da79822-b118-42bc-83c9-789fdbdcd77b.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
 | [Enclave Approver Role](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) | [2142ea27-02ad-4094-bfea-2dbac6d24934](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) |

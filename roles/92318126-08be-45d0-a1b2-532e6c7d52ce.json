@@ -1,0 +1,26 @@
+{
+  "Name": "Microsoft Approvals Workflow Contributor",
+  "Id": "92318126-08be-45d0-a1b2-532e6c7d52ce",
+  "IsCustom": false,
+  "Description": "Performs approval workflow management operations including workflow creation, execution and deletion.",
+  "Actions": [
+    "Microsoft.Approvals/approvalSettings/read",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/read",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/write",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/delete",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/read",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/write",
+    "Microsoft.Approvals/approvalWorkflowAssignments/read",
+    "Microsoft.Approvals/approvalWorkflowAssignments/write",
+    "Microsoft.Approvals/approvalWorkflowAssignments/delete",
+    "Microsoft.Approvals/invokeAndFetchApprovalRequest/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

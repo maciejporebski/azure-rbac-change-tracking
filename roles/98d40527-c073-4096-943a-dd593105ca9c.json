@@ -1,0 +1,22 @@
+{
+  "Name": "Microsoft Approvals Service Operator",
+  "Id": "98d40527-c073-4096-943a-dd593105ca9c",
+  "IsCustom": false,
+  "Description": "Performs Approvals service-level management operations including service onboarding and configuration.",
+  "Actions": [
+    "Microsoft.Approvals/approvalSettings/read",
+    "Microsoft.Approvals/approvalSettings/write",
+    "Microsoft.Approvals/approvalSettings/delete",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/read",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/read",
+    "Microsoft.Approvals/approvalWorkflowAssignments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Microsoft Approvals Request User",
+  "Id": "0343f3e8-01ac-4bb8-8f93-78b1d31ba64b",
+  "IsCustom": false,
+  "Description": "Requests approval workflow execution for resource changes.",
+  "Actions": [
+    "Microsoft.Approvals/invokeAndFetchApprovalRequest/action",
+    "Microsoft.Approvals/approvalSettings/read",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/read",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/read",
+    "Microsoft.Approvals/approvalWorkflowAssignments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

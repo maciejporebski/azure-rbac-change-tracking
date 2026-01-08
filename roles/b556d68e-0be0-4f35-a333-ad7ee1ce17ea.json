@@ -40,6 +40,7 @@
     "Microsoft.DBforMySQL/flexibleServers/privateLinkResources/read",
     "Microsoft.DBforMySQL/flexibleServers/read",
     "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnectionsApproval/action",
+    "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/operationResults/read",
     "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/read",
     "Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/write",
     "Microsoft.DocumentDB/databaseAccounts/privateLinkResources/read",

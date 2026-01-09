@@ -6,7 +6,8 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.Search/searchServices/indexes/documents/*"
+    "Microsoft.Search/searchServices/indexes/documents/*",
+    "Microsoft.Search/searchServices/indexes/contentSecurity/elevatedOperations/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

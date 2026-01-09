@@ -11,7 +11,8 @@
     "Microsoft.Features/features/read",
     "Microsoft.Features/providers/features/read",
     "Microsoft.Features/providers/features/register/action",
-    "Microsoft.Security/pricings/securityoperators/read"
+    "Microsoft.Security/pricings/securityoperators/read",
+    "Microsoft.Security/securityOperators/read"
   ],
   "NotActions": [],
   "DataActions": [],

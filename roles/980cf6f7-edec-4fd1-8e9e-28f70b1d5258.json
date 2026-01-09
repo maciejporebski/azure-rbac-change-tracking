@@ -10,6 +10,7 @@
     "Microsoft.ComputeLimit/locations/sharedLimits/read",
     "Microsoft.ComputeLimit/locations/sharedLimits/write",
     "Microsoft.ComputeLimit/locations/sharedLimits/delete",
+    "Microsoft.ComputeLimit/register/action",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"

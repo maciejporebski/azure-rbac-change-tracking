@@ -45,6 +45,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Arc Gateway Manager](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) | [f6e92014-8af2-414d-9948-9b1abf559285](roles/f6e92014-8af2-414d-9948-9b1abf559285.json) |
 | [ArizeAi.ObservabilityEval Contributor Role](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) | [dca88c6f-5090-44cd-a0ff-a88f337b12a5](roles/dca88c6f-5090-44cd-a0ff-a88f337b12a5.json) |
 | [ARN Service Event Grid Subscriber Role](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) | [dc0882cc-bc27-4d21-9ea2-f821aaa10fb1](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) |
+| [Astronomer Astro Contributor](roles/a6a9a135-9048-45df-b559-a90bb025e92f.json) | [a6a9a135-9048-45df-b559-a90bb025e92f](roles/a6a9a135-9048-45df-b559-a90bb025e92f.json) |
 | [Attestation Contributor](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) | [bbf86eb8-f7b4-4cce-96e4-18cddf81d86e](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) |
 | [Attestation Reader](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) | [fd1bd22b-8476-40bc-a0bc-69b95687b9f3](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) |
 | [Auto Actions Contributor](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) | [a8d01690-9418-4783-8ca2-9f0f1791783d](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) |
@@ -397,6 +398,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
 | [Defender CSPM](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) | [46023a6a-0702-4cbf-956c-d8c3ac27bc2b](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) |
 | [Defender CSPM Storage Scanner Operator](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) | [8480c0f0-4509-4229-9339-7c10018cb8c4](roles/8480c0f0-4509-4229-9339-7c10018cb8c4.json) |
+| [Defender Databricks Operator](roles/0e2ecf2a-0574-4b08-89e2-be133aa6303f.json) | [0e2ecf2a-0574-4b08-89e2-be133aa6303f](roles/0e2ecf2a-0574-4b08-89e2-be133aa6303f.json) |
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |

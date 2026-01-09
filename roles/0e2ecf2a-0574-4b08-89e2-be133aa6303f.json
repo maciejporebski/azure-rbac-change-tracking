@@ -1,0 +1,18 @@
+{
+  "Name": "Defender Databricks Operator",
+  "Id": "0e2ecf2a-0574-4b08-89e2-be133aa6303f",
+  "IsCustom": false,
+  "Description": "Grants permissions for Microsoft Defender for Cloud feature on Databricks.",
+  "Actions": [
+    "Microsoft.Databricks/workspaces/read",
+    "Microsoft.Databricks/workspaces/assignWorkspaceAdmin/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

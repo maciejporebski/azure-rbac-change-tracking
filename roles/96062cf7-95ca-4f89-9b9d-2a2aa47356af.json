@@ -1,5 +1,5 @@
 {
-  "Name": "Azure Container Registry secure supply chain operator service role",
+  "Name": "Defender Registry Access",
   "Id": "96062cf7-95ca-4f89-9b9d-2a2aa47356af",
   "IsCustom": false,
   "Description": "Grants Microsoft Defender for Cloud access to Azure Container Registry for security assessment of container images",

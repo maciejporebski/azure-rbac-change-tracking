@@ -35,7 +35,9 @@
     "Microsoft.Attestation/attestationProviders/delete",
     "Microsoft.Attestation/attestationProviders/attestation/read",
     "Microsoft.Attestation/attestationProviders/attestation/write",
-    "Microsoft.Attestation/attestationProviders/attestation/delete"
+    "Microsoft.Attestation/attestationProviders/attestation/delete",
+    "Microsoft.HybridCompute/settings/read",
+    "Microsoft.HybridCompute/settings/write"
   ],
   "NotActions": [],
   "DataActions": [],

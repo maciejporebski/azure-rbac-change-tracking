@@ -1,5 +1,5 @@
 {
-  "Name": "Kubernetes Agent Operator",
+  "Name": "Defender Containers Sensor",
   "Id": "5e93ba01-8f92-4c7a-b12a-801e3df23824",
   "IsCustom": false,
   "Description": "Grants Microsoft Defender for Cloud access to Azure Kubernetes Services",

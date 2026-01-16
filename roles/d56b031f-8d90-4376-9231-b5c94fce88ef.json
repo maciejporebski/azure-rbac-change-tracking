@@ -17,10 +17,7 @@
     "Microsoft.OperationalInsights/workspaces/query/*/read",
     "Microsoft.OperationalInsights/querypacks/*/read",
     "Microsoft.OperationalInsights/workspaces/dataSources/read",
-    "Microsoft.OperationalInsights/workspaces/read",
-    "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Resources/templateSpecs/*/read"
+    "Microsoft.OperationalInsights/workspaces/read"
   ],
   "NotActions": [
     "Microsoft.SecurityInsights/ConfidentialWatchlists/*",

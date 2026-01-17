@@ -6,6 +6,7 @@
   "Actions": [
     "Microsoft.AlertsManagement/Issues/*",
     "microsoft.monitor/accounts/issues/*",
+    "Microsoft.AlertsManagement/alerts/*",
     "Microsoft.Insights/components/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",

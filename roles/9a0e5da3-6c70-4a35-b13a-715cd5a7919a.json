@@ -1,0 +1,22 @@
+{
+  "Name": "Azure Stack Hub registration role",
+  "Id": "9a0e5da3-6c70-4a35-b13a-715cd5a7919a",
+  "IsCustom": false,
+  "Description": "Microsoft.AzureStack registration role.",
+  "Actions": [
+    "Microsoft.AzureStack/registrations/customerSubscriptions/delete",
+    "Microsoft.AzureStack/registrations/customerSubscriptions/write",
+    "Microsoft.AzureStack/registrations/delete",
+    "Microsoft.AzureStack/registrations/enableRemoteManagement/action",
+    "Microsoft.AzureStack/registrations/getActivationKey/action",
+    "Microsoft.AzureStack/registrations/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "EdgeMarketPlace role",
+  "Id": "4b2b8358-764b-4884-85c6-f4b7946d95ad",
+  "IsCustom": false,
+  "Description": "Microsoft.EdgeMarketPlace role.",
+  "Actions": [
+    "Microsoft.EdgeMarketplace/locations/operationStatuses/write",
+    "Microsoft.EdgeMarketplace/locations/operationStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

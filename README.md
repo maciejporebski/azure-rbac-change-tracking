@@ -260,8 +260,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Stack HCI Edge Machine Contributor Role](roles/1a6f9009-515c-4455-b170-143e4c9ce229.json) | [1a6f9009-515c-4455-b170-143e4c9ce229](roles/1a6f9009-515c-4455-b170-143e4c9ce229.json) |
 | [Azure Stack HCI VM Contributor](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) | [874d1c73-6003-4e60-a13a-cb31ea190a85](roles/874d1c73-6003-4e60-a13a-cb31ea190a85.json) |
 | [Azure Stack HCI VM Reader](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) | [4b3fe76c-f777-4d24-a2d7-b027b0f7b273](roles/4b3fe76c-f777-4d24-a2d7-b027b0f7b273.json) |
-| [Azure Stack Hub Linked Subscriptions role](roles/17e4de9d-139f-4531-b521-20804c310cf8.json) | [17e4de9d-139f-4531-b521-20804c310cf8](roles/17e4de9d-139f-4531-b521-20804c310cf8.json) |
-| [Azure Stack Hub registration role](roles/9a0e5da3-6c70-4a35-b13a-715cd5a7919a.json) | [9a0e5da3-6c70-4a35-b13a-715cd5a7919a](roles/9a0e5da3-6c70-4a35-b13a-715cd5a7919a.json) |
 | [Azure Stack Registration Owner](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) | [6f12a6df-dd06-4f3e-bcb1-ce8be600526a](roles/6f12a6df-dd06-4f3e-bcb1-ce8be600526a.json) |
 | [Azure Usage Billing Data Sender](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) | [f0310ce6-e953-4cf8-b892-fb1c87eaf7f6](roles/f0310ce6-e953-4cf8-b892-fb1c87eaf7f6.json) |
 | [Azure VM Managed identities restore Contributor](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) | [6ae96244-5829-4925-a7d3-5975537d91dd](roles/6ae96244-5829-4925-a7d3-5975537d91dd.json) |
@@ -471,7 +469,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Dynamics 365 Customer Insights Service Role](roles/89f7a3ec-e9d0-40eb-9b96-c016a5c2a53f.json) | [89f7a3ec-e9d0-40eb-9b96-c016a5c2a53f](roles/89f7a3ec-e9d0-40eb-9b96-c016a5c2a53f.json) |
 | [Edge Management Copilot User](roles/53e48117-a530-4075-bcbe-d91913e3bdb8.json) | [53e48117-a530-4075-bcbe-d91913e3bdb8](roles/53e48117-a530-4075-bcbe-d91913e3bdb8.json) |
 | [Edge Order Partner Inventory Manager Service Role](roles/f24a559b-c2fc-4409-b96e-9af4b0c28ad6.json) | [f24a559b-c2fc-4409-b96e-9af4b0c28ad6](roles/f24a559b-c2fc-4409-b96e-9af4b0c28ad6.json) |
-| [EdgeMarketPlace role](roles/4b2b8358-764b-4884-85c6-f4b7946d95ad.json) | [4b2b8358-764b-4884-85c6-f4b7946d95ad](roles/4b2b8358-764b-4884-85c6-f4b7946d95ad.json) |
 | [Elastic SAN Network Admin](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) | [fa6cecf6-5db3-4c43-8470-c540bcb4eafa](roles/fa6cecf6-5db3-4c43-8470-c540bcb4eafa.json) |
 | [Elastic SAN Owner](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) | [80dcbedb-47ef-405d-95bd-188a1b4ac406](roles/80dcbedb-47ef-405d-95bd-188a1b4ac406.json) |
 | [Elastic SAN Reader](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) | [af6a70f8-3c9f-4105-acf1-d719e9fca4ca](roles/af6a70f8-3c9f-4105-acf1-d719e9fca4ca.json) |

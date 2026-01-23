@@ -6,7 +6,10 @@
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.App/agents/read"
+    "Microsoft.App/agents/read",
+    "Microsoft.App/agents/*/read",
+    "Microsoft.App/agents/write",
+    "Microsoft.App/agents/*/write"
   ],
   "NotActions": [],
   "DataActions": [

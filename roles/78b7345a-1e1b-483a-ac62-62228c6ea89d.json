@@ -19,7 +19,9 @@
     "Microsoft.OperationalInsights/workspaces/dataSources/read",
     "Microsoft.OperationalInsights/workspaces/read",
     "Microsoft.Insights/workbooks/read",
-    "Microsoft.Authorization/*/read"
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [
     "Microsoft.SecurityInsights/ConfidentialWatchlists/*",

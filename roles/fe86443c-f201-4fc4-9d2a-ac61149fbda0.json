@@ -2,7 +2,7 @@
   "Name": "App Configuration Contributor",
   "Id": "fe86443c-f201-4fc4-9d2a-ac61149fbda0",
   "IsCustom": false,
-  "Description": "Grants permission for all management operations, except purge, for App Configuration resources.",
+  "Description": "Grants permission for all management operations, except purge, for App Configuration resources. This role does not grant access to data plane resources such as key-values, snapshots, and feature flags.",
   "Actions": [
     "Microsoft.AppConfiguration/*",
     "Microsoft.Authorization/*/read",

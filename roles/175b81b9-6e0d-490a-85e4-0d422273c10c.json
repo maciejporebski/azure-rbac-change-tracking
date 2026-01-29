@@ -2,7 +2,7 @@
   "Name": "App Configuration Reader",
   "Id": "175b81b9-6e0d-490a-85e4-0d422273c10c",
   "IsCustom": false,
-  "Description": "Grants permission for read operations for App Configuration resources.",
+  "Description": "Grants permission for read operations for App Configuration resources. This role does not grant access to data plane resources such as key-values, snapshots, and feature flags.",
   "Actions": [
     "Microsoft.AppConfiguration/*/read",
     "Microsoft.Authorization/*/read",

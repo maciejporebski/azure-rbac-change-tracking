@@ -1,0 +1,22 @@
+{
+  "Name": "Defender Open Source Relational Databases",
+  "Id": "99626c15-0799-47ad-96ab-f298031f69d6",
+  "IsCustom": false,
+  "Description": "Microsoft Defender for Open Source Relational Databases role. Grant permissions for enablement.",
+  "Actions": [
+    "Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings/read",
+    "Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings/write",
+    "Microsoft.DBforMySQL/flexibleServers/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/advancedThreatProtectionSettings/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

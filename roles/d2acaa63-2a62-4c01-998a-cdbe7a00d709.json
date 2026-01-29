@@ -1,0 +1,19 @@
+{
+  "Name": "Defender Azure Cosmos DB",
+  "Id": "d2acaa63-2a62-4c01-998a-cdbe7a00d709",
+  "IsCustom": false,
+  "Description": "Microsoft Defender for Azure Cosmos DB role. Grant permissions for enablement.",
+  "Actions": [
+    "Microsoft.DocumentDB/databaseAccounts/read",
+    "Microsoft.Security/advancedThreatProtectionSettings/read",
+    "Microsoft.Security/advancedThreatProtectionSettings/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

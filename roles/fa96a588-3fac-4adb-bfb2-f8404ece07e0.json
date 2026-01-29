@@ -29,7 +29,8 @@
     "Dynatrace.Observability/monitors/tagRules/read",
     "Dynatrace.Observability/monitors/tagRules/write",
     "Dynatrace.Observability/registeredSubscriptions/read",
-    "Dynatrace.Observability/operations/read"
+    "Dynatrace.Observability/operations/read",
+    "Dynatrace.Observability/monitors/manageSreAgentConnectors/action"
   ],
   "NotActions": [],
   "DataActions": [],

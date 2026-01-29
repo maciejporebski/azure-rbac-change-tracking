@@ -398,6 +398,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Dedicated Host Contributor Role](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) | [96ebd254-ecc7-4590-aff5-e9af3ff5f3b3](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) |
 | [Defender Agentless VM Scan](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |
 | [Defender API Security](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) | [6f91a4f9-10ee-4b95-b8cd-96ee73c5968d](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) |
+| [Defender Azure Cosmos DB](roles/d2acaa63-2a62-4c01-998a-cdbe7a00d709.json) | [d2acaa63-2a62-4c01-998a-cdbe7a00d709](roles/d2acaa63-2a62-4c01-998a-cdbe7a00d709.json) |
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |
 | [Defender Containers Sensor](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) | [5e93ba01-8f92-4c7a-b12a-801e3df23824](roles/5e93ba01-8f92-4c7a-b12a-801e3df23824.json) |
 | [Defender CSPM](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) | [46023a6a-0702-4cbf-956c-d8c3ac27bc2b](roles/46023a6a-0702-4cbf-956c-d8c3ac27bc2b.json) |
@@ -408,10 +409,12 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [Defender Kubernetes API Access](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
+| [Defender Open Source Relational Databases](roles/99626c15-0799-47ad-96ab-f298031f69d6.json) | [99626c15-0799-47ad-96ab-f298031f69d6](roles/99626c15-0799-47ad-96ab-f298031f69d6.json) |
 | [Defender Registry Access](roles/96062cf7-95ca-4f89-9b9d-2a2aa47356af.json) | [96062cf7-95ca-4f89-9b9d-2a2aa47356af](roles/96062cf7-95ca-4f89-9b9d-2a2aa47356af.json) |
 | [Defender Sensitive Data Discovery](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender Serverless Scanner](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) | [68ac31b4-936a-4046-a6d2-ba6f8a757bf6](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) |
 | [Defender Settings Contributor](roles/7d0c0268-1199-449b-a52e-75c20879f46b.json) | [7d0c0268-1199-449b-a52e-75c20879f46b](roles/7d0c0268-1199-449b-a52e-75c20879f46b.json) |
+| [Defender SQL Servers On Machines](roles/d9468a2b-1820-47e1-a40e-d2b7fba1879a.json) | [d9468a2b-1820-47e1-a40e-d2b7fba1879a](roles/d9468a2b-1820-47e1-a40e-d2b7fba1879a.json) |
 | [Defender Unified RBAC Authorization Manager](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) | [1fd5d8bf-9037-4ede-89bf-680f798e2765](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) |
 | [Defender Unified RBAC Authorization Reader](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) | [ca62263b-07d5-4b48-b437-088803f5c2ff](roles/ca62263b-07d5-4b48-b437-088803f5c2ff.json) |
 | [Defender Unified RBAC Contributor and Responder](roles/625a1cea-653b-4a19-bd3a-df1d66ab6637.json) | [625a1cea-653b-4a19-bd3a-df1d66ab6637](roles/625a1cea-653b-4a19-bd3a-df1d66ab6637.json) |

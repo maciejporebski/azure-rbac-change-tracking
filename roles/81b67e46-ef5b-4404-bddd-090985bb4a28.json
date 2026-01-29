@@ -30,7 +30,9 @@
     "Microsoft.Datadog/monitors/tagRules/write",
     "Microsoft.Datadog/registeredSubscriptions/read",
     "Microsoft.Datadog/subscriptionStatuses/read",
-    "Microsoft.Datadog/operations/read"
+    "Microsoft.Datadog/operations/read",
+    "Microsoft.Datadog/monitors/getDefaultApplicationKey/action",
+    "Microsoft.Datadog/monitors/manageSreAgentConnectors/action"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -1,0 +1,26 @@
+{
+  "Name": "Defender SQL Servers On Machines",
+  "Id": "d9468a2b-1820-47e1-a40e-d2b7fba1879a",
+  "IsCustom": false,
+  "Description": "Microsoft Defender for SQL Servers On Machines role. Grant permissions for enablement.",
+  "Actions": [
+    "Microsoft.Compute/virtualMachines/extensions/delete",
+    "Microsoft.Compute/virtualMachines/extensions/read",
+    "Microsoft.Compute/virtualMachines/extensions/write",
+    "Microsoft.Compute/virtualMachines/instanceView/read",
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.HybridCompute/machines/read",
+    "Microsoft.HybridCompute/machines/extensions/write",
+    "Microsoft.HybridCompute/machines/extensions/delete",
+    "Microsoft.HybridCompute/machines/extensions/read",
+    "Microsoft.Compute/virtualMachines/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

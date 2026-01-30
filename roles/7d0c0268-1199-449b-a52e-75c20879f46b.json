@@ -8,7 +8,9 @@
     "microsoft.security/pricings/write",
     "microsoft.security/pricings/securityoperators/read",
     "microsoft.security/securityoperators/read",
-    "microsoft.security/register/action"
+    "microsoft.security/register/action",
+    "microsoft.security/settings/read",
+    "microsoft.security/settings/write"
   ],
   "NotActions": [],
   "DataActions": [],

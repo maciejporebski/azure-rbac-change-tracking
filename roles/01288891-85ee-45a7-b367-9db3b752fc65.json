@@ -13,6 +13,8 @@
     "Microsoft.Discovery/bookshelves/read",
     "Microsoft.Discovery/dataContainers/*",
     "Microsoft.Discovery/dataContainers/dataAssets/*",
+    "Microsoft.Discovery/storageContainers/*",
+    "Microsoft.Discovery/storageContainers/storageAssets/*",
     "Microsoft.Discovery/models/*",
     "Microsoft.Discovery/supercomputers/nodePools/read",
     "Microsoft.Discovery/tools/*",

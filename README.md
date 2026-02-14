@@ -407,6 +407,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender For Container Registries Operator](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) | [c5c82243-e78e-43f9-8428-793bba85b28e](roles/c5c82243-e78e-43f9-8428-793bba85b28e.json) |
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
+| [Defender for Storage Threat Protection](roles/a366d631-94bf-46bf-b4af-b38f28c80774.json) | [a366d631-94bf-46bf-b4af-b38f28c80774](roles/a366d631-94bf-46bf-b4af-b38f28c80774.json) |
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [Defender Kubernetes API Access](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Defender Open Source Relational Databases](roles/99626c15-0799-47ad-96ab-f298031f69d6.json) | [99626c15-0799-47ad-96ab-f298031f69d6](roles/99626c15-0799-47ad-96ab-f298031f69d6.json) |

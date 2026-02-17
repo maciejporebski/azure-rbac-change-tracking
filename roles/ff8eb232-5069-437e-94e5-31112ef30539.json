@@ -1,0 +1,24 @@
+{
+  "Name": "Azure Kubernetes Fleet Manager ABAC Custom Resources Writer",
+  "Id": "ff8eb232-5069-437e-94e5-31112ef30539",
+  "IsCustom": false,
+  "Description": "Allows write and delete access to manage Kubernetes custom resources on Azure Kubernetes Fleet Manager fleets. This role enables creating, modifying, and deleting custom resources. Applying this role at cluster scope will give access to custom resources across all namespaces. More information on supported attributes for Attribute-Based Access Control (ABAC) conditions can be found under documentation at aka.ms/aks/abac/custom-resources/docs",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ContainerService/fleets/read",
+    "Microsoft.ContainerService/fleets/listCredentials/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerService/fleets/customresources/write",
+    "Microsoft.ContainerService/fleets/customresources/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

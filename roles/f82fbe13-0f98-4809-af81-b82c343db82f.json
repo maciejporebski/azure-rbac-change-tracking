@@ -1,0 +1,29 @@
+{
+  "Name": "Device Update Contributor",
+  "Id": "f82fbe13-0f98-4809-af81-b82c343db82f",
+  "IsCustom": false,
+  "Description": "Gives you full access to manage Device Update accounts, instances, and private endpoint connections",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.DeviceUpdate/accounts/read",
+    "Microsoft.DeviceUpdate/accounts/write",
+    "Microsoft.DeviceUpdate/accounts/delete",
+    "Microsoft.DeviceUpdate/accounts/instances/read",
+    "Microsoft.DeviceUpdate/accounts/instances/write",
+    "Microsoft.DeviceUpdate/accounts/instances/delete",
+    "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/read",
+    "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/write",
+    "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

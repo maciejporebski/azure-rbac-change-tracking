@@ -1,0 +1,23 @@
+{
+  "Name": "Azure Kubernetes Fleet Manager ABAC Custom Resources Reader",
+  "Id": "20cf746c-c765-402a-885e-c389c64478ce",
+  "IsCustom": false,
+  "Description": "Allows read-only access to view Kubernetes custom resources on Azure Kubernetes Fleet Manager fleets. This role enables viewing custom resources without the ability to create, modify, or delete them. Applying this role at cluster scope will give read access to custom resources across all namespaces. More information on supported attributes for Attribute-Based Access Control (ABAC) conditions can be found under documentation at aka.ms/aks/abac/custom-resources/docs",
+  "Actions": [
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ContainerService/fleets/read",
+    "Microsoft.ContainerService/fleets/listCredentials/action"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerService/fleets/customresources/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

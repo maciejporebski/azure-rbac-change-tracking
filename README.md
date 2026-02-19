@@ -146,6 +146,10 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure impact-insight reader](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) | [dfb2f09d-25f8-4558-8986-497084006d7a](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) |
 | [Azure IoT Operations Administrator](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) | [5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) |
 | [Azure IoT Operations Onboarding](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) | [7b7c71ed-33fa-4ed2-a91a-e56d5da260b5](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) |
+| [Azure Kubernetes Fleet Manager ABAC Custom Resources Reader](roles/20cf746c-c765-402a-885e-c389c64478ce.json) | [20cf746c-c765-402a-885e-c389c64478ce](roles/20cf746c-c765-402a-885e-c389c64478ce.json) |
+| [Azure Kubernetes Fleet Manager ABAC Custom Resources Reader for Member Clusters](roles/e1663658-d5f7-4383-9afb-af9fdc9c5eae.json) | [e1663658-d5f7-4383-9afb-af9fdc9c5eae](roles/e1663658-d5f7-4383-9afb-af9fdc9c5eae.json) |
+| [Azure Kubernetes Fleet Manager ABAC Custom Resources Writer](roles/ff8eb232-5069-437e-94e5-31112ef30539.json) | [ff8eb232-5069-437e-94e5-31112ef30539](roles/ff8eb232-5069-437e-94e5-31112ef30539.json) |
+| [Azure Kubernetes Fleet Manager ABAC Custom Resources Writer for Member Clusters](roles/673366d4-9664-4020-b03b-b0093366bff9.json) | [673366d4-9664-4020-b03b-b0093366bff9](roles/673366d4-9664-4020-b03b-b0093366bff9.json) |
 | [Azure Kubernetes Fleet Manager Contributor Role](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) | [63bb64ad-9799-4770-b5c3-24ed299a07bf](roles/63bb64ad-9799-4770-b5c3-24ed299a07bf.json) |
 | [Azure Kubernetes Fleet Manager Hub Agent Role](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) | [de2b316d-7a2c-4143-b4cd-c148f6a355a1](roles/de2b316d-7a2c-4143-b4cd-c148f6a355a1.json) |
 | [Azure Kubernetes Fleet Manager Hub Cluster User Role](roles/850c5848-fc51-4a9a-8823-f220370626e3.json) | [850c5848-fc51-4a9a-8823-f220370626e3](roles/850c5848-fc51-4a9a-8823-f220370626e3.json) |
@@ -452,6 +456,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Device Update Administrator](roles/02ca0879-e8e4-47a5-a61e-5c618b76e64a.json) | [02ca0879-e8e4-47a5-a61e-5c618b76e64a](roles/02ca0879-e8e4-47a5-a61e-5c618b76e64a.json) |
 | [Device Update Content Administrator](roles/0378884a-3af5-44ab-8323-f5b22f9f3c98.json) | [0378884a-3af5-44ab-8323-f5b22f9f3c98](roles/0378884a-3af5-44ab-8323-f5b22f9f3c98.json) |
 | [Device Update Content Reader](roles/d1ee9a80-8b14-47f0-bdc2-f4a351625a7b.json) | [d1ee9a80-8b14-47f0-bdc2-f4a351625a7b](roles/d1ee9a80-8b14-47f0-bdc2-f4a351625a7b.json) |
+| [Device Update Contributor](roles/f82fbe13-0f98-4809-af81-b82c343db82f.json) | [f82fbe13-0f98-4809-af81-b82c343db82f](roles/f82fbe13-0f98-4809-af81-b82c343db82f.json) |
 | [Device Update Deployments Administrator](roles/e4237640-0e3d-4a46-8fda-70bc94856432.json) | [e4237640-0e3d-4a46-8fda-70bc94856432](roles/e4237640-0e3d-4a46-8fda-70bc94856432.json) |
 | [Device Update Deployments Reader](roles/49e2f5d2-7741-4835-8efa-19e1fe35e47f.json) | [49e2f5d2-7741-4835-8efa-19e1fe35e47f](roles/49e2f5d2-7741-4835-8efa-19e1fe35e47f.json) |
 | [Device Update Reader](roles/e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f.json) | [e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f](roles/e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f.json) |

@@ -10,7 +10,11 @@
     "Microsoft.ResourceHealth/availabilityStatuses/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Support/*"
+    "Microsoft.Support/*",
+    "PaloAltoNetworks.Cloudngfw/firewalls/read",
+    "PaloAltoNetworks.Cloudngfw/createProductSerialNumber/action",
+    "PaloAltoNetworks.Cloudngfw/listProductSerialNumberStatus/action",
+    "PaloAltoNetworks.Cloudngfw/listSupportInfo/action"
   ],
   "NotActions": [],
   "DataActions": [],

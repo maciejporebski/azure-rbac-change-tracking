@@ -418,6 +418,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender Registry Access](roles/96062cf7-95ca-4f89-9b9d-2a2aa47356af.json) | [96062cf7-95ca-4f89-9b9d-2a2aa47356af](roles/96062cf7-95ca-4f89-9b9d-2a2aa47356af.json) |
 | [Defender Sensitive Data Discovery](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) | [0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35](roles/0b6ca2e8-2cdc-4bd6-b896-aa3d8c21fc35.json) |
 | [Defender Serverless Scanner](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) | [68ac31b4-936a-4046-a6d2-ba6f8a757bf6](roles/68ac31b4-936a-4046-a6d2-ba6f8a757bf6.json) |
+| [Defender Servers P1](roles/78b19ac9-582c-44d8-9e11-733ae424ad83.json) | [78b19ac9-582c-44d8-9e11-733ae424ad83](roles/78b19ac9-582c-44d8-9e11-733ae424ad83.json) |
 | [Defender Settings Contributor](roles/7d0c0268-1199-449b-a52e-75c20879f46b.json) | [7d0c0268-1199-449b-a52e-75c20879f46b](roles/7d0c0268-1199-449b-a52e-75c20879f46b.json) |
 | [Defender SQL Servers On Machines](roles/d9468a2b-1820-47e1-a40e-d2b7fba1879a.json) | [d9468a2b-1820-47e1-a40e-d2b7fba1879a](roles/d9468a2b-1820-47e1-a40e-d2b7fba1879a.json) |
 | [Defender Unified RBAC Authorization Manager](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) | [1fd5d8bf-9037-4ede-89bf-680f798e2765](roles/1fd5d8bf-9037-4ede-89bf-680f798e2765.json) |

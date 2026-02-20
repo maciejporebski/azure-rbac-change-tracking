@@ -55,7 +55,11 @@
     "Microsoft.SoftwarePlan/softwareSubscriptions/productKeys/showFullKey/action",
     "Microsoft.SoftwarePlan/softwareSubscriptions/productDownloadOptions/read",
     "Microsoft.SoftwarePlan/softwareSubscriptions/productDownloadOptions/generateDownloadLinks/action",
-    "Microsoft.SoftwarePlan/validateSoftwareSubscriptionCreate/action"
+    "Microsoft.SoftwarePlan/validateSoftwareSubscriptionCreate/action",
+    "Microsoft.Hardware/register/action",
+    "Microsoft.Hardware/orderPreview/action",
+    "Microsoft.Hardware/orders/read",
+    "Microsoft.Hardware/orders/write"
   ],
   "NotActions": [],
   "DataActions": [],

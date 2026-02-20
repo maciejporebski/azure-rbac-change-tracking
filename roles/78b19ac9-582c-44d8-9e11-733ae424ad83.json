@@ -1,0 +1,26 @@
+{
+  "Name": "Defender Servers P1",
+  "Id": "78b19ac9-582c-44d8-9e11-733ae424ad83",
+  "IsCustom": false,
+  "Description": "Defender Servers P1",
+  "Actions": [
+    "Microsoft.OperationalInsights/workspaces/read",
+    "Microsoft.OperationsManagement/solutions/read",
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.HybridCompute/machines/read",
+    "Microsoft.Compute/virtualMachines/extensions/read",
+    "Microsoft.Compute/virtualMachines/extensions/write",
+    "Microsoft.HybridCompute/machines/extensions/write",
+    "Microsoft.HybridCompute/machines/extensions/delete",
+    "Microsoft.HybridCompute/machines/extensions/read",
+    "Microsoft.Compute/virtualMachines/extensions/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

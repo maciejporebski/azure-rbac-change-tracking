@@ -1,0 +1,17 @@
+{
+  "Name": "Genome Admin",
+  "Id": "ef3729d8-2861-401e-95ae-c7d4845a6097",
+  "IsCustom": false,
+  "Description": "Full access to Genome control plane operations only",
+  "Actions": [
+    "Microsoft.Genome/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

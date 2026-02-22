@@ -526,7 +526,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Garnet PubSub Data Reader](roles/da9adf61-39cd-41d5-87a0-30b21f7270d8.json) | [da9adf61-39cd-41d5-87a0-30b21f7270d8](roles/da9adf61-39cd-41d5-87a0-30b21f7270d8.json) |
 | [Garnet Script Data Contributor](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) | [7021ea36-e168-4bc0-af53-88de51d20665](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) |
 | [Gcp Connector contributor role](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) | [a51d5f27-deba-47d1-9ccd-8589014b2e28](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) |
-| [Genome Admin](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) | [ef3729d8-2861-401e-95ae-c7d4845a6097](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |

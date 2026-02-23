@@ -17,6 +17,7 @@
     "Microsoft.ContainerService/managedClusters/trustedAccessRoleBindings/write",
     "Microsoft.ContainerService/managedClusters/write",
     "Microsoft.Security/pricings/securityoperators/read",
+    "Microsoft.Security/securityOperators/read",
     "Microsoft.OperationalInsights/workspaces/write",
     "Microsoft.OperationalInsights/workspaces/read",
     "Microsoft.OperationalInsights/workspaces/listKeys/action",

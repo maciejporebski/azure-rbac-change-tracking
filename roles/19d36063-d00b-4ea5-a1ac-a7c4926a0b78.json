@@ -7,7 +7,6 @@
     "Microsoft.Loadtestservice/playwrightworkspaces/*/read",
     "Microsoft.Loadtestservice/locations/playwrightquotas/*/read",
     "Microsoft.Authorization/*/read",
-    "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],

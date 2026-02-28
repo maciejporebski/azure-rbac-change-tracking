@@ -12,7 +12,9 @@
   "NotActions": [
     "Microsoft.OperationalInsights/workspaces/sharedKeys/read"
   ],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.OperationalInsights/workspaces/jobs/export/action"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

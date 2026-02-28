@@ -1,0 +1,17 @@
+{
+  "Name": "Healthcare Interop Contributor",
+  "Id": "585db2ed-219e-4821-a06a-c6c14b602afa",
+  "IsCustom": false,
+  "Description": "Allows all actions on healthcare interop provider resources",
+  "Actions": [
+    "Microsoft.HealthcareInterop/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

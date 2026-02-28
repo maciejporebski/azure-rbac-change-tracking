@@ -19,7 +19,9 @@
     "Microsoft.Support/*"
   ],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.OperationalInsights/workspaces/jobs/export/action"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

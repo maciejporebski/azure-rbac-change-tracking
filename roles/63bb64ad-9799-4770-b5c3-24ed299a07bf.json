@@ -5,8 +5,7 @@
   "Description": "Grants read/write access to Azure resources provided by Azure Kubernetes Fleet Manager, including fleets, fleet members, fleet update strategies, fleet update runs, etc.",
   "Actions": [
     "Microsoft.ContainerService/fleets/*",
-    "Microsoft.Resources/deployments/*",
-    "Microsoft.ContainerService/fleetMemberships/*"
+    "Microsoft.Resources/deployments/*"
   ],
   "NotActions": [],
   "DataActions": [],

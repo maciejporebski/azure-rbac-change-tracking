@@ -1,0 +1,26 @@
+{
+  "Name": "CloudTest Leased VM Reader",
+  "Id": "b1e6a0dd-ea0f-4108-8925-7047693f2cfe",
+  "IsCustom": false,
+  "Description": "Can view CloudTest leased VM's credentials",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.CloudTest/pools/leases/action",
+    "Microsoft.CloudTest/pools/leases/complete/action",
+    "Microsoft.CloudTest/pools/leases/extend/action",
+    "Microsoft.CloudTest/hostedpools/leases/action",
+    "Microsoft.CloudTest/hostedpools/leases/complete/action",
+    "Microsoft.CloudTest/hostedpools/leases/extend/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

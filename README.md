@@ -307,6 +307,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
 | [Clinical Coder Data User](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) | [d0a94e7a-d791-4571-b2e0-8bdd8f867544](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) |
 | [CloudTest Contributor Role](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) | [4e9d0bd4-5aab-4f91-92df-9def33fe287c](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) |
+| [CloudTest Leased VM Reader](roles/b1e6a0dd-ea0f-4108-8925-7047693f2cfe.json) | [b1e6a0dd-ea0f-4108-8925-7047693f2cfe](roles/b1e6a0dd-ea0f-4108-8925-7047693f2cfe.json) |
 | [Cognitive Search Serverless Data Contributor (Deprecated)](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
 | [Cognitive Search Serverless Data Reader (Deprecated)](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) | [79b01272-bf9f-4f4c-9517-5506269cf524](roles/79b01272-bf9f-4f4c-9517-5506269cf524.json) |
 | [Cognitive Services Contributor](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) | [25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68](roles/25fbc0a9-bd7c-42a3-aa1a-3b75d497ee68.json) |

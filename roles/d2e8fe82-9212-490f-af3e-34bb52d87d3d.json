@@ -6,16 +6,19 @@
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/",
-    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/deployments/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.AzureResilienceManagement/drills/*/read"
+    "Microsoft.AzureResilienceManagement/drills/drillResources/read",
+    "Microsoft.AzureResilienceManagement/drills/drillRuns/read",
+    "Microsoft.AzureResilienceManagement/drills/drillRuns/drillRunChildJobs/read",
+    "Microsoft.AzureResilienceManagement/drills/drillRuns/drillRunResources/read",
+    "Microsoft.AzureResilienceManagement/drills/read"
   ],
   "NotActions": [],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
-    "/",
-    "/providers/Microsoft.Management/serviceGroups"
+    "/"
   ],
   "Condition": null,
   "ConditionVersion": null

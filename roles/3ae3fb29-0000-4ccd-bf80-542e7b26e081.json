@@ -6,6 +6,7 @@
   "Actions": [
     "Microsoft.LoadTestService/*/read",
     "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Insights/alertRules/*"
   ],

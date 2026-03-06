@@ -5,10 +5,11 @@
   "Description": "Gives you full access to management operations",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*",
-    "Microsoft.Insights/alertRules/*"
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.DeviceUpdate/accounts/read",
+    "Microsoft.DeviceUpdate/accounts/instances/read"
   ],
   "NotActions": [],
   "DataActions": [

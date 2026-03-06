@@ -5,10 +5,11 @@
   "Description": "Gives you read access to management operations, but does not allow making changes",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*",
-    "Microsoft.Insights/alertRules/*"
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.DeviceUpdate/accounts/read",
+    "Microsoft.DeviceUpdate/accounts/instances/read"
   ],
   "NotActions": [],
   "DataActions": [

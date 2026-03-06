@@ -8,7 +8,9 @@
     "Microsoft.MachineLearningServices/workspaces/models/read",
     "Microsoft.MachineLearningServices/workspaces/models/versions/read",
     "Microsoft.MachineLearningServices/workspaces/datastores/read",
-    "Microsoft.MachineLearningServices/workspaces/metadata/artifacts/read"
+    "Microsoft.MachineLearningServices/workspaces/metadata/artifacts/read",
+    "Microsoft.MachineLearningServices/registries/read",
+    "Microsoft.MachineLearningServices/registries/assets/read"
   ],
   "NotActions": [],
   "DataActions": [],

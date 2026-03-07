@@ -383,6 +383,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
 | [Conversation Session User](roles/b3eb788f-5426-48bd-821d-561701ede368.json) | [b3eb788f-5426-48bd-821d-561701ede368](roles/b3eb788f-5426-48bd-821d-561701ede368.json) |
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |
+| [Cosmos DB Long Term Retention Backup Role](roles/fc896ebc-f9a8-484d-a5ff-bd6a8c36289f.json) | [fc896ebc-f9a8-484d-a5ff-bd6a8c36289f](roles/fc896ebc-f9a8-484d-a5ff-bd6a8c36289f.json) |
+| [Cosmos DB Long Term Retention Restore Role](roles/955d0cb2-de4e-43ed-819a-14220e079ba7.json) | [955d0cb2-de4e-43ed-819a-14220e079ba7](roles/955d0cb2-de4e-43ed-819a-14220e079ba7.json) |
 | [Cosmos DB Operator](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) | [230815da-be43-4aae-9cb4-875f7bd000aa](roles/230815da-be43-4aae-9cb4-875f7bd000aa.json) |
 | [CosmosBackupOperator](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) | [db7b14f2-5adf-42da-9f96-f2ee17bab5cb](roles/db7b14f2-5adf-42da-9f96-f2ee17bab5cb.json) |
 | [CosmosDB Fleet Analytics Storage Data Writer](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) | [bf41e52e-617f-4981-8b7a-47431bd4e011](roles/bf41e52e-617f-4981-8b7a-47431bd4e011.json) |

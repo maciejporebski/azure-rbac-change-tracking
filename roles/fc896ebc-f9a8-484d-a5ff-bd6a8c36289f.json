@@ -1,0 +1,21 @@
+{
+  "Name": "Cosmos DB Long Term Retention Backup Role",
+  "Id": "fc896ebc-f9a8-484d-a5ff-bd6a8c36289f",
+  "IsCustom": false,
+  "Description": "Allows performing long term retention backup operations for Cosmos DB",
+  "Actions": [
+    "Microsoft.DocumentDB/databaseAccounts/validateForLongTermProtection/action",
+    "Microsoft.DocumentDB/databaseAccounts/enableLongTermProtection/action",
+    "Microsoft.DocumentDB/databaseAccounts/disableLongTermProtection/action",
+    "Microsoft.DocumentDB/databaseAccounts/preBackup/action",
+    "Microsoft.DocumentDB/databaseAccounts/backup/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

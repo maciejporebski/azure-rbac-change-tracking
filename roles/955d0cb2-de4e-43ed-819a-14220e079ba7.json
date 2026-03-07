@@ -1,0 +1,18 @@
+{
+  "Name": "Cosmos DB Long Term Retention Restore Role",
+  "Id": "955d0cb2-de4e-43ed-819a-14220e079ba7",
+  "IsCustom": false,
+  "Description": "Allows performing long term retention restore operations for Cosmos DB",
+  "Actions": [
+    "Microsoft.DocumentDB/databaseAccounts/preRestore/action",
+    "Microsoft.DocumentDB/databaseAccounts/restore/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

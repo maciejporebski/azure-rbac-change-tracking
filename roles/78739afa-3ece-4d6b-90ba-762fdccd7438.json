@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Edge On-Site Deployment Manager",
+  "Id": "78739afa-3ece-4d6b-90ba-762fdccd7438",
+  "IsCustom": false,
+  "Description": "Grants you access to take actions as an on-site person to assist in the provisioning of an edge device",
+  "Actions": [
+    "Microsoft.AzureStackHCI/EdgeMachines/Read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

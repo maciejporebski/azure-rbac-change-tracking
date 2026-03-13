@@ -130,6 +130,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Digital Twins Data Reader](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) | [d57506d4-4c8d-48b1-8587-93c323f6a5a3](roles/d57506d4-4c8d-48b1-8587-93c323f6a5a3.json) |
 | [Azure Edge Hardware Center Administrator](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) | [9295f069-25d0-4f44-bb6a-3da70d11aa00](roles/9295f069-25d0-4f44-bb6a-3da70d11aa00.json) |
 | [Azure Edge On-Site Deployment Engineer](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) | [207bcc4b-86a6-4487-9141-d6c1f4c238aa](roles/207bcc4b-86a6-4487-9141-d6c1f4c238aa.json) |
+| [Azure Edge On-Site Deployment Manager](roles/78739afa-3ece-4d6b-90ba-762fdccd7438.json) | [78739afa-3ece-4d6b-90ba-762fdccd7438](roles/78739afa-3ece-4d6b-90ba-762fdccd7438.json) |
 | [Azure Event Hubs Data Owner](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) | [f526a384-b230-433a-b45c-95f59c4a2dec](roles/f526a384-b230-433a-b45c-95f59c4a2dec.json) |
 | [Azure Event Hubs Data Receiver](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) | [a638d3c7-ab3a-418d-83e6-5f17a39d4fde](roles/a638d3c7-ab3a-418d-83e6-5f17a39d4fde.json) |
 | [Azure Event Hubs Data Sender](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) | [2b629674-e913-4c01-ae53-ef4638d8f975](roles/2b629674-e913-4c01-ae53-ef4638d8f975.json) |

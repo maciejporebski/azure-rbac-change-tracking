@@ -1,0 +1,23 @@
+{
+  "Name": "Defender AI",
+  "Id": "6fe711ec-654d-4ef7-8e32-eb7de3d94774",
+  "IsCustom": false,
+  "Description": "Service role that provides permissions for Microsoft Defender for AI",
+  "Actions": [
+    "Microsoft.CognitiveServices/accounts/read",
+    "Microsoft.CognitiveServices/accounts/defenderForAISettings/read",
+    "Microsoft.CognitiveServices/accounts/defenderForAISettings/write",
+    "Microsoft.CognitiveServices/accounts/defenderForAISettings/delete",
+    "Microsoft.CognitiveServices/raiPolicy/read",
+    "Microsoft.CognitiveServices/raiPolicy/write",
+    "Microsoft.Search/searchServices/knowledgeBases/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

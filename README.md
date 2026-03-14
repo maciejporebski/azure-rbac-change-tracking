@@ -405,6 +405,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
 | [Dedicated Host Contributor Role](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) | [96ebd254-ecc7-4590-aff5-e9af3ff5f3b3](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) |
 | [Defender Agentless VM Scan](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |
+| [Defender AI](roles/6fe711ec-654d-4ef7-8e32-eb7de3d94774.json) | [6fe711ec-654d-4ef7-8e32-eb7de3d94774](roles/6fe711ec-654d-4ef7-8e32-eb7de3d94774.json) |
 | [Defender API Security](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) | [6f91a4f9-10ee-4b95-b8cd-96ee73c5968d](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) |
 | [Defender Azure Cosmos DB](roles/d2acaa63-2a62-4c01-998a-cdbe7a00d709.json) | [d2acaa63-2a62-4c01-998a-cdbe7a00d709](roles/d2acaa63-2a62-4c01-998a-cdbe7a00d709.json) |
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |

@@ -9,7 +9,7 @@
     "Microsoft.Cdn/operationresults/*",
     "Microsoft.Cdn/profiles/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/*",
     "Microsoft.Cdn/profiles/afdendpoints/validateCustomDomain/action",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*",

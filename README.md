@@ -122,6 +122,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Deployment Stack Owner](roles/adb29209-aa1d-457b-a786-c913953d2891.json) | [adb29209-aa1d-457b-a786-c913953d2891](roles/adb29209-aa1d-457b-a786-c913953d2891.json) |
 | [Azure Device Onboarding Contributor](roles/a954a0e0-f57f-4606-8421-fd7bd4e54b0f.json) | [a954a0e0-f57f-4606-8421-fd7bd4e54b0f](roles/a954a0e0-f57f-4606-8421-fd7bd4e54b0f.json) |
 | [Azure Device Onboarding Discovery Contributor](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) | [a227fb39-f479-404b-96fd-0176f5d88ab4](roles/a227fb39-f479-404b-96fd-0176f5d88ab4.json) |
+| [Azure Device Registry Administrator](roles/12675fd7-7f59-493f-9201-f7944860a2f1.json) | [12675fd7-7f59-493f-9201-f7944860a2f1](roles/12675fd7-7f59-493f-9201-f7944860a2f1.json) |
 | [Azure Device Registry Contributor](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) | [a5c3590a-3a1a-4cd4-9648-ea0a32b15137](roles/a5c3590a-3a1a-4cd4-9648-ea0a32b15137.json) |
 | [Azure Device Registry Credentials Contributor](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) | [09267e11-2e06-40b5-8fe4-68cea20794c9](roles/09267e11-2e06-40b5-8fe4-68cea20794c9.json) |
 | [Azure Device Registry Onboarding](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) | [547f7f0a-69c0-4807-bd9e-0321dfb66a84](roles/547f7f0a-69c0-4807-bd9e-0321dfb66a84.json) |
@@ -405,6 +406,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Data Purger](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) | [150f5e0c-0603-4f03-8c7f-cf70034c4e90](roles/150f5e0c-0603-4f03-8c7f-cf70034c4e90.json) |
 | [Dedicated Host Contributor Role](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) | [96ebd254-ecc7-4590-aff5-e9af3ff5f3b3](roles/96ebd254-ecc7-4590-aff5-e9af3ff5f3b3.json) |
 | [Defender Agentless VM Scan](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) | [d24ecba3-c1f4-40fa-a7bb-4588a071e8fd](roles/d24ecba3-c1f4-40fa-a7bb-4588a071e8fd.json) |
+| [Defender AI](roles/6fe711ec-654d-4ef7-8e32-eb7de3d94774.json) | [6fe711ec-654d-4ef7-8e32-eb7de3d94774](roles/6fe711ec-654d-4ef7-8e32-eb7de3d94774.json) |
 | [Defender API Security](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) | [6f91a4f9-10ee-4b95-b8cd-96ee73c5968d](roles/6f91a4f9-10ee-4b95-b8cd-96ee73c5968d.json) |
 | [Defender Azure Cosmos DB](roles/d2acaa63-2a62-4c01-998a-cdbe7a00d709.json) | [d2acaa63-2a62-4c01-998a-cdbe7a00d709](roles/d2acaa63-2a62-4c01-998a-cdbe7a00d709.json) |
 | [Defender Cloud Secrets Posture](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) | [512ef07a-840c-48d2-9be4-9a30a75a5c70](roles/512ef07a-840c-48d2-9be4-9a30a75a5c70.json) |

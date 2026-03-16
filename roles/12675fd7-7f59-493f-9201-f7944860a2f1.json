@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Device Registry Administrator",
+  "Id": "12675fd7-7f59-493f-9201-f7944860a2f1",
+  "IsCustom": false,
+  "Description": "Azure Device Registry Administrator",
+  "Actions": [
+    "Microsoft.DeviceRegistry/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

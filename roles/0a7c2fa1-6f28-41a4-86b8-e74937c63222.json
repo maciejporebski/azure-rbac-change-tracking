@@ -5,10 +5,7 @@
   "Description": "Allows users to create and manage Entra ID Tenants.",
   "Actions": [
     "Microsoft.AzureActiveDirectory/directories/write",
-    "Microsoft.AzureActiveDirectory/directories/read",
-    "Microsoft.AzureActiveDirectory/register/action",
-    "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Resources/subscriptions/read"
+    "Microsoft.AzureActiveDirectory/directories/read"
   ],
   "NotActions": [],
   "DataActions": [],

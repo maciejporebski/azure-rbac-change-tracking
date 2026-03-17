@@ -6,7 +6,7 @@
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/*",
     "Microsoft.App/connectedEnvironments/read",
     "Microsoft.App/connectedEnvironments/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"

@@ -1,0 +1,25 @@
+{
+  "Name": "Defender Storage Malware Data Scanner",
+  "Id": "cd50fd1f-0421-46f2-8cce-afc587dbcc77",
+  "IsCustom": false,
+  "Description": "Grants data plane permissions for Microsoft Defender for Storage scanning operations — blob/file read, index tag updates.",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/read",
+    "Microsoft.Storage/storageAccounts/fileServices/shares/read"
+  ],
+  "NotActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/write",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/read",
+    "Microsoft.Storage/storageAccounts/fileServices/fileshares/files/read",
+    "Microsoft.Storage/storageAccounts/fileServices/readFileBackupSemantics/action",
+    "Microsoft.EventGrid/events/send/action"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

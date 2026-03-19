@@ -1,0 +1,18 @@
+{
+  "Name": "Confidential Ledger Data Contributor",
+  "Id": "f1641a58-a144-402b-baf9-39d1a4c10119",
+  "IsCustom": false,
+  "Description": "Allows read and write access to Confidential Ledger transactions, including reading entries, receipts, and transaction status, and creating new ledger entries.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ConfidentialLedger/ledgers/transactions/read",
+    "Microsoft.ConfidentialLedger/ledgers/transactions/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

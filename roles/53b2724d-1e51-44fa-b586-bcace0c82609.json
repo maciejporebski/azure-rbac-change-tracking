@@ -7,7 +7,7 @@
     "Microsoft.IoTFirmwareDefense/*",
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Resources/deployments/*"
+    "Microsoft.Resources/deployments/read"
   ],
   "NotActions": [
     "Microsoft.IoTFirmwareDefense/firmwareGroups/*",

@@ -1,0 +1,17 @@
+{
+  "Name": "Confidential Ledger Data Reader",
+  "Id": "4f1e6fca-3fde-4291-961e-642def6d5e1d",
+  "IsCustom": false,
+  "Description": "Allows read access to Confidential Ledger transactions, including reading entries, receipts, and transaction status.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ConfidentialLedger/ledgers/transactions/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

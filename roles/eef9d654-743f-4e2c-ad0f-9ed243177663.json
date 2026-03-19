@@ -1,0 +1,30 @@
+{
+  "Name": "Defender Azure SQL Databases",
+  "Id": "eef9d654-743f-4e2c-ad0f-9ed243177663",
+  "IsCustom": false,
+  "Description": "Microsoft Defender for Azure SQL Databases role. Grant permissions for enablement.",
+  "Actions": [
+    "Microsoft.Sql/managedInstances/read",
+    "Microsoft.Sql/managedInstances/securityAlertPolicies/read",
+    "Microsoft.Sql/managedInstances/securityAlertPolicies/write",
+    "Microsoft.Sql/servers/read",
+    "Microsoft.Sql/servers/securityAlertPolicies/read",
+    "Microsoft.Sql/servers/securityAlertPolicies/write",
+    "Microsoft.Sql/servers/sqlVulnerabilityAssessments/read",
+    "Microsoft.Sql/servers/sqlVulnerabilityAssessments/write",
+    "Microsoft.Synapse/workspaces/read",
+    "Microsoft.Synapse/workspaces/securityAlertPolicies/read",
+    "Microsoft.Synapse/workspaces/securityAlertPolicies/write",
+    "Microsoft.Sql/servers/vulnerabilityAssessments/read",
+    "Microsoft.Synapse/workspaces/vulnerabilityAssessments/read",
+    "Microsoft.Sql/managedInstances/vulnerabilityAssessments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Pro Active Coding Data User",
+  "Id": "d622af9a-030e-4f32-8267-419abfd54702",
+  "IsCustom": false,
+  "Description": "Allows processing of health data in Pro Active Coding",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthBot/healthBots/AIActions/ProActiveCoding/Process/Action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

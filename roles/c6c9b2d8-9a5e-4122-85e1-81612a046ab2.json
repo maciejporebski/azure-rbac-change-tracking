@@ -1,0 +1,20 @@
+{
+  "Name": "Defender Storage Automated Malware Remediation",
+  "Id": "c6c9b2d8-9a5e-4122-85e1-81612a046ab2",
+  "IsCustom": false,
+  "Description": "Grants additional permissions for Microsoft Defender for Storage automated remediation operations including soft-delete management and blob deletion.",
+  "Actions": [
+    "Microsoft.Storage/storageAccounts/blobServices/read",
+    "Microsoft.Storage/storageAccounts/blobServices/write"
+  ],
+  "NotActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

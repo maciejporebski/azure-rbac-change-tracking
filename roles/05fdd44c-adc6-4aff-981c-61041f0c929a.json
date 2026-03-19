@@ -7,7 +7,9 @@
     "Microsoft.ManagedNetworkFabric/*/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/operations/read",
+    "Microsoft.Resources/deployments/operationStatuses/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],

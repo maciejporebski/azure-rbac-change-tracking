@@ -11,6 +11,8 @@
     "Microsoft.ServicesHub/connectors/read",
     "Microsoft.ServicesHub/connectors/delete",
     "Microsoft.ServicesHub/connectors/checkAssessmentEntitlement/action",
+    "Microsoft.ServicesHub/connectors/*",
+    "Microsoft.ServicesHub/*",
     "Microsoft.ServicesHub/supportOfferingEntitlement/read",
     "Microsoft.ServicesHub/workspaces/read"
   ],

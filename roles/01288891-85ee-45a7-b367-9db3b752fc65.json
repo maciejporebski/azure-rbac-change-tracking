@@ -19,6 +19,7 @@
     "Microsoft.Discovery/supercomputers/nodePools/read",
     "Microsoft.Discovery/tools/*",
     "Microsoft.Discovery/workflows/*",
+    "Microsoft.Discovery/workspaces/chatModelDeployments/read",
     "Microsoft.Discovery/workspaces/projects/read",
     "Microsoft.Discovery/operations/read",
     "Microsoft.Insights/AlertRules/*",
@@ -38,6 +39,8 @@
     "Microsoft.Discovery/bookshelves/delete",
     "Microsoft.Discovery/supercomputers/nodePools/write",
     "Microsoft.Discovery/supercomputers/nodePools/delete",
+    "Microsoft.Discovery/workspaces/chatModelDeployments/write",
+    "Microsoft.Discovery/workspaces/chatModelDeployments/delete",
     "Microsoft.Discovery/workspaces/projects/write",
     "Microsoft.Discovery/workspaces/projects/delete"
   ],

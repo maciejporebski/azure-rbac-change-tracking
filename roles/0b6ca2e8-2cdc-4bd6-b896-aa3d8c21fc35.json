@@ -4,10 +4,6 @@
   "IsCustom": false,
   "Description": "Grants permissions for Microsoft Defender for Cloud Sensitive Data Discovery plan features",
   "Actions": [
-    "Microsoft.Security/defenderforstoragesettings/read",
-    "Microsoft.Security/defenderforstoragesettings/write",
-    "Microsoft.Security/advancedThreatProtectionSettings/read",
-    "Microsoft.Security/advancedThreatProtectionSettings/write",
     "Microsoft.Storage/storageAccounts/write",
     "Microsoft.Storage/storageAccounts/read",
     "Microsoft.Storage/storageAccounts/blobServices/containers/read",

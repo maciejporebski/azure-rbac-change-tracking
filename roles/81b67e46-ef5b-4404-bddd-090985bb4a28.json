@@ -32,7 +32,9 @@
     "Microsoft.Datadog/subscriptionStatuses/read",
     "Microsoft.Datadog/operations/read",
     "Microsoft.Datadog/monitors/getDefaultApplicationKey/action",
-    "Microsoft.Datadog/monitors/manageSreAgentConnectors/action"
+    "Microsoft.Datadog/monitors/manageSreAgentConnectors/action",
+    "Microsoft.Datadog/monitors/latestLinkedSaaS/action",
+    "Microsoft.Datadog/monitors/linkSaaS/action"
   ],
   "NotActions": [],
   "DataActions": [],

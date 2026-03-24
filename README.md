@@ -649,6 +649,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Approvals Service Operator](roles/98d40527-c073-4096-943a-dd593105ca9c.json) | [98d40527-c073-4096-943a-dd593105ca9c](roles/98d40527-c073-4096-943a-dd593105ca9c.json) |
 | [Microsoft Approvals Workflow Contributor](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) | [92318126-08be-45d0-a1b2-532e6c7d52ce](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) |
 | [Microsoft Confluent Contributor role](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) | [5052f0f9-7e27-4570-bc13-9ee1cf442526](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) |
+| [Microsoft Discovery Bookshelf Index Data Reader - Preview](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) | [8ec773c5-7ce6-4b78-91d1-182f8faa536d](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) |
 | [Microsoft Discovery Platform Administrator (Preview)](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) | [7a2b6e6c-472e-4b39-8878-a26eb63d75c6](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) |
 | [Microsoft Discovery Platform Contributor (Preview)](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) | [01288891-85ee-45a7-b367-9db3b752fc65](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) |
 | [Microsoft Discovery Platform Reader (Preview)](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) | [3bb7c424-af4e-436b-bfcc-8779c8934c31](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) |

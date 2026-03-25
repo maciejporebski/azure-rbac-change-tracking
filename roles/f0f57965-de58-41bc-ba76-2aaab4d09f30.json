@@ -5,6 +5,7 @@
   "Description": "Microsoft.HybridConnectivity contributor role",
   "Actions": [
     "Microsoft.HybridConnectivity/endpoints/listIngressGatewayCredentials/action",
+    "Microsoft.HybridConnectivity/Locations/OperationStatuses/write",
     "Microsoft.HybridConnectivity/publicCloudConnectors/delete",
     "Microsoft.HybridConnectivity/publicCloudConnectors/testPermissions/action",
     "Microsoft.HybridConnectivity/publicCloudConnectors/write",

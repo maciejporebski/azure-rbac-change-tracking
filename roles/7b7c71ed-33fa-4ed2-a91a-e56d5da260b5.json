@@ -9,7 +9,7 @@
     "Microsoft.DeviceRegistry/schemaRegistries/read",
     "Microsoft.DeviceRegistry/schemaRegistries/write",
     "Microsoft.Authorization/*/read",
-    "Microsoft.Authorization/*/write",
+    "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
@@ -21,6 +21,6 @@
   "AssignableScopes": [
     "/"
   ],
-  "Condition": null,
-  "ConditionVersion": null
+  "Condition": "((!(ActionMatches{'Microsoft.Authorization/roleAssignments/write'})) OR (@Request[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals {ba92f5b4-2d11-453d-a403-e96b0029c9fe, b24988ac-6180-42a0-ab88-20f7382dd24c}))",
+  "ConditionVersion": "2.0"
 }

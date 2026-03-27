@@ -1,0 +1,32 @@
+{
+  "Name": "Oracle Database DbSystems Administrator",
+  "Id": "63342533-d951-495d-a3c3-a459aa02362b",
+  "IsCustom": false,
+  "Description": "Grants full access to manage DbSystems resources",
+  "Actions": [
+    "Oracle.Database/dbSystems/*/read",
+    "Oracle.Database/dbSystems/*/write",
+    "Oracle.Database/dbSystems/*/delete",
+    "Oracle.Database/Locations/*/read",
+    "Oracle.Database/Locations/*/write",
+    "Oracle.Database/Operations/read",
+    "Oracle.Database/oracleSubscriptions/*/read",
+    "Oracle.Database/resourceAnchors/*",
+    "Oracle.Database/networkAnchors/*",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/virtualNetworks/subnets/read",
+    "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Network/locations/operations/read",
+    "Microsoft.Compute/sshPublicKeys/read",
+    "Microsoft.Compute/sshPublicKeys/write",
+    "Microsoft.Compute/sshPublicKeys/generateKeyPair/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": "@Resource[HasObotoken] boolequals true",
+  "ConditionVersion": "1.0"
+}

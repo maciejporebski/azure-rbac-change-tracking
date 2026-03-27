@@ -187,6 +187,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Local Disconnected Operations Role](roles/478d20ba-a53e-4946-b33c-8078a92f2d0a.json) | [478d20ba-a53e-4946-b33c-8078a92f2d0a](roles/478d20ba-a53e-4946-b33c-8078a92f2d0a.json) |
 | [Azure Machine Learning Workspace Connection Secrets Reader](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) | [ea01e6af-a1c1-4350-9563-ad00f8c72ec5](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) |
 | [Azure Managed Grafana Workspace Contributor](roles/5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95.json) | [5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95](roles/5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95.json) |
+| [Azure Managed Redis Contributor](roles/3015e5ed-6856-4ab3-b2f0-b8492aa30ca6.json) | [3015e5ed-6856-4ab3-b2f0-b8492aa30ca6](roles/3015e5ed-6856-4ab3-b2f0-b8492aa30ca6.json) |
+| [Azure Managed Redis Reader](roles/f287ba2f-f923-4464-a5bd-721c3951d32d.json) | [f287ba2f-f923-4464-a5bd-721c3951d32d](roles/f287ba2f-f923-4464-a5bd-721c3951d32d.json) |
 | [Azure Maps Contributor](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) | [dba33070-676a-4fb0-87fa-064dc56ff7fb](roles/dba33070-676a-4fb0-87fa-064dc56ff7fb.json) |
 | [Azure Maps Data Contributor](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) | [8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204](roles/8f5e0ce6-4f7b-4dcf-bddf-e6f48634a204.json) |
 | [Azure Maps Data Read and Batch Role](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) | [d6470a16-71bd-43ab-86b3-6f3a73f4e787](roles/d6470a16-71bd-43ab-86b3-6f3a73f4e787.json) |
@@ -694,6 +696,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Operator Nexus Compute Contributor Role (Preview)](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) | [4aa368ec-fba9-4e93-81ed-396b3d461cc5](roles/4aa368ec-fba9-4e93-81ed-396b3d461cc5.json) |
 | [Operator Nexus Key Vault Writer Service Role (Preview)](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) | [44f0a1a8-6fea-4b35-980a-8ff50c487c97](roles/44f0a1a8-6fea-4b35-980a-8ff50c487c97.json) |
 | [Operator Nexus Owner (Preview)](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) | [77be276d-fb44-4f3b-beb5-9bf03c4cd2d3](roles/77be276d-fb44-4f3b-beb5-9bf03c4cd2d3.json) |
+| [Oracle Database DbSystems Administrator](roles/63342533-d951-495d-a3c3-a459aa02362b.json) | [63342533-d951-495d-a3c3-a459aa02362b](roles/63342533-d951-495d-a3c3-a459aa02362b.json) |
 | [Oracle Subscriptions Manager Built-in Role](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) | [4caf51ec-f9f5-413f-8a94-b9f5fddba66b](roles/4caf51ec-f9f5-413f-8a94-b9f5fddba66b.json) |
 | [Oracle.Database Autonomous Database Administrator](roles/59c05558-2358-462d-ba19-afbd7118936d.json) | [59c05558-2358-462d-ba19-afbd7118936d](roles/59c05558-2358-462d-ba19-afbd7118936d.json) |
 | [Oracle.Database Exadata Infrastructure Administrator Built-in Role](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) | [4cfdd23b-aece-4fd1-b614-ad3a06c53453](roles/4cfdd23b-aece-4fd1-b614-ad3a06c53453.json) |

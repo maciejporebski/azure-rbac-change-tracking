@@ -12,7 +12,6 @@
     "Microsoft.Mission/virtualEnclaves/workloads/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/subscriptions/resourcegroups/deployments/read",

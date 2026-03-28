@@ -464,6 +464,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Desktop Virtualization Virtual Machine Contributor](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) | [a959dbd1-f747-45e3-8ba6-dd80f235f97c](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) |
 | [Desktop Virtualization Workspace Contributor](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) | [21efdde3-836f-432b-bf3d-3e8e734d4b2b](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) |
 | [Desktop Virtualization Workspace Reader](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) | [0fa44ee9-7a7d-466b-9bb2-2bf446b1204d](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) |
+| [Dev Compute SandboxGroup Data Owner](roles/c24cf47c-5077-412d-a19c-45202126392c.json) | [c24cf47c-5077-412d-a19c-45202126392c](roles/c24cf47c-5077-412d-a19c-45202126392c.json) |
 | [DevCenter Dev Box User](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) | [45d50f46-0b78-4001-a660-4198cbe8cd05](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) |
 | [DevCenter Owner](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) | [4c6569b6-f23e-4295-9b90-bd4cc4ff3292](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) |
 | [DevCenter Project Admin](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) | [331c37c6-af14-46d9-b9f4-e1909e1b95a0](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) |

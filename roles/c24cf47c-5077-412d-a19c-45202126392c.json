@@ -1,0 +1,20 @@
+{
+  "Name": "Dev Compute SandboxGroup Data Owner",
+  "Id": "c24cf47c-5077-412d-a19c-45202126392c",
+  "IsCustom": false,
+  "Description": "Ownership of all SandboxGroup data.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/sandboxGroups/*/read",
+    "Microsoft.App/sandboxGroups/*/write",
+    "Microsoft.App/sandboxGroups/*/delete",
+    "Microsoft.App/sandboxGroups/*/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -771,6 +771,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Service Health Billing Reader](roles/32c34659-0f83-4a4c-80f2-63a244f8ae0b.json) | [32c34659-0f83-4a4c-80f2-63a244f8ae0b](roles/32c34659-0f83-4a4c-80f2-63a244f8ae0b.json) |
 | [Service Health Security Reader](roles/1a928ab0-1fee-43cf-9266-f9d8c22a8ddb.json) | [1a928ab0-1fee-43cf-9266-f9d8c22a8ddb](roles/1a928ab0-1fee-43cf-9266-f9d8c22a8ddb.json) |
 | [Services Hub Operator](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) | [82200a5b-e217-47a5-b665-6d8765ee745b](roles/82200a5b-e217-47a5-b665-6d8765ee745b.json) |
+| [Services Hub User](roles/4417a88f-3e58-4cf2-a4e9-112cf414254c.json) | [4417a88f-3e58-4cf2-a4e9-112cf414254c](roles/4417a88f-3e58-4cf2-a4e9-112cf414254c.json) |
 | [SignalR AccessKey Reader](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) | [04165923-9d83-45d5-8227-78b77b0a687e](roles/04165923-9d83-45d5-8227-78b77b0a687e.json) |
 | [SignalR App Server](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) | [420fcaa2-552c-430f-98ca-3264be4806c7](roles/420fcaa2-552c-430f-98ca-3264be4806c7.json) |
 | [SignalR REST API Owner](roles/fd53cd77-2268-407a-8f46-7e7863d0f521.json) | [fd53cd77-2268-407a-8f46-7e7863d0f521](roles/fd53cd77-2268-407a-8f46-7e7863d0f521.json) |

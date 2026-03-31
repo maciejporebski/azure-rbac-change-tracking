@@ -12,7 +12,16 @@
     "Microsoft.Network/natGateways/read",
     "Microsoft.Network/natGateways/join/action",
     "Microsoft.Network/networkSecurityGroups/read",
-    "Microsoft.Network/networkSecurityGroups/join/action"
+    "Microsoft.Network/networkSecurityGroups/join/action",
+    "Microsoft.Network/loadBalancers/backendAddressPools/read",
+    "Microsoft.Network/loadBalancers/backendAddressPools/write",
+    "Microsoft.Network/loadBalancers/read",
+    "Microsoft.Network/loadBalancers/write",
+    "Microsoft.Network/privateDnsZones/virtualNetworkLinks/read",
+    "Microsoft.Network/privateDnsZones/virtualNetworkLinks/write",
+    "Microsoft.Network/virtualNetworks/join/action",
+    "Microsoft.Network/virtualNetworks/joinLoadBalancer/action",
+    "Microsoft.Network/virtualNetworks/subnets/join/action"
   ],
   "NotActions": [],
   "DataActions": [],

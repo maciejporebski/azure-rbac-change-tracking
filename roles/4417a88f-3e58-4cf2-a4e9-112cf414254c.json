@@ -1,0 +1,25 @@
+{
+  "Name": "Services Hub User",
+  "Id": "4417a88f-3e58-4cf2-a4e9-112cf414254c",
+  "IsCustom": false,
+  "Description": "Services Hub User allows you to perform all read, write, and deletion operations related to Services Hub Connectors except create/delete connector and managing law.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.ServicesHub/connectors/read",
+    "Microsoft.ServicesHub/connectors/*",
+    "Microsoft.ServicesHub/*",
+    "Microsoft.ServicesHub/workspaces/read"
+  ],
+  "NotActions": [
+    "Microsoft.ServicesHub/connectors/write",
+    "Microsoft.ServicesHub/connectors/delete"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

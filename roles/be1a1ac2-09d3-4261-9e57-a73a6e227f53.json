@@ -66,7 +66,12 @@
     "Microsoft.Hardware/register/action",
     "Microsoft.Hardware/orderPreview/action",
     "Microsoft.Hardware/orders/read",
-    "Microsoft.Hardware/orders/write"
+    "Microsoft.Hardware/orders/write",
+    "Microsoft.Hardware/orders/delete",
+    "Microsoft.Hardware/returnPreview/action",
+    "Microsoft.Hardware/returns/read",
+    "Microsoft.Hardware/returns/write",
+    "Microsoft.Hardware/returns/delete"
   ],
   "NotActions": [],
   "DataActions": [],

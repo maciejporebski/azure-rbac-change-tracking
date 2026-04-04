@@ -1,0 +1,17 @@
+{
+  "Name": "Genome EndUser",
+  "Id": "0e91b552-ae32-49ea-9898-317af306aa4b",
+  "IsCustom": false,
+  "Description": "Full access to Genome data plane operations only",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Genome/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -9,9 +9,9 @@
     "Microsoft.Cache/operations/read",
     "Microsoft.Cache/redisEnterprise/read",
     "Microsoft.Cache/redisEnterprise/*/read",
-    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Insights/alertRules/read",
     "Microsoft.ResourceHealth/availabilityStatuses/read",
-    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/deployments/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],
   "NotActions": [],

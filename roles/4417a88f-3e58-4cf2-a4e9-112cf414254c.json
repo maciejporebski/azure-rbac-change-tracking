@@ -5,6 +5,8 @@
   "Description": "Services Hub User allows you to perform all read, write, and deletion operations related to Services Hub Connectors except create/delete connector and managing law.",
   "Actions": [
     "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.ServicesHub/connectors/read",
     "Microsoft.ServicesHub/connectors/*",

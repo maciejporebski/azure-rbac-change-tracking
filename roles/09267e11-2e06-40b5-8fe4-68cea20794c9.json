@@ -5,8 +5,7 @@
   "Description": "Allows for full access to manage credentials and policies within Azure Device Registry Namespace.",
   "Actions": [
     "microsoft.deviceregistry/namespaces/credentials/*",
-    "microsoft.deviceregistry/namespaces/credentials/policies/*",
-    "microsoft.deviceregistry/namespaces/devices/revoke/action"
+    "microsoft.deviceregistry/namespaces/credentials/policies/*"
   ],
   "NotActions": [],
   "DataActions": [],

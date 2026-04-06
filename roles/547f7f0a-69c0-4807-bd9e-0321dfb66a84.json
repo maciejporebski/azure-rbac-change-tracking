@@ -10,8 +10,7 @@
     "Microsoft.DeviceRegistry/namespaces/credentials/*",
     "Microsoft.DeviceRegistry/namespaces/credentials/policies/*",
     "Microsoft.Devices/iothubs/*",
-    "Microsoft.Devices/provisioningServices/*",
-    "microsoft.deviceregistry/namespaces/devices/revoke/action"
+    "Microsoft.Devices/provisioningServices/*"
   ],
   "NotActions": [],
   "DataActions": [

@@ -6,7 +6,6 @@
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.ServicesHub/connectors/write",
     "Microsoft.ServicesHub/connectors/read",

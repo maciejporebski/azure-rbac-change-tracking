@@ -6,7 +6,7 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.Discovery/bookshelf/knowledgeBaseVersions/query/action"
+    "Microsoft.Discovery/bookshelf/knowledgeBaseVersions/search"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

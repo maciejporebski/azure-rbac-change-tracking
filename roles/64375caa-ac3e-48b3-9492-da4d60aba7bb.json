@@ -1,0 +1,19 @@
+{
+  "Name": "Diagnostics Operator",
+  "Id": "64375caa-ac3e-48b3-9492-da4d60aba7bb",
+  "IsCustom": false,
+  "Description": "Role allows users to collect diagnostic information regarding their Virtual Machine",
+  "Actions": [
+    "Microsoft.Compute/virtualMachines/DiagnosticRunCommands/write",
+    "Microsoft.Compute/virtualMachines/DiagnosticRunCommands/read",
+    "Microsoft.Compute/virtualMachines/DiagnosticRunCommands/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

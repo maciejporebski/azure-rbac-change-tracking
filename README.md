@@ -479,6 +479,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Device Update Reader](roles/e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f.json) | [e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f](roles/e9dba6fb-3d52-4cf0-bce3-f06ce71b9e0f.json) |
 | [DevOps Infrastructure Contributor](roles/76153a9e-0edb-49bc-8e01-93c47e6b5180.json) | [76153a9e-0edb-49bc-8e01-93c47e6b5180](roles/76153a9e-0edb-49bc-8e01-93c47e6b5180.json) |
 | [DevTest Labs User](roles/76283e04-6283-4c54-8f91-bcf1374a3c64.json) | [76283e04-6283-4c54-8f91-bcf1374a3c64](roles/76283e04-6283-4c54-8f91-bcf1374a3c64.json) |
+| [Diagnostics Operator](roles/64375caa-ac3e-48b3-9492-da4d60aba7bb.json) | [64375caa-ac3e-48b3-9492-da4d60aba7bb](roles/64375caa-ac3e-48b3-9492-da4d60aba7bb.json) |
 | [DICOM Data Owner](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) | [58a3b984-7adf-4c20-983a-32417c86fbc8](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) |
 | [DICOM Data Reader](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) | [e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) |
 | [Disk Backup Reader](roles/3e5e47e6-65f7-47ef-90b5-e5dd4d455f24.json) | [3e5e47e6-65f7-47ef-90b5-e5dd4d455f24](roles/3e5e47e6-65f7-47ef-90b5-e5dd4d455f24.json) |

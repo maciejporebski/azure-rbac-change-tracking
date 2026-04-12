@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Resilience Management Usage Reader",
+  "Id": "b130f7de-5374-4e3d-ada8-bae6e49114b9",
+  "IsCustom": false,
+  "Description": "Reader Role of Azure Resilience Management Usage",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

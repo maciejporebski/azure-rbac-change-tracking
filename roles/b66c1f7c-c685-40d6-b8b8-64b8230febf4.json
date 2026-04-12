@@ -1,0 +1,23 @@
+{
+  "Name": "Azure Resilience Management Usage Administrator",
+  "Id": "b66c1f7c-c685-40d6-b8b8-64b8230febf4",
+  "IsCustom": false,
+  "Description": "Administrator Role of Azure Resilience Management Usage",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/write",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Azure Resilience Management Usage Contributor",
+  "Id": "5ca51376-e049-4302-abcc-64c588049c59",
+  "IsCustom": false,
+  "Description": "Contributor Role of Azure Resilience Management Usage",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/write",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

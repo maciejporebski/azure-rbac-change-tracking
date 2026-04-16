@@ -16,7 +16,13 @@
     "Microsoft.Relationships/ServiceGroupMember/read",
     "Microsoft.Relationships/ServiceGroupMember/write",
     "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/write",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/write"
   ],
   "NotActions": [],
   "DataActions": [],

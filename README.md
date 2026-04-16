@@ -237,6 +237,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Resilience Management Recovery Contributor](roles/4c7fd853-7345-4453-babd-e9481e9b460b.json) | [4c7fd853-7345-4453-babd-e9481e9b460b](roles/4c7fd853-7345-4453-babd-e9481e9b460b.json) |
 | [Azure Resilience Management Recovery Operator](roles/517781b0-5ad4-4418-94d5-f2421834b586.json) | [517781b0-5ad4-4418-94d5-f2421834b586](roles/517781b0-5ad4-4418-94d5-f2421834b586.json) |
 | [Azure Resilience Management Recovery Reader](roles/8210e6a3-4e4c-4e1a-bd83-ef8bac788a45.json) | [8210e6a3-4e4c-4e1a-bd83-ef8bac788a45](roles/8210e6a3-4e4c-4e1a-bd83-ef8bac788a45.json) |
+| [Azure Resilience Management Usage Administrator](roles/b66c1f7c-c685-40d6-b8b8-64b8230febf4.json) | [b66c1f7c-c685-40d6-b8b8-64b8230febf4](roles/b66c1f7c-c685-40d6-b8b8-64b8230febf4.json) |
+| [Azure Resilience Management Usage Contributor](roles/5ca51376-e049-4302-abcc-64c588049c59.json) | [5ca51376-e049-4302-abcc-64c588049c59](roles/5ca51376-e049-4302-abcc-64c588049c59.json) |
+| [Azure Resilience Management Usage Reader](roles/b130f7de-5374-4e3d-ada8-bae6e49114b9.json) | [b130f7de-5374-4e3d-ada8-bae6e49114b9](roles/b130f7de-5374-4e3d-ada8-bae6e49114b9.json) |
 | [Azure Resource Bridge Deployment Role](roles/7b1f81f9-4196-4058-8aae-762e593270df.json) | [7b1f81f9-4196-4058-8aae-762e593270df](roles/7b1f81f9-4196-4058-8aae-762e593270df.json) |
 | [Azure Resource Notifications System Topics Subscriber](roles/0b962ed2-6d56-471c-bd5f-3477d83a7ba4.json) | [0b962ed2-6d56-471c-bd5f-3477d83a7ba4](roles/0b962ed2-6d56-471c-bd5f-3477d83a7ba4.json) |
 | [Azure Service Bus Data Owner](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) | [090c5cfd-751d-490a-894a-3ce6f1109419](roles/090c5cfd-751d-490a-894a-3ce6f1109419.json) |

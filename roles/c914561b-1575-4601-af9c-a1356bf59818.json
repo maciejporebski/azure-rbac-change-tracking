@@ -13,7 +13,13 @@
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/delete",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",
-    "Microsoft.AzureResilienceManagement/recoveryPlans/*/write"
+    "Microsoft.AzureResilienceManagement/recoveryPlans/*/write",
+    "Microsoft.AzureResilienceManagement/usagePlans/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/write",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/delete",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/write"
   ],
   "NotActions": [],
   "DataActions": [],

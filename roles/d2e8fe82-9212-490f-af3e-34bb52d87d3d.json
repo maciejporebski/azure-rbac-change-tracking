@@ -12,7 +12,9 @@
     "Microsoft.AzureResilienceManagement/drills/drillRuns/read",
     "Microsoft.AzureResilienceManagement/drills/drillRuns/drillRunChildJobs/read",
     "Microsoft.AzureResilienceManagement/drills/drillRuns/drillRunResources/read",
-    "Microsoft.AzureResilienceManagement/drills/read"
+    "Microsoft.AzureResilienceManagement/drills/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read"
   ],
   "NotActions": [],
   "DataActions": [],

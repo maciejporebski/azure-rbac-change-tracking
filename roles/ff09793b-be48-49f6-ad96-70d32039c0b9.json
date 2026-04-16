@@ -14,7 +14,11 @@
     "Microsoft.Monitor/accounts/read",
     "Microsoft.Monitor/slis/read",
     "Microsoft.Resources/deployments/*",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/write",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read",
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/write"
   ],
   "NotActions": [],
   "DataActions": [],

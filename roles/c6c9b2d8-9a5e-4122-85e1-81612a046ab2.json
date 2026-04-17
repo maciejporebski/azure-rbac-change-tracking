@@ -7,10 +7,10 @@
     "Microsoft.Storage/storageAccounts/blobServices/read",
     "Microsoft.Storage/storageAccounts/blobServices/write"
   ],
-  "NotActions": [
+  "NotActions": [],
+  "DataActions": [
     "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete"
   ],
-  "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

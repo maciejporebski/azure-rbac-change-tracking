@@ -148,7 +148,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure impact-insight reader](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) | [dfb2f09d-25f8-4558-8986-497084006d7a](roles/dfb2f09d-25f8-4558-8986-497084006d7a.json) |
 | [Azure IoT Operations Administrator](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) | [5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16](roles/5bc02df6-6cd5-43fe-ad3d-4c93cf56cc16.json) |
 | [Azure IoT Operations Onboarding](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) | [7b7c71ed-33fa-4ed2-a91a-e56d5da260b5](roles/7b7c71ed-33fa-4ed2-a91a-e56d5da260b5.json) |
-| [Azure Kubernetes Application Network Contributor Role](roles/852e55ca-96ce-48b0-abca-2cd74d9042ca.json) | [852e55ca-96ce-48b0-abca-2cd74d9042ca](roles/852e55ca-96ce-48b0-abca-2cd74d9042ca.json) |
 | [Azure Kubernetes Fleet Manager ABAC Custom Resources Reader](roles/20cf746c-c765-402a-885e-c389c64478ce.json) | [20cf746c-c765-402a-885e-c389c64478ce](roles/20cf746c-c765-402a-885e-c389c64478ce.json) |
 | [Azure Kubernetes Fleet Manager ABAC Custom Resources Reader for Member Clusters](roles/e1663658-d5f7-4383-9afb-af9fdc9c5eae.json) | [e1663658-d5f7-4383-9afb-af9fdc9c5eae](roles/e1663658-d5f7-4383-9afb-af9fdc9c5eae.json) |
 | [Azure Kubernetes Fleet Manager ABAC Custom Resources Writer](roles/ff8eb232-5069-437e-94e5-31112ef30539.json) | [ff8eb232-5069-437e-94e5-31112ef30539](roles/ff8eb232-5069-437e-94e5-31112ef30539.json) |
@@ -650,6 +649,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Managed Identity Contributor](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) | [e40ec5ca-96e0-45a2-b4ff-59039f2c2b59](roles/e40ec5ca-96e0-45a2-b4ff-59039f2c2b59.json) |
 | [Managed Identity Federated Identity Credential Contributor](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) | [7e559ce2-48d7-4b27-9128-fa1b247f1308](roles/7e559ce2-48d7-4b27-9128-fa1b247f1308.json) |
 | [Managed Identity Operator](roles/f1a07417-d97a-45cb-824c-7a7467783830.json) | [f1a07417-d97a-45cb-824c-7a7467783830](roles/f1a07417-d97a-45cb-824c-7a7467783830.json) |
+| [Managed Mesh for AKS Contributor Role](roles/852e55ca-96ce-48b0-abca-2cd74d9042ca.json) | [852e55ca-96ce-48b0-abca-2cd74d9042ca](roles/852e55ca-96ce-48b0-abca-2cd74d9042ca.json) |
 | [Managed Services Registration assignment Delete Role](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) | [91c1777a-f3dc-4fae-b103-61d183457e46](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) |
 | [Management Group Contributor](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) | [5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) |
 | [Management Group Reader](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) | [ac63b705-f282-497d-ac71-919bf39d939d](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) |

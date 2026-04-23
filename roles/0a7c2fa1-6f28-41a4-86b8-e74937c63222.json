@@ -6,6 +6,9 @@
   "Actions": [
     "Microsoft.AzureActiveDirectory/directories/write",
     "Microsoft.AzureActiveDirectory/directories/read",
+    "Microsoft.AzureActiveDirectory/entraTenants/write",
+    "Microsoft.AzureActiveDirectory/entraTenants/read",
+    "Microsoft.AzureActiveDirectory/entraTenants/delete",
     "Microsoft.AzureActiveDirectory/register/action",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/subscriptions/read"

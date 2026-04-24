@@ -11,7 +11,9 @@
     "Microsoft.HybridConnectivity/endpoints/serviceConfigurations/read",
     "Microsoft.HybridConnectivity/endpoints/serviceConfigurations/delete",
     "Microsoft.HybridConnectivity/endpoints/listCredentials/action",
-    "Microsoft.HybridCompute/machines/read"
+    "Microsoft.HybridCompute/machines/read",
+    "Microsoft.HybridCompute/machines/extensions/read",
+    "Microsoft.HybridCompute/machines/extensions/write"
   ],
   "NotActions": [],
   "DataActions": [],

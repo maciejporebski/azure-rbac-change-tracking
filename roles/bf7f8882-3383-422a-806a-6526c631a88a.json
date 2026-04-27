@@ -11,8 +11,7 @@
     "Microsoft.Resources/deploymentStacks/write",
     "Microsoft.Resources/deploymentStacks/read",
     "Microsoft.Resources/deploymentStacks/validate/action",
-    "Microsoft.Resources/deploymentStacks/exportTemplate/action",
-    "Microsoft.Resources/deploymentStacksWhatIfResults/*"
+    "Microsoft.Resources/deploymentStacks/exportTemplate/action"
   ],
   "NotActions": [],
   "DataActions": [],

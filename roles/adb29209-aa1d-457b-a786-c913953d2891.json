@@ -8,7 +8,8 @@
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
-    "Microsoft.Resources/deploymentStacks/*"
+    "Microsoft.Resources/deploymentStacks/*",
+    "Microsoft.Resources/deploymentStacksWhatIfResults/*"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -10,6 +10,7 @@
     "Microsoft.Approvals/approvalWorkflowDefinitions/delete",
     "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/read",
     "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/write",
+    "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/syncPolicyStatus/action",
     "Microsoft.Approvals/approvalWorkflowAssignments/read",
     "Microsoft.Approvals/approvalWorkflowAssignments/write",
     "Microsoft.Approvals/approvalWorkflowAssignments/delete",

@@ -7,6 +7,7 @@
     "Microsoft.Approvals/approvalSettings/read",
     "Microsoft.Approvals/approvalSettings/write",
     "Microsoft.Approvals/approvalSettings/delete",
+    "Microsoft.Approvals/approvalSettings/initialize/action",
     "Microsoft.Approvals/approvalWorkflowDefinitions/read",
     "Microsoft.Approvals/approvalWorkflowDefinitions/approvalWorkflowInstances/read",
     "Microsoft.Approvals/approvalWorkflowAssignments/read"

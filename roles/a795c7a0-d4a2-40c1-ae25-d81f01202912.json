@@ -7,7 +7,6 @@
     "Microsoft.Authorization/*/read",
     "Microsoft.RecoveryServices/locations/allocatedStamp/read",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/operationResults/read",
-    "Microsoft.RecoveryServices/Vaults/backupFabrics/operationsStatus/read",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/operationResults/read",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationResults/read",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationsStatus/read",

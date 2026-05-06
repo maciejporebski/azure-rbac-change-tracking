@@ -1,0 +1,27 @@
+{
+  "Name": "Anyscale Platform Administrator Role",
+  "Id": "3e9f3756-203e-4734-a0b8-4b68691ffae3",
+  "IsCustom": false,
+  "Description": "Provides full access to Anyscale Cloud and resources as well as admin features such as usage and resource notifications.",
+  "Actions": [
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete",
+    "Microsoft.Authorization/*/read",
+    "Anyscale.Platform/*/read",
+    "Anyscale.Platform/*/write",
+    "Anyscale.Platform/*/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Anyscale.Platform/admin/action",
+    "Anyscale.Platform/*/read",
+    "Anyscale.Platform/*/write",
+    "Anyscale.Platform/*/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Anyscale Platform Reader Role",
+  "Id": "ab24b16e-fd5d-41b5-839e-6c6d2ad32363",
+  "IsCustom": false,
+  "Description": "Read access to Anyscale Cloud and resources",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Anyscale.Platform/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Anyscale.Platform/*/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

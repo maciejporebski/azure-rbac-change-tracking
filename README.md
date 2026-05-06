@@ -20,6 +20,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AgFood Platform Service Reader](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) | [7ec7ccdc-f61e-41fe-9aaf-980df0a44eba](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) |
 | [AI Model Scanner Operator](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) | [8b9beb50-e28c-4879-8472-24c9d328085f](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) |
 | [AnyBuild Builder](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) | [a2138dac-4907-4679-a376-736901ed8ad8](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) |
+| [Anyscale Platform Administrator Role](roles/3e9f3756-203e-4734-a0b8-4b68691ffae3.json) | [3e9f3756-203e-4734-a0b8-4b68691ffae3](roles/3e9f3756-203e-4734-a0b8-4b68691ffae3.json) |
+| [Anyscale Platform Contributor Role](roles/6d461258-d39c-46cc-8ca1-cab4120979d8.json) | [6d461258-d39c-46cc-8ca1-cab4120979d8](roles/6d461258-d39c-46cc-8ca1-cab4120979d8.json) |
+| [Anyscale Platform Reader Role](roles/ab24b16e-fd5d-41b5-839e-6c6d2ad32363.json) | [ab24b16e-fd5d-41b5-839e-6c6d2ad32363](roles/ab24b16e-fd5d-41b5-839e-6c6d2ad32363.json) |
 | [API Management Developer Portal Content Editor](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) | [c031e6a8-4391-4de0-8d69-4706a7ed3729](roles/c031e6a8-4391-4de0-8d69-4706a7ed3729.json) |
 | [API Management Service Contributor](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) | [312a565d-c81f-4fd8-895a-4e21e48d571c](roles/312a565d-c81f-4fd8-895a-4e21e48d571c.json) |
 | [API Management Service Operator Role](roles/e022efe7-f5ba-4159-bbe4-b44f577e9b61.json) | [e022efe7-f5ba-4159-bbe4-b44f577e9b61](roles/e022efe7-f5ba-4159-bbe4-b44f577e9b61.json) |
@@ -374,6 +377,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Apps ManagedEnvironments Contributor](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) | [57cc5028-e6a7-4284-868d-0611c5923f8d](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) |
 | [Container Apps ManagedEnvironments Reader](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) | [1b32c00b-7eff-4c22-93e6-93d11d72d2d8](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) |
 | [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
+| [Container Apps SandboxGroup Data Owner](roles/c24cf47c-5077-412d-a19c-45202126392c.json) | [c24cf47c-5077-412d-a19c-45202126392c](roles/c24cf47c-5077-412d-a19c-45202126392c.json) |
 | [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
 | [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |
 | [Container Registry Cache Rule Administrator](roles/df87f177-bb12-4db1-9793-a413691eff94.json) | [df87f177-bb12-4db1-9793-a413691eff94](roles/df87f177-bb12-4db1-9793-a413691eff94.json) |
@@ -468,7 +472,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Desktop Virtualization Virtual Machine Contributor](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) | [a959dbd1-f747-45e3-8ba6-dd80f235f97c](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) |
 | [Desktop Virtualization Workspace Contributor](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) | [21efdde3-836f-432b-bf3d-3e8e734d4b2b](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) |
 | [Desktop Virtualization Workspace Reader](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) | [0fa44ee9-7a7d-466b-9bb2-2bf446b1204d](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) |
-| [Dev Compute SandboxGroup Data Owner](roles/c24cf47c-5077-412d-a19c-45202126392c.json) | [c24cf47c-5077-412d-a19c-45202126392c](roles/c24cf47c-5077-412d-a19c-45202126392c.json) |
 | [DevCenter Dev Box User](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) | [45d50f46-0b78-4001-a660-4198cbe8cd05](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) |
 | [DevCenter Owner](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) | [4c6569b6-f23e-4295-9b90-bd4cc4ff3292](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) |
 | [DevCenter Project Admin](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) | [331c37c6-af14-46d9-b9f4-e1909e1b95a0](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) |
@@ -639,6 +642,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Log Analytics Reader](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) | [73c42c96-874c-492b-b04d-ab87d138a893](roles/73c42c96-874c-492b-b04d-ab87d138a893.json) |
 | [Logic App Contributor](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) | [87a39d53-fc1b-424a-814c-f7e04687dc9e](roles/87a39d53-fc1b-424a-814c-f7e04687dc9e.json) |
 | [Logic App Operator](roles/515c2055-d9d4-4321-b1b9-bd0c9a0f79fe.json) | [515c2055-d9d4-4321-b1b9-bd0c9a0f79fe](roles/515c2055-d9d4-4321-b1b9-bd0c9a0f79fe.json) |
+| [Logic Apps Hybrid Contributor](roles/32109304-a0e2-4d64-bd07-b23ac5efbe43.json) | [32109304-a0e2-4d64-bd07-b23ac5efbe43](roles/32109304-a0e2-4d64-bd07-b23ac5efbe43.json) |
 | [Logic Apps Standard Contributor (Preview)](roles/ad710c24-b039-4e85-a019-deb4a06e8570.json) | [ad710c24-b039-4e85-a019-deb4a06e8570](roles/ad710c24-b039-4e85-a019-deb4a06e8570.json) |
 | [Logic Apps Standard Developer (Preview)](roles/523776ba-4eb2-4600-a3c8-f2dc93da4bdb.json) | [523776ba-4eb2-4600-a3c8-f2dc93da4bdb](roles/523776ba-4eb2-4600-a3c8-f2dc93da4bdb.json) |
 | [Logic Apps Standard Operator (Preview)](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) | [b70c96e9-66fe-4c09-b6e7-c98e69c98555](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) |

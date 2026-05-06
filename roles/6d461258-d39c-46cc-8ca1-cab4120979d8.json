@@ -1,0 +1,24 @@
+{
+  "Name": "Anyscale Platform Contributor Role",
+  "Id": "6d461258-d39c-46cc-8ca1-cab4120979d8",
+  "IsCustom": false,
+  "Description": "Grants read/write access to Anyscale Cloud and resources",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Anyscale.Platform/*/read",
+    "Anyscale.Platform/*/write",
+    "Anyscale.Platform/*/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Anyscale.Platform/*/read",
+    "Anyscale.Platform/*/write",
+    "Anyscale.Platform/*/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

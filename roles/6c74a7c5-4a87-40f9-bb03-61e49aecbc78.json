@@ -1,0 +1,22 @@
+{
+  "Name": "Semantic Reranker User",
+  "Id": "6c74a7c5-4a87-40f9-bb03-61e49aecbc78",
+  "IsCustom": false,
+  "Description": "Execute semantic reranking operations against registered inference accounts. This role should be assigned to users who need to run semantic reranking workloads but do not need to manage the accounts themselves.",
+  "Actions": [
+    "Microsoft.InferenceService/inferenceAccounts/read"
+  ],
+  "NotActions": [
+    "Microsoft.InferenceService/inferenceAccounts/write",
+    "Microsoft.InferenceService/inferenceAccounts/delete"
+  ],
+  "DataActions": [
+    "Microsoft.InferenceService/inferenceAccounts/invoke/semanticReranker/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

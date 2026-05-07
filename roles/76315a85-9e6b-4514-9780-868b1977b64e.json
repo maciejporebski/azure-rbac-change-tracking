@@ -1,0 +1,21 @@
+{
+  "Name": "Inference Account Owner",
+  "Id": "76315a85-9e6b-4514-9780-868b1977b64e",
+  "IsCustom": false,
+  "Description": "Create, read, modify, and delete inference accounts; as well as running inference workloads against those accounts. This role should be assigned to users who need full management capabilities over inference accounts, including the ability to run workloads.",
+  "Actions": [
+    "Microsoft.InferenceService/inferenceAccounts/write",
+    "Microsoft.InferenceService/inferenceAccounts/read",
+    "Microsoft.InferenceService/inferenceAccounts/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.InferenceService/inferenceAccounts/invoke/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

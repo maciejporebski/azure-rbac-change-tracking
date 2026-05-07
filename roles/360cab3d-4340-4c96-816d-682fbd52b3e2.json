@@ -1,0 +1,21 @@
+{
+  "Name": "Inference Account Operator",
+  "Id": "360cab3d-4340-4c96-816d-682fbd52b3e2",
+  "IsCustom": false,
+  "Description": "Create, read, modify, and delete inference accounts. This role should be assigned to users who can only manage inference accounts but can't perform inference operations.",
+  "Actions": [
+    "Microsoft.InferenceService/inferenceAccounts/write",
+    "Microsoft.InferenceService/inferenceAccounts/read",
+    "Microsoft.InferenceService/inferenceAccounts/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [
+    "Microsoft.InferenceService/inferenceAccounts/invoke/*"
+  ],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -377,7 +377,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Apps ManagedEnvironments Contributor](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) | [57cc5028-e6a7-4284-868d-0611c5923f8d](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) |
 | [Container Apps ManagedEnvironments Reader](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) | [1b32c00b-7eff-4c22-93e6-93d11d72d2d8](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) |
 | [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
-| [Container Apps SandboxGroup Data Owner](roles/c24cf47c-5077-412d-a19c-45202126392c.json) | [c24cf47c-5077-412d-a19c-45202126392c](roles/c24cf47c-5077-412d-a19c-45202126392c.json) |
 | [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
 | [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |
 | [Container Registry Cache Rule Administrator](roles/df87f177-bb12-4db1-9793-a413691eff94.json) | [df87f177-bb12-4db1-9793-a413691eff94](roles/df87f177-bb12-4db1-9793-a413691eff94.json) |
@@ -472,6 +471,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Desktop Virtualization Virtual Machine Contributor](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) | [a959dbd1-f747-45e3-8ba6-dd80f235f97c](roles/a959dbd1-f747-45e3-8ba6-dd80f235f97c.json) |
 | [Desktop Virtualization Workspace Contributor](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) | [21efdde3-836f-432b-bf3d-3e8e734d4b2b](roles/21efdde3-836f-432b-bf3d-3e8e734d4b2b.json) |
 | [Desktop Virtualization Workspace Reader](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) | [0fa44ee9-7a7d-466b-9bb2-2bf446b1204d](roles/0fa44ee9-7a7d-466b-9bb2-2bf446b1204d.json) |
+| [Dev Compute SandboxGroup Data Owner](roles/c24cf47c-5077-412d-a19c-45202126392c.json) | [c24cf47c-5077-412d-a19c-45202126392c](roles/c24cf47c-5077-412d-a19c-45202126392c.json) |
 | [DevCenter Dev Box User](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) | [45d50f46-0b78-4001-a660-4198cbe8cd05](roles/45d50f46-0b78-4001-a660-4198cbe8cd05.json) |
 | [DevCenter Owner](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) | [4c6569b6-f23e-4295-9b90-bd4cc4ff3292](roles/4c6569b6-f23e-4295-9b90-bd4cc4ff3292.json) |
 | [DevCenter Project Admin](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) | [331c37c6-af14-46d9-b9f4-e1909e1b95a0](roles/331c37c6-af14-46d9-b9f4-e1909e1b95a0.json) |
@@ -583,8 +583,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Hybrid Server Resource Administrator](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) | [48b40c6e-82e0-4eb3-90d5-19e40f49b624](roles/48b40c6e-82e0-4eb3-90d5-19e40f49b624.json) |
 | [HybridCompute Machine ListAccessDetails Action In-Built Role](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) | [e9701b4d-e6e7-4657-91cd-360a0881d224](roles/e9701b4d-e6e7-4657-91cd-360a0881d224.json) |
 | [Impact Reader](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) | [68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e](roles/68ff5d27-c7f5-4fa9-a21c-785d0df7bd9e.json) |
-| [Inference Account Operator](roles/360cab3d-4340-4c96-816d-682fbd52b3e2.json) | [360cab3d-4340-4c96-816d-682fbd52b3e2](roles/360cab3d-4340-4c96-816d-682fbd52b3e2.json) |
-| [Inference Account Owner](roles/76315a85-9e6b-4514-9780-868b1977b64e.json) | [76315a85-9e6b-4514-9780-868b1977b64e](roles/76315a85-9e6b-4514-9780-868b1977b64e.json) |
 | [Informatica DataManagement Contributor role](roles/2e481b5d-5af3-463b-8b01-f9c948aaf0c5.json) | [2e481b5d-5af3-463b-8b01-f9c948aaf0c5](roles/2e481b5d-5af3-463b-8b01-f9c948aaf0c5.json) |
 | [Integration Service Environment Contributor](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) | [a41e2c5b-bd99-4a07-88f4-9bf657a760b8](roles/a41e2c5b-bd99-4a07-88f4-9bf657a760b8.json) |
 | [Integration Service Environment Developer](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) | [c7aa55d3-1abb-444a-a5ca-5e51e485d6ec](roles/c7aa55d3-1abb-444a-a5ca-5e51e485d6ec.json) |
@@ -775,7 +773,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Security Detonation Chamber Submitter](roles/0b555d9b-b4a7-4f43-b330-627f0e5be8f0.json) | [0b555d9b-b4a7-4f43-b330-627f0e5be8f0](roles/0b555d9b-b4a7-4f43-b330-627f0e5be8f0.json) |
 | [Security Manager (Legacy)](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) | [e3d13bf0-dd5a-482e-ba6b-9b8433878d10](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) |
 | [Security Reader](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) | [39bc4728-0917-49c7-9d2c-d95423bc2eb4](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) |
-| [Semantic Reranker User](roles/6c74a7c5-4a87-40f9-bb03-61e49aecbc78.json) | [6c74a7c5-4a87-40f9-bb03-61e49aecbc78](roles/6c74a7c5-4a87-40f9-bb03-61e49aecbc78.json) |
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
 | [Service Fabric Cluster Contributor](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) | [b6efc156-f0da-4e90-a50a-8c000140b017](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) |
 | [Service Fabric Managed Cluster Contributor](roles/83f80186-3729-438c-ad2d-39e94d718838.json) | [83f80186-3729-438c-ad2d-39e94d718838](roles/83f80186-3729-438c-ad2d-39e94d718838.json) |

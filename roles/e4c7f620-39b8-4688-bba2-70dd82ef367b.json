@@ -5,6 +5,7 @@
   "Description": "This role should be assigned at the Service Group Members scope to enable resource read access, manage role assignments, and configure chaos targets and capabilities for fault injection, failover, and other post-fault actions",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete",
     "*/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Chaos/locations/targetTypes/capabilityTypes/read",

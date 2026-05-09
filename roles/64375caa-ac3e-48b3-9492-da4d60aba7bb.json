@@ -2,11 +2,14 @@
   "Name": "Diagnostics Operator",
   "Id": "64375caa-ac3e-48b3-9492-da4d60aba7bb",
   "IsCustom": false,
-  "Description": "Role allows users to collect diagnostic information regarding their Virtual Machine",
+  "Description": "Collect diagnostic information regarding Virtual Machine and Virtual Machine Scale Sets",
   "Actions": [
     "Microsoft.Compute/virtualMachines/DiagnosticRunCommands/write",
     "Microsoft.Compute/virtualMachines/DiagnosticRunCommands/read",
-    "Microsoft.Compute/virtualMachines/DiagnosticRunCommands/delete"
+    "Microsoft.Compute/virtualMachines/DiagnosticRunCommands/delete",
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/DiagnosticRunCommands/write",
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/DiagnosticRunCommands/read",
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/DiagnosticRunCommands/delete"
   ],
   "NotActions": [],
   "DataActions": [],

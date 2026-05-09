@@ -1,0 +1,22 @@
+{
+  "Name": "Cognitive Services Content Understanding Owner",
+  "Id": "4b42bd01-da42-4c92-9b07-15ea5bd6a602",
+  "IsCustom": false,
+  "Description": "Has full access to all Azure AI Content Understanding operations including read, create, update, delete, analyze, and test. Can manage all analyzers, classifiers, labeling projects, and person directories.",
+  "Actions": [
+    "Microsoft.CognitiveServices/*/read",
+    "Microsoft.CognitiveServices/accounts/listkeys/action",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/MultiModalIntelligence/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

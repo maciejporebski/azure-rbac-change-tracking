@@ -5,7 +5,6 @@
   "Description": "Administrator Role of Azure Resilience Management Drills Service",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/write",
-    "Microsoft.Authorization/roleAssignments/delete",
     "Microsoft.Authorization/*/read",
     "Microsoft.AzureResilienceManagement/drills/*/action",
     "Microsoft.AzureResilienceManagement/drills/*/delete",

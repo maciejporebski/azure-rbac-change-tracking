@@ -13,9 +13,7 @@
     "Microsoft.HybridConnectivity/solutionConfigurations/delete",
     "Microsoft.HybridConnectivity/solutionConfigurations/read",
     "Microsoft.HybridConnectivity/solutionConfigurations/syncNow/action",
-    "Microsoft.HybridConnectivity/solutionConfigurations/write",
-    "Microsoft.HybridConnectivity/GenerateAWSTemplate/action",
-    "Microsoft.HybridConnectivity/GenerateGCPTemplate/action"
+    "Microsoft.HybridConnectivity/solutionConfigurations/write"
   ],
   "NotActions": [],
   "DataActions": [],

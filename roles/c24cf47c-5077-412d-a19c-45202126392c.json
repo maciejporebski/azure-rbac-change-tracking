@@ -1,8 +1,8 @@
 {
-  "Name": "Dev Compute SandboxGroup Data Owner",
+  "Name": "Container Apps SandboxGroup Data Owner",
   "Id": "c24cf47c-5077-412d-a19c-45202126392c",
   "IsCustom": false,
-  "Description": "Ownership of all SandboxGroup data.",
+  "Description": "Ownership of all Container Apps SandboxGroup data.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

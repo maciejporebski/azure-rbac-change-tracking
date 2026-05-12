@@ -5,6 +5,7 @@
   "Description": "This Role grants permissions on the Chaos Subscription to create, read, and delete Resource Groups, Automation Accounts, and Chaos Experiments, and assigns necessary roles to Drill and Chaos MSIs for executing post actions required by Azure Resilience Management Drills.",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete",
     "Microsoft.Authorization/*/read",
     "Microsoft.Automation/automationAccounts/delete",
     "Microsoft.Automation/automationAccounts/read",
@@ -12,6 +13,7 @@
     "Microsoft.Automation/automationAccounts/runbooks/delete",
     "Microsoft.Automation/automationAccounts/runbooks/read",
     "Microsoft.Automation/automationAccounts/runbooks/write",
+    "Microsoft.Automation/register/action",
     "Microsoft.Chaos/experiments/delete",
     "Microsoft.Chaos/experiments/read",
     "Microsoft.Chaos/experiments/write",
@@ -32,6 +34,7 @@
     "Microsoft.Chaos/workspaces/scenarios/configurations/execute/action",
     "Microsoft.Chaos/workspaces/scenarios/configurations/validate/action",
     "Microsoft.Chaos/workspaces/scenarios/runs/read",
+    "Microsoft.Chaos/register/action",
     "Microsoft.Insights/dataCollectionEndpoints/read",
     "Microsoft.Insights/dataCollectionEndpoints/write",
     "Microsoft.Insights/dataCollectionRules/read",
@@ -41,6 +44,7 @@
     "Microsoft.OperationalInsights/workspaces/tables/write",
     "Microsoft.OperationalInsights/workspaces/read",
     "Microsoft.OperationalInsights/workspaces/write",
+    "Microsoft.OperationalInsights/register/action",
     "Microsoft.Resources/subscriptions/resourceGroups/delete",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Resources/subscriptions/resourceGroups/write"

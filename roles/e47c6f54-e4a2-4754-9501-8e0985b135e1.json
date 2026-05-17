@@ -1,8 +1,8 @@
 {
-  "Name": "Foundry Account Owner",
+  "Name": "Azure AI Account Owner",
   "Id": "e47c6f54-e4a2-4754-9501-8e0985b135e1",
   "IsCustom": false,
-  "Description": "Grants full access to manage Foundry projects and accounts. Grants conditional assignment of the Foundry User role to other user principles.",
+  "Description": "Grants full access to manage AI projects and accounts. Grants conditional assignment of the Azure AI User role to other user principles.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Authorization/roleAssignments/write",

@@ -67,11 +67,14 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AVS Orchestrator Role](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) | [d715fb95-a0f0-4f1c-8be6-5ad2d2767f67](roles/d715fb95-a0f0-4f1c-8be6-5ad2d2767f67.json) |
 | [Aws Connector contributor role](roles/98c206fe-ea1b-4578-93f8-83a99a5628fc.json) | [98c206fe-ea1b-4578-93f8-83a99a5628fc](roles/98c206fe-ea1b-4578-93f8-83a99a5628fc.json) |
 | [Azure Advisor Service Role](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) | [69a41f41-6dce-4ea7-8a34-8e095ddba55c](roles/69a41f41-6dce-4ea7-8a34-8e095ddba55c.json) |
+| [Azure AI Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
 | [Azure AI Administrator](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) | [b78c5d69-af96-48a3-bf8d-a8b4d589de94](roles/b78c5d69-af96-48a3-bf8d-a8b4d589de94.json) |
 | [Azure AI Developer](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) | [64702f94-c441-49e6-a78b-ef80e0188fee](roles/64702f94-c441-49e6-a78b-ef80e0188fee.json) |
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure AI Owner](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) | [c883944f-8b7b-4483-af10-35834be79c4a](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) |
+| [Azure AI Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure API Center Compliance Manager](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) | [ede9aaa3-4627-494e-be13-4aa7c256148d](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) |
 | [Azure API Center Credential Access Reader](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) | [1df7cd83-1d3f-41df-95b0-53b30d963369](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) |
@@ -542,9 +545,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Firmware Analysis Reader](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) | [2a94a2fd-3c4f-45d1-847d-6585ba88af94](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) |
 | [Firmware Analysis User](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) | [53b2724d-1e51-44fa-b586-bcace0c82609](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) |
 | [Flux Configurations Contributor](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) | [61eb6405-5f4a-440b-ad03-fe06c5c85e44](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) |
-| [Foundry Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
-| [Foundry Owner](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) | [c883944f-8b7b-4483-af10-35834be79c4a](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) |
-| [Foundry Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
 | [Foundry User](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) | [53ca6127-db72-4b80-b1b0-d745d6d5456d](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) |
 | [Garnet Data Contributor](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) | [1694e55a-2496-4d07-b005-7259aa3fcbe8](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) |
 | [Garnet Data Owner](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) | [04f6c337-ffae-414c-b00f-3e80c9ab8a2c](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) |

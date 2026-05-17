@@ -1,8 +1,8 @@
 {
-  "Name": "Foundry Owner",
+  "Name": "Azure AI Owner",
   "Id": "c883944f-8b7b-4483-af10-35834be79c4a",
   "IsCustom": false,
-  "Description": "Grants full to manage Foundry project and accounts. Grants reader access to Foundry projects, reader access to Foundry accounts, and data actions for a Foundry project.",
+  "Description": "Grants full to manage AI project and accounts. Grants reader access to AI projects, reader access to AI accounts, and data actions for an AI project.",
   "Actions": [
     "Microsoft.AlertsManagement/actionRules/*",
     "Microsoft.AlertsManagement/alerts/*",

@@ -1,8 +1,8 @@
 {
-  "Name": "Foundry Project Manager",
+  "Name": "Azure AI Project Manager",
   "Id": "eadc314b-1a2d-4efa-be10-5d325db5065e",
   "IsCustom": false,
-  "Description": "Lets you perform developer actions and management actions on Microsoft Foundry Projects. Allows for making role assignments, but limited to Cognitive Service User role.",
+  "Description": "Lets you perform developer actions and management actions on Azure AI Foundry Projects. Allows for making role assignments, but limited to Cognitive Service User role.",
   "Actions": [
     "Microsoft.Authorization/roleAssignments/write",
     "Microsoft.Authorization/roleAssignments/delete",

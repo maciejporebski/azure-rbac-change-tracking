@@ -2,7 +2,7 @@
   "Name": "Azure AI Developer",
   "Id": "64702f94-c441-49e6-a78b-ef80e0188fee",
   "IsCustom": false,
-  "Description": "Can perform all actions within an Azure AI resource besides managing the resource itself.",
+  "Description": "Can perform all actions within an Azure Machine Learning workspace besides managing the workspace itself. For Foundry project access, use the Foundry User or Foundry Owner roles instead.",
   "Actions": [
     "Microsoft.MachineLearningServices/workspaces/*/read",
     "Microsoft.MachineLearningServices/workspaces/*/action",

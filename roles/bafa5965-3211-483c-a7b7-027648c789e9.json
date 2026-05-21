@@ -1,0 +1,26 @@
+{
+  "Name": "Azure NetApp Files Reader",
+  "Id": "bafa5965-3211-483c-a7b7-027648c789e9",
+  "IsCustom": false,
+  "Description": "Allows read-only discovery operations for Azure NetApp Files resources",
+  "Actions": [
+    "Microsoft.NetApp/*/read",
+    "Microsoft.NetApp/locations/checkfilepathavailability/action",
+    "Microsoft.NetApp/locations/checknameavailability/action",
+    "Microsoft.NetApp/locations/checkquotaavailability/action",
+    "Microsoft.NetApp/locations/queryNetworkSiblingSet/action",
+    "Microsoft.NetApp/netAppAccounts/getKeyVaultStatus/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/listQuotaReport/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/listReplications/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/getGroupIdListForLdapUser/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/getMetadata/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

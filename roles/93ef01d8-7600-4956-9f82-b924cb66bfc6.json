@@ -1,0 +1,26 @@
+{
+  "Name": "Connector Namespace Developer",
+  "Id": "93ef01d8-7600-4956-9f82-b924cb66bfc6",
+  "IsCustom": false,
+  "Description": "You can create and manage connections, custom connectors, MCP server configurations, and trigger configurations within an existing Connector Namespace. You can't create, modify, or delete the Connector Namespace itself.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/operations/read",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Web/connectorGateways/read",
+    "Microsoft.Web/connectorGateways/connections/*",
+    "Microsoft.Web/connectorGateways/customConnectors/*",
+    "Microsoft.Web/connectorGateways/mcpserverconfigs/*",
+    "Microsoft.Web/connectorGateways/triggerconfigs/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

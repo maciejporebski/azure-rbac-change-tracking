@@ -1,0 +1,17 @@
+{
+  "Name": "Pure Storage Cloud VM Volume Group Owner",
+  "Id": "c9ba051b-aad6-42fd-92dc-e48780abee75",
+  "IsCustom": false,
+  "Description": "To manage anything within the volume group resource.",
+  "Actions": [
+    "PureStorage.Block/storagePools/volumeGroups/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

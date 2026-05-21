@@ -1,0 +1,19 @@
+{
+  "Name": "Connector Namespace Reader",
+  "Id": "5d0402fa-1042-4603-9e01-7fea218a05af",
+  "IsCustom": false,
+  "Description": "You have read-only access to all resources in a Connector Namespace and its sub-resources, including their configurations.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Web/connectorGateways/read",
+    "Microsoft.Web/connectorGateways/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

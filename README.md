@@ -204,7 +204,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Monitor Pipeline Contributor](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) | [679dc20a-52e8-4ac0-a23c-3b557dfb1e24](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) |
 | [Azure Monitor Pipeline Reader](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) | [2d50f159-7b96-4f1e-8fc7-fee6957ab7cc](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) |
 | [Azure Native Dynatrace Agent Management Role](roles/55077723-1b30-4603-a70b-68de134cfa20.json) | [55077723-1b30-4603-a70b-68de134cfa20](roles/55077723-1b30-4603-a70b-68de134cfa20.json) |
-| [Azure NetApp Files Reader](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) | [bafa5965-3211-483c-a7b7-027648c789e9](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure Red Hat OpenShift Cloud Controller Manager](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |
@@ -366,9 +365,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Confidential Ledger Data Contributor](roles/f1641a58-a144-402b-baf9-39d1a4c10119.json) | [f1641a58-a144-402b-baf9-39d1a4c10119](roles/f1641a58-a144-402b-baf9-39d1a4c10119.json) |
 | [Confidential Ledger Data Reader](roles/4f1e6fca-3fde-4291-961e-642def6d5e1d.json) | [4f1e6fca-3fde-4291-961e-642def6d5e1d](roles/4f1e6fca-3fde-4291-961e-642def6d5e1d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |
-| [Connector Namespace Contributor](roles/e7560e73-ee25-4ed7-94f9-666cca24b501.json) | [e7560e73-ee25-4ed7-94f9-666cca24b501](roles/e7560e73-ee25-4ed7-94f9-666cca24b501.json) |
-| [Connector Namespace Developer](roles/93ef01d8-7600-4956-9f82-b924cb66bfc6.json) | [93ef01d8-7600-4956-9f82-b924cb66bfc6](roles/93ef01d8-7600-4956-9f82-b924cb66bfc6.json) |
-| [Connector Namespace Reader](roles/5d0402fa-1042-4603-9e01-7fea218a05af.json) | [5d0402fa-1042-4603-9e01-7fea218a05af](roles/5d0402fa-1042-4603-9e01-7fea218a05af.json) |
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
 | [Connector Writer](roles/c459b115-f629-486b-b359-35feb5568b83.json) | [c459b115-f629-486b-b359-35feb5568b83](roles/c459b115-f629-486b-b359-35feb5568b83.json) |
 | [Container Apps ConnectedEnvironments Contributor](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) | [6f4fe6fc-f04f-4d97-8528-8bc18c848dca](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) |
@@ -747,7 +743,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [ProviderHub Contributor](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) | [a3ab03bc-5350-42ff-b0d5-00207672db55](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) |
 | [ProviderHub Reader](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) | [4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) |
 | [Pure Storage Cloud VM Volume Group Mount Reader](roles/a2425b74-61f3-4bff-97cb-d0e3bc906777.json) | [a2425b74-61f3-4bff-97cb-d0e3bc906777](roles/a2425b74-61f3-4bff-97cb-d0e3bc906777.json) |
-| [Pure Storage Cloud VM Volume Group Owner](roles/c9ba051b-aad6-42fd-92dc-e48780abee75.json) | [c9ba051b-aad6-42fd-92dc-e48780abee75](roles/c9ba051b-aad6-42fd-92dc-e48780abee75.json) |
 | [Purview role 1 (Deprecated)](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) | [8a3c2885-9b38-4fd2-9d99-91af537c1347](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) |
 | [Purview role 2 (Deprecated)](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) | [200bba9e-f0c8-430f-892b-6f0794863803](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) |
 | [Purview role 3 (Deprecated)](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) | [ff100721-1b9d-43d8-af52-42b69c1272db](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) |

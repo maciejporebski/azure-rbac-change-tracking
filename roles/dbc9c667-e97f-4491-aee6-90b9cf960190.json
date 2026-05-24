@@ -1,0 +1,22 @@
+{
+  "Name": "Privileged Monitoring Data Reader",
+  "Id": "dbc9c667-e97f-4491-aee6-90b9cf960190",
+  "IsCustom": false,
+  "Description": "Privileged Monitoring Data Reader can query and search the logs it is allowed to view over Log Analytics workspaces and tables, including protected tables",
+  "Actions": [
+    "Microsoft.OperationalInsights/workspaces/query/read",
+    "Microsoft.OperationalInsights/workspaces/read",
+    "Microsoft.Insights/Logs/Read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.OperationalInsights/workspaces/tables/data/read",
+    "Microsoft.Insights/logs/data/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": "((!(ActionMatches{'Microsoft.OperationalInsights/workspaces/tables/data/read'})) OR (@Resource[Microsoft.OperationalInsights/workspaces/tables:protectionLevel] ForAllOfAnyValues:StringEquals {'General', 'Protected'})) AND ((!(ActionMatches{'Microsoft.Insights/logs/data/read'})) OR (@Resource[Microsoft.Insights/logs/tables:protectionLevel] ForAllOfAnyValues:StringEquals {'General', 'Protected'}))",
+  "ConditionVersion": "2.0"
+}

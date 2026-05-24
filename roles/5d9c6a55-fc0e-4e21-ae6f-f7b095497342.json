@@ -7,6 +7,8 @@
     "Microsoft.AzureArcData/*/read",
     "Microsoft.AzureArcData/sqlServerInstances/getTelemetry/action",
     "Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/getDetailView/action",
+    "Microsoft.AzureArcData/sqlServerInstances/getBestPracticesAssessment/action",
+    "Microsoft.AzureArcData/sqlServerInstances/getJobsStatus/action",
     "Microsoft.HybridCompute/machines/read",
     "Microsoft.HybridCompute/machines/extensions/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"

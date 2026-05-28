@@ -397,6 +397,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Registry Tasks Contributor](roles/fb382eab-e894-4461-af04-94435c366c3f.json) | [fb382eab-e894-4461-af04-94435c366c3f](roles/fb382eab-e894-4461-af04-94435c366c3f.json) |
 | [Container Registry Transfer Pipeline Contributor](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) | [bf94e731-3a51-4a7c-8c54-a1ab9971dfc1](roles/bf94e731-3a51-4a7c-8c54-a1ab9971dfc1.json) |
 | [ContainerApp Reader](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) | [ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b](roles/ad2dd5fb-cd4b-4fd4-a9b6-4fed3630980b.json) |
+| [Context Cache Administrator](roles/b0ffeab8-d678-4570-b532-ce96bf97b032.json) | [b0ffeab8-d678-4570-b532-ce96bf97b032](roles/b0ffeab8-d678-4570-b532-ce96bf97b032.json) |
+| [Context Cache Container Contributor](roles/646a9378-973f-42fd-927f-62d1c4381f50.json) | [646a9378-973f-42fd-927f-62d1c4381f50](roles/646a9378-973f-42fd-927f-62d1c4381f50.json) |
 | [Contributor](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) | [b24988ac-6180-42a0-ab88-20f7382dd24c](roles/b24988ac-6180-42a0-ab88-20f7382dd24c.json) |
 | [Conversation Session User](roles/b3eb788f-5426-48bd-821d-561701ede368.json) | [b3eb788f-5426-48bd-821d-561701ede368](roles/b3eb788f-5426-48bd-821d-561701ede368.json) |
 | [Cosmos DB Account Reader Role](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) | [fbdf93bf-df7d-467e-a4d2-9458aa1360c8](roles/fbdf93bf-df7d-467e-a4d2-9458aa1360c8.json) |

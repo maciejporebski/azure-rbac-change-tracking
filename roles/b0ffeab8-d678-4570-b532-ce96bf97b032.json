@@ -1,0 +1,21 @@
+{
+  "Name": "Context Cache Administrator",
+  "Id": "b0ffeab8-d678-4570-b532-ce96bf97b032",
+  "IsCustom": false,
+  "Description": "Provides full to manage all Azure Context Cache resources. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.AzureContextCache/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

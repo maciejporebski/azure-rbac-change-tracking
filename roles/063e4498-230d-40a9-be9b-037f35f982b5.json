@@ -1,0 +1,21 @@
+{
+  "Name": "Azure Notebooks NotebookProxy Contributor",
+  "Id": "063e4498-230d-40a9-be9b-037f35f982b5",
+  "IsCustom": false,
+  "Description": "Can create, read, update, delete NotebookProxy resources and manage their credentials under Microsoft.Notebooks.",
+  "Actions": [
+    "Microsoft.Notebooks/NotebookProxies/write",
+    "Microsoft.Notebooks/NotebookProxies/read",
+    "Microsoft.Notebooks/NotebookProxies/delete",
+    "Microsoft.Notebooks/NotebookProxies/listCredentials/action",
+    "Microsoft.Notebooks/NotebookProxies/rotateCredentials/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

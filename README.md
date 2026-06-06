@@ -205,7 +205,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Monitor Pipeline Reader](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) | [2d50f159-7b96-4f1e-8fc7-fee6957ab7cc](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) |
 | [Azure Native Dynatrace Agent Management Role](roles/55077723-1b30-4603-a70b-68de134cfa20.json) | [55077723-1b30-4603-a70b-68de134cfa20](roles/55077723-1b30-4603-a70b-68de134cfa20.json) |
 | [Azure NetApp Files Reader](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) | [bafa5965-3211-483c-a7b7-027648c789e9](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) |
-| [Azure Notebooks NotebookProxy Contributor](roles/063e4498-230d-40a9-be9b-037f35f982b5.json) | [063e4498-230d-40a9-be9b-037f35f982b5](roles/063e4498-230d-40a9-be9b-037f35f982b5.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |
 | [Azure Red Hat OpenShift Cloud Controller Manager](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) | [a1f96423-95ce-4224-ab27-4e3dc72facd4](roles/a1f96423-95ce-4224-ab27-4e3dc72facd4.json) |

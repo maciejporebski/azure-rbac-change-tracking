@@ -1,0 +1,20 @@
+{
+  "Name": "Azure AIManager User",
+  "Id": "223653d0-bf85-419e-ac7a-a67edf5fc44b",
+  "IsCustom": false,
+  "Description": "Grants read access to Azure resources provided by Kubernetes AI Manager, including aimanagers, deployments, namespace, etc.",
+  "Actions": [
+    "Microsoft.ContainerService/aiManagers/listCredential/action",
+    "Microsoft.ContainerService/aiManagers/namespaces/listCredential/action",
+    "Microsoft.ContainerService/aiManagers/read",
+    "Microsoft.ContainerService/aiManagers/*/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

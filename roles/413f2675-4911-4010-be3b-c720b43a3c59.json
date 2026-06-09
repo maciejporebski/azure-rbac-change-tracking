@@ -1,0 +1,21 @@
+{
+  "Name": "Azure AIManager Contributor",
+  "Id": "413f2675-4911-4010-be3b-c720b43a3c59",
+  "IsCustom": false,
+  "Description": "Grants read/write access to Azure resources provided by Kubernetes AI Manager, including aimanagers, deployments, namespace, etc.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.ContainerService/aiManagers/*",
+    "Microsoft.Resources/deployments/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

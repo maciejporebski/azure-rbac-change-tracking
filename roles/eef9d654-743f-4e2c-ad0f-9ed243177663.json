@@ -17,16 +17,7 @@
     "Microsoft.Synapse/workspaces/securityAlertPolicies/write",
     "Microsoft.Sql/servers/vulnerabilityAssessments/read",
     "Microsoft.Synapse/workspaces/vulnerabilityAssessments/read",
-    "Microsoft.Sql/managedInstances/vulnerabilityAssessments/read",
-    "Microsoft.Sql/servers/sqlVulnerabilityAssessments/delete",
-    "Microsoft.Sql/servers/advancedThreatProtectionSettings/read",
-    "Microsoft.Sql/servers/advancedThreatProtectionSettings/write",
-    "Microsoft.Sql/managedInstances/advancedThreatProtectionSettings/write",
-    "Microsoft.Sql/managedInstances/advancedThreatProtectionSettings/read",
-    "Microsoft.Sql/managedInstances/vulnerabilityAssessments/write",
-    "Microsoft.Sql/managedInstances/vulnerabilityAssessments/delete",
-    "Microsoft.Security/SqlVulnerabilityAssessments/read",
-    "Microsoft.Security/SqlVulnerabilityAssessments/write"
+    "Microsoft.Sql/managedInstances/vulnerabilityAssessments/read"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -1,0 +1,20 @@
+{
+  "Name": "Azure NetApp Files Administrator",
+  "Id": "f5db7409-a2c6-4d0c-8cf4-412ac01a38df",
+  "IsCustom": false,
+  "Description": "Allows full administrative access to Azure NetApp Files operations",
+  "Actions": [
+    "Microsoft.NetApp/*/read",
+    "Microsoft.NetApp/*/write",
+    "Microsoft.NetApp/*/delete",
+    "Microsoft.NetApp/*/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

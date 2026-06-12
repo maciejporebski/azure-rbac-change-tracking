@@ -35,6 +35,6 @@
   "AssignableScopes": [
     "/"
   ],
-  "Condition": "((!(ActionMatches{'Microsoft.Authorization/roleAssignments/write'})) OR (@Request[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40, d5a91429-5739-47e2-a06b-3470a27159e7})) AND ((!(ActionMatches{'Microsoft.Authorization/roleAssignments/delete'})) OR (@Resource[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40, d5a91429-5739-47e2-a06b-3470a27159e7}))",
+  "Condition": "((!(ActionMatches{'Microsoft.Authorization/roleAssignments/write'})) OR (@Request[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40, d5a91429-5739-47e2-a06b-3470a27159e7, cd50fd1f-0421-46f2-8cce-afc587dbcc77, c6c9b2d8-9a5e-4122-85e1-81612a046ab2})) AND ((!(ActionMatches{'Microsoft.Authorization/roleAssignments/delete'})) OR (@Resource[Microsoft.Authorization/roleAssignments:RoleDefinitionId] ForAnyOfAnyValues:GuidEquals{1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40, d5a91429-5739-47e2-a06b-3470a27159e7, cd50fd1f-0421-46f2-8cce-afc587dbcc77, c6c9b2d8-9a5e-4122-85e1-81612a046ab2}))",
   "ConditionVersion": "2.0"
 }

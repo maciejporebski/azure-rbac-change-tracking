@@ -1,0 +1,19 @@
+{
+  "Name": "Advisor Recommendations Contributor",
+  "Id": "f680209a-a2a2-4e0d-aa81-5d2a65c13604",
+  "IsCustom": false,
+  "Description": "View assessment recommendations, accepted review recommendations, and manage the recommendations lifecycle (mark recommendations as completed, postponed or dismissed, in progress, or not started).",
+  "Actions": [
+    "Microsoft.Advisor/recommendations/read",
+    "Microsoft.Advisor/recommendations/write",
+    "Microsoft.Advisor/recommendations/available/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

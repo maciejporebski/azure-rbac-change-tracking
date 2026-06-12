@@ -1,0 +1,17 @@
+{
+  "Name": "Foundry Project Runtime User",
+  "Id": "142bfaed-a13f-4c2d-bed2-6db62c4a1009",
+  "IsCustom": false,
+  "Description": "Allows interacting with Foundry agents at runtime with minimal required permissions.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CognitiveServices/accounts/AIServices/responses/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

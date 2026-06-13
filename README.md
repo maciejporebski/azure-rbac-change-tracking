@@ -10,7 +10,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AcrPush](roles/8311e382-0749-4cb8-b61a-304f252e45ec.json) | [8311e382-0749-4cb8-b61a-304f252e45ec](roles/8311e382-0749-4cb8-b61a-304f252e45ec.json) |
 | [AcrQuarantineReader](roles/cdda3590-29a3-44f6-95f2-9f980659eb04.json) | [cdda3590-29a3-44f6-95f2-9f980659eb04](roles/cdda3590-29a3-44f6-95f2-9f980659eb04.json) |
 | [AcrQuarantineWriter](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) | [c8d4ff99-41c3-41a8-9f60-21dfdad59608](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) |
-| [Advisor Recommendations Contributor](roles/f680209a-a2a2-4e0d-aa81-5d2a65c13604.json) | [f680209a-a2a2-4e0d-aa81-5d2a65c13604](roles/f680209a-a2a2-4e0d-aa81-5d2a65c13604.json) |
 | [Advisor Recommendations Contributor (Assessments and Reviews)](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) | [6b534d80-e337-47c4-864f-140f5c7f593d](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) |
 | [Advisor Reviews Contributor](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) | [8aac15f0-d885-4138-8afa-bfb5872f7d13](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) |
 | [Advisor Reviews Reader](roles/c64499e0-74c3-47ad-921c-13865957895c.json) | [c64499e0-74c3-47ad-921c-13865957895c](roles/c64499e0-74c3-47ad-921c-13865957895c.json) |
@@ -208,7 +207,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Monitor Pipeline Contributor](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) | [679dc20a-52e8-4ac0-a23c-3b557dfb1e24](roles/679dc20a-52e8-4ac0-a23c-3b557dfb1e24.json) |
 | [Azure Monitor Pipeline Reader](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) | [2d50f159-7b96-4f1e-8fc7-fee6957ab7cc](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) |
 | [Azure Native Dynatrace Agent Management Role](roles/55077723-1b30-4603-a70b-68de134cfa20.json) | [55077723-1b30-4603-a70b-68de134cfa20](roles/55077723-1b30-4603-a70b-68de134cfa20.json) |
-| [Azure NetApp Files Administrator](roles/f5db7409-a2c6-4d0c-8cf4-412ac01a38df.json) | [f5db7409-a2c6-4d0c-8cf4-412ac01a38df](roles/f5db7409-a2c6-4d0c-8cf4-412ac01a38df.json) |
 | [Azure NetApp Files Reader](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) | [bafa5965-3211-483c-a7b7-027648c789e9](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) |
 | [Azure Notebooks NotebookProxy Contributor](roles/063e4498-230d-40a9-be9b-037f35f982b5.json) | [063e4498-230d-40a9-be9b-037f35f982b5](roles/063e4498-230d-40a9-be9b-037f35f982b5.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
@@ -555,10 +553,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Firmware Analysis User](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) | [53b2724d-1e51-44fa-b586-bcace0c82609](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) |
 | [Flux Configurations Contributor](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) | [61eb6405-5f4a-440b-ad03-fe06c5c85e44](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) |
 | [Foundry Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
-| [Foundry Agent Consumer](roles/eed3b665-ab3a-47b6-8f48-c9382fb1dad6.json) | [eed3b665-ab3a-47b6-8f48-c9382fb1dad6](roles/eed3b665-ab3a-47b6-8f48-c9382fb1dad6.json) |
 | [Foundry Owner](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) | [c883944f-8b7b-4483-af10-35834be79c4a](roles/c883944f-8b7b-4483-af10-35834be79c4a.json) |
 | [Foundry Project Manager](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) | [eadc314b-1a2d-4efa-be10-5d325db5065e](roles/eadc314b-1a2d-4efa-be10-5d325db5065e.json) |
-| [Foundry Project Runtime User](roles/142bfaed-a13f-4c2d-bed2-6db62c4a1009.json) | [142bfaed-a13f-4c2d-bed2-6db62c4a1009](roles/142bfaed-a13f-4c2d-bed2-6db62c4a1009.json) |
 | [Foundry User](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) | [53ca6127-db72-4b80-b1b0-d745d6d5456d](roles/53ca6127-db72-4b80-b1b0-d745d6d5456d.json) |
 | [Garnet Data Contributor](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) | [1694e55a-2496-4d07-b005-7259aa3fcbe8](roles/1694e55a-2496-4d07-b005-7259aa3fcbe8.json) |
 | [Garnet Data Owner](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) | [04f6c337-ffae-414c-b00f-3e80c9ab8a2c](roles/04f6c337-ffae-414c-b00f-3e80c9ab8a2c.json) |

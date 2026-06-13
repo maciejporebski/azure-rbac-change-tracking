@@ -5,7 +5,7 @@
   "Description": "Full control of the agent—manage chats, incident response plans, and agent run modes; approve and execute commands.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Insights/alertRules/*",
     "Microsoft.App/agents/read",
     "Microsoft.App/agents/*/read",
     "Microsoft.App/agents/write",

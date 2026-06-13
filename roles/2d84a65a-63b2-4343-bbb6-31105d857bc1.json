@@ -5,7 +5,7 @@
   "Description": "Grants access to interact with the SRE Agent to triage incidents and run diagnostics.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Insights/alertRules/*",
     "Microsoft.App/agents/read"
   ],
   "NotActions": [],

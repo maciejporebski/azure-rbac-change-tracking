@@ -1,0 +1,17 @@
+{
+  "Name": "ResourceBuilder Contributor",
+  "Id": "2ec40fb7-0838-470f-a644-a574aa191e92",
+  "IsCustom": false,
+  "Description": "Provides access to Resource Builder Control Plane Operations",
+  "Actions": [
+    "Microsoft.ResourceBuilder/registeredSubscriptions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

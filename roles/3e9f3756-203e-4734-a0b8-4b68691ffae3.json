@@ -4,6 +4,8 @@
   "IsCustom": false,
   "Description": "Provides full access to Anyscale Cloud and resources as well as admin features such as usage and resource notifications.",
   "Actions": [
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete",
     "Microsoft.Authorization/*/read",
     "Anyscale.Platform/*/read",
     "Anyscale.Platform/*/write",

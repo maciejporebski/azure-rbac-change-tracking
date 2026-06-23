@@ -30,7 +30,13 @@
     "Microsoft.Insights/AlertRules/Activated/Action",
     "Microsoft.Insights/AlertRules/Resolved/Action",
     "Microsoft.Insights/AlertRules/Throttled/Action",
-    "Microsoft.Insights/AlertRules/Incidents/Read"
+    "Microsoft.Insights/AlertRules/Incidents/Read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/deployments/*/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Network/privateEndpoints/privateLinkServiceProxies/read",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Network/virtualNetworks/subnets/read"
   ],
   "NotActions": [],
   "DataActions": [],

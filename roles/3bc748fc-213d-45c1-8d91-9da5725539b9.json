@@ -58,7 +58,10 @@
     "Microsoft.Network/virtualNetworks/subnets/read",
     "Microsoft.Network/virtualNetworks/subnets/write",
     "Microsoft.Network/virtualNetworks/read",
-    "Microsoft.Network/privateEndpoints/privateLinkServiceProxies/write"
+    "Microsoft.Network/privateEndpoints/privateLinkServiceProxies/write",
+    "Microsoft.Network/privateEndpoints/privateLinkServiceProxies/read",
+    "Microsoft.Network/privateEndpoints/privateLinkServiceProxies/delete",
+    "Microsoft.Support/*"
   ],
   "NotActions": [],
   "DataActions": [],

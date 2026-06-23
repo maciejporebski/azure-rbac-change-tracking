@@ -189,6 +189,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service RBAC Reader](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) | [7f6c6a51-bcf8-42ba-9220-52d62157d7db](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) |
 | [Azure Kubernetes Service RBAC Writer](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) | [a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) |
 | [Azure Local Disconnected Operations Role](roles/478d20ba-a53e-4946-b33c-8078a92f2d0a.json) | [478d20ba-a53e-4946-b33c-8078a92f2d0a](roles/478d20ba-a53e-4946-b33c-8078a92f2d0a.json) |
+| [Azure Local Migrate Execute Expert](roles/1cfa4eac-9a23-481c-a793-bfb6958e836c.json) | [1cfa4eac-9a23-481c-a793-bfb6958e836c](roles/1cfa4eac-9a23-481c-a793-bfb6958e836c.json) |
+| [Azure Local Migrate Owner](roles/fd8ea4d5-6509-4db0-bada-356ab233b4fb.json) | [fd8ea4d5-6509-4db0-bada-356ab233b4fb](roles/fd8ea4d5-6509-4db0-bada-356ab233b4fb.json) |
 | [Azure Machine Learning Workspace Connection Secrets Reader](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) | [ea01e6af-a1c1-4350-9563-ad00f8c72ec5](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) |
 | [Azure Managed Grafana Workspace Contributor](roles/5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95.json) | [5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95](roles/5c2d7e57-b7c2-4d8a-be4f-82afa42c6e95.json) |
 | [Azure Managed Redis Contributor](roles/3015e5ed-6856-4ab3-b2f0-b8492aa30ca6.json) | [3015e5ed-6856-4ab3-b2f0-b8492aa30ca6](roles/3015e5ed-6856-4ab3-b2f0-b8492aa30ca6.json) |
@@ -569,6 +571,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Gcp Connector contributor role](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) | [a51d5f27-deba-47d1-9ccd-8589014b2e28](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) |
 | [Genome Admin](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) | [ef3729d8-2861-401e-95ae-c7d4845a6097](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) |
 | [Genome EndUser](roles/0e91b552-ae32-49ea-9898-317af306aa4b.json) | [0e91b552-ae32-49ea-9898-317af306aa4b](roles/0e91b552-ae32-49ea-9898-317af306aa4b.json) |
+| [Genome SuperAdmin](roles/27ddfca1-add5-422d-9817-ab0d2d13dc6c.json) | [27ddfca1-add5-422d-9817-ab0d2d13dc6c](roles/27ddfca1-add5-422d-9817-ab0d2d13dc6c.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
 | [GeoCatalog Reader](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) | [b7b8f583-43d0-40ae-b147-6b46f53661c1](roles/b7b8f583-43d0-40ae-b147-6b46f53661c1.json) |
 | [Grafana Admin](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) | [22926164-76b3-42b3-bc55-97df8dab3e41](roles/22926164-76b3-42b3-bc55-97df8dab3e41.json) |

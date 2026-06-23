@@ -1,13 +1,14 @@
 {
-  "Name": "Genome EndUser",
-  "Id": "0e91b552-ae32-49ea-9898-317af306aa4b",
+  "Name": "Genome SuperAdmin",
+  "Id": "27ddfca1-add5-422d-9817-ab0d2d13dc6c",
   "IsCustom": false,
   "Description": "Full access to Genome control plane and data plane operations",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.Genome/*"
+  ],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.Genome/data/read",
-    "Microsoft.Genome/data/write"
+    "Microsoft.Genome/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

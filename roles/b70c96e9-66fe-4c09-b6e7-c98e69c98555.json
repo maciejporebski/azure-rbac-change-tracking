@@ -1,5 +1,5 @@
 {
-  "Name": "Logic Apps Standard Operator (Preview)",
+  "Name": "Logic Apps Standard Operator",
   "Id": "b70c96e9-66fe-4c09-b6e7-c98e69c98555",
   "IsCustom": false,
   "Description": "You can enable and disable the logic app, resubmit workflow runs, as well as create connections. You can't edit workflows or settings.",
@@ -24,7 +24,10 @@
     "Microsoft.Web/sites/stop/Action",
     "Microsoft.Web/sites/write"
   ],
-  "NotActions": [],
+  "NotActions": [
+    "Microsoft.Web/sites/hostruntime/host/_master/read",
+    "Microsoft.Web/sites/hostruntime/host/action"
+  ],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [

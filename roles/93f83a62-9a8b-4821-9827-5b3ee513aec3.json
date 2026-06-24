@@ -1,0 +1,22 @@
+{
+  "Name": "Container Registry Connected Registry Reader",
+  "Id": "93f83a62-9a8b-4821-9827-5b3ee513aec3",
+  "IsCustom": false,
+  "Description": "Can view connected registries and their associated scope maps and tokens in a container registry.",
+  "Actions": [
+    "Microsoft.ContainerRegistry/registries/read",
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/read",
+    "Microsoft.ContainerRegistry/registries/scopeMaps/read",
+    "Microsoft.ContainerRegistry/registries/scopeMaps/operationStatuses/read",
+    "Microsoft.ContainerRegistry/registries/tokens/read",
+    "Microsoft.ContainerRegistry/registries/tokens/operationStatuses/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

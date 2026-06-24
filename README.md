@@ -394,6 +394,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Registry Cache Rule Administrator](roles/df87f177-bb12-4db1-9793-a413691eff94.json) | [df87f177-bb12-4db1-9793-a413691eff94](roles/df87f177-bb12-4db1-9793-a413691eff94.json) |
 | [Container Registry Cache Rule Reader](roles/c357b964-0002-4b64-a50d-7a28f02edc52.json) | [c357b964-0002-4b64-a50d-7a28f02edc52](roles/c357b964-0002-4b64-a50d-7a28f02edc52.json) |
 | [Container Registry Configuration Reader and Data Access Configuration Reader](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) | [69b07be0-09bf-439a-b9a6-e73de851bd59](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) |
+| [Container Registry Connected Registry Administrator](roles/281928aa-9782-4d9a-954a-3f34c1ed9f95.json) | [281928aa-9782-4d9a-954a-3f34c1ed9f95](roles/281928aa-9782-4d9a-954a-3f34c1ed9f95.json) |
+| [Container Registry Connected Registry Reader](roles/93f83a62-9a8b-4821-9827-5b3ee513aec3.json) | [93f83a62-9a8b-4821-9827-5b3ee513aec3](roles/93f83a62-9a8b-4821-9827-5b3ee513aec3.json) |
 | [Container Registry Contributor and Data Access Configuration Administrator](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) | [3bc748fc-213d-45c1-8d91-9da5725539b9](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) |
 | [Container Registry Credential Set Administrator](roles/f094fb07-0703-4400-ad6a-e16dd8000e14.json) | [f094fb07-0703-4400-ad6a-e16dd8000e14](roles/f094fb07-0703-4400-ad6a-e16dd8000e14.json) |
 | [Container Registry Credential Set Reader](roles/29093635-9924-4f2c-913b-650a12949526.json) | [29093635-9924-4f2c-913b-650a12949526](roles/29093635-9924-4f2c-913b-650a12949526.json) |
@@ -667,7 +669,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Logic Apps Hybrid Contributor](roles/32109304-a0e2-4d64-bd07-b23ac5efbe43.json) | [32109304-a0e2-4d64-bd07-b23ac5efbe43](roles/32109304-a0e2-4d64-bd07-b23ac5efbe43.json) |
 | [Logic Apps Standard Contributor (Preview)](roles/ad710c24-b039-4e85-a019-deb4a06e8570.json) | [ad710c24-b039-4e85-a019-deb4a06e8570](roles/ad710c24-b039-4e85-a019-deb4a06e8570.json) |
 | [Logic Apps Standard Developer (Preview)](roles/523776ba-4eb2-4600-a3c8-f2dc93da4bdb.json) | [523776ba-4eb2-4600-a3c8-f2dc93da4bdb](roles/523776ba-4eb2-4600-a3c8-f2dc93da4bdb.json) |
-| [Logic Apps Standard Operator (Preview)](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) | [b70c96e9-66fe-4c09-b6e7-c98e69c98555](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) |
+| [Logic Apps Standard Operator](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) | [b70c96e9-66fe-4c09-b6e7-c98e69c98555](roles/b70c96e9-66fe-4c09-b6e7-c98e69c98555.json) |
 | [Logic Apps Standard Reader (Preview)](roles/4accf36b-2c05-432f-91c8-5c532dff4c73.json) | [4accf36b-2c05-432f-91c8-5c532dff4c73](roles/4accf36b-2c05-432f-91c8-5c532dff4c73.json) |
 | [Managed Application Contributor Role](roles/641177b8-a67a-45b9-a033-47bc880bb21e.json) | [641177b8-a67a-45b9-a033-47bc880bb21e](roles/641177b8-a67a-45b9-a033-47bc880bb21e.json) |
 | [Managed Application Operator Role](roles/c7393b34-138c-406f-901b-d8cf2b17e6ae.json) | [c7393b34-138c-406f-901b-d8cf2b17e6ae](roles/c7393b34-138c-406f-901b-d8cf2b17e6ae.json) |
@@ -851,6 +853,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage Blob Delegator](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) | [db58b8e5-c6ad-4a2a-8342-4190687cbf4a](roles/db58b8e5-c6ad-4a2a-8342-4190687cbf4a.json) |
 | [Storage Connector Contributor](roles/9d819e60-1b9f-4871-b492-4e6cdee0b50a.json) | [9d819e60-1b9f-4871-b492-4e6cdee0b50a](roles/9d819e60-1b9f-4871-b492-4e6cdee0b50a.json) |
 | [Storage DataShare Contributor](roles/35c49d44-ccc1-4b18-8267-cfb3bacdd396.json) | [35c49d44-ccc1-4b18-8267-cfb3bacdd396](roles/35c49d44-ccc1-4b18-8267-cfb3bacdd396.json) |
+| [Storage File Backup Contributor](roles/c8a487a2-c85b-4487-83a1-9f04cde10293.json) | [c8a487a2-c85b-4487-83a1-9f04cde10293](roles/c8a487a2-c85b-4487-83a1-9f04cde10293.json) |
 | [Storage File Data Privileged Contributor](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) | [69566ab7-960f-475b-8e7c-b3118f30c6bd](roles/69566ab7-960f-475b-8e7c-b3118f30c6bd.json) |
 | [Storage File Data Privileged Reader](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) | [b8eda974-7b85-4f76-af95-65846b26df6d](roles/b8eda974-7b85-4f76-af95-65846b26df6d.json) |
 | [Storage File Data SMB Admin](roles/bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b.json) | [bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b](roles/bbf004e3-0e4b-4f86-ae4f-1f8fb47b357b.json) |
@@ -860,6 +863,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Storage File Data SMB Share Reader](roles/aba4ae5f-2193-4029-9191-0cb91df5e314.json) | [aba4ae5f-2193-4029-9191-0cb91df5e314](roles/aba4ae5f-2193-4029-9191-0cb91df5e314.json) |
 | [Storage File Data SMB Take Ownership](roles/5d9bac3f-34b2-432f-bde5-78aa8e73ce6b.json) | [5d9bac3f-34b2-432f-bde5-78aa8e73ce6b](roles/5d9bac3f-34b2-432f-bde5-78aa8e73ce6b.json) |
 | [Storage File Delegator](roles/765a04e0-5de8-4bb2-9bf6-b2a30bc03e91.json) | [765a04e0-5de8-4bb2-9bf6-b2a30bc03e91](roles/765a04e0-5de8-4bb2-9bf6-b2a30bc03e91.json) |
+| [Storage File Restore Contributor](roles/e7a9e73d-4397-41f2-a282-af8b65aaa2dc.json) | [e7a9e73d-4397-41f2-a282-af8b65aaa2dc](roles/e7a9e73d-4397-41f2-a282-af8b65aaa2dc.json) |
 | [Storage Queue Data Contributor](roles/974c5e8b-45b9-4653-ba55-5f855dd0fb88.json) | [974c5e8b-45b9-4653-ba55-5f855dd0fb88](roles/974c5e8b-45b9-4653-ba55-5f855dd0fb88.json) |
 | [Storage Queue Data Message Processor](roles/8a0f0c08-91a1-4084-bc3d-661d67233fed.json) | [8a0f0c08-91a1-4084-bc3d-661d67233fed](roles/8a0f0c08-91a1-4084-bc3d-661d67233fed.json) |
 | [Storage Queue Data Message Sender](roles/c6a89b2d-59bc-44d0-9896-0f6e12d7b80a.json) | [c6a89b2d-59bc-44d0-9896-0f6e12d7b80a](roles/c6a89b2d-59bc-44d0-9896-0f6e12d7b80a.json) |

@@ -1,0 +1,30 @@
+{
+  "Name": "Storage File Backup Contributor",
+  "Id": "c8a487a2-c85b-4487-83a1-9f04cde10293",
+  "IsCustom": false,
+  "Description": "Lets you perform file share backup operations using Azure Backup on the storage account",
+  "Actions": [
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read",
+    "Microsoft.Authorization/permissions/read",
+    "Microsoft.Authorization/denyAssignments/read",
+    "Microsoft.Storage/storageAccounts/fileServices/read",
+    "Microsoft.Storage/storageAccounts/fileServices/shares/delete",
+    "Microsoft.Storage/storageAccounts/fileServices/shares/lease/action",
+    "Microsoft.Storage/storageAccounts/fileServices/shares/read",
+    "Microsoft.Storage/storageAccounts/fileServices/shares/write",
+    "Microsoft.Storage/storageAccounts/fileServices/write",
+    "Microsoft.Storage/storageAccounts/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/fileServices/fileShares/files/read",
+    "Microsoft.Storage/storageAccounts/fileServices/readFileBackupSemantics/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

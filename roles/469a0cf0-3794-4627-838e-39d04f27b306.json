@@ -35,8 +35,6 @@
     "Microsoft.EnterpriseSupport/supportPlans/read",
     "Microsoft.EnterpriseSupport/supportPlans/write",
     "Microsoft.EnterpriseSupport/supportPlans/delete",
-    "Microsoft.EnterpriseSupport/supportPlans/cancel/action",
-    "Microsoft.EnterpriseSupport/operationStatuses/read",
     "Microsoft.EnterpriseSupport/register/action",
     "Microsoft.Hardware/register/action",
     "Microsoft.Hardware/orderPreview/action",
@@ -87,11 +85,7 @@
     "Microsoft.SoftwarePlan/softwarePerpetualProducts/productKeys/showFullKey/action",
     "Microsoft.SoftwarePlan/softwarePerpetualProducts/productDownloadOptions/read",
     "Microsoft.SoftwarePlan/softwarePerpetualProducts/productDownloadOptions/generateDownloadLinks/action",
-    "Microsoft.SoftwarePlan/validateSoftwarePerpetualProductCreate/action",
-    "Microsoft.ProgramEnrollment/register/action",
-    "Microsoft.ProgramEnrollment/eduEnrollments/read",
-    "Microsoft.ProgramEnrollment/eduEnrollments/write",
-    "Microsoft.ProgramEnrollment/eduEnrollments/delete"
+    "Microsoft.SoftwarePlan/validateSoftwarePerpetualProductCreate/action"
   ],
   "NotActions": [],
   "DataActions": [],

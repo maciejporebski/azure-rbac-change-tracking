@@ -1,0 +1,19 @@
+{
+  "Name": "Container Apps SandboxGroup Contributor",
+  "Id": "11b23f7a-6229-4518-88db-0576f10dd2a0",
+  "IsCustom": false,
+  "Description": "Full management of Container Apps Sandbox Groups, including creation, deletion, and updates.",
+  "Actions": [
+    "Microsoft.App/sandboxGroups/*/read",
+    "Microsoft.App/sandboxGroups/*/write",
+    "Microsoft.App/sandboxGroups/*/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -388,6 +388,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Apps ManagedEnvironments Contributor](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) | [57cc5028-e6a7-4284-868d-0611c5923f8d](roles/57cc5028-e6a7-4284-868d-0611c5923f8d.json) |
 | [Container Apps ManagedEnvironments Reader](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) | [1b32c00b-7eff-4c22-93e6-93d11d72d2d8](roles/1b32c00b-7eff-4c22-93e6-93d11d72d2d8.json) |
 | [Container Apps Operator](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) | [f3bd1b5c-91fa-40e7-afe7-0c11d331232c](roles/f3bd1b5c-91fa-40e7-afe7-0c11d331232c.json) |
+| [Container Apps SandboxGroup Contributor](roles/11b23f7a-6229-4518-88db-0576f10dd2a0.json) | [11b23f7a-6229-4518-88db-0576f10dd2a0](roles/11b23f7a-6229-4518-88db-0576f10dd2a0.json) |
 | [Container Apps SandboxGroup Data Owner](roles/c24cf47c-5077-412d-a19c-45202126392c.json) | [c24cf47c-5077-412d-a19c-45202126392c](roles/c24cf47c-5077-412d-a19c-45202126392c.json) |
 | [Container Apps SessionPools Contributor](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) | [f7669afb-68b2-44b4-9c5f-6d2a47fddda0](roles/f7669afb-68b2-44b4-9c5f-6d2a47fddda0.json) |
 | [Container Apps SessionPools Reader](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) | [af61e8fc-2633-4b95-bed3-421ad6826515](roles/af61e8fc-2633-4b95-bed3-421ad6826515.json) |

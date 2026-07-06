@@ -4,9 +4,10 @@
   "IsCustom": false,
   "Description": "Lets you perform file share backup operations using Azure Backup on the storage account",
   "Actions": [
-    "Microsoft.Authorization/*/read",
-    "Microsoft.Authorization/locks/delete",
-    "Microsoft.Authorization/locks/write",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.Authorization/roleDefinitions/read",
+    "Microsoft.Authorization/permissions/read",
+    "Microsoft.Authorization/denyAssignments/read",
     "Microsoft.Storage/storageAccounts/fileServices/read",
     "Microsoft.Storage/storageAccounts/fileServices/shares/delete",
     "Microsoft.Storage/storageAccounts/fileServices/shares/lease/action",

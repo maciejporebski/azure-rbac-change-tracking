@@ -1,5 +1,5 @@
 {
-  "Name": "Logic Apps Standard Reader (Preview)",
+  "Name": "Logic Apps Standard Reader",
   "Id": "4accf36b-2c05-432f-91c8-5c532dff4c73",
   "IsCustom": false,
   "Description": "You have read-only access to all resources in a Standard logic app and workflows, including the workflow runs and their history.",

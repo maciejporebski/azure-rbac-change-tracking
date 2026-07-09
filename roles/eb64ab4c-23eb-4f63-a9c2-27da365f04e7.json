@@ -5,7 +5,7 @@
   "Description": "Allows users to add custom features to the SRE Agent using incident handlers and extended agents.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Insights/alertRules/*",
+    "Microsoft.Insights/alertRules/read",
     "Microsoft.App/agents/read"
   ],
   "NotActions": [],

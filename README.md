@@ -371,6 +371,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Compute Gallery Sharing Admin](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) | [1ef6a3be-d0ac-425d-8c01-acb62866290b](roles/1ef6a3be-d0ac-425d-8c01-acb62866290b.json) |
 | [Compute Limit Operator](roles/980cf6f7-edec-4fd1-8e9e-28f70b1d5258.json) | [980cf6f7-edec-4fd1-8e9e-28f70b1d5258](roles/980cf6f7-edec-4fd1-8e9e-28f70b1d5258.json) |
 | [Compute Recommendations Role](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) | [e82342c9-ac7f-422b-af64-e426d2e12b2d](roles/e82342c9-ac7f-422b-af64-e426d2e12b2d.json) |
+| [Confidential Ledger Contributor](roles/9cf8853f-1e61-4999-915d-3e018bfc8a71.json) | [9cf8853f-1e61-4999-915d-3e018bfc8a71](roles/9cf8853f-1e61-4999-915d-3e018bfc8a71.json) |
 | [Confidential Ledger Data Contributor](roles/f1641a58-a144-402b-baf9-39d1a4c10119.json) | [f1641a58-a144-402b-baf9-39d1a4c10119](roles/f1641a58-a144-402b-baf9-39d1a4c10119.json) |
 | [Confidential Ledger Data Reader](roles/4f1e6fca-3fde-4291-961e-642def6d5e1d.json) | [4f1e6fca-3fde-4291-961e-642def6d5e1d](roles/4f1e6fca-3fde-4291-961e-642def6d5e1d.json) |
 | [Connected Cluster Managed Identity CheckAccess Reader](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) | [65a14201-8f6c-4c28-bec4-12619c5a9aaa](roles/65a14201-8f6c-4c28-bec4-12619c5a9aaa.json) |

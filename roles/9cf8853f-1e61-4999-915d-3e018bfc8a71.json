@@ -1,0 +1,20 @@
+{
+  "Name": "Confidential Ledger Contributor",
+  "Id": "9cf8853f-1e61-4999-915d-3e018bfc8a71",
+  "IsCustom": false,
+  "Description": "Allows full management of Confidential Ledger resources, including create, read, update, delete, backup and private endpoint connection management.",
+  "Actions": [
+    "Microsoft.ConfidentialLedger/ledgers/read",
+    "Microsoft.ConfidentialLedger/ledgers/write",
+    "Microsoft.ConfidentialLedger/ledgers/delete",
+    "Microsoft.ConfidentialLedger/ledgers/filesExport/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -5,7 +5,7 @@
   "Description": "Grants read-only access to all SRE Agent data, including chats, incidents, logs, and configurations. Does not permit interaction with the agent.",
   "Actions": [
     "Microsoft.Authorization/*/read",
-    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Insights/alertRules/*",
     "Microsoft.App/agents/read"
   ],
   "NotActions": [],

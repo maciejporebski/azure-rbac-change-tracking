@@ -10,6 +10,8 @@
     "Microsoft.ChangeSafety/changeRecords/read",
     "Microsoft.ChangeSafety/changeRecords/write",
     "Microsoft.ChangeSafety/changeRecords/delete",
+    "Microsoft.ChangeSafety/changeStates/verifyChangeValidity/action",
+    "Microsoft.ChangeSafety/changeRecords/verifyChangeValidity/action",
     "Microsoft.ChangeSafety/changeStates/stageProgressions/read",
     "Microsoft.ChangeSafety/changeStates/stageProgressions/write",
     "Microsoft.ChangeSafety/changeStates/stageProgressions/delete",

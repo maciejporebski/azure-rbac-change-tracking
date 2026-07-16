@@ -30,9 +30,7 @@
     "Microsoft.CognitiveServices/accounts/ContentSafety/*",
     "Microsoft.CognitiveServices/accounts/MaaS/*"
   ],
-  "NotDataActions": [
-    "Microsoft.CognitiveServices/accounts/OpenAI/fine-tunes-deployments/write"
-  ],
+  "NotDataActions": [],
   "AssignableScopes": [
     "/"
   ],

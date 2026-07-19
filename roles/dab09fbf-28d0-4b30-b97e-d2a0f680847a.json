@@ -1,0 +1,19 @@
+{
+  "Name": "Provisioned Machine Contributor",
+  "Id": "dab09fbf-28d0-4b30-b97e-d2a0f680847a",
+  "IsCustom": false,
+  "Description": "Grants permissions to manage Azure Stack HCI Provisioned Machine resources, excluding disk management, device reset, and resource deletion",
+  "Actions": [
+    "Microsoft.AzureStackHCI/edgeMachines/*"
+  ],
+  "NotActions": [
+    "Microsoft.AzureStackHCI/edgeMachines/delete"
+  ],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

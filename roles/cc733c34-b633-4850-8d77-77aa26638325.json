@@ -1,0 +1,18 @@
+{
+  "Name": "Provisioned Machine Reader",
+  "Id": "cc733c34-b633-4850-8d77-77aa26638325",
+  "IsCustom": false,
+  "Description": "Grants read-only access to Azure Stack HCI Provisioned Machine resources",
+  "Actions": [
+    "Microsoft.AzureStackHCI/EdgeMachines/read",
+    "Microsoft.AzureStackHCI/EdgeMachines/jobs/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

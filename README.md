@@ -73,6 +73,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
+| [Azure AI Manager and Namespace RBAC Inference Operator](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure AIManager and namespace RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager Contributor](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) | [413f2675-4911-4010-be3b-c720b43a3c59](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) |
@@ -764,6 +765,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Project Babylon Data Source Administrator](roles/05b7651b-dc44-475e-b74d-df3db49fae0f.json) | [05b7651b-dc44-475e-b74d-df3db49fae0f](roles/05b7651b-dc44-475e-b74d-df3db49fae0f.json) |
 | [ProviderHub Contributor](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) | [a3ab03bc-5350-42ff-b0d5-00207672db55](roles/a3ab03bc-5350-42ff-b0d5-00207672db55.json) |
 | [ProviderHub Reader](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) | [4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1](roles/4d8c6f2e-3fd6-4d40-826e-93e3dc4c3fc1.json) |
+| [Provisioned Machine Contributor](roles/dab09fbf-28d0-4b30-b97e-d2a0f680847a.json) | [dab09fbf-28d0-4b30-b97e-d2a0f680847a](roles/dab09fbf-28d0-4b30-b97e-d2a0f680847a.json) |
+| [Provisioned Machine Reader](roles/cc733c34-b633-4850-8d77-77aa26638325.json) | [cc733c34-b633-4850-8d77-77aa26638325](roles/cc733c34-b633-4850-8d77-77aa26638325.json) |
 | [Pure Storage Cloud VM Volume Group Mount Reader](roles/a2425b74-61f3-4bff-97cb-d0e3bc906777.json) | [a2425b74-61f3-4bff-97cb-d0e3bc906777](roles/a2425b74-61f3-4bff-97cb-d0e3bc906777.json) |
 | [Pure Storage Cloud VM Volume Group Owner](roles/c9ba051b-aad6-42fd-92dc-e48780abee75.json) | [c9ba051b-aad6-42fd-92dc-e48780abee75](roles/c9ba051b-aad6-42fd-92dc-e48780abee75.json) |
 | [Purview role 1 (Deprecated)](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) | [8a3c2885-9b38-4fd2-9d99-91af537c1347](roles/8a3c2885-9b38-4fd2-9d99-91af537c1347.json) |

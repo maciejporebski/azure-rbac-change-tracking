@@ -1,0 +1,17 @@
+{
+  "Name": "Provisioned Machine Admin",
+  "Id": "97922edc-56af-49a9-8996-4679a6e10e68",
+  "IsCustom": false,
+  "Description": "Grants full access to Azure Stack HCI Provisioned Machine resources, including disk management, device reset, deletion, and the ability to assign others as Provisioned Machine Reader and/or Contributor",
+  "Actions": [
+    "Microsoft.AzureStackHCI/edgeMachines/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

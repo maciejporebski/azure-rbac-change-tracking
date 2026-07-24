@@ -30,6 +30,7 @@
     "Microsoft.Mission/virtualEnclaves/enclaveEndpoints/approvalCallback/action",
     "Microsoft.Mission/communities/communityEndpoints/approvalCallback/action",
     "Microsoft.Mission/approvals/initiatorCallback/action",
+    "Microsoft.Mission/approvals/notifyInitiator/action",
     "Microsoft.Mission/communities/setMaintenanceMode/action",
     "Microsoft.Mission/communities/communityendpoints/connect/action",
     "Microsoft.Mission/virtualEnclaves/setWorkloadRoleAssignments/action",

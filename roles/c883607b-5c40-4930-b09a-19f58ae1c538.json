@@ -1,0 +1,26 @@
+{
+  "Name": "Microsoft Discovery Project Contributor - Preview",
+  "Id": "c883607b-5c40-4930-b09a-19f58ae1c538",
+  "IsCustom": false,
+  "Description": "Full operational control over an existing Discovery project: investigations and conversations (read/write/delete) plus project settings update and deletion. Does not allow creating new projects, assigning roles, or managing tools or knowledge bases. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.Discovery/workspaces/projects/read",
+    "Microsoft.Discovery/workspaces/projects/write",
+    "Microsoft.Discovery/workspaces/projects/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Discovery/workspaces/projects/investigations/read",
+    "Microsoft.Discovery/workspaces/projects/investigations/write",
+    "Microsoft.Discovery/workspaces/projects/investigations/delete",
+    "Microsoft.Discovery/workspaces/conversations/read",
+    "Microsoft.Discovery/workspaces/conversations/write",
+    "Microsoft.Discovery/workspaces/conversations/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

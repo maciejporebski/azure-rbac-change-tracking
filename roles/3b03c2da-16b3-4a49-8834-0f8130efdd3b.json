@@ -15,6 +15,6 @@
   "AssignableScopes": [
     "/"
   ],
-  "Condition": null,
-  "ConditionVersion": null
+  "Condition": "((!(ActionMatches{'Microsoft.OperationalInsights/workspaces/tables/data/read'})) OR (@Resource[Microsoft.OperationalInsights/workspaces/tables:protectionLevel] ForAllOfAnyValues:StringEquals {'General'}))",
+  "ConditionVersion": "2.0"
 }

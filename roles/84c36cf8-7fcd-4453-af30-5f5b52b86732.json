@@ -1,0 +1,17 @@
+{
+  "Name": "Microsoft Discovery Tools Reader - Preview",
+  "Id": "84c36cf8-7fcd-4453-af30-5f5b52b86732",
+  "IsCustom": false,
+  "Description": "Read-only access to Discovery tool definitions: allows listing tools and reading their definitions. Does not allow creating, modifying, deleting, or running tools. Intended to be assigned alongside Discovery project roles so users can view the tools available to them. This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.Discovery/tools/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

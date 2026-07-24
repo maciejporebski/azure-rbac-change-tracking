@@ -1,0 +1,17 @@
+{
+  "Name": "Microsoft Discovery Chat Model Reader - Preview",
+  "Id": "5e523d62-66de-4912-99be-6b009b7839cc",
+  "IsCustom": false,
+  "Description": "Read-only access to Discovery chat model deployments: allows listing chat model deployments and reading their details. Does not allow creating, modifying, or deleting deployments. Intended to be assigned alongside Discovery project roles so users can view and select the models available to them (e.g. in the agent-create model picker). This role is in preview and subject to change.",
+  "Actions": [
+    "Microsoft.Discovery/workspaces/chatModelDeployments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

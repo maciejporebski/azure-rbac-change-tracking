@@ -1,0 +1,24 @@
+{
+  "Name": "Quantum Workspace Data Reader",
+  "Id": "27af9d98-85b7-4dad-bc1b-df53a7fc8877",
+  "IsCustom": false,
+  "Description": "Read jobs and other Workspace data.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Insights/alertRules/read",
+    "Microsoft.Resources/deployments/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Quantum/Workspaces/read",
+    "Microsoft.Quantum/locations/offerings/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Quantum/Workspaces/jobs/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -695,7 +695,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Discovery Platform Reader (Preview)](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) | [3bb7c424-af4e-436b-bfcc-8779c8934c31](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) |
 | [Microsoft Discovery Project Contributor - Preview](roles/c883607b-5c40-4930-b09a-19f58ae1c538.json) | [c883607b-5c40-4930-b09a-19f58ae1c538](roles/c883607b-5c40-4930-b09a-19f58ae1c538.json) |
 | [Microsoft Discovery Project Reader - Preview](roles/ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579.json) | [ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579](roles/ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579.json) |
-| [Microsoft Discovery Tools Reader - Preview](roles/84c36cf8-7fcd-4453-af30-5f5b52b86732.json) | [84c36cf8-7fcd-4453-af30-5f5b52b86732](roles/84c36cf8-7fcd-4453-af30-5f5b52b86732.json) |
 | [Microsoft PowerBI Tenant Operations Role](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) | [8c87871d-6201-42da-abb1-1c0c985ff71c](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) |
 | [Microsoft Sentinel Automation Contributor](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) | [f4c81013-99ee-4d62-a7ee-b3f1f648599a](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) |
 | [Microsoft Sentinel Business Applications Agent Operator](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) | [c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2](roles/c18f9900-27b8-47c7-a8f0-5b3b3d4c2bc2.json) |
@@ -778,7 +777,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Purview role 2 (Deprecated)](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) | [200bba9e-f0c8-430f-892b-6f0794863803](roles/200bba9e-f0c8-430f-892b-6f0794863803.json) |
 | [Purview role 3 (Deprecated)](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) | [ff100721-1b9d-43d8-af52-42b69c1272db](roles/ff100721-1b9d-43d8-af52-42b69c1272db.json) |
 | [Quantum Workspace Data Contributor](roles/c1410b24-3e69-4857-8f86-4d0a2e603250.json) | [c1410b24-3e69-4857-8f86-4d0a2e603250](roles/c1410b24-3e69-4857-8f86-4d0a2e603250.json) |
-| [Quantum Workspace Data Reader](roles/27af9d98-85b7-4dad-bc1b-df53a7fc8877.json) | [27af9d98-85b7-4dad-bc1b-df53a7fc8877](roles/27af9d98-85b7-4dad-bc1b-df53a7fc8877.json) |
 | [Quota Request Operator](roles/0e5f05e5-9ab9-446b-b98d-1e2157c94125.json) | [0e5f05e5-9ab9-446b-b98d-1e2157c94125](roles/0e5f05e5-9ab9-446b-b98d-1e2157c94125.json) |
 | [Reader](roles/acdd72a7-3385-48ef-bd42-f606fba81ae7.json) | [acdd72a7-3385-48ef-bd42-f606fba81ae7](roles/acdd72a7-3385-48ef-bd42-f606fba81ae7.json) |
 | [Reader and Data Access](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) | [c12c1c16-33a1-487b-954d-41c89c60f349](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) |

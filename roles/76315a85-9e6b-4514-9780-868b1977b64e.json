@@ -6,9 +6,7 @@
   "Actions": [
     "Microsoft.InferenceService/inferenceAccounts/write",
     "Microsoft.InferenceService/inferenceAccounts/read",
-    "Microsoft.InferenceService/inferenceAccounts/delete",
-    "Microsoft.InferenceService/inferenceAccounts/listKeys/action",
-    "Microsoft.InferenceService/inferenceAccounts/regenerateKeys/action"
+    "Microsoft.InferenceService/inferenceAccounts/delete"
   ],
   "NotActions": [],
   "DataActions": [

@@ -8,9 +8,7 @@
     "Microsoft.DocumentDB/databaseAccounts/enableLongTermProtection/action",
     "Microsoft.DocumentDB/databaseAccounts/disableLongTermProtection/action",
     "Microsoft.DocumentDB/databaseAccounts/preBackup/action",
-    "Microsoft.DocumentDB/databaseAccounts/backup/action",
-    "Microsoft.DocumentDB/databaseAccounts/read",
-    "Microsoft.DocumentDB/locations/operationsStatus/read"
+    "Microsoft.DocumentDB/databaseAccounts/backup/action"
   ],
   "NotActions": [],
   "DataActions": [],

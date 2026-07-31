@@ -185,6 +185,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service Namespace Contributor](roles/289d8817-ee69-43f1-a0af-43a45505b488.json) | [289d8817-ee69-43f1-a0af-43a45505b488](roles/289d8817-ee69-43f1-a0af-43a45505b488.json) |
 | [Azure Kubernetes Service Namespace User](roles/c9f76ca8-b262-4b10-8ed2-09cf0948aa35.json) | [c9f76ca8-b262-4b10-8ed2-09cf0948aa35](roles/c9f76ca8-b262-4b10-8ed2-09cf0948aa35.json) |
 | [Azure Kubernetes Service Policy Add-on Deployment](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) | [18ed5180-3e48-46fd-8541-4ea054d57064](roles/18ed5180-3e48-46fd-8541-4ea054d57064.json) |
+| [Azure Kubernetes Service Prepared Image Specification Contributor](roles/4f772c11-8026-4833-859c-5c23e84b5c30.json) | [4f772c11-8026-4833-859c-5c23e84b5c30](roles/4f772c11-8026-4833-859c-5c23e84b5c30.json) |
+| [Azure Kubernetes Service Prepared Image Specification Reader](roles/ed915fdf-c373-4707-988e-fb5d15a5a9ec.json) | [ed915fdf-c373-4707-988e-fb5d15a5a9ec](roles/ed915fdf-c373-4707-988e-fb5d15a5a9ec.json) |
 | [Azure Kubernetes Service RBAC Admin](roles/3498e952-d568-435e-9b2c-8d77e338d7f7.json) | [3498e952-d568-435e-9b2c-8d77e338d7f7](roles/3498e952-d568-435e-9b2c-8d77e338d7f7.json) |
 | [Azure Kubernetes Service RBAC Cluster Admin](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) | [b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b](roles/b1ff04bb-8a4e-4dc4-8eb5-8693973ce19b.json) |
 | [Azure Kubernetes Service RBAC Reader](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) | [7f6c6a51-bcf8-42ba-9220-52d62157d7db](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) |

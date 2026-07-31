@@ -2,7 +2,7 @@
   "Name": "Quantum Workspace Data Contributor",
   "Id": "c1410b24-3e69-4857-8f86-4d0a2e603250",
   "IsCustom": false,
-  "Description": "Create, read, and modify jobs and other Workspace data. This role is in preview and subject to change.",
+  "Description": "Create, read, and modify jobs and other Workspace data.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
@@ -14,7 +14,8 @@
   "NotActions": [],
   "DataActions": [
     "Microsoft.Quantum/Workspaces/jobs/read",
-    "Microsoft.Quantum/Workspaces/jobs/write"
+    "Microsoft.Quantum/Workspaces/jobs/write",
+    "Microsoft.Quantum/Workspaces/chat/action"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

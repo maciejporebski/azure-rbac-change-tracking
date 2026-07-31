@@ -5,7 +5,9 @@
   "Description": "Allows performing long term retention restore operations for Cosmos DB",
   "Actions": [
     "Microsoft.DocumentDB/databaseAccounts/preRestore/action",
-    "Microsoft.DocumentDB/databaseAccounts/restore/action"
+    "Microsoft.DocumentDB/databaseAccounts/restore/action",
+    "Microsoft.DocumentDB/databaseAccounts/read",
+    "Microsoft.DocumentDB/locations/operationsStatus/read"
   ],
   "NotActions": [],
   "DataActions": [],

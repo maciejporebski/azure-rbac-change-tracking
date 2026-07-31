@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Kubernetes Service Prepared Image Specification Reader",
+  "Id": "ed915fdf-c373-4707-988e-fb5d15a5a9ec",
+  "IsCustom": false,
+  "Description": "Allows read-only access to Prepared Image Specification resources.",
+  "Actions": [
+    "Microsoft.ContainerService/preparedImageSpecifications/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

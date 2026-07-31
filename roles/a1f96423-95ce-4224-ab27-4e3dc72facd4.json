@@ -32,7 +32,9 @@
     "Microsoft.Network/networkIntentPolicies/join/action",
     "Microsoft.Network/networkSecurityGroups/join/action",
     "Microsoft.Network/routeTables/join/action",
-    "Microsoft.Network/networkManagers/ipamPools/associateResourcesToPool/action"
+    "Microsoft.Network/networkManagers/ipamPools/associateResourcesToPool/action",
+    "Microsoft.Network/privatelinkservices/privateEndpointConnections/delete",
+    "Microsoft.Network/loadBalancers/delete"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Kubernetes Service Prepared Image Specification Contributor",
+  "Id": "4f772c11-8026-4833-859c-5c23e84b5c30",
+  "IsCustom": false,
+  "Description": "Allows users to create and manage Prepared Image Specification resources.",
+  "Actions": [
+    "Microsoft.ContainerService/preparedImageSpecifications/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

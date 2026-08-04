@@ -23,12 +23,7 @@
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*"
   ],
-  "NotActions": [
-    "Microsoft.CognitiveServices/raiPolicy/write",
-    "Microsoft.CognitiveServices/raiPolicy/delete",
-    "Microsoft.CognitiveServices/raiExternalSafetyProviders/write",
-    "Microsoft.CognitiveServices/raiExternalSafetyProviders/delete"
-  ],
+  "NotActions": [],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [

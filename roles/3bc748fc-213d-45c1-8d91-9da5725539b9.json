@@ -39,7 +39,6 @@
     "Microsoft.ContainerRegistry/registries/connectedRegistries/write",
     "Microsoft.ContainerRegistry/registries/connectedRegistries/delete",
     "Microsoft.ContainerRegistry/registries/connectedRegistries/deactivate/action",
-    "Microsoft.ContainerRegistry/registries/connectedRegistries/resync/action",
     "Microsoft.ContainerRegistry/registries/webhooks/read",
     "Microsoft.ContainerRegistry/registries/webhooks/write",
     "Microsoft.ContainerRegistry/registries/webhooks/delete",

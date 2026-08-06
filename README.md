@@ -51,6 +51,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [ARN Service Event Grid Subscriber Role](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) | [dc0882cc-bc27-4d21-9ea2-f821aaa10fb1](roles/dc0882cc-bc27-4d21-9ea2-f821aaa10fb1.json) |
 | [Artifact Signing Certificate Profile Signer](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) | [2837e146-70d7-4cfd-ad55-7efa6464f958](roles/2837e146-70d7-4cfd-ad55-7efa6464f958.json) |
 | [Artifact Signing Identity Verifier](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) | [4339b7cf-9826-4e41-b4ed-c7f4505dac08](roles/4339b7cf-9826-4e41-b4ed-c7f4505dac08.json) |
+| [Associated Billing Accounts Reader](roles/d6c7ff7d-dd03-45a8-af9c-2a825e11bf9f.json) | [d6c7ff7d-dd03-45a8-af9c-2a825e11bf9f](roles/d6c7ff7d-dd03-45a8-af9c-2a825e11bf9f.json) |
 | [Astronomer Astro Contributor](roles/a6a9a135-9048-45df-b559-a90bb025e92f.json) | [a6a9a135-9048-45df-b559-a90bb025e92f](roles/a6a9a135-9048-45df-b559-a90bb025e92f.json) |
 | [Attestation Contributor](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) | [bbf86eb8-f7b4-4cce-96e4-18cddf81d86e](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) |
 | [Attestation Reader](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) | [fd1bd22b-8476-40bc-a0bc-69b95687b9f3](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) |

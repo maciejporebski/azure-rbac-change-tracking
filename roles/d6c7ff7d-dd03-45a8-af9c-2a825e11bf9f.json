@@ -1,0 +1,17 @@
+{
+  "Name": "Associated Billing Accounts Reader",
+  "Id": "d6c7ff7d-dd03-45a8-af9c-2a825e11bf9f",
+  "IsCustom": false,
+  "Description": "Allows users to list all the associated billing accounts for their tenant.",
+  "Actions": [
+    "Microsoft.AzureActiveDirectory/associatedBillingAccounts/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

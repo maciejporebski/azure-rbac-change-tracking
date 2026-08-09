@@ -55,6 +55,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Astronomer Astro Contributor](roles/a6a9a135-9048-45df-b559-a90bb025e92f.json) | [a6a9a135-9048-45df-b559-a90bb025e92f](roles/a6a9a135-9048-45df-b559-a90bb025e92f.json) |
 | [Attestation Contributor](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) | [bbf86eb8-f7b4-4cce-96e4-18cddf81d86e](roles/bbf86eb8-f7b4-4cce-96e4-18cddf81d86e.json) |
 | [Attestation Reader](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) | [fd1bd22b-8476-40bc-a0bc-69b95687b9f3](roles/fd1bd22b-8476-40bc-a0bc-69b95687b9f3.json) |
+| [aumdemo-vm-patch-operator](roles/d413a8ed-8661-5d68-a090-dec5b7dc1334.json) | [d413a8ed-8661-5d68-a090-dec5b7dc1334](roles/d413a8ed-8661-5d68-a090-dec5b7dc1334.json) |
 | [Auto Actions Contributor](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) | [a8d01690-9418-4783-8ca2-9f0f1791783d](roles/a8d01690-9418-4783-8ca2-9f0f1791783d.json) |
 | [Automation Contributor](roles/f353d9bd-d4a6-484e-a77a-8050b599b867.json) | [f353d9bd-d4a6-484e-a77a-8050b599b867](roles/f353d9bd-d4a6-484e-a77a-8050b599b867.json) |
 | [Automation Job Operator](roles/4fe576fe-1146-4730-92eb-48519fa6bf9f.json) | [4fe576fe-1146-4730-92eb-48519fa6bf9f](roles/4fe576fe-1146-4730-92eb-48519fa6bf9f.json) |

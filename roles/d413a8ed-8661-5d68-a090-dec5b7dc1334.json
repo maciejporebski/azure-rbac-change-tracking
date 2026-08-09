@@ -1,0 +1,22 @@
+{
+  "Name": "aumdemo-vm-patch-operator",
+  "Id": "d413a8ed-8661-5d68-a090-dec5b7dc1334",
+  "IsCustom": true,
+  "Description": "Least-privilege role for the AUM SQL HA demo app to assess and install VM patches.",
+  "Actions": [
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.Compute/virtualMachines/assessPatches/action",
+    "Microsoft.Compute/virtualMachines/installPatches/action",
+    "Microsoft.Compute/virtualMachines/instanceView/read",
+    "Microsoft.Maintenance/maintenanceConfigurations/read",
+    "Microsoft.Maintenance/configurationAssignments/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/subscriptions/cf01de38-baf4-4049-8ad3-f3c2997cd0de"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

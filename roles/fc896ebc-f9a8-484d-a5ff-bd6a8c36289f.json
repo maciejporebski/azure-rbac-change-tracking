@@ -4,11 +4,11 @@
   "IsCustom": false,
   "Description": "Allows performing long term retention backup operations for Cosmos DB",
   "Actions": [
-    "Microsoft.DocumentDB/databaseAccounts/validateForLongTermProtection/action",
-    "Microsoft.DocumentDB/databaseAccounts/enableLongTermProtection/action",
-    "Microsoft.DocumentDB/databaseAccounts/disableLongTermProtection/action",
-    "Microsoft.DocumentDB/databaseAccounts/preBackup/action",
-    "Microsoft.DocumentDB/databaseAccounts/backup/action",
+    "Microsoft.DocumentDB/databaseAccounts/validateForLongTermProtection/*",
+    "Microsoft.DocumentDB/databaseAccounts/enableLongTermProtection/*",
+    "Microsoft.DocumentDB/databaseAccounts/disableLongTermProtection/*",
+    "Microsoft.DocumentDB/databaseAccounts/preBackup/*",
+    "Microsoft.DocumentDB/databaseAccounts/backup/*",
     "Microsoft.DocumentDB/databaseAccounts/read",
     "Microsoft.DocumentDB/locations/operationsStatus/read"
   ],

@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "Allows read-only access to Prepared Image Specification resources.",
   "Actions": [
-    "Microsoft.ContainerService/preparedImageSpecifications/read"
+    "Microsoft.ContainerService/preparedImageSpecifications/read",
+    "Microsoft.ContainerService/preparedImageSpecifications/versions/read"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -8,6 +8,7 @@
     "Microsoft.GuestConfiguration/guestConfigurationAssignments/*/read",
     "Microsoft.GuestConfiguration/guestConfigurationAssignments/read",
     "Microsoft.GuestConfiguration/guestConfigurationAssignments/write",
+    "Microsoft.GuestConfiguration/guestConfigurationAssignments/delete",
     "Microsoft.HybridCompute/machines/read",
     "Microsoft.HybridCompute/machines/extensions/read",
     "Microsoft.HybridCompute/*/read",

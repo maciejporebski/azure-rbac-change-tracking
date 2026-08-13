@@ -1,0 +1,17 @@
+{
+  "Name": "Commvault Contributor",
+  "Id": "222f0527-8571-4054-955d-aae12f1d09d6",
+  "IsCustom": false,
+  "Description": "Provides access to Commvault ContentStore Control Plane Operations",
+  "Actions": [
+    "Commvault.ContentStore/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

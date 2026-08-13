@@ -369,6 +369,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Community Contributor Role](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) | [49435da6-99fe-48a5-a235-fc668b9dc04a](roles/49435da6-99fe-48a5-a235-fc668b9dc04a.json) |
 | [Community Owner Role](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) | [5e28a61e-8040-49db-b175-bb5b88af6239](roles/5e28a61e-8040-49db-b175-bb5b88af6239.json) |
 | [Community Reader Role](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) | [e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc](roles/e6aadb6b-e64f-41c0-9392-d2bba3bc3ebc.json) |
+| [Commvault Contributor](roles/222f0527-8571-4054-955d-aae12f1d09d6.json) | [222f0527-8571-4054-955d-aae12f1d09d6](roles/222f0527-8571-4054-955d-aae12f1d09d6.json) |
 | [Compute Diagnostics Role](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) | [df2711a6-406d-41cf-b366-b0250bff9ad1](roles/df2711a6-406d-41cf-b366-b0250bff9ad1.json) |
 | [Compute Fleet Contributor](roles/2bed379c-9fba-455b-99e4-6b911073bcf2.json) | [2bed379c-9fba-455b-99e4-6b911073bcf2](roles/2bed379c-9fba-455b-99e4-6b911073bcf2.json) |
 | [Compute Gallery Artifacts Publisher](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) | [85a2d0d9-2eba-4c9c-b355-11c2cc0788ab](roles/85a2d0d9-2eba-4c9c-b355-11c2cc0788ab.json) |

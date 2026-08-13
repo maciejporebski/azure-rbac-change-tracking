@@ -4,6 +4,10 @@
   "IsCustom": false,
   "Description": "Grants read-only access to most Kubernetes cluster-scoped resources in the fleet-managed hub cluster.",
   "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Resources/subscriptions/operationresults/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.ContainerService/fleets/read",
     "Microsoft.ContainerService/fleets/listCredentials/action"
   ],
@@ -40,7 +44,6 @@
     "Microsoft.ContainerService/fleets/cluster.kubernetes-fleet.io/memberclusters/read",
     "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/clusterresourceplacements/read",
     "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/clusterresourcebindings/read",
-    "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/clusterresourcesnapshots/read",
     "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/clusterschedulingpolicysnapshots/read",
     "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/clusterresourceoverrides/read",
     "Microsoft.ContainerService/fleets/placement.kubernetes-fleet.io/clusterresourceoverridesnapshots/read"

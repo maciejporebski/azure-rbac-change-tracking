@@ -1,0 +1,31 @@
+{
+  "Name": "Azure Local Infrastructure Reader",
+  "Id": "345f07df-7946-4fa9-9edd-80e603e89ea1",
+  "IsCustom": false,
+  "Description": "Grants read-only access to GPUs, network, disks, and volumes on Azure Local clusters.",
+  "Actions": [
+    "Microsoft.AzureStackHCI/clusters/read",
+    "Microsoft.AzureStackHCI/clusters/arcSettings/read",
+    "Microsoft.AzureStackHCI/clusters/networkProfiles/read",
+    "Microsoft.AzureStackHCI/clusters/jobs/read",
+    "Microsoft.AzureStackHCI/clusters/updateSummaries/read",
+    "Microsoft.AzureStackHCI/edgeMachines/read",
+    "Microsoft.AzureStackHCI/edgeMachines/gpus/read",
+    "Microsoft.AzureStackHCI/edgeMachines/gpus/jobs/read",
+    "Microsoft.AzureStackHCI/edgeMachines/disks/read",
+    "Microsoft.AzureStackHCI/edgeMachines/disks/jobs/read",
+    "Microsoft.AzureStackHCI/edgeMachines/volumes/read",
+    "Microsoft.AzureStackHCI/edgeMachines/networkAdapters/read",
+    "Microsoft.AzureStackHCI/edgeMachines/networkAdapters/jobs/read",
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

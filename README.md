@@ -194,6 +194,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service RBAC Reader](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) | [7f6c6a51-bcf8-42ba-9220-52d62157d7db](roles/7f6c6a51-bcf8-42ba-9220-52d62157d7db.json) |
 | [Azure Kubernetes Service RBAC Writer](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) | [a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb](roles/a7ffa36f-339b-4b5c-8bdf-e2c188b2c0eb.json) |
 | [Azure Local Disconnected Operations Role](roles/478d20ba-a53e-4946-b33c-8078a92f2d0a.json) | [478d20ba-a53e-4946-b33c-8078a92f2d0a](roles/478d20ba-a53e-4946-b33c-8078a92f2d0a.json) |
+| [Azure Local Infrastructure Contributor](roles/3e43f27e-8f98-43b0-9036-e5ae540c968a.json) | [3e43f27e-8f98-43b0-9036-e5ae540c968a](roles/3e43f27e-8f98-43b0-9036-e5ae540c968a.json) |
+| [Azure Local Infrastructure Reader](roles/345f07df-7946-4fa9-9edd-80e603e89ea1.json) | [345f07df-7946-4fa9-9edd-80e603e89ea1](roles/345f07df-7946-4fa9-9edd-80e603e89ea1.json) |
 | [Azure Local Migrate Execute Expert](roles/1cfa4eac-9a23-481c-a793-bfb6958e836c.json) | [1cfa4eac-9a23-481c-a793-bfb6958e836c](roles/1cfa4eac-9a23-481c-a793-bfb6958e836c.json) |
 | [Azure Local Migrate Owner](roles/fd8ea4d5-6509-4db0-bada-356ab233b4fb.json) | [fd8ea4d5-6509-4db0-bada-356ab233b4fb](roles/fd8ea4d5-6509-4db0-bada-356ab233b4fb.json) |
 | [Azure Machine Learning Workspace Connection Secrets Reader](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) | [ea01e6af-a1c1-4350-9563-ad00f8c72ec5](roles/ea01e6af-a1c1-4350-9563-ad00f8c72ec5.json) |
@@ -700,6 +702,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Discovery Platform Reader (Preview)](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) | [3bb7c424-af4e-436b-bfcc-8779c8934c31](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) |
 | [Microsoft Discovery Project Contributor - Preview](roles/c883607b-5c40-4930-b09a-19f58ae1c538.json) | [c883607b-5c40-4930-b09a-19f58ae1c538](roles/c883607b-5c40-4930-b09a-19f58ae1c538.json) |
 | [Microsoft Discovery Project Reader - Preview](roles/ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579.json) | [ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579](roles/ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579.json) |
+| [Microsoft Discovery Storage Container Contributor - Preview](roles/9697f39a-3a08-4fc8-ab07-674a0d5cacdd.json) | [9697f39a-3a08-4fc8-ab07-674a0d5cacdd](roles/9697f39a-3a08-4fc8-ab07-674a0d5cacdd.json) |
+| [Microsoft Discovery Storage Container Reader - Preview](roles/a51eacd1-6976-43ce-b6b6-83585e3639f0.json) | [a51eacd1-6976-43ce-b6b6-83585e3639f0](roles/a51eacd1-6976-43ce-b6b6-83585e3639f0.json) |
 | [Microsoft Discovery Tools Reader - Preview](roles/84c36cf8-7fcd-4453-af30-5f5b52b86732.json) | [84c36cf8-7fcd-4453-af30-5f5b52b86732](roles/84c36cf8-7fcd-4453-af30-5f5b52b86732.json) |
 | [Microsoft PowerBI Tenant Operations Role](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) | [8c87871d-6201-42da-abb1-1c0c985ff71c](roles/8c87871d-6201-42da-abb1-1c0c985ff71c.json) |
 | [Microsoft Sentinel Automation Contributor](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) | [f4c81013-99ee-4d62-a7ee-b3f1f648599a](roles/f4c81013-99ee-4d62-a7ee-b3f1f648599a.json) |

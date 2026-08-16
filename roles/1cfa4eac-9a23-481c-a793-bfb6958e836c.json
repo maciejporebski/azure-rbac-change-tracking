@@ -19,7 +19,6 @@
     "Microsoft.Authorization/locks/delete",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Migrate/*/read",
-    "Microsoft.Migrate/migrateProjects/taskSummary/action",
     "Microsoft.ApplicationMigration/*/read",
     "Microsoft.OffAzure/*/read",
     "Microsoft.MySQLDiscovery/*/read",

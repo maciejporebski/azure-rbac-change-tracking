@@ -8,7 +8,6 @@
     "Microsoft.Security/advancedThreatProtectionSettings/write",
     "Microsoft.Security/defenderForStorageSettings/read",
     "Microsoft.Security/defenderForStorageSettings/write",
-    "Microsoft.Security/securityOperators/read",
     "Microsoft.Storage/storageAccounts/read"
   ],
   "NotActions": [],

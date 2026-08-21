@@ -694,6 +694,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Approvals Request User](roles/0343f3e8-01ac-4bb8-8f93-78b1d31ba64b.json) | [0343f3e8-01ac-4bb8-8f93-78b1d31ba64b](roles/0343f3e8-01ac-4bb8-8f93-78b1d31ba64b.json) |
 | [Microsoft Approvals Service Operator](roles/98d40527-c073-4096-943a-dd593105ca9c.json) | [98d40527-c073-4096-943a-dd593105ca9c](roles/98d40527-c073-4096-943a-dd593105ca9c.json) |
 | [Microsoft Approvals Workflow Contributor](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) | [92318126-08be-45d0-a1b2-532e6c7d52ce](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) |
+| [Microsoft Cloud Security Arc Machine Operator](roles/53ad7cb7-33cc-4509-b36b-03d40643c499.json) | [53ad7cb7-33cc-4509-b36b-03d40643c499](roles/53ad7cb7-33cc-4509-b36b-03d40643c499.json) |
 | [Microsoft Confluent Contributor role](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) | [5052f0f9-7e27-4570-bc13-9ee1cf442526](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) |
 | [Microsoft Discovery Bookshelf Index Data Reader - Preview](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) | [8ec773c5-7ce6-4b78-91d1-182f8faa536d](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) |
 | [Microsoft Discovery Chat Model Reader - Preview](roles/5e523d62-66de-4912-99be-6b009b7839cc.json) | [5e523d62-66de-4912-99be-6b009b7839cc](roles/5e523d62-66de-4912-99be-6b009b7839cc.json) |

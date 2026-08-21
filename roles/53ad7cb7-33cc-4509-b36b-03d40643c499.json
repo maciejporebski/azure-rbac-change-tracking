@@ -1,0 +1,22 @@
+{
+  "Name": "Microsoft Cloud Security Arc Machine Operator",
+  "Id": "53ad7cb7-33cc-4509-b36b-03d40643c499",
+  "IsCustom": false,
+  "Description": "Allows Microsoft Cloud Security to manage Azure Arc-enabled machines and their extensions, helping to secure connected workloads.",
+  "Actions": [
+    "Microsoft.HybridCompute/machines/read",
+    "Microsoft.HybridCompute/machines/write",
+    "Microsoft.HybridCompute/machines/delete",
+    "Microsoft.HybridCompute/machines/extensions/read",
+    "Microsoft.HybridCompute/machines/extensions/write",
+    "Microsoft.HybridCompute/machines/extensions/delete"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

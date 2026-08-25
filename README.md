@@ -388,6 +388,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Connector Namespace Reader](roles/5d0402fa-1042-4603-9e01-7fea218a05af.json) | [5d0402fa-1042-4603-9e01-7fea218a05af](roles/5d0402fa-1042-4603-9e01-7fea218a05af.json) |
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
 | [Connector Writer](roles/c459b115-f629-486b-b359-35feb5568b83.json) | [c459b115-f629-486b-b359-35feb5568b83](roles/c459b115-f629-486b-b359-35feb5568b83.json) |
+| [Container Apps Artifact Data Pull](roles/2aea396c-91f9-444f-a367-6bd94ab9a5cf.json) | [2aea396c-91f9-444f-a367-6bd94ab9a5cf](roles/2aea396c-91f9-444f-a367-6bd94ab9a5cf.json) |
 | [Container Apps ConnectedEnvironments Contributor](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) | [6f4fe6fc-f04f-4d97-8528-8bc18c848dca](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) |
 | [Container Apps ConnectedEnvironments Reader](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) | [d5adeb5b-107f-4aca-99ea-4e3f4fc008d5](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) |
 | [Container Apps Contributor](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) | [358470bc-b998-42bd-ab17-a7e34c199c0f](roles/358470bc-b998-42bd-ab17-a7e34c199c0f.json) |
@@ -694,6 +695,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Microsoft Approvals Request User](roles/0343f3e8-01ac-4bb8-8f93-78b1d31ba64b.json) | [0343f3e8-01ac-4bb8-8f93-78b1d31ba64b](roles/0343f3e8-01ac-4bb8-8f93-78b1d31ba64b.json) |
 | [Microsoft Approvals Service Operator](roles/98d40527-c073-4096-943a-dd593105ca9c.json) | [98d40527-c073-4096-943a-dd593105ca9c](roles/98d40527-c073-4096-943a-dd593105ca9c.json) |
 | [Microsoft Approvals Workflow Contributor](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) | [92318126-08be-45d0-a1b2-532e6c7d52ce](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) |
+| [Microsoft Cloud Security Arc Machine Operator](roles/53ad7cb7-33cc-4509-b36b-03d40643c499.json) | [53ad7cb7-33cc-4509-b36b-03d40643c499](roles/53ad7cb7-33cc-4509-b36b-03d40643c499.json) |
 | [Microsoft Confluent Contributor role](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) | [5052f0f9-7e27-4570-bc13-9ee1cf442526](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) |
 | [Microsoft Discovery Bookshelf Index Data Reader - Preview](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) | [8ec773c5-7ce6-4b78-91d1-182f8faa536d](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) |
 | [Microsoft Discovery Chat Model Reader - Preview](roles/5e523d62-66de-4912-99be-6b009b7839cc.json) | [5e523d62-66de-4912-99be-6b009b7839cc](roles/5e523d62-66de-4912-99be-6b009b7839cc.json) |

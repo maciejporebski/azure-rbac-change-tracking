@@ -1,0 +1,17 @@
+{
+  "Name": "Container Apps Artifact Data Pull",
+  "Id": "2aea396c-91f9-444f-a367-6bd94ab9a5cf",
+  "IsCustom": false,
+  "Description": "Grants content pull permission for Container Apps Artifacts, allowing callers to pull the contents of Artifact versions.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/artifacts/versions/pull/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

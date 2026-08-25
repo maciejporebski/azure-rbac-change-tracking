@@ -2,14 +2,16 @@
   "Name": "Device Update Administrator",
   "Id": "02ca0879-e8e4-47a5-a61e-5c618b76e64a",
   "IsCustom": false,
-  "Description": "Gives you full access to management and content operations",
+  "Description": "Gives you full access to Device Update content and device management operations, with read access to Device Update resources",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Support/*",
     "Microsoft.Insights/alertRules/*",
     "Microsoft.DeviceUpdate/accounts/read",
-    "Microsoft.DeviceUpdate/accounts/instances/read"
+    "Microsoft.DeviceUpdate/accounts/instances/read",
+    "Microsoft.DeviceUpdate/updateInstances/read",
+    "Microsoft.DeviceUpdate/linkedAccounts/read"
   ],
   "NotActions": [],
   "DataActions": [

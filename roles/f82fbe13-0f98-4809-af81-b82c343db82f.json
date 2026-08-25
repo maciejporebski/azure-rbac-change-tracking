@@ -2,7 +2,7 @@
   "Name": "Device Update Contributor",
   "Id": "f82fbe13-0f98-4809-af81-b82c343db82f",
   "IsCustom": false,
-  "Description": "Gives you full access to manage Device Update accounts, instances, and private endpoint connections",
+  "Description": "Gives you full access to manage Device Update accounts, instances, linked accounts, linking operations, and private endpoint connections",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/deployments/*",
@@ -16,7 +16,14 @@
     "Microsoft.DeviceUpdate/accounts/instances/delete",
     "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/read",
     "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/write",
-    "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/delete"
+    "Microsoft.DeviceUpdate/accounts/privateEndpointConnections/delete",
+    "Microsoft.DeviceUpdate/updateInstances/read",
+    "Microsoft.DeviceUpdate/updateInstances/write",
+    "Microsoft.DeviceUpdate/updateInstances/delete",
+    "Microsoft.DeviceUpdate/updateInstances/linkPreflight/action",
+    "Microsoft.DeviceUpdate/updateInstances/linkInitiate/action",
+    "Microsoft.DeviceUpdate/updateInstances/linkNotify/action",
+    "Microsoft.DeviceUpdate/updateInstances/linkUpdate/action"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -1,0 +1,22 @@
+{
+  "Name": "File Share Data Privileged Contributor",
+  "Id": "1eedde9e-98e4-4247-8236-e8aa2ffff3b8",
+  "IsCustom": false,
+  "Description": "Allows for read, write, and delete access to all files and directories in an Azure file share, overriding the ownership and permissions configured on those files and directories.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.FileShares/fileShares/files/read",
+    "Microsoft.FileShares/fileShares/files/write",
+    "Microsoft.FileShares/fileShares/files/delete",
+    "Microsoft.FileShares/fileShares/files/modifypermissions/action",
+    "Microsoft.FileShares/fileShares/readFileBackupSemantics/action",
+    "Microsoft.FileShares/fileShares/writeFileBackupSemantics/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

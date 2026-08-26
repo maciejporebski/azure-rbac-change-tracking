@@ -10,6 +10,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AcrPush](roles/8311e382-0749-4cb8-b61a-304f252e45ec.json) | [8311e382-0749-4cb8-b61a-304f252e45ec](roles/8311e382-0749-4cb8-b61a-304f252e45ec.json) |
 | [AcrQuarantineReader](roles/cdda3590-29a3-44f6-95f2-9f980659eb04.json) | [cdda3590-29a3-44f6-95f2-9f980659eb04](roles/cdda3590-29a3-44f6-95f2-9f980659eb04.json) |
 | [AcrQuarantineWriter](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) | [c8d4ff99-41c3-41a8-9f60-21dfdad59608](roles/c8d4ff99-41c3-41a8-9f60-21dfdad59608.json) |
+| [Advisor Discoverable Workload Reader](roles/e4ea5ade-238a-4e4a-9e4d-683d809f7072.json) | [e4ea5ade-238a-4e4a-9e4d-683d809f7072](roles/e4ea5ade-238a-4e4a-9e4d-683d809f7072.json) |
+| [Advisor Discoverable Workloads Contributor](roles/98911e7b-8e37-41af-86f4-9258b2a05035.json) | [98911e7b-8e37-41af-86f4-9258b2a05035](roles/98911e7b-8e37-41af-86f4-9258b2a05035.json) |
 | [Advisor Recommendations Contributor](roles/f680209a-a2a2-4e0d-aa81-5d2a65c13604.json) | [f680209a-a2a2-4e0d-aa81-5d2a65c13604](roles/f680209a-a2a2-4e0d-aa81-5d2a65c13604.json) |
 | [Advisor Recommendations Contributor (Assessments and Reviews)](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) | [6b534d80-e337-47c4-864f-140f5c7f593d](roles/6b534d80-e337-47c4-864f-140f5c7f593d.json) |
 | [Advisor Reviews Contributor](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) | [8aac15f0-d885-4138-8afa-bfb5872f7d13](roles/8aac15f0-d885-4138-8afa-bfb5872f7d13.json) |
@@ -329,6 +331,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Classic Virtual Machine Contributor](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) | [d73bb868-a0df-4d4d-bd69-98a00b01fccb](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) |
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
 | [Clinical Coder Data User](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) | [d0a94e7a-d791-4571-b2e0-8bdd8f867544](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) |
+| [Cloud Device Platform Sandbox Partner Data Contributor](roles/1a22653f-3441-4c27-8f4a-ba9f93b30e5d.json) | [1a22653f-3441-4c27-8f4a-ba9f93b30e5d](roles/1a22653f-3441-4c27-8f4a-ba9f93b30e5d.json) |
 | [CloudTest Contributor Role](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) | [4e9d0bd4-5aab-4f91-92df-9def33fe287c](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) |
 | [CloudTest Leased VM Reader](roles/b1e6a0dd-ea0f-4108-8925-7047693f2cfe.json) | [b1e6a0dd-ea0f-4108-8925-7047693f2cfe](roles/b1e6a0dd-ea0f-4108-8925-7047693f2cfe.json) |
 | [Cognitive Search Serverless Data Contributor (Deprecated)](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |
@@ -565,6 +568,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [FHIR Data Reader](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) | [4c8d0bbc-75d3-4935-991f-5f3c56d81508](roles/4c8d0bbc-75d3-4935-991f-5f3c56d81508.json) |
 | [FHIR Data Writer](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) | [3f88fce4-5892-4214-ae73-ba5294559913](roles/3f88fce4-5892-4214-ae73-ba5294559913.json) |
 | [FHIR SMART User](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) | [4ba50f17-9666-485c-a643-ff00808643f0](roles/4ba50f17-9666-485c-a643-ff00808643f0.json) |
+| [File Share Data Privileged Contributor](roles/1eedde9e-98e4-4247-8236-e8aa2ffff3b8.json) | [1eedde9e-98e4-4247-8236-e8aa2ffff3b8](roles/1eedde9e-98e4-4247-8236-e8aa2ffff3b8.json) |
+| [File Share Data Privileged Reader](roles/1cfd6744-7b03-40d9-87bd-9f36e42e1df2.json) | [1cfd6744-7b03-40d9-87bd-9f36e42e1df2](roles/1cfd6744-7b03-40d9-87bd-9f36e42e1df2.json) |
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
 | [Firmware Analysis Reader](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) | [2a94a2fd-3c4f-45d1-847d-6585ba88af94](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) |
 | [Firmware Analysis User](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) | [53b2724d-1e51-44fa-b586-bcace0c82609](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) |

@@ -1,0 +1,26 @@
+{
+  "Name": "Cloud Device Platform Sandbox Partner Data Contributor",
+  "Id": "1a22653f-3441-4c27-8f4a-ba9f93b30e5d",
+  "IsCustom": false,
+  "Description": "Read and manage resources for Cloud Device Platform sandbox partners.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CloudDevicePlatform/sandboxPartners/sandboxes/read",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/sandboxes/write",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/policies/read",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/policies/write",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/pools/read",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/pools/write",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/images/read",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/images/write",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/volumes/read",
+    "Microsoft.CloudDevicePlatform/sandboxPartners/volumes/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Advisor Discoverable Workloads Contributor",
+  "Id": "98911e7b-8e37-41af-86f4-9258b2a05035",
+  "IsCustom": false,
+  "Description": "Convert discoverable workload into service group.",
+  "Actions": [
+    "Microsoft.Advisor/discoverableWorkloads/read",
+    "Microsoft.Advisor/workloadResourceMappings/read",
+    "Microsoft.Advisor/discoverableWorkloads/convert/action",
+    "Microsoft.Advisor/discoverableWorkloads/conversionStatus/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Advisor Discoverable Workload Reader",
+  "Id": "e4ea5ade-238a-4e4a-9e4d-683d809f7072",
+  "IsCustom": false,
+  "Description": "View discoverable workloads and their resources.",
+  "Actions": [
+    "Microsoft.Advisor/discoverableWorkloads/read",
+    "Microsoft.Advisor/workloadResourceMappings/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

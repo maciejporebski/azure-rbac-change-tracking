@@ -1,8 +1,8 @@
 {
-  "Name": "Microsoft Discovery Bookshelf Index Data Reader - Preview",
+  "Name": "Microsoft Discovery Bookshelf Index Data Reader",
   "Id": "8ec773c5-7ce6-4b78-91d1-182f8faa536d",
   "IsCustom": false,
-  "Description": "Grants query access to search and retrieve data from Microsoft Discovery Bookshelf knowledge bases, and read-only access to list Bookshelves and their knowledge bases. This is the minimum role required to use the retrieve action when linking a knowledge base to an agent. This role is in preview and subject to change.",
+  "Description": "Grants query access to search and retrieve data from Microsoft Discovery Bookshelf knowledge bases, and read-only access to list Bookshelves and their knowledge bases. This is the minimum role required to use the retrieve action when linking a knowledge base to an agent.",
   "Actions": [
     "Microsoft.Discovery/bookshelves/read"
   ],

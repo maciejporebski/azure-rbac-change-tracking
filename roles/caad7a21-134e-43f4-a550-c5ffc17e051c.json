@@ -1,0 +1,17 @@
+{
+  "Name": "AI Gateway User",
+  "Id": "caad7a21-134e-43f4-a550-c5ffc17e051c",
+  "IsCustom": false,
+  "Description": "Invoke all assets in the AI Gateway tier of Azure API Management. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ApiManagement/service/workspaces/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

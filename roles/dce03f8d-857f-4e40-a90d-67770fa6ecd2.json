@@ -1,0 +1,17 @@
+{
+  "Name": "AI Gateway Tools User",
+  "Id": "dce03f8d-857f-4e40-a90d-67770fa6ecd2",
+  "IsCustom": false,
+  "Description": "Invoke MCP servers in the AI Gateway tier of Azure API Management. This role is in preview and subject to change.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ApiManagement/service/workspaces/toolServers/*"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

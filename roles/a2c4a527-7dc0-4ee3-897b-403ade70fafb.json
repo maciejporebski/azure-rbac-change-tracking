@@ -5,15 +5,12 @@
   "Description": "Has access to view and search through all video's insights and transcription in the Video Indexer portal. No access to model customization, embedding of widget, downloading videos, or sharing the account.",
   "Actions": [
     "Microsoft.VideoIndexer/*/read",
-    "Microsoft.VideoIndexer/accounts/generateRestrictedViewerAccessToken/action",
-    "Microsoft.VideoIndexer/accounts/generateExtensionRestrictedViewerAccessToken/action"
+    "Microsoft.VideoIndexer/accounts/*/action"
   ],
   "NotActions": [
     "Microsoft.VideoIndexer/*/write",
     "Microsoft.VideoIndexer/*/delete",
-    "Microsoft.VideoIndexer/accounts/generateAccessToken/action",
-    "Microsoft.VideoIndexer/accounts/generateExtensionAccessToken/action",
-    "Microsoft.VideoIndexer/accounts/PrivateEndpointConnectionsApproval/action"
+    "Microsoft.VideoIndexer/accounts/generateAccessToken/action"
   ],
   "DataActions": [],
   "NotDataActions": [],

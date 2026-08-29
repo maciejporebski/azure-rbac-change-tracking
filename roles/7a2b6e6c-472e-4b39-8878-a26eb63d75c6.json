@@ -1,8 +1,8 @@
 {
-  "Name": "Microsoft Discovery Platform Administrator (Preview)",
+  "Name": "Microsoft Discovery Platform Administrator",
   "Id": "7a2b6e6c-472e-4b39-8878-a26eb63d75c6",
   "IsCustom": false,
-  "Description": "Grants full access to manage Microsoft.Discovery resources. This role is in preview and subject to change.",
+  "Description": "Grants full access to manage Microsoft.Discovery resources.",
   "Actions": [
     "Microsoft.Discovery/locations/operationStatuses/read",
     "Microsoft.Discovery/checkNameAvailability/action",

@@ -13,6 +13,12 @@
     "Microsoft.Network/virtualNetworks/join/action",
     "Microsoft.Network/virtualNetworks/subnets/read",
     "Microsoft.Network/virtualNetworks/subnets/write",
+    "Microsoft.Compute/virtualMachines/read",
+    "Microsoft.Compute/virtualMachines/write",
+    "Microsoft.Compute/virtualMachineScaleSets/read",
+    "Microsoft.Compute/virtualMachineScaleSets/write",
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/write",
+    "Microsoft.Compute/virtualMachineScaleSets/virtualMachines/read",
     "Microsoft.Resources/subscriptions/providers/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Network/virtualNetworks/read"

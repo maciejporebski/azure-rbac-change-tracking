@@ -13,7 +13,9 @@
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.Management/managementGroups/read",
     "Microsoft.Resources/deployments/*",
-    "Microsoft.Support/*"
+    "Microsoft.Support/*",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete"
   ],
   "NotActions": [],
   "DataActions": [],

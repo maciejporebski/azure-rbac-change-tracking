@@ -1,8 +1,8 @@
 {
-  "Name": "Azure AI Manager and Namespace RBAC Inference Operator",
+  "Name": "Azure AIManager and Namespace RBAC Inference Operator",
   "Id": "82b2f1a9-9593-4498-a824-c209343a28ec",
   "IsCustom": false,
-  "Description": "Allows read access to all objects in an Azure AI Manager namespace, plus the ability to read Secrets and invoke inference against AI models deployed in that namespace. This role does not allow modifying objects, roles, or role bindings. However, the ability to read Secrets allows the holder to obtain ServiceAccount tokens in the namespace. Applying this role at the AI Manager scope will give access across all namespaces.",
+  "Description": "Allows read access to all objects in an Azure AIManager namespace, plus the ability to read Secrets and invoke inference against AI models deployed in that namespace. This role does not allow modifying objects, roles, or role bindings. However, the ability to read Secrets allows the holder to obtain ServiceAccount tokens in the namespace. Applying this role at the AI Manager scope will give access across all namespaces.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/operationresults/read",
@@ -43,7 +43,7 @@
     "Microsoft.ContainerService/aiManagers/serviceaccounts/read",
     "Microsoft.ContainerService/aiManagers/services/read",
     "Microsoft.ContainerService/aiManagers/secrets/read",
-    "Microsoft.ContainerService/aiManagers/inference/action"
+    "Microsoft.ContainerService/aiManagers/namespaces/inference/action"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

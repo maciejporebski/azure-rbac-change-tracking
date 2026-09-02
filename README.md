@@ -21,6 +21,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AgFood Platform Service Admin](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) | [f8da80de-1ff9-4747-ad80-a19b7f6079e3](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) |
 | [AgFood Platform Service Contributor](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) | [8508508a-4469-4e45-963b-2518ee0bb728](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) |
 | [AgFood Platform Service Reader](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) | [7ec7ccdc-f61e-41fe-9aaf-980df0a44eba](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) |
+| [AI Gateway Models User](roles/a6b68e3d-a1f0-4c60-8678-237c050cf4ea.json) | [a6b68e3d-a1f0-4c60-8678-237c050cf4ea](roles/a6b68e3d-a1f0-4c60-8678-237c050cf4ea.json) |
+| [AI Gateway Tools User](roles/dce03f8d-857f-4e40-a90d-67770fa6ecd2.json) | [dce03f8d-857f-4e40-a90d-67770fa6ecd2](roles/dce03f8d-857f-4e40-a90d-67770fa6ecd2.json) |
 | [AI Gateway User](roles/caad7a21-134e-43f4-a550-c5ffc17e051c.json) | [caad7a21-134e-43f4-a550-c5ffc17e051c](roles/caad7a21-134e-43f4-a550-c5ffc17e051c.json) |
 | [AI Model Scanner Operator](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) | [8b9beb50-e28c-4879-8472-24c9d328085f](roles/8b9beb50-e28c-4879-8472-24c9d328085f.json) |
 | [AnyBuild Builder](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) | [a2138dac-4907-4679-a376-736901ed8ad8](roles/a2138dac-4907-4679-a376-736901ed8ad8.json) |
@@ -78,8 +80,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
-| [Azure AI Manager and Namespace RBAC Inference Operator](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
+| [Azure AIManager and Namespace RBAC Inference Operator](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
 | [Azure AIManager and namespace RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager Contributor](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) | [413f2675-4911-4010-be3b-c720b43a3c59](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) |
 | [Azure AIManager User](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) | [223653d0-bf85-419e-ac7a-a67edf5fc44b](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) |
@@ -519,6 +521,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Diagnostics Operator](roles/64375caa-ac3e-48b3-9492-da4d60aba7bb.json) | [64375caa-ac3e-48b3-9492-da4d60aba7bb](roles/64375caa-ac3e-48b3-9492-da4d60aba7bb.json) |
 | [DICOM Data Owner](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) | [58a3b984-7adf-4c20-983a-32417c86fbc8](roles/58a3b984-7adf-4c20-983a-32417c86fbc8.json) |
 | [DICOM Data Reader](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) | [e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a](roles/e89c7a3c-2f64-4fa1-a847-3e4c9ba4283a.json) |
+| [Discovery Log Analytics Cluster Linker - Preview](roles/506c2fa4-2713-45d3-a893-4b1360a66e88.json) | [506c2fa4-2713-45d3-a893-4b1360a66e88](roles/506c2fa4-2713-45d3-a893-4b1360a66e88.json) |
 | [Disk Backup Reader](roles/3e5e47e6-65f7-47ef-90b5-e5dd4d455f24.json) | [3e5e47e6-65f7-47ef-90b5-e5dd4d455f24](roles/3e5e47e6-65f7-47ef-90b5-e5dd4d455f24.json) |
 | [Disk Encryption Set Operator for Managed Disks](roles/136d308c-0937-4a49-9bd7-edfb42adbffc.json) | [136d308c-0937-4a49-9bd7-edfb42adbffc](roles/136d308c-0937-4a49-9bd7-edfb42adbffc.json) |
 | [Disk Pool Operator](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) | [60fc6e62-5479-42d4-8bf4-67625fcc2840](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) |
@@ -698,16 +701,17 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Managed Services Registration assignment Delete Role](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) | [91c1777a-f3dc-4fae-b103-61d183457e46](roles/91c1777a-f3dc-4fae-b103-61d183457e46.json) |
 | [Management Group Contributor](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) | [5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c](roles/5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c.json) |
 | [Management Group Reader](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) | [ac63b705-f282-497d-ac71-919bf39d939d](roles/ac63b705-f282-497d-ac71-919bf39d939d.json) |
+| [MEAT Criteria Data User](roles/24e6456b-7741-4fc8-b632-f44af1180ec3.json) | [24e6456b-7741-4fc8-b632-f44af1180ec3](roles/24e6456b-7741-4fc8-b632-f44af1180ec3.json) |
 | [Microsoft Approvals Request User](roles/0343f3e8-01ac-4bb8-8f93-78b1d31ba64b.json) | [0343f3e8-01ac-4bb8-8f93-78b1d31ba64b](roles/0343f3e8-01ac-4bb8-8f93-78b1d31ba64b.json) |
 | [Microsoft Approvals Service Operator](roles/98d40527-c073-4096-943a-dd593105ca9c.json) | [98d40527-c073-4096-943a-dd593105ca9c](roles/98d40527-c073-4096-943a-dd593105ca9c.json) |
 | [Microsoft Approvals Workflow Contributor](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) | [92318126-08be-45d0-a1b2-532e6c7d52ce](roles/92318126-08be-45d0-a1b2-532e6c7d52ce.json) |
 | [Microsoft Cloud Security Arc Machine Operator](roles/53ad7cb7-33cc-4509-b36b-03d40643c499.json) | [53ad7cb7-33cc-4509-b36b-03d40643c499](roles/53ad7cb7-33cc-4509-b36b-03d40643c499.json) |
 | [Microsoft Confluent Contributor role](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) | [5052f0f9-7e27-4570-bc13-9ee1cf442526](roles/5052f0f9-7e27-4570-bc13-9ee1cf442526.json) |
-| [Microsoft Discovery Bookshelf Index Data Reader - Preview](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) | [8ec773c5-7ce6-4b78-91d1-182f8faa536d](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) |
+| [Microsoft Discovery Bookshelf Index Data Reader](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) | [8ec773c5-7ce6-4b78-91d1-182f8faa536d](roles/8ec773c5-7ce6-4b78-91d1-182f8faa536d.json) |
 | [Microsoft Discovery Chat Model Reader - Preview](roles/5e523d62-66de-4912-99be-6b009b7839cc.json) | [5e523d62-66de-4912-99be-6b009b7839cc](roles/5e523d62-66de-4912-99be-6b009b7839cc.json) |
-| [Microsoft Discovery Platform Administrator (Preview)](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) | [7a2b6e6c-472e-4b39-8878-a26eb63d75c6](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) |
-| [Microsoft Discovery Platform Contributor (Preview)](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) | [01288891-85ee-45a7-b367-9db3b752fc65](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) |
-| [Microsoft Discovery Platform Reader (Preview)](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) | [3bb7c424-af4e-436b-bfcc-8779c8934c31](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) |
+| [Microsoft Discovery Platform Administrator](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) | [7a2b6e6c-472e-4b39-8878-a26eb63d75c6](roles/7a2b6e6c-472e-4b39-8878-a26eb63d75c6.json) |
+| [Microsoft Discovery Platform Contributor](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) | [01288891-85ee-45a7-b367-9db3b752fc65](roles/01288891-85ee-45a7-b367-9db3b752fc65.json) |
+| [Microsoft Discovery Platform Reader](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) | [3bb7c424-af4e-436b-bfcc-8779c8934c31](roles/3bb7c424-af4e-436b-bfcc-8779c8934c31.json) |
 | [Microsoft Discovery Project Contributor - Preview](roles/c883607b-5c40-4930-b09a-19f58ae1c538.json) | [c883607b-5c40-4930-b09a-19f58ae1c538](roles/c883607b-5c40-4930-b09a-19f58ae1c538.json) |
 | [Microsoft Discovery Project Reader - Preview](roles/ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579.json) | [ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579](roles/ac7d1e6d-3070-4d7d-9cd9-7adbf5cdd579.json) |
 | [Microsoft Discovery Storage Container Contributor - Preview](roles/9697f39a-3a08-4fc8-ab07-674a0d5cacdd.json) | [9697f39a-3a08-4fc8-ab07-674a0d5cacdd](roles/9697f39a-3a08-4fc8-ab07-674a0d5cacdd.json) |

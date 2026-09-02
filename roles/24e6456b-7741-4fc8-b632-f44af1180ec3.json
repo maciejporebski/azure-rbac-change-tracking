@@ -1,0 +1,17 @@
+{
+  "Name": "MEAT Criteria Data User",
+  "Id": "24e6456b-7741-4fc8-b632-f44af1180ec3",
+  "IsCustom": false,
+  "Description": "Process health data in MEAT Criteria service API",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.HealthBot/healthBots/AIActions/MEATCriteria/Process/Action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -3,6 +3,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 
 | Role Name | Role Id |
 | --- | --- |
+| [A365 Gateway Policy Operator](roles/849de3f8-3686-489c-bd02-732984d0c145.json) | [849de3f8-3686-489c-bd02-732984d0c145](roles/849de3f8-3686-489c-bd02-732984d0c145.json) |
 | [Access Review Operator Service Role](roles/76cc9ee4-d5d3-4a45-a930-26add3d73475.json) | [76cc9ee4-d5d3-4a45-a930-26add3d73475](roles/76cc9ee4-d5d3-4a45-a930-26add3d73475.json) |
 | [AcrDelete](roles/c2f4ef07-c644-48eb-af81-4b1b4947fb11.json) | [c2f4ef07-c644-48eb-af81-4b1b4947fb11](roles/c2f4ef07-c644-48eb-af81-4b1b4947fb11.json) |
 | [AcrImageSigner](roles/6cef56e8-d556-48e5-a04f-b8e64114680f.json) | [6cef56e8-d556-48e5-a04f-b8e64114680f](roles/6cef56e8-d556-48e5-a04f-b8e64114680f.json) |
@@ -80,8 +81,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Enterprise Network Connection Approver](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) | [b556d68e-0be0-4f35-a333-ad7ee1ce17ea](roles/b556d68e-0be0-4f35-a333-ad7ee1ce17ea.json) |
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
-| [Azure AI Manager and Namespace RBAC Inference Operator](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
+| [Azure AIManager and Namespace RBAC Inference Operator](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
 | [Azure AIManager and namespace RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager Contributor](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) | [413f2675-4911-4010-be3b-c720b43a3c59](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) |
 | [Azure AIManager User](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) | [223653d0-bf85-419e-ac7a-a67edf5fc44b](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) |

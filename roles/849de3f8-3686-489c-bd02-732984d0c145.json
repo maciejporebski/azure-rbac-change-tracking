@@ -1,0 +1,21 @@
+{
+  "Name": "A365 Gateway Policy Operator",
+  "Id": "849de3f8-3686-489c-bd02-732984d0c145",
+  "IsCustom": false,
+  "Description": "Read Azure API Management services and update asset's access state according to A365 policies.",
+  "Actions": [
+    "Microsoft.ApiManagement/service/read",
+    "Microsoft.ApiManagement/service/apis/read",
+    "Microsoft.ApiManagement/service/apis/write",
+    "Microsoft.ApiManagement/service/workspaces/toolServers/read",
+    "Microsoft.ApiManagement/service/workspaces/toolServers/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -7,6 +7,7 @@
     "Microsoft.Authorization/*/read",
     "Microsoft.Network/virtualNetworks/read",
     "Microsoft.RecoveryServices/locations/*",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappingStatus/action",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/operationResults/*",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/*",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/refreshContainers/action",

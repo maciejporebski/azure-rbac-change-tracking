@@ -82,6 +82,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
+| [Azure AIManager and namespace RBAC Admin](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) | [e2845093-d729-45cd-9f6e-a337c027d655](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) |
 | [Azure AIManager and Namespace RBAC Inference Operator](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
 | [Azure AIManager and namespace RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager Contributor](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) | [413f2675-4911-4010-be3b-c720b43a3c59](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) |
@@ -150,6 +151,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Extension for SQL Server Deployment](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) | [7392c568-9289-4bde-aaaa-b7131215889d](roles/7392c568-9289-4bde-aaaa-b7131215889d.json) |
 | [Azure File Sync Administrator](roles/92b92042-07d9-4307-87f7-36a593fc5850.json) | [92b92042-07d9-4307-87f7-36a593fc5850](roles/92b92042-07d9-4307-87f7-36a593fc5850.json) |
 | [Azure File Sync Reader](roles/754c1a27-40dc-4708-8ad4-2bffdeee09e8.json) | [754c1a27-40dc-4708-8ad4-2bffdeee09e8](roles/754c1a27-40dc-4708-8ad4-2bffdeee09e8.json) |
+| [Azure Firewall for Containers Configuration Manager](roles/3060977b-24b3-41d4-89d2-3c9b2c426041.json) | [3060977b-24b3-41d4-89d2-3c9b2c426041](roles/3060977b-24b3-41d4-89d2-3c9b2c426041.json) |
 | [Azure Front Door Domain Contributor](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) | [0ab34830-df19-4f8c-b84e-aa85b8afa6e8](roles/0ab34830-df19-4f8c-b84e-aa85b8afa6e8.json) |
 | [Azure Front Door Domain Reader](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) | [0f99d363-226e-4dca-9920-b807cf8e1a5f](roles/0f99d363-226e-4dca-9920-b807cf8e1a5f.json) |
 | [Azure Front Door Profile Reader](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) | [662802e2-50f6-46b0-aed2-e834bacc6d12](roles/662802e2-50f6-46b0-aed2-e834bacc6d12.json) |

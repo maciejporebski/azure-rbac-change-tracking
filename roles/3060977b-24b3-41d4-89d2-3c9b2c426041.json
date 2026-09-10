@@ -1,0 +1,17 @@
+{
+  "Name": "Azure Firewall for Containers Configuration Manager",
+  "Id": "3060977b-24b3-41d4-89d2-3c9b2c426041",
+  "IsCustom": false,
+  "Description": "Allows access and configuration updates to Azure Firewall for Containers.",
+  "Actions": [
+    "Microsoft.Network/azureFirewalls/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

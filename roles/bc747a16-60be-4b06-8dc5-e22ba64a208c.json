@@ -1,0 +1,39 @@
+{
+  "Name": "CTR Contributor",
+  "Id": "bc747a16-60be-4b06-8dc5-e22ba64a208c",
+  "IsCustom": false,
+  "Description": "Allows cross-tenant restore operations using Recovery Services vault mappings.",
+  "Actions": [
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupTriggerValidateOperation/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupValidateOperation/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/remove/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupJobs/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/vaultCredentials/generate/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/vaultCredentials/operationResults/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/vaultCredentials/operationStatus/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/protectionContainers/protectedItems/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/protectionContainers/protectedItems/operationResults/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/protectionContainers/protectedItems/operationsStatus/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/protectionContainers/protectedItems/recoveryPoints/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/protectionContainers/protectedItems/recoveryPoints/restore/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupProtectedItems/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupValidateOperationResults/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupValidateOperationsStatuses/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/getRecoveryPoints/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/preCheckRestore/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/restore/action",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/operationsStatus/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/recoveryPointOperationResults/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/validateBulkRestoreOperationsStatus/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupJobs/backupChildJobs/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

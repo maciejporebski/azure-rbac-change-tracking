@@ -1,0 +1,18 @@
+{
+  "Name": "CTR Creator",
+  "Id": "60141276-53cb-43d3-9eeb-bbe8980b1f53",
+  "IsCustom": false,
+  "Description": "Allows creating cross-tenant restore vault mappings on a target Recovery Services vault.",
+  "Actions": [
+    "Microsoft.RecoveryServices/Vaults/read",
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

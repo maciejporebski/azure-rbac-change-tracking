@@ -102,8 +102,7 @@
     "Microsoft.ProgramEnrollment/register/action",
     "Microsoft.ProgramEnrollment/eduEnrollments/read",
     "Microsoft.ProgramEnrollment/eduEnrollments/write",
-    "Microsoft.ProgramEnrollment/eduEnrollments/delete",
-    "Microsoft.Billing/billingProperty/read"
+    "Microsoft.ProgramEnrollment/eduEnrollments/delete"
   ],
   "NotActions": [],
   "DataActions": [],

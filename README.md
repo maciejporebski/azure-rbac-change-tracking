@@ -83,9 +83,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure AIManager and namespace RBAC Admin](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) | [e2845093-d729-45cd-9f6e-a337c027d655](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) |
+| [Azure AIManager and Namespace RBAC Inference Operator](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
+| [Azure AIManager and namespace RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager Contributor](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) | [413f2675-4911-4010-be3b-c720b43a3c59](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) |
-| [Azure AIManager Inference User](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
-| [Azure AIManager RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager User](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) | [223653d0-bf85-419e-ac7a-a67edf5fc44b](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) |
 | [Azure API Center Compliance Manager](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) | [ede9aaa3-4627-494e-be13-4aa7c256148d](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) |
 | [Azure API Center Credential Access Reader](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) | [1df7cd83-1d3f-41df-95b0-53b30d963369](roles/1df7cd83-1d3f-41df-95b0-53b30d963369.json) |
@@ -443,8 +443,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Cost Management Reader](roles/72fafb9e-0641-4937-9268-a91bfd8191a3.json) | [72fafb9e-0641-4937-9268-a91bfd8191a3](roles/72fafb9e-0641-4937-9268-a91bfd8191a3.json) |
 | [CrossConnectionManager](roles/399c3b2b-64c2-4ff1-af34-571db925b068.json) | [399c3b2b-64c2-4ff1-af34-571db925b068](roles/399c3b2b-64c2-4ff1-af34-571db925b068.json) |
 | [CrossConnectionReader](roles/b6ee44de-fe58-4ddc-b5c2-ab174eb23f05.json) | [b6ee44de-fe58-4ddc-b5c2-ab174eb23f05](roles/b6ee44de-fe58-4ddc-b5c2-ab174eb23f05.json) |
-| [CTR Contributor](roles/bc747a16-60be-4b06-8dc5-e22ba64a208c.json) | [bc747a16-60be-4b06-8dc5-e22ba64a208c](roles/bc747a16-60be-4b06-8dc5-e22ba64a208c.json) |
-| [CTR Creator](roles/60141276-53cb-43d3-9eeb-bbe8980b1f53.json) | [60141276-53cb-43d3-9eeb-bbe8980b1f53](roles/60141276-53cb-43d3-9eeb-bbe8980b1f53.json) |
 | [Data Boundary Tenant Administrator](roles/d1a38570-4b05-4d70-b8e4-1100bcf76d12.json) | [d1a38570-4b05-4d70-b8e4-1100bcf76d12](roles/d1a38570-4b05-4d70-b8e4-1100bcf76d12.json) |
 | [Data Box Contributor](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) | [add466c9-e687-43fc-8d98-dfcf8d720be5](roles/add466c9-e687-43fc-8d98-dfcf8d720be5.json) |
 | [Data Box Reader](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) | [028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027](roles/028f4ed7-e2a9-465e-a8f4-9c0ffdfdc027.json) |

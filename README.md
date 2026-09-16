@@ -839,6 +839,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Security Detonation Chamber Submitter](roles/0b555d9b-b4a7-4f43-b330-627f0e5be8f0.json) | [0b555d9b-b4a7-4f43-b330-627f0e5be8f0](roles/0b555d9b-b4a7-4f43-b330-627f0e5be8f0.json) |
 | [Security Manager (Legacy)](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) | [e3d13bf0-dd5a-482e-ba6b-9b8433878d10](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) |
 | [Security Reader](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) | [39bc4728-0917-49c7-9d2c-d95423bc2eb4](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) |
+| [Security Service Entitlements Contributor](roles/23511ce8-0df2-4291-ac54-4c47989f54fa.json) | [23511ce8-0df2-4291-ac54-4c47989f54fa](roles/23511ce8-0df2-4291-ac54-4c47989f54fa.json) |
 | [Semantic Reranker User](roles/6c74a7c5-4a87-40f9-bb03-61e49aecbc78.json) | [6c74a7c5-4a87-40f9-bb03-61e49aecbc78](roles/6c74a7c5-4a87-40f9-bb03-61e49aecbc78.json) |
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
 | [Service Fabric Cluster Contributor](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) | [b6efc156-f0da-4e90-a50a-8c000140b017](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) |

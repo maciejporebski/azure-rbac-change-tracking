@@ -17,7 +17,6 @@
     "Microsoft.AzureStackHCI/edgeMachines/volumes/read",
     "Microsoft.AzureStackHCI/edgeMachines/networkAdapters/read",
     "Microsoft.AzureStackHCI/edgeMachines/networkAdapters/jobs/read",
-    "Microsoft.HybridCompute/machines/read",
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],

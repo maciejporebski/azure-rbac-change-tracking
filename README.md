@@ -188,6 +188,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Kubernetes Service Cluster Monitoring User](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) | [1afdec4b-e479-420e-99e7-f82237c7c5e6](roles/1afdec4b-e479-420e-99e7-f82237c7c5e6.json) |
 | [Azure Kubernetes Service Cluster User Role](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) | [4abbcc35-e782-43d8-92c5-2d3f1bd2253f](roles/4abbcc35-e782-43d8-92c5-2d3f1bd2253f.json) |
 | [Azure Kubernetes Service Contributor Role](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) | [ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8](roles/ed7f3fbd-7b88-4dd4-9017-9adb7ce333f8.json) |
+| [Azure Kubernetes Service Flex Node Agent Role](roles/8f139b0f-7eaf-460b-a9da-5b1246d9ed0d.json) | [8f139b0f-7eaf-460b-a9da-5b1246d9ed0d](roles/8f139b0f-7eaf-460b-a9da-5b1246d9ed0d.json) |
 | [Azure Kubernetes Service Hybrid Cluster Admin Role](roles/b5092dac-c796-4349-8681-1a322a31c3f9.json) | [b5092dac-c796-4349-8681-1a322a31c3f9](roles/b5092dac-c796-4349-8681-1a322a31c3f9.json) |
 | [Azure Kubernetes Service Hybrid Cluster User Role](roles/fc3f91a1-40bf-4439-8c46-45edbd83563a.json) | [fc3f91a1-40bf-4439-8c46-45edbd83563a](roles/fc3f91a1-40bf-4439-8c46-45edbd83563a.json) |
 | [Azure Kubernetes Service Hybrid Contributor Role](roles/e7037d40-443a-4434-a3fb-8cd202011e1d.json) | [e7037d40-443a-4434-a3fb-8cd202011e1d](roles/e7037d40-443a-4434-a3fb-8cd202011e1d.json) |
@@ -598,6 +599,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Garnet Script Data Contributor](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) | [7021ea36-e168-4bc0-af53-88de51d20665](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) |
 | [Gcp Connector contributor role](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) | [a51d5f27-deba-47d1-9ccd-8589014b2e28](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) |
 | [Genome Admin](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) | [ef3729d8-2861-401e-95ae-c7d4845a6097](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) |
+| [Genome Data Reader](roles/1344669a-e3ad-4e43-8972-087b0c4cf2d9.json) | [1344669a-e3ad-4e43-8972-087b0c4cf2d9](roles/1344669a-e3ad-4e43-8972-087b0c4cf2d9.json) |
 | [Genome EndUser](roles/0e91b552-ae32-49ea-9898-317af306aa4b.json) | [0e91b552-ae32-49ea-9898-317af306aa4b](roles/0e91b552-ae32-49ea-9898-317af306aa4b.json) |
 | [Genome SuperAdmin](roles/27ddfca1-add5-422d-9817-ab0d2d13dc6c.json) | [27ddfca1-add5-422d-9817-ab0d2d13dc6c](roles/27ddfca1-add5-422d-9817-ab0d2d13dc6c.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |
@@ -839,6 +841,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Security Detonation Chamber Submitter](roles/0b555d9b-b4a7-4f43-b330-627f0e5be8f0.json) | [0b555d9b-b4a7-4f43-b330-627f0e5be8f0](roles/0b555d9b-b4a7-4f43-b330-627f0e5be8f0.json) |
 | [Security Manager (Legacy)](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) | [e3d13bf0-dd5a-482e-ba6b-9b8433878d10](roles/e3d13bf0-dd5a-482e-ba6b-9b8433878d10.json) |
 | [Security Reader](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) | [39bc4728-0917-49c7-9d2c-d95423bc2eb4](roles/39bc4728-0917-49c7-9d2c-d95423bc2eb4.json) |
+| [Security Service Entitlements Contributor](roles/23511ce8-0df2-4291-ac54-4c47989f54fa.json) | [23511ce8-0df2-4291-ac54-4c47989f54fa](roles/23511ce8-0df2-4291-ac54-4c47989f54fa.json) |
 | [Semantic Reranker User](roles/6c74a7c5-4a87-40f9-bb03-61e49aecbc78.json) | [6c74a7c5-4a87-40f9-bb03-61e49aecbc78](roles/6c74a7c5-4a87-40f9-bb03-61e49aecbc78.json) |
 | [Service Connector Contributor](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) | [db7003cd-07a9-490c-bfa5-23e40314f8d7](roles/db7003cd-07a9-490c-bfa5-23e40314f8d7.json) |
 | [Service Fabric Cluster Contributor](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) | [b6efc156-f0da-4e90-a50a-8c000140b017](roles/b6efc156-f0da-4e90-a50a-8c000140b017.json) |

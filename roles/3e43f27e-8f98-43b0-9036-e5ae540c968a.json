@@ -25,6 +25,7 @@
     "Microsoft.AzureStackHCI/edgeMachines/networkAdapters/jobs/read",
     "Microsoft.AzureStackHCI/edgeMachines/networkAdapters/jobs/write",
     "Microsoft.AzureStackHCI/edgeMachines/networkAdapters/jobs/delete",
+    "Microsoft.HybridCompute/machines/read",
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],

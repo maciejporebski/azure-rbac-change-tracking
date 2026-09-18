@@ -1,0 +1,17 @@
+{
+  "Name": "Genome Data Reader",
+  "Id": "1344669a-e3ad-4e43-8972-087b0c4cf2d9",
+  "IsCustom": false,
+  "Description": "Grants read access to Genome data plane operations",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Genome/data/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

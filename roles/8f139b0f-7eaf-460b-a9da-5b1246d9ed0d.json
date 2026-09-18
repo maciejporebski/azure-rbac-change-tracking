@@ -1,0 +1,19 @@
+{
+  "Name": "Azure Kubernetes Service Flex Node Agent Role",
+  "Id": "8f139b0f-7eaf-460b-a9da-5b1246d9ed0d",
+  "IsCustom": false,
+  "Description": "Grants AKS Flex Node agents permission to retrieve bootstrap data and manage machine resources within an agent pool",
+  "Actions": [
+    "Microsoft.ContainerService/managedClusters/agentPools/listBootstrapData/action",
+    "Microsoft.ContainerService/managedClusters/agentPools/machines/read",
+    "Microsoft.ContainerService/managedClusters/agentPools/machines/write"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

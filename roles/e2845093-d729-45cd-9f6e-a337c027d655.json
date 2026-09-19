@@ -1,8 +1,8 @@
 {
-  "Name": "Azure AIManager and namespace RBAC Admin",
+  "Name": "Azure AIManager RBAC Admin",
   "Id": "e2845093-d729-45cd-9f6e-a337c027d655",
   "IsCustom": false,
-  "Description": "Allows read/write access to all objects in an Azure AI Manager namespace, except Secrets, roles, and role bindings. Applying this role at the AI Manager scope will give access across all namespaces.",
+  "Description": "Allows read/write access to all Kubernetes objects in an Azure AIManager.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/operationresults/read",

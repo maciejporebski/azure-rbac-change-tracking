@@ -82,9 +82,9 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Enterprise Networking Outbound Rules Operator](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) | [25cabde7-1a6c-4350-8877-cb6fe59f1399](roles/25cabde7-1a6c-4350-8877-cb6fe59f1399.json) |
 | [Azure AI Inference Deployment Operator](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) | [3afb7f49-54cb-416e-8c09-6dc049efa503](roles/3afb7f49-54cb-416e-8c09-6dc049efa503.json) |
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
+| [Azure AIManager and namespace RBAC Admin](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) | [e2845093-d729-45cd-9f6e-a337c027d655](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) |
 | [Azure AIManager Contributor](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) | [413f2675-4911-4010-be3b-c720b43a3c59](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) |
 | [Azure AIManager Inference User](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
-| [Azure AIManager RBAC Admin](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) | [e2845093-d729-45cd-9f6e-a337c027d655](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) |
 | [Azure AIManager RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager User](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) | [223653d0-bf85-419e-ac7a-a67edf5fc44b](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) |
 | [Azure API Center Compliance Manager](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) | [ede9aaa3-4627-494e-be13-4aa7c256148d](roles/ede9aaa3-4627-494e-be13-4aa7c256148d.json) |
@@ -95,7 +95,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc Enabled Kubernetes Cluster User Role](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) | [00493d72-78f6-4148-b6c5-d3ce8e4799dd](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) |
 | [Azure Arc Kubernetes Admin](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) | [dffb1e0c-446f-4dde-a09f-99eb5cc68b96](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) |
 | [Azure Arc Kubernetes Cluster Admin](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) | [8393591c-06b9-48a2-a542-1bd6b377f6a2](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) |
-| [Azure Arc Kubernetes Reader](roles/06927065-6e3c-475e-b565-1dd2c3a93b60.json) | [06927065-6e3c-475e-b565-1dd2c3a93b60](roles/06927065-6e3c-475e-b565-1dd2c3a93b60.json) |
 | [Azure Arc Kubernetes Viewer](roles/63f0a09d-1495-4db4-a681-037d84835eb4.json) | [63f0a09d-1495-4db4-a681-037d84835eb4](roles/63f0a09d-1495-4db4-a681-037d84835eb4.json) |
 | [Azure Arc Kubernetes Writer](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) | [5b999177-9696-4545-85c7-50de3797e5a1](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) |
 | [Azure Arc ScVmm Administrator role](roles/a92dfd61-77f9-4aec-a531-19858b406c87.json) | [a92dfd61-77f9-4aec-a531-19858b406c87](roles/a92dfd61-77f9-4aec-a531-19858b406c87.json) |

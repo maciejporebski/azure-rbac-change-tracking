@@ -2,7 +2,7 @@
   "Name": "Azure AIManager RBAC Reader",
   "Id": "9c77f8a7-b0b9-4462-844c-de6e66add8ba",
   "IsCustom": false,
-  "Description": "Allows read-only access to all Kubernetes objects in an Azure AIManager, except Secrets, roles, and role bindings. Applying this role at the AIManager scope will give access across all namespaces.",
+  "Description": "Allows read-only access to all objects in an Azure AI Manager namespace, except Secrets, roles, and role bindings. Applying this role at the AI Manager scope will give access across all namespaces.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Resources/subscriptions/operationresults/read",

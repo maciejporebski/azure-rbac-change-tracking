@@ -599,7 +599,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Garnet Script Data Contributor](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) | [7021ea36-e168-4bc0-af53-88de51d20665](roles/7021ea36-e168-4bc0-af53-88de51d20665.json) |
 | [Gcp Connector contributor role](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) | [a51d5f27-deba-47d1-9ccd-8589014b2e28](roles/a51d5f27-deba-47d1-9ccd-8589014b2e28.json) |
 | [Genome Admin](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) | [ef3729d8-2861-401e-95ae-c7d4845a6097](roles/ef3729d8-2861-401e-95ae-c7d4845a6097.json) |
-| [Genome Data Reader](roles/1344669a-e3ad-4e43-8972-087b0c4cf2d9.json) | [1344669a-e3ad-4e43-8972-087b0c4cf2d9](roles/1344669a-e3ad-4e43-8972-087b0c4cf2d9.json) |
 | [Genome EndUser](roles/0e91b552-ae32-49ea-9898-317af306aa4b.json) | [0e91b552-ae32-49ea-9898-317af306aa4b](roles/0e91b552-ae32-49ea-9898-317af306aa4b.json) |
 | [Genome SuperAdmin](roles/27ddfca1-add5-422d-9817-ab0d2d13dc6c.json) | [27ddfca1-add5-422d-9817-ab0d2d13dc6c](roles/27ddfca1-add5-422d-9817-ab0d2d13dc6c.json) |
 | [GeoCatalog Administrator](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) | [c9c97b9c-105d-4bb5-a2a7-7d15666c2484](roles/c9c97b9c-105d-4bb5-a2a7-7d15666c2484.json) |

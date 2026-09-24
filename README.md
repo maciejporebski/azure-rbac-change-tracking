@@ -84,6 +84,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure AI Safety Evaluator](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) | [11102f94-c441-49e6-a78b-ef80e0188abc](roles/11102f94-c441-49e6-a78b-ef80e0188abc.json) |
 | [Azure AIManager Contributor](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) | [413f2675-4911-4010-be3b-c720b43a3c59](roles/413f2675-4911-4010-be3b-c720b43a3c59.json) |
 | [Azure AIManager Inference User](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) | [82b2f1a9-9593-4498-a824-c209343a28ec](roles/82b2f1a9-9593-4498-a824-c209343a28ec.json) |
+| [Azure AIManager Model User](roles/cfd6c7dc-3ed8-41c1-989c-bccee069803a.json) | [cfd6c7dc-3ed8-41c1-989c-bccee069803a](roles/cfd6c7dc-3ed8-41c1-989c-bccee069803a.json) |
 | [Azure AIManager RBAC Admin](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) | [e2845093-d729-45cd-9f6e-a337c027d655](roles/e2845093-d729-45cd-9f6e-a337c027d655.json) |
 | [Azure AIManager RBAC Reader](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) | [9c77f8a7-b0b9-4462-844c-de6e66add8ba](roles/9c77f8a7-b0b9-4462-844c-de6e66add8ba.json) |
 | [Azure AIManager User](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) | [223653d0-bf85-419e-ac7a-a67edf5fc44b](roles/223653d0-bf85-419e-ac7a-a67edf5fc44b.json) |
@@ -95,6 +96,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Arc Enabled Kubernetes Cluster User Role](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) | [00493d72-78f6-4148-b6c5-d3ce8e4799dd](roles/00493d72-78f6-4148-b6c5-d3ce8e4799dd.json) |
 | [Azure Arc Kubernetes Admin](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) | [dffb1e0c-446f-4dde-a09f-99eb5cc68b96](roles/dffb1e0c-446f-4dde-a09f-99eb5cc68b96.json) |
 | [Azure Arc Kubernetes Cluster Admin](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) | [8393591c-06b9-48a2-a542-1bd6b377f6a2](roles/8393591c-06b9-48a2-a542-1bd6b377f6a2.json) |
+| [Azure Arc Kubernetes Reader](roles/06927065-6e3c-475e-b565-1dd2c3a93b60.json) | [06927065-6e3c-475e-b565-1dd2c3a93b60](roles/06927065-6e3c-475e-b565-1dd2c3a93b60.json) |
 | [Azure Arc Kubernetes Viewer](roles/63f0a09d-1495-4db4-a681-037d84835eb4.json) | [63f0a09d-1495-4db4-a681-037d84835eb4](roles/63f0a09d-1495-4db4-a681-037d84835eb4.json) |
 | [Azure Arc Kubernetes Writer](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) | [5b999177-9696-4545-85c7-50de3797e5a1](roles/5b999177-9696-4545-85c7-50de3797e5a1.json) |
 | [Azure Arc ScVmm Administrator role](roles/a92dfd61-77f9-4aec-a531-19858b406c87.json) | [a92dfd61-77f9-4aec-a531-19858b406c87](roles/a92dfd61-77f9-4aec-a531-19858b406c87.json) |
@@ -539,6 +541,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [DocumentDB Account Contributor](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) | [5bd9cd88-fe45-4216-938b-f97437e15450](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) |
 | [Domain Services Contributor](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) | [eeaeda52-9324-47f6-8069-5d5bade478b2](roles/eeaeda52-9324-47f6-8069-5d5bade478b2.json) |
 | [Domain Services Reader](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) | [361898ef-9ed1-48c2-849c-a832951106bb](roles/361898ef-9ed1-48c2-849c-a832951106bb.json) |
+| [Durable Task Contributor](roles/b774de67-8924-4991-9fe5-07d8a8f51401.json) | [b774de67-8924-4991-9fe5-07d8a8f51401](roles/b774de67-8924-4991-9fe5-07d8a8f51401.json) |
 | [Durable Task Data Contributor](roles/0ad04412-c4d5-4796-b79c-f76d14c8d402.json) | [0ad04412-c4d5-4796-b79c-f76d14c8d402](roles/0ad04412-c4d5-4796-b79c-f76d14c8d402.json) |
 | [Durable Task Data Reader](roles/d6a5505f-6ebb-45a4-896e-ac8274cfc0ac.json) | [d6a5505f-6ebb-45a4-896e-ac8274cfc0ac](roles/d6a5505f-6ebb-45a4-896e-ac8274cfc0ac.json) |
 | [Durable Task Worker](roles/80d0d6b0-f522-40a4-8886-a5a11720c375.json) | [80d0d6b0-f522-40a4-8886-a5a11720c375](roles/80d0d6b0-f522-40a4-8886-a5a11720c375.json) |
@@ -813,6 +816,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Reader and Data Access](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) | [c12c1c16-33a1-487b-954d-41c89c60f349](roles/c12c1c16-33a1-487b-954d-41c89c60f349.json) |
 | [Recurring Scheduled Actions Contributor](roles/376d0802-aca8-4c2d-83a5-c88630f396fe.json) | [376d0802-aca8-4c2d-83a5-c88630f396fe](roles/376d0802-aca8-4c2d-83a5-c88630f396fe.json) |
 | [Red Team Administrator](roles/3f6d1a95-b7c8-4e2b-8f04-d91a6ce7235e.json) | [3f6d1a95-b7c8-4e2b-8f04-d91a6ce7235e](roles/3f6d1a95-b7c8-4e2b-8f04-d91a6ce7235e.json) |
+| [Red Team Operator](roles/9ab4e761-2c0f-4d8e-a573-6f18c92deab7.json) | [9ab4e761-2c0f-4d8e-a573-6f18c92deab7](roles/9ab4e761-2c0f-4d8e-a573-6f18c92deab7.json) |
+| [Red Team Reader](roles/689fda5e-27b1-47b9-b9c7-ddb104e5cdba.json) | [689fda5e-27b1-47b9-b9c7-ddb104e5cdba](roles/689fda5e-27b1-47b9-b9c7-ddb104e5cdba.json) |
 | [Red Team Recon Agent - Azure](roles/7e2a3b84-6f91-4c5d-b8a2-1f37e9d4ac60.json) | [7e2a3b84-6f91-4c5d-b8a2-1f37e9d4ac60](roles/7e2a3b84-6f91-4c5d-b8a2-1f37e9d4ac60.json) |
 | [Red Team Web App Agent](roles/c1d8f2a9-45be-4f73-9a16-8b02d5e7f4c1.json) | [c1d8f2a9-45be-4f73-9a16-8b02d5e7f4c1](roles/c1d8f2a9-45be-4f73-9a16-8b02d5e7f4c1.json) |
 | [Redis Cache Contributor](roles/e0f68234-74aa-48ed-b826-c38b57376e17.json) | [e0f68234-74aa-48ed-b826-c38b57376e17](roles/e0f68234-74aa-48ed-b826-c38b57376e17.json) |

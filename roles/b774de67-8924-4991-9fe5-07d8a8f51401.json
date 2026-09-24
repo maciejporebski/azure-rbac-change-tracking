@@ -1,0 +1,21 @@
+{
+  "Name": "Durable Task Contributor",
+  "Id": "b774de67-8924-4991-9fe5-07d8a8f51401",
+  "IsCustom": false,
+  "Description": "Full management of Durable Task Scheduler, including creation, deletion, and updates.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+    "Microsoft.DurableTask/schedulers/*/read",
+    "Microsoft.DurableTask/schedulers/*/write",
+    "Microsoft.DurableTask/schedulers/*/delete",
+    "Microsoft.DurableTask/schedulers/*/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

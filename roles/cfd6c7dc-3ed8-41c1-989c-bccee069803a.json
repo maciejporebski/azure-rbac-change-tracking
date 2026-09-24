@@ -1,0 +1,15 @@
+{
+  "Name": "Azure AIManager Model User",
+  "Id": "cfd6c7dc-3ed8-41c1-989c-bccee069803a",
+  "IsCustom": false,
+  "Description": "Allows read access to list models, get model details, and calculate model costs",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,8 +1,8 @@
 {
-  "Name": "Red Team Administrator",
-  "Id": "3f6d1a95-b7c8-4e2b-8f04-d91a6ce7235e",
+  "Name": "Red Team Reader",
+  "Id": "689fda5e-27b1-47b9-b9c7-ddb104e5cdba",
   "IsCustom": false,
-  "Description": "Read approved Azure reconnaissance, security posture, Key Vault metadata, and Log Analytics information, and create or delete Azure role assignments within approved scopes.",
+  "Description": "Read the same approved Azure reconnaissance, security posture, Key Vault metadata, App Service configuration, and Log Analytics information as Red Team Recon Agent - Azure; no role-assignment management.",
   "Actions": [
     "Microsoft.Resources/subscriptions/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
@@ -39,9 +39,7 @@
     "Microsoft.Security/tasks/read",
     "Microsoft.Security/automations/read",
     "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/read",
-    "Microsoft.Authorization/roleAssignments/read",
-    "Microsoft.Authorization/roleAssignments/write",
-    "Microsoft.Authorization/roleAssignments/delete"
+    "Microsoft.Authorization/roleAssignments/read"
   ],
   "NotActions": [],
   "DataActions": [

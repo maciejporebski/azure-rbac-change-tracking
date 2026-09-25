@@ -817,7 +817,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Recurring Scheduled Actions Contributor](roles/376d0802-aca8-4c2d-83a5-c88630f396fe.json) | [376d0802-aca8-4c2d-83a5-c88630f396fe](roles/376d0802-aca8-4c2d-83a5-c88630f396fe.json) |
 | [Red Team Administrator](roles/3f6d1a95-b7c8-4e2b-8f04-d91a6ce7235e.json) | [3f6d1a95-b7c8-4e2b-8f04-d91a6ce7235e](roles/3f6d1a95-b7c8-4e2b-8f04-d91a6ce7235e.json) |
 | [Red Team Operator](roles/9ab4e761-2c0f-4d8e-a573-6f18c92deab7.json) | [9ab4e761-2c0f-4d8e-a573-6f18c92deab7](roles/9ab4e761-2c0f-4d8e-a573-6f18c92deab7.json) |
-| [Red Team Reader](roles/689fda5e-27b1-47b9-b9c7-ddb104e5cdba.json) | [689fda5e-27b1-47b9-b9c7-ddb104e5cdba](roles/689fda5e-27b1-47b9-b9c7-ddb104e5cdba.json) |
 | [Red Team Recon Agent - Azure](roles/7e2a3b84-6f91-4c5d-b8a2-1f37e9d4ac60.json) | [7e2a3b84-6f91-4c5d-b8a2-1f37e9d4ac60](roles/7e2a3b84-6f91-4c5d-b8a2-1f37e9d4ac60.json) |
 | [Red Team Web App Agent](roles/c1d8f2a9-45be-4f73-9a16-8b02d5e7f4c1.json) | [c1d8f2a9-45be-4f73-9a16-8b02d5e7f4c1](roles/c1d8f2a9-45be-4f73-9a16-8b02d5e7f4c1.json) |
 | [Redis Cache Contributor](roles/e0f68234-74aa-48ed-b826-c38b57376e17.json) | [e0f68234-74aa-48ed-b826-c38b57376e17](roles/e0f68234-74aa-48ed-b826-c38b57376e17.json) |

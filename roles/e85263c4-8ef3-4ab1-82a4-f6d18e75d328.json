@@ -1,0 +1,27 @@
+{
+  "Name": "Container Registry Connected Registry Sync Contributor",
+  "Id": "e85263c4-8ef3-4ab1-82a4-f6d18e75d328",
+  "IsCustom": false,
+  "Description": "Grants the data-plane permissions required to list repositories; read, write, and delete repository content and metadata; and communicate with the ACR gateway for ReadWrite Connected Registry synchronization.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/config/read",
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/config/write",
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/message/read",
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/message/write",
+    "Microsoft.ContainerRegistry/registries/catalog/read",
+    "Microsoft.ContainerRegistry/registries/repositories/content/read",
+    "Microsoft.ContainerRegistry/registries/repositories/content/write",
+    "Microsoft.ContainerRegistry/registries/repositories/content/delete",
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/read",
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/write",
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/delete"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

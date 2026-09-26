@@ -1,0 +1,23 @@
+{
+  "Name": "Container Registry Connected Registry Sync Reader",
+  "Id": "2b7c9e07-f345-488e-ac2f-78e83b45fda4",
+  "IsCustom": false,
+  "Description": "Grants the data-plane permissions required to list repositories, read repository content and metadata, and communicate with the ACR gateway for ReadOnly Connected Registry synchronization.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/config/read",
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/config/write",
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/message/read",
+    "Microsoft.ContainerRegistry/registries/connectedRegistries/message/write",
+    "Microsoft.ContainerRegistry/registries/catalog/read",
+    "Microsoft.ContainerRegistry/registries/repositories/content/read",
+    "Microsoft.ContainerRegistry/registries/repositories/metadata/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

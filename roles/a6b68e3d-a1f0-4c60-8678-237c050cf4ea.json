@@ -6,7 +6,8 @@
   "Actions": [],
   "NotActions": [],
   "DataActions": [
-    "Microsoft.ApiManagement/service/workspaces/models/*"
+    "Microsoft.ApiManagement/service/workspaces/models/*",
+    "Microsoft.ApiManagement/aigateways/models/*"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

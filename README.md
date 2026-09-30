@@ -330,10 +330,13 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [CDN Profile Contributor](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) | [ec156ff8-a8d1-4d15-830c-5b80698ca432](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) |
 | [CDN Profile Reader](roles/8f96442b-4075-438f-813d-ad51ab4019af.json) | [8f96442b-4075-438f-813d-ad51ab4019af](roles/8f96442b-4075-438f-813d-ad51ab4019af.json) |
 | [Change Safety Contributor](roles/fdb3df26-8dd6-49ff-9a74-e95dbfadcad3.json) | [fdb3df26-8dd6-49ff-9a74-e95dbfadcad3](roles/fdb3df26-8dd6-49ff-9a74-e95dbfadcad3.json) |
+| [Chaos Permissions Admin](roles/1091dee8-a09b-4205-95fa-b0100e8f006d.json) | [1091dee8-a09b-4205-95fa-b0100e8f006d](roles/1091dee8-a09b-4205-95fa-b0100e8f006d.json) |
+| [Chaos Scenario Operator](roles/08debc4b-0ada-478e-b198-db165d97e7de.json) | [08debc4b-0ada-478e-b198-db165d97e7de](roles/08debc4b-0ada-478e-b198-db165d97e7de.json) |
 | [Chaos Studio Experiment Contributor](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) | [7c2e40b7-25eb-482a-82cb-78ba06cb46d5](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) |
 | [Chaos Studio Operator](roles/1a40e87e-6645-48e0-b27a-0b115d849a20.json) | [1a40e87e-6645-48e0-b27a-0b115d849a20](roles/1a40e87e-6645-48e0-b27a-0b115d849a20.json) |
 | [Chaos Studio Reader](roles/29e2da8a-229c-4157-8ae8-cc72fc506b74.json) | [29e2da8a-229c-4157-8ae8-cc72fc506b74](roles/29e2da8a-229c-4157-8ae8-cc72fc506b74.json) |
 | [Chaos Studio Target Contributor](roles/59a618e3-3c9a-406e-9f03-1a20dd1c55f1.json) | [59a618e3-3c9a-406e-9f03-1a20dd1c55f1](roles/59a618e3-3c9a-406e-9f03-1a20dd1c55f1.json) |
+| [Chaos Workspace Contributor](roles/9a6bb34c-81a2-4692-b7e4-d892eb1f56b5.json) | [9a6bb34c-81a2-4692-b7e4-d892eb1f56b5](roles/9a6bb34c-81a2-4692-b7e4-d892eb1f56b5.json) |
 | [Classic Network Contributor](roles/b34d265f-36f7-4a0d-a4d4-e158ca92e90f.json) | [b34d265f-36f7-4a0d-a4d4-e158ca92e90f](roles/b34d265f-36f7-4a0d-a4d4-e158ca92e90f.json) |
 | [Classic Storage Account Contributor](roles/86e8f5dc-a6e9-4c67-9d15-de283e8eac25.json) | [86e8f5dc-a6e9-4c67-9d15-de283e8eac25](roles/86e8f5dc-a6e9-4c67-9d15-de283e8eac25.json) |
 | [Classic Storage Account Key Operator Service Role](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) | [985d6b00-f706-48f5-a6fe-d0ca12fb668d](roles/985d6b00-f706-48f5-a6fe-d0ca12fb668d.json) |
@@ -420,6 +423,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Container Registry Configuration Reader and Data Access Configuration Reader](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) | [69b07be0-09bf-439a-b9a6-e73de851bd59](roles/69b07be0-09bf-439a-b9a6-e73de851bd59.json) |
 | [Container Registry Connected Registry Administrator](roles/281928aa-9782-4d9a-954a-3f34c1ed9f95.json) | [281928aa-9782-4d9a-954a-3f34c1ed9f95](roles/281928aa-9782-4d9a-954a-3f34c1ed9f95.json) |
 | [Container Registry Connected Registry Reader](roles/93f83a62-9a8b-4821-9827-5b3ee513aec3.json) | [93f83a62-9a8b-4821-9827-5b3ee513aec3](roles/93f83a62-9a8b-4821-9827-5b3ee513aec3.json) |
+| [Container Registry Connected Registry Sync Contributor](roles/e85263c4-8ef3-4ab1-82a4-f6d18e75d328.json) | [e85263c4-8ef3-4ab1-82a4-f6d18e75d328](roles/e85263c4-8ef3-4ab1-82a4-f6d18e75d328.json) |
+| [Container Registry Connected Registry Sync Reader](roles/2b7c9e07-f345-488e-ac2f-78e83b45fda4.json) | [2b7c9e07-f345-488e-ac2f-78e83b45fda4](roles/2b7c9e07-f345-488e-ac2f-78e83b45fda4.json) |
 | [Container Registry Contributor and Data Access Configuration Administrator](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) | [3bc748fc-213d-45c1-8d91-9da5725539b9](roles/3bc748fc-213d-45c1-8d91-9da5725539b9.json) |
 | [Container Registry Credential Set Administrator](roles/f094fb07-0703-4400-ad6a-e16dd8000e14.json) | [f094fb07-0703-4400-ad6a-e16dd8000e14](roles/f094fb07-0703-4400-ad6a-e16dd8000e14.json) |
 | [Container Registry Credential Set Reader](roles/29093635-9924-4f2c-913b-650a12949526.json) | [29093635-9924-4f2c-913b-650a12949526](roles/29093635-9924-4f2c-913b-650a12949526.json) |

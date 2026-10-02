@@ -5,13 +5,10 @@
   "Description": "Grants read access to Azure resources provided by Azure AIManager, including aimanagers, deployments, namespace, etc.",
   "Actions": [
     "Microsoft.ContainerService/aiManagers/listCredential/action",
-    "Microsoft.ContainerService/aiManagers/namespaces/listAccessKeys/action",
     "Microsoft.ContainerService/aiManagers/namespaces/listCredential/action",
     "Microsoft.ContainerService/aiManagers/read",
     "Microsoft.ContainerService/aiManagers/*/read",
-    "Microsoft.ContainerService/aiManagers/namespaces/*/read",
-    "Microsoft.ContainerService/locations/aiModels/read",
-    "Microsoft.ContainerService/locations/aiModels/calculateCost/action"
+    "Microsoft.ContainerService/aiManagers/namespaces/*/read"
   ],
   "NotActions": [],
   "DataActions": [],

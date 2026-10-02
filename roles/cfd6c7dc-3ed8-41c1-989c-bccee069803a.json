@@ -3,10 +3,7 @@
   "Id": "cfd6c7dc-3ed8-41c1-989c-bccee069803a",
   "IsCustom": false,
   "Description": "Allows read access to list models, get model details, and calculate model costs",
-  "Actions": [
-    "Microsoft.ContainerService/locations/aiModels/read",
-    "Microsoft.ContainerService/locations/aiModels/calculateCost/action"
-  ],
+  "Actions": [],
   "NotActions": [],
   "DataActions": [],
   "NotDataActions": [],

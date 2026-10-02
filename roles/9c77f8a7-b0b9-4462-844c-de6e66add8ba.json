@@ -12,27 +12,15 @@
   "NotActions": [],
   "DataActions": [
     "Microsoft.ContainerService/aiManagers/*/read",
-    "Microsoft.ContainerService/aiManagers/approuting.kubernetes.azure.com/*/read",
     "Microsoft.ContainerService/aiManagers/apps/*/read",
     "Microsoft.ContainerService/aiManagers/autoscaling/*/read",
-    "Microsoft.ContainerService/aiManagers/azmonitoring.coreos.com/*/read",
     "Microsoft.ContainerService/aiManagers/batch/*/read",
-    "Microsoft.ContainerService/aiManagers/cilium.io/*/read",
     "Microsoft.ContainerService/aiManagers/discovery.k8s.io/*/read",
     "Microsoft.ContainerService/aiManagers/events.k8s.io/*/read",
     "Microsoft.ContainerService/aiManagers/extensions/*/read",
-    "Microsoft.ContainerService/aiManagers/gateway.networking.k8s.io/*/read",
-    "Microsoft.ContainerService/aiManagers/inference.networking.k8s.io/*/read",
-    "Microsoft.ContainerService/aiManagers/llm-d.ai/*/read",
-    "Microsoft.ContainerService/aiManagers/kaito.sh/*/read",
-    "Microsoft.ContainerService/aiManagers/karpenter.azure.com/*/read",
-    "Microsoft.ContainerService/aiManagers/karpenter.sh/*/read",
-    "Microsoft.ContainerService/aiManagers/keda.sh/*/read",
     "Microsoft.ContainerService/aiManagers/metrics.k8s.io/*/read",
-    "Microsoft.ContainerService/aiManagers/networking.istio.io/*/read",
     "Microsoft.ContainerService/aiManagers/networking.k8s.io/*/read",
-    "Microsoft.ContainerService/aiManagers/policy/*/read",
-    "Microsoft.ContainerService/aiManagers/security.istio.io/*/read"
+    "Microsoft.ContainerService/aiManagers/policy/*/read"
   ],
   "NotDataActions": [
     "Microsoft.ContainerService/aiManagers/secrets/*",

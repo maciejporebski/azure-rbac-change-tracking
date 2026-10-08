@@ -6,7 +6,6 @@
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/",
-    "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.CloudTest/pools/leases/action",
     "Microsoft.CloudTest/pools/leases/complete/action",

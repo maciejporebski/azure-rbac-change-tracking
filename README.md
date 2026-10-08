@@ -229,7 +229,16 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Azure Monitor Pipeline Reader](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) | [2d50f159-7b96-4f1e-8fc7-fee6957ab7cc](roles/2d50f159-7b96-4f1e-8fc7-fee6957ab7cc.json) |
 | [Azure Native Dynatrace Agent Management Role](roles/55077723-1b30-4603-a70b-68de134cfa20.json) | [55077723-1b30-4603-a70b-68de134cfa20](roles/55077723-1b30-4603-a70b-68de134cfa20.json) |
 | [Azure NetApp Files Administrator](roles/f5db7409-a2c6-4d0c-8cf4-412ac01a38df.json) | [f5db7409-a2c6-4d0c-8cf4-412ac01a38df](roles/f5db7409-a2c6-4d0c-8cf4-412ac01a38df.json) |
+| [Azure NetApp Files Backup Manager](roles/560925e9-df7e-4147-af0c-56cd61a450a9.json) | [560925e9-df7e-4147-af0c-56cd61a450a9](roles/560925e9-df7e-4147-af0c-56cd61a450a9.json) |
+| [Azure NetApp Files Backup Operator](roles/ed55662f-36d4-4cdf-803b-9f0a4611d841.json) | [ed55662f-36d4-4cdf-803b-9f0a4611d841](roles/ed55662f-36d4-4cdf-803b-9f0a4611d841.json) |
+| [Azure NetApp Files Cost Manager](roles/9a2eb804-9386-45a4-a977-605001278085.json) | [9a2eb804-9386-45a4-a977-605001278085](roles/9a2eb804-9386-45a4-a977-605001278085.json) |
+| [Azure NetApp Files Policy And Compliance Manager](roles/88aa0c9d-b88e-4a65-98b5-6908009ba28a.json) | [88aa0c9d-b88e-4a65-98b5-6908009ba28a](roles/88aa0c9d-b88e-4a65-98b5-6908009ba28a.json) |
 | [Azure NetApp Files Reader](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) | [bafa5965-3211-483c-a7b7-027648c789e9](roles/bafa5965-3211-483c-a7b7-027648c789e9.json) |
+| [Azure NetApp Files Replication Manager](roles/17279d5b-dadc-4ed6-89b8-a1bdb7c911d7.json) | [17279d5b-dadc-4ed6-89b8-a1bdb7c911d7](roles/17279d5b-dadc-4ed6-89b8-a1bdb7c911d7.json) |
+| [Azure NetApp Files Replication Operator](roles/a0a967d8-29e2-4c1a-b9b1-3e596ae3298a.json) | [a0a967d8-29e2-4c1a-b9b1-3e596ae3298a](roles/a0a967d8-29e2-4c1a-b9b1-3e596ae3298a.json) |
+| [Azure NetApp Files Security And Identity Manager](roles/b24ae3d9-cb64-4f41-b0f9-945879b43a72.json) | [b24ae3d9-cb64-4f41-b0f9-945879b43a72](roles/b24ae3d9-cb64-4f41-b0f9-945879b43a72.json) |
+| [Azure NetApp Files Storage Manager](roles/d653ec4d-4137-4db2-9b34-2056fb930d93.json) | [d653ec4d-4137-4db2-9b34-2056fb930d93](roles/d653ec4d-4137-4db2-9b34-2056fb930d93.json) |
+| [Azure NetApp Files Storage Operator](roles/bfa9c06b-d58c-4c1e-a5a5-da7cb961f0e9.json) | [bfa9c06b-d58c-4c1e-a5a5-da7cb961f0e9](roles/bfa9c06b-d58c-4c1e-a5a5-da7cb961f0e9.json) |
 | [Azure Notebooks NotebookProxy Contributor](roles/063e4498-230d-40a9-be9b-037f35f982b5.json) | [063e4498-230d-40a9-be9b-037f35f982b5](roles/063e4498-230d-40a9-be9b-037f35f982b5.json) |
 | [Azure Programmable Connectivity Gateway Dataplane User](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) | [c20923c5-b089-47a5-bf67-fd89569c4ad9](roles/c20923c5-b089-47a5-bf67-fd89569c4ad9.json) |
 | [Azure Programmable Connectivity Gateway User](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) | [609c0c20-e0a0-4a71-b99f-e7e755ac493d](roles/609c0c20-e0a0-4a71-b99f-e7e755ac493d.json) |

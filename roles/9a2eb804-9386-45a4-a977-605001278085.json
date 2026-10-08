@@ -1,0 +1,30 @@
+{
+  "Name": "Azure NetApp Files Cost Manager",
+  "Id": "9a2eb804-9386-45a4-a977-605001278085",
+  "IsCustom": false,
+  "Description": "Allows capacity and cost-impacting operations for Azure NetApp Files resources",
+  "Actions": [
+    "Microsoft.NetApp/*/read",
+    "Microsoft.NetApp/locations/checkfilepathavailability/action",
+    "Microsoft.NetApp/locations/checknameavailability/action",
+    "Microsoft.NetApp/locations/checkquotaavailability/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/write",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/delete",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/changeZone/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/caches/poolChange/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules/write",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules/delete",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/getMetadata/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/listQuotaReport/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/listReplications/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/poolChange/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "Azure NetApp Files Policy And Compliance Manager",
+  "Id": "88aa0c9d-b88e-4a65-98b5-6908009ba28a",
+  "IsCustom": false,
+  "Description": "Allows policy and compliance operations for Azure NetApp Files resources",
+  "Actions": [
+    "Microsoft.NetApp/*/read",
+    "Microsoft.NetApp/locations/checkfilepathavailability/action",
+    "Microsoft.NetApp/locations/checknameavailability/action",
+    "Microsoft.NetApp/locations/checkquotaavailability/action",
+    "Microsoft.NetApp/netAppAccounts/providers/Microsoft.Insights/diagnosticSettings/write",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/providers/Microsoft.Insights/diagnosticSettings/write",
+    "Microsoft.NetApp/netAppAccounts/backupPolicies/write",
+    "Microsoft.NetApp/netAppAccounts/backupPolicies/delete",
+    "Microsoft.NetApp/netAppAccounts/snapshotPolicies/write",
+    "Microsoft.NetApp/netAppAccounts/snapshotPolicies/delete",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules/write",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules/delete",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/getMetadata/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/listQuotaReport/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/listReplications/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

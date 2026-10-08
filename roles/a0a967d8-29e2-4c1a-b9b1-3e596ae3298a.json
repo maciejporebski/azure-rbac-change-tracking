@@ -1,0 +1,37 @@
+{
+  "Name": "Azure NetApp Files Replication Operator",
+  "Id": "a0a967d8-29e2-4c1a-b9b1-3e596ae3298a",
+  "IsCustom": false,
+  "Description": "Allows replication operations for Azure NetApp Files resources",
+  "Actions": [
+    "Microsoft.NetApp/*/read",
+    "Microsoft.NetApp/locations/checkfilepathavailability/action",
+    "Microsoft.NetApp/locations/checknameavailability/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/write",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/authorizeExternalReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/authorizeReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/breakReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/createOnPremMigrationReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/deleteReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/finalizeExternalReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/finalizeOnPremMigration/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/finalizeRelocation/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/peerClusterForOnPremMigration/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/peerExternalCluster/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/reestablishReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/reInitializeReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/resyncReplication/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/revertRelocation/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/performReplicationTransfer/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/caches/listPeeringPassphrases/action",
+    "Microsoft.NetApp/netAppAccounts/capacityPools/volumes/listReplications/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

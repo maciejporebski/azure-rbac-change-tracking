@@ -9,6 +9,7 @@
     "Microsoft.AzureResilienceManagement/drills/*/delete",
     "Microsoft.AzureResilienceManagement/drills/*/read",
     "Microsoft.AzureResilienceManagement/drills/*/write",
+    "Microsoft.AzureResilienceManagement/goalAssignments/read",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/action",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/delete",
     "Microsoft.AzureResilienceManagement/recoveryPlans/*/read",

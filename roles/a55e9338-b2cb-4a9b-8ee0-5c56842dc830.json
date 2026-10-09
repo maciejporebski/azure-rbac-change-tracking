@@ -1,0 +1,22 @@
+{
+  "Name": "Embedding User",
+  "Id": "a55e9338-b2cb-4a9b-8ee0-5c56842dc830",
+  "IsCustom": false,
+  "Description": "Execute embedding operations against registered inference accounts. This role should be assigned to users who need to run embedding generation workloads but do not need to manage the accounts themselves.",
+  "Actions": [
+    "Microsoft.InferenceService/inferenceAccounts/read"
+  ],
+  "NotActions": [
+    "Microsoft.InferenceService/inferenceAccounts/write",
+    "Microsoft.InferenceService/inferenceAccounts/delete"
+  ],
+  "DataActions": [
+    "Microsoft.InferenceService/inferenceAccounts/invoke/embedding/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

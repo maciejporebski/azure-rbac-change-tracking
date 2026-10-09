@@ -570,6 +570,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Volume Data Contributor](roles/8da79822-b118-42bc-83c9-789fdbdcd77b.json) | [8da79822-b118-42bc-83c9-789fdbdcd77b](roles/8da79822-b118-42bc-83c9-789fdbdcd77b.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
+| [Embedding User](roles/a55e9338-b2cb-4a9b-8ee0-5c56842dc830.json) | [a55e9338-b2cb-4a9b-8ee0-5c56842dc830](roles/a55e9338-b2cb-4a9b-8ee0-5c56842dc830.json) |
 | [Enclave Approver Role](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) | [2142ea27-02ad-4094-bfea-2dbac6d24934](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) |
 | [Enclave Contributor Role](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) | [19feefae-eacc-4106-81fd-ac34c0671f14](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) |
 | [Enclave Owner Role](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) | [3d5f3eff-eb94-473d-91e3-7aac74d6c0bb](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) |

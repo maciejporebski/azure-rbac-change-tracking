@@ -5,7 +5,10 @@
   "Description": "Allows users to read and create or update Microsoft.Security service entitlement resources for Defender product onboarding.",
   "Actions": [
     "Microsoft.Security/serviceEntitlements/read",
-    "Microsoft.Security/serviceEntitlements/write"
+    "Microsoft.Security/serviceEntitlements/write",
+    "Microsoft.Security/serviceEntitlementSettings/read",
+    "Microsoft.Security/serviceEntitlementSettings/write",
+    "Microsoft.Security/serviceEntitlementSettings/delete"
   ],
   "NotActions": [],
   "DataActions": [],

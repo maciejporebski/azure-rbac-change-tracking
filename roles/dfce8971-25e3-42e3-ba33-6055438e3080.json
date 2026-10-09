@@ -2,7 +2,7 @@
   "Name": "VM Restore Operator",
   "Id": "dfce8971-25e3-42e3-ba33-6055438e3080",
   "IsCustom": false,
-  "Description": "Create and Delete resources during VM Restore. This role is in preview and subject to change.",
+  "Description": "Grants permissions to create, access, and delete the Restore VM, Restored VM Extension, Disks, Network, and staging location storage account resources required during Azure Backup VM restore operations. Assign this role only to the Recovery Services vault's managed identity (system- or user-assigned), scoped to the target resource group and staging storage account. This role is in preview and subject to change.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Compute/disks/read",

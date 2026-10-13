@@ -2,7 +2,7 @@
   "Name": "Azure Arc Kubernetes Viewer",
   "Id": "63f0a09d-1495-4db4-a681-037d84835eb4",
   "IsCustom": false,
-  "Description": "Lets you view all resources in cluster/namespace, except secrets.",
+  "Description": "Lets you view all resources in cluster/namespace, except secrets. This Role Definition is on the path to deprecation, please use Azure Arc Kubernetes Reader instead.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",

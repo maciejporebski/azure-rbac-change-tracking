@@ -9,7 +9,7 @@
     "Microsoft.Cdn/operationresults/*",
     "Microsoft.Cdn/profiles/*/read",
     "Microsoft.Insights/alertRules/*",
-    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/deployments/read",
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Cdn/operationresults/profileresults/afdendpointresults/CheckCustomDomainDNSMappingStatus/action",
     "Microsoft.Cdn/profiles/queryloganalyticsmetrics/action",

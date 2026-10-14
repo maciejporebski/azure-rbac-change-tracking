@@ -56,6 +56,8 @@
     "Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/read",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/protectableContainers/read",
     "Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/items/read",
+    "Microsoft.RecoveryServices/Vaults/backupFabrics/getRPExtendedInfo/action",
+    "Microsoft.RecoveryServices/Vaults/backupFabrics/getRPExtendedInfoOperationResult/read",
     "Microsoft.RecoveryServices/locations/backupStatus/action",
     "Microsoft.RecoveryServices/locations/backupPreValidateProtection/action",
     "Microsoft.RecoveryServices/locations/backupValidateFeatures/action",

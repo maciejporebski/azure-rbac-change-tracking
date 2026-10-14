@@ -570,6 +570,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Elastic SAN Volume Data Contributor](roles/8da79822-b118-42bc-83c9-789fdbdcd77b.json) | [8da79822-b118-42bc-83c9-789fdbdcd77b](roles/8da79822-b118-42bc-83c9-789fdbdcd77b.json) |
 | [Elastic SAN Volume Group Owner](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) | [a8281131-f312-4f34-8d98-ae12be9f0d23](roles/a8281131-f312-4f34-8d98-ae12be9f0d23.json) |
 | [Elastic SAN Volume Importer](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) | [90e8b822-3e73-47b5-868a-787dc80c008f](roles/90e8b822-3e73-47b5-868a-787dc80c008f.json) |
+| [Embedding User](roles/a55e9338-b2cb-4a9b-8ee0-5c56842dc830.json) | [a55e9338-b2cb-4a9b-8ee0-5c56842dc830](roles/a55e9338-b2cb-4a9b-8ee0-5c56842dc830.json) |
 | [Enclave Approver Role](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) | [2142ea27-02ad-4094-bfea-2dbac6d24934](roles/2142ea27-02ad-4094-bfea-2dbac6d24934.json) |
 | [Enclave Contributor Role](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) | [19feefae-eacc-4106-81fd-ac34c0671f14](roles/19feefae-eacc-4106-81fd-ac34c0671f14.json) |
 | [Enclave Owner Role](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) | [3d5f3eff-eb94-473d-91e3-7aac74d6c0bb](roles/3d5f3eff-eb94-473d-91e3-7aac74d6c0bb.json) |
@@ -961,6 +962,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Website Contributor](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) | [de139f84-1756-47ae-9be6-808fbbe84772](roles/de139f84-1756-47ae-9be6-808fbbe84772.json) |
 | [Windows 365 Network Interface Contributor](roles/1f135831-5bbe-4924-9016-264044c00788.json) | [1f135831-5bbe-4924-9016-264044c00788](roles/1f135831-5bbe-4924-9016-264044c00788.json) |
 | [Windows 365 Network User](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) | [7eabc9a4-85f7-4f71-b8ab-75daaccc1033](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) |
+| [Windows 365 Service Connector Administrator](roles/edbce4e0-c70f-4f11-94ea-eb5f338fc09e.json) | [edbce4e0-c70f-4f11-94ea-eb5f338fc09e](roles/edbce4e0-c70f-4f11-94ea-eb5f338fc09e.json) |
 | [Windows Admin Center Administrator Login](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) | [a6333a3e-0164-44c3-b281-7a577aff287f](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) |
 | [Windows365SubscriptionReader](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) | [3d55a8f6-4133-418d-8051-facdb1735758](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) |
 | [Workbook Contributor](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) | [e8ddcd69-c73f-4f9f-9844-4100522f16ad](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) |

@@ -11,11 +11,7 @@
     "Microsoft.Compute/snapshots/read",
     "Microsoft.Compute/snapshots/beginGetAccess/action",
     "Microsoft.Compute/snapshots/endGetAccess/action",
-    "Microsoft.Compute/disks/beginGetAccess/action",
-    "Microsoft.Storage/storageAccounts/listkeys/action",
-    "Microsoft.Storage/storageAccounts/write",
-    "Microsoft.Storage/storageAccounts/read",
-    "Microsoft.Storage/storageAccounts/delete"
+    "Microsoft.Compute/disks/beginGetAccess/action"
   ],
   "NotActions": [],
   "DataActions": [],

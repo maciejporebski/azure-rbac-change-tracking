@@ -5,7 +5,9 @@
   "Description": "Allows creating cross-tenant restore vault mappings on a target Recovery Services vault.",
   "Actions": [
     "Microsoft.RecoveryServices/Vaults/read",
-    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/write"
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/write",
+    "Microsoft.DataProtection/backupVaults/read",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/write"
   ],
   "NotActions": [],
   "DataActions": [],

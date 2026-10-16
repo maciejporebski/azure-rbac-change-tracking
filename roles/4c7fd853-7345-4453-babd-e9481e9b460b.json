@@ -41,7 +41,8 @@
     "Microsoft.AzureResilienceManagement/usagePlans/write",
     "Microsoft.AzureResilienceManagement/usagePlans/enrollments/delete",
     "Microsoft.AzureResilienceManagement/usagePlans/enrollments/read",
-    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/write"
+    "Microsoft.AzureResilienceManagement/usagePlans/enrollments/write",
+    "Microsoft.AzureResilienceManagement/goalAssignments/read"
   ],
   "NotActions": [],
   "DataActions": [],

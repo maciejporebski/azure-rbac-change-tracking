@@ -26,7 +26,17 @@
     "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/operationsStatus/read",
     "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/recoveryPointOperationResults/read",
     "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupFabrics/validateBulkRestoreOperationsStatus/read",
-    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupJobs/backupChildJobs/read"
+    "Microsoft.RecoveryServices/Vaults/backupCrossTenantVaultMappings/backupJobs/backupChildJobs/read",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/read",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/remove/action",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupInstances/read",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupInstances/findRestorableTimeRanges/action",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupInstances/validateRestore/action",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupInstances/restore/action",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupInstances/operationResults/read",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupInstances/operationStatus/read",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupInstances/recoveryPoints/read",
+    "Microsoft.DataProtection/backupVaults/crossTenantVaultMappings/backupJobs/read"
   ],
   "NotActions": [],
   "DataActions": [],

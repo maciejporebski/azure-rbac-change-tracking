@@ -339,6 +339,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [CDN Profile Contributor](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) | [ec156ff8-a8d1-4d15-830c-5b80698ca432](roles/ec156ff8-a8d1-4d15-830c-5b80698ca432.json) |
 | [CDN Profile Reader](roles/8f96442b-4075-438f-813d-ad51ab4019af.json) | [8f96442b-4075-438f-813d-ad51ab4019af](roles/8f96442b-4075-438f-813d-ad51ab4019af.json) |
 | [Change Safety Contributor](roles/fdb3df26-8dd6-49ff-9a74-e95dbfadcad3.json) | [fdb3df26-8dd6-49ff-9a74-e95dbfadcad3](roles/fdb3df26-8dd6-49ff-9a74-e95dbfadcad3.json) |
+| [Chaos Kubernetes Extension Operator](roles/681440c1-3630-4424-a530-0305ac721cfd.json) | [681440c1-3630-4424-a530-0305ac721cfd](roles/681440c1-3630-4424-a530-0305ac721cfd.json) |
 | [Chaos Permissions Admin](roles/1091dee8-a09b-4205-95fa-b0100e8f006d.json) | [1091dee8-a09b-4205-95fa-b0100e8f006d](roles/1091dee8-a09b-4205-95fa-b0100e8f006d.json) |
 | [Chaos Scenario Operator](roles/08debc4b-0ada-478e-b198-db165d97e7de.json) | [08debc4b-0ada-478e-b198-db165d97e7de](roles/08debc4b-0ada-478e-b198-db165d97e7de.json) |
 | [Chaos Studio Experiment Contributor](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) | [7c2e40b7-25eb-482a-82cb-78ba06cb46d5](roles/7c2e40b7-25eb-482a-82cb-78ba06cb46d5.json) |

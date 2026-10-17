@@ -2,7 +2,7 @@
   "Name": "Key Vault Crypto User",
   "Id": "12338af0-0e69-4776-bea7-57ae8d297424",
   "IsCustom": false,
-  "Description": "Read key metadata and public material, perform cryptographic operations, back up keys, and update key properties and mutable release policies, including making policies immutable. Does not grant key release. Only works for key vaults that use the 'Azure role-based access control' permission model.",
+  "Description": "Perform cryptographic operations using keys. Only works for key vaults that use the 'Azure role-based access control' permission model.",
   "Actions": [],
   "NotActions": [],
   "DataActions": [

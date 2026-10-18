@@ -32,6 +32,7 @@
     "Microsoft.ContainerService/aiManagers/networking.istio.io/*/read",
     "Microsoft.ContainerService/aiManagers/networking.k8s.io/*/read",
     "Microsoft.ContainerService/aiManagers/policy/*/read",
+    "Microsoft.ContainerService/aiManagers/ray.io/*/read",
     "Microsoft.ContainerService/aiManagers/security.istio.io/*/read"
   ],
   "NotDataActions": [

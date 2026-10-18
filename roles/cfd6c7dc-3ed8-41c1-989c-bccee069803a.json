@@ -5,7 +5,9 @@
   "Description": "Allows read access to list models, get model details, and calculate model costs",
   "Actions": [
     "Microsoft.ContainerService/locations/aiModels/read",
-    "Microsoft.ContainerService/locations/aiModels/calculateCost/action"
+    "Microsoft.ContainerService/locations/aiModels/calculateCost/action",
+    "Microsoft.ContainerService/aiManagers/customAIModels/read",
+    "Microsoft.ContainerService/aiManagers/customAIModels/calculateCost/action"
   ],
   "NotActions": [],
   "DataActions": [],

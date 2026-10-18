@@ -9,6 +9,7 @@
     "Microsoft.ContainerService/aiManagers/namespaces/listCredential/action",
     "Microsoft.ContainerService/aiManagers/read",
     "Microsoft.ContainerService/aiManagers/*/read",
+    "Microsoft.ContainerService/aiManagers/customAIModels/calculateCost/action",
     "Microsoft.ContainerService/aiManagers/namespaces/*/read",
     "Microsoft.ContainerService/locations/aiModels/read",
     "Microsoft.ContainerService/locations/aiModels/calculateCost/action"

@@ -11,7 +11,9 @@
     "Microsoft.AzureArcData/sqlServerInstances/getJobsStatus/action",
     "Microsoft.HybridCompute/machines/read",
     "Microsoft.HybridCompute/machines/extensions/read",
-    "Microsoft.Resources/subscriptions/resourceGroups/read"
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.AzureArcData/SqlServerInstances/getMigrationReadinessReport/action",
+    "Microsoft.AzureArcData/SqlServerInstances/getTargetRecommendationReports/action"
   ],
   "NotActions": [],
   "DataActions": [],

@@ -15,6 +15,7 @@
     "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectableItems/read",
     "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/read",
     "Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/read",
+    "Microsoft.RecoveryServices/vaults/replicationJobs/read",
     "Microsoft.DataReplication/replicationVaults/protectedItems/read"
   ],
   "NotActions": [],

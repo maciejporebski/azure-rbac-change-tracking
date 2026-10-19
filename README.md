@@ -487,6 +487,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Defender for Storage Data Scanner](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) | [1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40](roles/1e7ca9b1-60d1-4db8-a914-f2ca1ff27c40.json) |
 | [Defender for Storage Scanner Operator](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) | [0f641de8-0b88-4198-bdef-bd8b45ceba96](roles/0f641de8-0b88-4198-bdef-bd8b45ceba96.json) |
 | [Defender for Storage Threat Protection](roles/a366d631-94bf-46bf-b4af-b38f28c80774.json) | [a366d631-94bf-46bf-b4af-b38f28c80774](roles/a366d631-94bf-46bf-b4af-b38f28c80774.json) |
+| [Defender Foundational CSPM](roles/fb2e8e50-bc5c-4095-8f9d-c30e1be5e98c.json) | [fb2e8e50-bc5c-4095-8f9d-c30e1be5e98c](roles/fb2e8e50-bc5c-4095-8f9d-c30e1be5e98c.json) |
 | [Defender Kubernetes Agent Operator](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) | [8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5](roles/8bb6f106-b146-4ee6-a3f9-b9c5a96e0ae5.json) |
 | [Defender Kubernetes API Access](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) | [d5a2ae44-610b-4500-93be-660a0c5f5ca6](roles/d5a2ae44-610b-4500-93be-660a0c5f5ca6.json) |
 | [Defender Open Source Relational Databases](roles/99626c15-0799-47ad-96ab-f298031f69d6.json) | [99626c15-0799-47ad-96ab-f298031f69d6](roles/99626c15-0799-47ad-96ab-f298031f69d6.json) |
@@ -964,6 +965,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Windows 365 Network Interface Contributor](roles/1f135831-5bbe-4924-9016-264044c00788.json) | [1f135831-5bbe-4924-9016-264044c00788](roles/1f135831-5bbe-4924-9016-264044c00788.json) |
 | [Windows 365 Network User](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) | [7eabc9a4-85f7-4f71-b8ab-75daaccc1033](roles/7eabc9a4-85f7-4f71-b8ab-75daaccc1033.json) |
 | [Windows 365 Service Connector Administrator](roles/edbce4e0-c70f-4f11-94ea-eb5f338fc09e.json) | [edbce4e0-c70f-4f11-94ea-eb5f338fc09e](roles/edbce4e0-c70f-4f11-94ea-eb5f338fc09e.json) |
+| [Windows 365 Service Connector User](roles/5f70377a-ce1d-4a07-b3b9-12c99f22d21f.json) | [5f70377a-ce1d-4a07-b3b9-12c99f22d21f](roles/5f70377a-ce1d-4a07-b3b9-12c99f22d21f.json) |
 | [Windows Admin Center Administrator Login](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) | [a6333a3e-0164-44c3-b281-7a577aff287f](roles/a6333a3e-0164-44c3-b281-7a577aff287f.json) |
 | [Windows365SubscriptionReader](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) | [3d55a8f6-4133-418d-8051-facdb1735758](roles/3d55a8f6-4133-418d-8051-facdb1735758.json) |
 | [Workbook Contributor](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) | [e8ddcd69-c73f-4f9f-9844-4100522f16ad](roles/e8ddcd69-c73f-4f9f-9844-4100522f16ad.json) |

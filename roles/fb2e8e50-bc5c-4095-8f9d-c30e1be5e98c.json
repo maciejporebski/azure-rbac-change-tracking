@@ -1,0 +1,22 @@
+{
+  "Name": "Defender Foundational CSPM",
+  "Id": "fb2e8e50-bc5c-4095-8f9d-c30e1be5e98c",
+  "IsCustom": false,
+  "Description": "Grants Microsoft Defender for Cloud CSPM access required for posture recommendations",
+  "Actions": [
+    "Microsoft.Authorization/policyAssignments/read",
+    "Microsoft.Authorization/policyExemptions/read",
+    "Microsoft.Authorization/policySetDefinitions/read",
+    "Microsoft.Resources/subscriptions/resources/read",
+    "Microsoft.Management/managementGroups/descendants/read",
+    "Microsoft.Security/assessmentMetadata/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

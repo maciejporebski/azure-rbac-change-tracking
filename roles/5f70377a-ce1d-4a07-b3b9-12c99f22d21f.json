@@ -1,0 +1,19 @@
+{
+  "Name": "Windows 365 Service Connector User",
+  "Id": "5f70377a-ce1d-4a07-b3b9-12c99f22d21f",
+  "IsCustom": false,
+  "Description": "Provides access to read service connectors and attach them to Windows 365 resources.",
+  "Actions": [
+    "Microsoft.Windows365/serviceConnectors/read"
+  ],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Windows365/serviceConnectors/attach/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

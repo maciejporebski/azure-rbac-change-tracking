@@ -3,9 +3,16 @@
   "Id": "681440c1-3630-4424-a530-0305ac721cfd",
   "IsCustom": false,
   "Description": "Lets a Chaos Studio workspace identity impersonate the Chaos Studio extension's Kubernetes service account and read pods on AKS clusters, and read the cluster's Deployment Safeguards, so Chaos Studio can run faults through the extension.",
-  "Actions": [],
+  "Actions": [
+    "Microsoft.KubernetesConfiguration/extensions/read",
+    "Microsoft.ContainerService/managedClusters/read",
+    "Microsoft.ContainerService/deploymentSafeguards/read"
+  ],
   "NotActions": [],
-  "DataActions": [],
+  "DataActions": [
+    "Microsoft.ContainerService/managedClusters/serviceaccounts/impersonate/action",
+    "Microsoft.ContainerService/managedClusters/pods/read"
+  ],
   "NotDataActions": [],
   "AssignableScopes": [
     "/"

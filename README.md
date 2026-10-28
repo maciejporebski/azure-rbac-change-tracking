@@ -22,6 +22,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [AgFood Platform Service Admin](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) | [f8da80de-1ff9-4747-ad80-a19b7f6079e3](roles/f8da80de-1ff9-4747-ad80-a19b7f6079e3.json) |
 | [AgFood Platform Service Contributor](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) | [8508508a-4469-4e45-963b-2518ee0bb728](roles/8508508a-4469-4e45-963b-2518ee0bb728.json) |
 | [AgFood Platform Service Reader](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) | [7ec7ccdc-f61e-41fe-9aaf-980df0a44eba](roles/7ec7ccdc-f61e-41fe-9aaf-980df0a44eba.json) |
+| [AI Gateway Contributor](roles/7c27cbcc-1723-4201-8fbc-50f2e2c24ee5.json) | [7c27cbcc-1723-4201-8fbc-50f2e2c24ee5](roles/7c27cbcc-1723-4201-8fbc-50f2e2c24ee5.json) |
+| [AI Gateway Developer](roles/e71899cc-9858-44a9-a0e3-7b95f671540f.json) | [e71899cc-9858-44a9-a0e3-7b95f671540f](roles/e71899cc-9858-44a9-a0e3-7b95f671540f.json) |
 | [AI Gateway Models User](roles/a6b68e3d-a1f0-4c60-8678-237c050cf4ea.json) | [a6b68e3d-a1f0-4c60-8678-237c050cf4ea](roles/a6b68e3d-a1f0-4c60-8678-237c050cf4ea.json) |
 | [AI Gateway Tools User](roles/dce03f8d-857f-4e40-a90d-67770fa6ecd2.json) | [dce03f8d-857f-4e40-a90d-67770fa6ecd2](roles/dce03f8d-857f-4e40-a90d-67770fa6ecd2.json) |
 | [AI Gateway User](roles/caad7a21-134e-43f4-a550-c5ffc17e051c.json) | [caad7a21-134e-43f4-a550-c5ffc17e051c](roles/caad7a21-134e-43f4-a550-c5ffc17e051c.json) |

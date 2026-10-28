@@ -1,0 +1,19 @@
+{
+  "Name": "AI Gateway Developer",
+  "Id": "e71899cc-9858-44a9-a0e3-7b95f671540f",
+  "IsCustom": false,
+  "Description": "Read model alias and MCP server configuration and inspect own permissions at the assigned scope. Grants no runtime access.",
+  "Actions": [
+    "Microsoft.Authorization/permissions/read",
+    "Microsoft.ApiManagement/aigateways/workspaces/aliases/read",
+    "Microsoft.ApiManagement/aigateways/workspaces/toolServers/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

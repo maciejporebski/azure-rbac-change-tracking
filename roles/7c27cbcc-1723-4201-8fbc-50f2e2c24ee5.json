@@ -1,0 +1,22 @@
+{
+  "Name": "AI Gateway Contributor",
+  "Id": "7c27cbcc-1723-4201-8fbc-50f2e2c24ee5",
+  "IsCustom": false,
+  "Description": "Manage gateway AI artifacts and assignments of AI Gateway Developer and the three runtime User roles at the assigned scope. Grants no runtime access.",
+  "Actions": [
+    "Microsoft.Authorization/permissions/read",
+    "Microsoft.Authorization/roleDefinitions/read",
+    "Microsoft.Authorization/roleAssignments/read",
+    "Microsoft.ApiManagement/aigateways/workspaces/modelProviders/*",
+    "Microsoft.ApiManagement/aigateways/workspaces/aliases/*",
+    "Microsoft.ApiManagement/aigateways/workspaces/toolServers/*"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

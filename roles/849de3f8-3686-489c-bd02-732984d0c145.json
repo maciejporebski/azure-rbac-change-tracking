@@ -8,7 +8,10 @@
     "Microsoft.ApiManagement/service/apis/read",
     "Microsoft.ApiManagement/service/apis/write",
     "Microsoft.ApiManagement/service/workspaces/toolServers/read",
-    "Microsoft.ApiManagement/service/workspaces/toolServers/write"
+    "Microsoft.ApiManagement/service/workspaces/toolServers/write",
+    "Microsoft.ApiManagement/aigateways/read",
+    "Microsoft.ApiManagement/aigateways/workspaces/toolServers/read",
+    "Microsoft.ApiManagement/aigateways/workspaces/toolServers/write"
   ],
   "NotActions": [],
   "DataActions": [],

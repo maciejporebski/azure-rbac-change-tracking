@@ -416,6 +416,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Connector Namespace Reader](roles/5d0402fa-1042-4603-9e01-7fea218a05af.json) | [5d0402fa-1042-4603-9e01-7fea218a05af](roles/5d0402fa-1042-4603-9e01-7fea218a05af.json) |
 | [Connector Reader](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) | [6cdbb904-5ff3-429d-8169-7d7818b91bd8](roles/6cdbb904-5ff3-429d-8169-7d7818b91bd8.json) |
 | [Connector Writer](roles/c459b115-f629-486b-b359-35feb5568b83.json) | [c459b115-f629-486b-b359-35feb5568b83](roles/c459b115-f629-486b-b359-35feb5568b83.json) |
+| [Container Apps Artifact App Operator](roles/dc12e0a0-00bc-4af0-adf0-b8c90236ba03.json) | [dc12e0a0-00bc-4af0-adf0-b8c90236ba03](roles/dc12e0a0-00bc-4af0-adf0-b8c90236ba03.json) |
 | [Container Apps Artifact Data Pull](roles/2aea396c-91f9-444f-a367-6bd94ab9a5cf.json) | [2aea396c-91f9-444f-a367-6bd94ab9a5cf](roles/2aea396c-91f9-444f-a367-6bd94ab9a5cf.json) |
 | [Container Apps ConnectedEnvironments Contributor](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) | [6f4fe6fc-f04f-4d97-8528-8bc18c848dca](roles/6f4fe6fc-f04f-4d97-8528-8bc18c848dca.json) |
 | [Container Apps ConnectedEnvironments Reader](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) | [d5adeb5b-107f-4aca-99ea-4e3f4fc008d5](roles/d5adeb5b-107f-4aca-99ea-4e3f4fc008d5.json) |

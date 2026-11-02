@@ -1,0 +1,18 @@
+{
+  "Name": "Container Apps Artifact App Operator",
+  "Id": "dc12e0a0-00bc-4af0-adf0-b8c90236ba03",
+  "IsCustom": false,
+  "Description": "Grants permissions for operators of Artifact Apps, including viewing application logs and running exec commands in a running Artifact App.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/artifactApps/exec/action",
+    "Microsoft.App/artifactApps/logstream/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -2,10 +2,11 @@
   "Name": "Windows 365 Service Connector Administrator",
   "Id": "edbce4e0-c70f-4f11-94ea-eb5f338fc09e",
   "IsCustom": false,
-  "Description": "Provides access to create, read, and update service connectors and attach them to Windows 365 resources.",
+  "Description": "Provides access to create, read, update, and delete service connectors and attach them to Windows 365 resources.",
   "Actions": [
     "Microsoft.Windows365/serviceConnectors/read",
-    "Microsoft.Windows365/serviceConnectors/write"
+    "Microsoft.Windows365/serviceConnectors/write",
+    "Microsoft.Windows365/serviceConnectors/delete"
   ],
   "NotActions": [],
   "DataActions": [

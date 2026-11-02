@@ -2,7 +2,7 @@
   "Name": "Redis Cache Contributor",
   "Id": "e0f68234-74aa-48ed-b826-c38b57376e17",
   "IsCustom": false,
-  "Description": "Create and manage Azure Cache for Redis resources. Cannot read or write data stored in the cache.",
+  "Description": "Permits management of Azure Cache for Redis resources. Provides access to cache access keys and permits managing access policies and assignments; these capabilities can grant read and write data access to cache. Also permits importing and exporting cache data.",
   "Actions": [
     "Microsoft.Authorization/*/read",
     "Microsoft.Cache/register/action",

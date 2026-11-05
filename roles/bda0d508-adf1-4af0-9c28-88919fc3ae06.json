@@ -110,7 +110,10 @@
     "Microsoft.HybridCompute/gateways/write",
     "Microsoft.HybridCompute/gateways/delete"
   ],
-  "NotActions": [],
+  "NotActions": [
+    "Microsoft.AzureStackHCI/EdgeMachines/issueSshCertificateForAdmin/action",
+    "Microsoft.AzureStackHCI/EdgeMachines/issueSshCertificateForContributor/action"
+  ],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [

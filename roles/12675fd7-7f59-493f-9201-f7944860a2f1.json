@@ -4,7 +4,8 @@
   "IsCustom": false,
   "Description": "Azure Device Registry Administrator",
   "Actions": [
-    "Microsoft.DeviceRegistry/*"
+    "Microsoft.DeviceRegistry/*",
+    "Microsoft.DeviceUpdate/updateInstances/*"
   ],
   "NotActions": [],
   "DataActions": [],

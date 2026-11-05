@@ -1,0 +1,19 @@
+{
+  "Name": "Cloud Device Platform Device Start Operator",
+  "Id": "1913c0ee-e341-4626-b2ee-ad4101335253",
+  "IsCustom": false,
+  "Description": "Read Cloud Device Platform devices and operation status, and start devices for a partner business. Intended for Scalar wake-on-connect.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/operations/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/start/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

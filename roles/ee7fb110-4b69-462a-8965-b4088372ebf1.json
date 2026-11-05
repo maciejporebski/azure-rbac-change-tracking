@@ -1,0 +1,20 @@
+{
+  "Name": "Cloud Device Platform Snapshot Exporter",
+  "Id": "ee7fb110-4b69-462a-8965-b4088372ebf1",
+  "IsCustom": false,
+  "Description": "Read device and collection profile snapshot metadata and request snapshot SAS export credentials for a Cloud Device Platform partner business. Does not grant snapshot creation, deletion, or restore.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/collections/profiles/snapshots/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/collections/profiles/snapshots/sas/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/snapshots/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/snapshots/sasUri/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "SRE Agent Session Reader",
+  "Id": "577a432e-a42b-4308-bc40-6ea45e32bdf4",
+  "IsCustom": false,
+  "Description": "View Agent Session resources without changing their configuration or lifecycle.",
+  "Actions": [
+    "Microsoft.App/agentSessions/read"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

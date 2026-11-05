@@ -7,7 +7,8 @@
     "Microsoft.AzureStackHCI/edgeMachines/*"
   ],
   "NotActions": [
-    "Microsoft.AzureStackHCI/edgeMachines/delete"
+    "Microsoft.AzureStackHCI/edgeMachines/delete",
+    "Microsoft.AzureStackHCI/EdgeMachines/issueSshCertificateForAdmin/action"
   ],
   "DataActions": [],
   "NotDataActions": [],

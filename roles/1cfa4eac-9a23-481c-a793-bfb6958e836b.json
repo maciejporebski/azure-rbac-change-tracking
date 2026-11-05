@@ -19,6 +19,7 @@
     "Microsoft.Insights/alertRules/*",
     "Microsoft.Migrate/*/read",
     "Microsoft.Migrate/migrateProjects/taskSummary/action",
+    "Microsoft.Migrate/migrateProjects/runbooks/*",
     "Microsoft.ApplicationMigration/*/read",
     "Microsoft.OffAzure/*/read",
     "Microsoft.MySQLDiscovery/*/read",

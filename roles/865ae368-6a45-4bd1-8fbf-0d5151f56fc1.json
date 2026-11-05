@@ -43,7 +43,10 @@
     "Microsoft.ExtendedLocation/customLocations/write",
     "Microsoft.ExtendedLocation/customLocations/delete"
   ],
-  "NotActions": [],
+  "NotActions": [
+    "Microsoft.AzureStackHCI/EdgeMachines/issueSshCertificateForAdmin/action",
+    "Microsoft.AzureStackHCI/EdgeMachines/issueSshCertificateForContributor/action"
+  ],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [

@@ -16,6 +16,7 @@
     "Microsoft.Insights/logDefinitions/read",
     "Microsoft.Insights/metricdefinitions/read",
     "Microsoft.Insights/metrics/read",
+    "Microsoft.PolicyInsights/*/read",
     "Microsoft.ResourceHealth/availabilityStatuses/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/deployments/operations/read",

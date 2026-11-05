@@ -16,6 +16,7 @@
     "Microsoft.Insights/activityLogAlerts/*",
     "Microsoft.Insights/metricalerts/*",
     "Microsoft.Insights/scheduledqueryrules/*",
+    "Microsoft.PolicyInsights/*/read",
     "Microsoft.ResourceHealth/availabilityStatuses/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/deployments/operations/read",

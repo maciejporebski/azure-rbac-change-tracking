@@ -26,7 +26,10 @@
     "Microsoft.Resources/subscriptions/resourcegroups/deployments/operations/read",
     "Microsoft.Resources/subscriptions/resourcegroups/deployments/operationstatuses/read"
   ],
-  "NotActions": [],
+  "NotActions": [
+    "Microsoft.AzureStackHCI/EdgeMachines/issueSshCertificateForAdmin/action",
+    "Microsoft.AzureStackHCI/EdgeMachines/issueSshCertificateForContributor/action"
+  ],
   "DataActions": [],
   "NotDataActions": [],
   "AssignableScopes": [

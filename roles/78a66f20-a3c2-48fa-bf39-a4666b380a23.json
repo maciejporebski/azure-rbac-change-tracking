@@ -1,0 +1,23 @@
+{
+  "Name": "Cloud Device Platform Device Operator",
+  "Id": "78a66f20-a3c2-48fa-bf39-a4666b380a23",
+  "IsCustom": false,
+  "Description": "Read Cloud Device Platform devices and operation status, query metrics, and start, restart, deallocate, or hibernate devices for a partner business. Excludes snapshot SAS export and other device mutations.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/deallocate/action",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/hibernate/action",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/metrics/action",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/operations/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/restart/action",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/start/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

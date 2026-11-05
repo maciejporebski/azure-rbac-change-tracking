@@ -11,6 +11,7 @@
     "Microsoft.CognitiveServices/locations/*/read",
     "Microsoft.Authorization/*/read",
     "Microsoft.Insights/alertRules/*",
+    "Microsoft.PolicyInsights/*/read",
     "Microsoft.Resources/deployments/*",
     "Microsoft.Resources/subscriptions/resourceGroups/read"
   ],

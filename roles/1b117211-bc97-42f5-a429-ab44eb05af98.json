@@ -1,0 +1,18 @@
+{
+  "Name": "Cloud Device Platform Network Reader",
+  "Id": "1b117211-bc97-42f5-a429-ab44eb05af98",
+  "IsCustom": false,
+  "Description": "Read Cloud Device Platform network metadata and network operation status for a partner business.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/networks/operations/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/networks/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

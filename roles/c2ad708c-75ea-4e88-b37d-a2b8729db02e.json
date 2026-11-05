@@ -1,0 +1,20 @@
+{
+  "Name": "SRE Agent Session Contributor",
+  "Id": "c2ad708c-75ea-4e88-b37d-a2b8729db02e",
+  "IsCustom": false,
+  "Description": "Manage Agent Session resources without granting access to unrelated Microsoft.App resources.",
+  "Actions": [
+    "Microsoft.App/agentSessions/read",
+    "Microsoft.App/agentSessions/write",
+    "Microsoft.App/agentSessions/delete",
+    "Microsoft.App/agentSessions/provision/action"
+  ],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

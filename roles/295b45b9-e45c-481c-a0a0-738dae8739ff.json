@@ -1,0 +1,20 @@
+{
+  "Name": "Cloud Device Platform Device Reader",
+  "Id": "295b45b9-e45c-481c-a0a0-738dae8739ff",
+  "IsCustom": false,
+  "Description": "Read Cloud Device Platform device metadata, operation status, and snapshot metadata, and query device metrics for a partner business. Excludes snapshot SAS export.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/metrics/action",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/operations/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/read",
+    "Microsoft.CloudDevicePlatform/partnerBusinesses/devices/snapshots/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

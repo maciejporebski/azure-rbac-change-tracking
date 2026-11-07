@@ -355,18 +355,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Classic Virtual Machine Contributor](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) | [d73bb868-a0df-4d4d-bd69-98a00b01fccb](roles/d73bb868-a0df-4d4d-bd69-98a00b01fccb.json) |
 | [ClearDB MySQL DB Contributor](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) | [9106cda0-8a86-4e81-b686-29a22c54effe](roles/9106cda0-8a86-4e81-b686-29a22c54effe.json) |
 | [Clinical Coder Data User](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) | [d0a94e7a-d791-4571-b2e0-8bdd8f867544](roles/d0a94e7a-d791-4571-b2e0-8bdd8f867544.json) |
-| [Cloud Device Platform Collection Administrator](roles/ae722ee4-7a39-46d9-9a1c-b86ea7be8370.json) | [ae722ee4-7a39-46d9-9a1c-b86ea7be8370](roles/ae722ee4-7a39-46d9-9a1c-b86ea7be8370.json) |
-| [Cloud Device Platform Collection Reader](roles/758445d3-c703-4baf-9829-c395279585e0.json) | [758445d3-c703-4baf-9829-c395279585e0](roles/758445d3-c703-4baf-9829-c395279585e0.json) |
 | [Cloud Device Platform Data Owner](roles/bdbf2dae-53ba-4c03-8ce9-94534a11a9b3.json) | [bdbf2dae-53ba-4c03-8ce9-94534a11a9b3](roles/bdbf2dae-53ba-4c03-8ce9-94534a11a9b3.json) |
-| [Cloud Device Platform Data Reader](roles/2f626d6a-86af-49fb-9414-13a48f86f2d8.json) | [2f626d6a-86af-49fb-9414-13a48f86f2d8](roles/2f626d6a-86af-49fb-9414-13a48f86f2d8.json) |
-| [Cloud Device Platform Device Administrator](roles/8588d517-7712-4254-9c6e-00ad445bcd9e.json) | [8588d517-7712-4254-9c6e-00ad445bcd9e](roles/8588d517-7712-4254-9c6e-00ad445bcd9e.json) |
-| [Cloud Device Platform Device Operator](roles/78a66f20-a3c2-48fa-bf39-a4666b380a23.json) | [78a66f20-a3c2-48fa-bf39-a4666b380a23](roles/78a66f20-a3c2-48fa-bf39-a4666b380a23.json) |
-| [Cloud Device Platform Device Reader](roles/295b45b9-e45c-481c-a0a0-738dae8739ff.json) | [295b45b9-e45c-481c-a0a0-738dae8739ff](roles/295b45b9-e45c-481c-a0a0-738dae8739ff.json) |
-| [Cloud Device Platform Device Start Operator](roles/1913c0ee-e341-4626-b2ee-ad4101335253.json) | [1913c0ee-e341-4626-b2ee-ad4101335253](roles/1913c0ee-e341-4626-b2ee-ad4101335253.json) |
-| [Cloud Device Platform Network Administrator](roles/7c60305f-1499-4fb6-b422-29b183bf3276.json) | [7c60305f-1499-4fb6-b422-29b183bf3276](roles/7c60305f-1499-4fb6-b422-29b183bf3276.json) |
-| [Cloud Device Platform Network Reader](roles/1b117211-bc97-42f5-a429-ab44eb05af98.json) | [1b117211-bc97-42f5-a429-ab44eb05af98](roles/1b117211-bc97-42f5-a429-ab44eb05af98.json) |
 | [Cloud Device Platform Sandbox Partner Data Contributor](roles/1a22653f-3441-4c27-8f4a-ba9f93b30e5d.json) | [1a22653f-3441-4c27-8f4a-ba9f93b30e5d](roles/1a22653f-3441-4c27-8f4a-ba9f93b30e5d.json) |
-| [Cloud Device Platform Snapshot Exporter](roles/ee7fb110-4b69-462a-8965-b4088372ebf1.json) | [ee7fb110-4b69-462a-8965-b4088372ebf1](roles/ee7fb110-4b69-462a-8965-b4088372ebf1.json) |
 | [CloudTest Contributor Role](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) | [4e9d0bd4-5aab-4f91-92df-9def33fe287c](roles/4e9d0bd4-5aab-4f91-92df-9def33fe287c.json) |
 | [CloudTest Leased VM Reader](roles/b1e6a0dd-ea0f-4108-8925-7047693f2cfe.json) | [b1e6a0dd-ea0f-4108-8925-7047693f2cfe](roles/b1e6a0dd-ea0f-4108-8925-7047693f2cfe.json) |
 | [Cognitive Search Serverless Data Contributor (Deprecated)](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) | [7ac06ca7-21ca-47e3-a67b-cbd6e6223baf](roles/7ac06ca7-21ca-47e3-a67b-cbd6e6223baf.json) |

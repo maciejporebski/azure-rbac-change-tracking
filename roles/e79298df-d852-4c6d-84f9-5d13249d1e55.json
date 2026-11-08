@@ -18,7 +18,8 @@
     "Microsoft.App/agents/*/read",
     "Microsoft.App/agents/*/write",
     "Microsoft.App/agents/*/delete",
-    "Microsoft.App/agents/threads/approve/action"
+    "Microsoft.App/agents/threads/approve/action",
+    "Microsoft.App/agents/teams/grant/action"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

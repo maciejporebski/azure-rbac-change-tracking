@@ -6,7 +6,8 @@
   "Actions": [
     "Microsoft.KubernetesConfiguration/extensions/read",
     "Microsoft.ContainerService/managedClusters/read",
-    "Microsoft.ContainerService/deploymentSafeguards/read"
+    "Microsoft.ContainerService/deploymentSafeguards/read",
+    "Microsoft.Authorization/*/read"
   ],
   "NotActions": [],
   "DataActions": [

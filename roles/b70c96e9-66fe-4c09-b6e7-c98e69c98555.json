@@ -26,7 +26,6 @@
   ],
   "NotActions": [
     "Microsoft.Web/sites/hostruntime/host/_master/read",
-    "Microsoft.Web/sites/hostruntime/host/_master/*",
     "Microsoft.Web/sites/hostruntime/host/action"
   ],
   "DataActions": [],

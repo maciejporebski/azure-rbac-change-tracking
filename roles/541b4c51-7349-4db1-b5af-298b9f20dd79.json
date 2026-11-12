@@ -1,8 +1,8 @@
 {
-  "Name": "DiskSnapshotImmutabilityAdmin Service Role",
+  "Name": "Disk Snapshot Immutability Admin",
   "Id": "541b4c51-7349-4db1-b5af-298b9f20dd79",
   "IsCustom": false,
-  "Description": "Can set a new locked immutability policy and modify (extend) it. Cannot change ImmutabilityPolicyType from locked to unlocked for an active immutable policy, and cannot reduce the ImmutabilityPolicyDurationDays for a locked immutability policy.",
+  "Description": "Create and manage unlocked snapshot immutability policies, and create or extend locked policies. Cannot unlock, shorten, or expire an active locked policy. This role is in preview and subject to change.",
   "Actions": [
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Compute/snapshots/read",

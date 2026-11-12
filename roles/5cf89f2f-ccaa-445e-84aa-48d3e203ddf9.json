@@ -1,8 +1,8 @@
 {
-  "Name": "DiskSnapshotImmutabilityOperator Service Role",
+  "Name": "Disk Snapshot Immutability Operator",
   "Id": "5cf89f2f-ccaa-445e-84aa-48d3e203ddf9",
   "IsCustom": false,
-  "Description": "Can set an ImmutabilityPolicyType: unlocked on a snapshot and can modify the unlocked immutability policy (extend, reduce or remove). Cannot set or modify a locked immutability policy.",
+  "Description": "Create, extend, shorten, or expire unlocked snapshot immutability policies. Cannot lock policies or modify active locked policies. This role is in preview and subject to change.",
   "Actions": [
     "Microsoft.Resources/subscriptions/resourceGroups/read",
     "Microsoft.Compute/snapshots/read",

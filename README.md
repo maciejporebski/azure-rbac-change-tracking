@@ -566,8 +566,8 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Disk Pool Operator](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) | [60fc6e62-5479-42d4-8bf4-67625fcc2840](roles/60fc6e62-5479-42d4-8bf4-67625fcc2840.json) |
 | [Disk Restore Operator](roles/b50d9833-a0cb-478e-945f-707fcc997c13.json) | [b50d9833-a0cb-478e-945f-707fcc997c13](roles/b50d9833-a0cb-478e-945f-707fcc997c13.json) |
 | [Disk Snapshot Contributor](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) | [7efff54f-a5b4-42b5-a1c5-5411624893ce](roles/7efff54f-a5b4-42b5-a1c5-5411624893ce.json) |
-| [DiskSnapshotImmutabilityAdmin Service Role](roles/541b4c51-7349-4db1-b5af-298b9f20dd79.json) | [541b4c51-7349-4db1-b5af-298b9f20dd79](roles/541b4c51-7349-4db1-b5af-298b9f20dd79.json) |
-| [DiskSnapshotImmutabilityOperator Service Role](roles/5cf89f2f-ccaa-445e-84aa-48d3e203ddf9.json) | [5cf89f2f-ccaa-445e-84aa-48d3e203ddf9](roles/5cf89f2f-ccaa-445e-84aa-48d3e203ddf9.json) |
+| [Disk Snapshot Immutability Admin](roles/541b4c51-7349-4db1-b5af-298b9f20dd79.json) | [541b4c51-7349-4db1-b5af-298b9f20dd79](roles/541b4c51-7349-4db1-b5af-298b9f20dd79.json) |
+| [Disk Snapshot Immutability Operator](roles/5cf89f2f-ccaa-445e-84aa-48d3e203ddf9.json) | [5cf89f2f-ccaa-445e-84aa-48d3e203ddf9](roles/5cf89f2f-ccaa-445e-84aa-48d3e203ddf9.json) |
 | [DNS Resolver Contributor](roles/0f2ebee7-ffd4-4fc0-b3b7-664099fdad5d.json) | [0f2ebee7-ffd4-4fc0-b3b7-664099fdad5d](roles/0f2ebee7-ffd4-4fc0-b3b7-664099fdad5d.json) |
 | [DNS Zone Contributor](roles/befefa01-2a29-4197-83a8-272ff33ce314.json) | [befefa01-2a29-4197-83a8-272ff33ce314](roles/befefa01-2a29-4197-83a8-272ff33ce314.json) |
 | [DocumentDB Account Contributor](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) | [5bd9cd88-fe45-4216-938b-f97437e15450](roles/5bd9cd88-fe45-4216-938b-f97437e15450.json) |

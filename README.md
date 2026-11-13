@@ -620,6 +620,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Firmware Analysis Admin](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) | [9c1607d1-791d-4c68-885d-c7b7aaff7c8a](roles/9c1607d1-791d-4c68-885d-c7b7aaff7c8a.json) |
 | [Firmware Analysis Reader](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) | [2a94a2fd-3c4f-45d1-847d-6585ba88af94](roles/2a94a2fd-3c4f-45d1-847d-6585ba88af94.json) |
 | [Firmware Analysis User](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) | [53b2724d-1e51-44fa-b586-bcace0c82609](roles/53b2724d-1e51-44fa-b586-bcace0c82609.json) |
+| [Flex Plan Reader](roles/c4219913-25aa-4d66-abc5-a43bed31bea8.json) | [c4219913-25aa-4d66-abc5-a43bed31bea8](roles/c4219913-25aa-4d66-abc5-a43bed31bea8.json) |
 | [Flux Configurations Contributor](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) | [61eb6405-5f4a-440b-ad03-fe06c5c85e44](roles/61eb6405-5f4a-440b-ad03-fe06c5c85e44.json) |
 | [Foundry Account Owner](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) | [e47c6f54-e4a2-4754-9501-8e0985b135e1](roles/e47c6f54-e4a2-4754-9501-8e0985b135e1.json) |
 | [Foundry Agent Consumer](roles/eed3b665-ab3a-47b6-8f48-c9382fb1dad6.json) | [eed3b665-ab3a-47b6-8f48-c9382fb1dad6](roles/eed3b665-ab3a-47b6-8f48-c9382fb1dad6.json) |
@@ -910,6 +911,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlMI Migration Role](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) | [1d335eef-eee1-47fe-a9e0-53214eba8872](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) |
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
 | [SRE Agent Administrator](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) | [e79298df-d852-4c6d-84f9-5d13249d1e55](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) |
+| [SRE Agent Agent-to-Agent Caller](roles/40c75cfd-e05f-496e-ab43-b82ca3eb3a16.json) | [40c75cfd-e05f-496e-ab43-b82ca3eb3a16](roles/40c75cfd-e05f-496e-ab43-b82ca3eb3a16.json) |
 | [SRE Agent Author](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) | [eb64ab4c-23eb-4f63-a9c2-27da365f04e7](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) |
 | [SRE Agent Reader](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) | [a4b156ac-253f-4a1a-9851-96d62b71b047](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) |
 | [SRE Agent Session Contributor](roles/c2ad708c-75ea-4e88-b37d-a2b8729db02e.json) | [c2ad708c-75ea-4e88-b37d-a2b8729db02e](roles/c2ad708c-75ea-4e88-b37d-a2b8729db02e.json) |

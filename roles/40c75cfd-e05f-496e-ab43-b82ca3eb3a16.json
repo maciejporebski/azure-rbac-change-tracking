@@ -1,0 +1,18 @@
+{
+  "Name": "SRE Agent Agent-to-Agent Caller",
+  "Id": "40c75cfd-e05f-496e-ab43-b82ca3eb3a16",
+  "IsCustom": false,
+  "Description": "Discover and call SRE Agents and retrieve the caller's tasks. Does not grant conversation access, command approval, or connection management access.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.App/agents/a2a/read",
+    "Microsoft.App/agents/a2a/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

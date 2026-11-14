@@ -16,9 +16,7 @@
     "Microsoft.App/agents/incidentManagement/delete",
     "Microsoft.App/agents/extendedAgents/read",
     "Microsoft.App/agents/extendedAgents/write",
-    "Microsoft.App/agents/extendedAgents/delete",
-    "Microsoft.App/agents/a2a/read",
-    "Microsoft.App/agents/a2a/connections/read"
+    "Microsoft.App/agents/extendedAgents/delete"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

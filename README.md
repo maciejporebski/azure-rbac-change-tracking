@@ -911,7 +911,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlMI Migration Role](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) | [1d335eef-eee1-47fe-a9e0-53214eba8872](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) |
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
 | [SRE Agent Administrator](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) | [e79298df-d852-4c6d-84f9-5d13249d1e55](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) |
-| [SRE Agent Agent-to-Agent Caller](roles/40c75cfd-e05f-496e-ab43-b82ca3eb3a16.json) | [40c75cfd-e05f-496e-ab43-b82ca3eb3a16](roles/40c75cfd-e05f-496e-ab43-b82ca3eb3a16.json) |
 | [SRE Agent Author](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) | [eb64ab4c-23eb-4f63-a9c2-27da365f04e7](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) |
 | [SRE Agent Reader](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) | [a4b156ac-253f-4a1a-9851-96d62b71b047](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) |
 | [SRE Agent Session Contributor](roles/c2ad708c-75ea-4e88-b37d-a2b8729db02e.json) | [c2ad708c-75ea-4e88-b37d-a2b8729db02e](roles/c2ad708c-75ea-4e88-b37d-a2b8729db02e.json) |

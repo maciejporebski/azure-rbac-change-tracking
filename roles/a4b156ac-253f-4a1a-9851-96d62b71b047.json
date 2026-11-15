@@ -13,7 +13,9 @@
     "Microsoft.App/agents/threads/read",
     "Microsoft.App/agents/graph/read",
     "Microsoft.App/agents/memory/read",
-    "Microsoft.App/agents/incidentManagement/read"
+    "Microsoft.App/agents/incidentManagement/read",
+    "Microsoft.App/agents/a2a/read",
+    "Microsoft.App/agents/a2a/connections/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

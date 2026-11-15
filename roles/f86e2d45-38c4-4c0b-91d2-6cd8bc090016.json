@@ -1,0 +1,26 @@
+{
+  "Name": "PostgreSQL Database Agent Contributor",
+  "Id": "f86e2d45-38c4-4c0b-91d2-6cd8bc090016",
+  "IsCustom": false,
+  "Description": "Read PostgreSQL Database Agent diagnostics, manage issue lifecycle and custom instructions, execute tasks, approve database mitigations, and force-resolve investigations.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/issues/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/tasks/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/diagnosticData/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/issues/write",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/instructions/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/instructions/write",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/instructions/delete",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/tasks/execute/action",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/mitigations/database/approve/action",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/investigations/forceResolve/action"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

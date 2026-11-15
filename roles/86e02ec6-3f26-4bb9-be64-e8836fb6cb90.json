@@ -1,0 +1,20 @@
+{
+  "Name": "PostgreSQL Database Agent Reader",
+  "Id": "86e02ec6-3f26-4bb9-be64-e8836fb6cb90",
+  "IsCustom": false,
+  "Description": "Read PostgreSQL Database Agent issue summaries and details, diagnostic data, custom instructions, server overview, and task descriptors.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/issues/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/tasks/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/diagnosticData/read",
+    "Microsoft.DBforPostgreSQL/flexibleServers/dbAgent/instructions/read"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"
+  ],
+  "Condition": null,
+  "ConditionVersion": null
+}

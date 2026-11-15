@@ -6,6 +6,7 @@
   "Actions": [
     "Microsoft.Security/serviceEntitlements/read",
     "Microsoft.Security/serviceEntitlements/write",
+    "Microsoft.Security/serviceEntitlements/delete",
     "Microsoft.Security/serviceEntitlementSettings/read",
     "Microsoft.Security/serviceEntitlementSettings/write",
     "Microsoft.Security/serviceEntitlementSettings/delete"

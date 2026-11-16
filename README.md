@@ -822,9 +822,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [Policy Enrollments Contributor](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) | [285ce6d6-fa11-43bd-94ef-42a9b3740bfd](roles/285ce6d6-fa11-43bd-94ef-42a9b3740bfd.json) |
 | [Policy Insights Data Writer (Preview)](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) | [66bb4e9e-b016-4a94-8249-4c0511c2be84](roles/66bb4e9e-b016-4a94-8249-4c0511c2be84.json) |
 | [Portal Dashboard Writer Role](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) | [78eacb5e-e318-4560-85a9-e6a724ca60c9](roles/78eacb5e-e318-4560-85a9-e6a724ca60c9.json) |
-| [PostgreSQL Database Agent Administrator](roles/a715612b-6d9c-4e9e-852d-50deb47ab794.json) | [a715612b-6d9c-4e9e-852d-50deb47ab794](roles/a715612b-6d9c-4e9e-852d-50deb47ab794.json) |
-| [PostgreSQL Database Agent Contributor](roles/f86e2d45-38c4-4c0b-91d2-6cd8bc090016.json) | [f86e2d45-38c4-4c0b-91d2-6cd8bc090016](roles/f86e2d45-38c4-4c0b-91d2-6cd8bc090016.json) |
-| [PostgreSQL Database Agent Reader](roles/86e02ec6-3f26-4bb9-be64-e8836fb6cb90.json) | [86e02ec6-3f26-4bb9-be64-e8836fb6cb90](roles/86e02ec6-3f26-4bb9-be64-e8836fb6cb90.json) |
 | [PostgreSQL Flexible Server Long Term Retention Backup Role](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) | [c088a766-074b-43ba-90d4-1fb21feae531](roles/c088a766-074b-43ba-90d4-1fb21feae531.json) |
 | [Power Platform Account Contributor](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) | [2593f4c7-8bf4-4fff-9804-2ee069b41902](roles/2593f4c7-8bf4-4fff-9804-2ee069b41902.json) |
 | [Power Platform Enterprise Policy Contributor](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) | [babe7770-cdbc-4f46-9bd7-b90b34842946](roles/babe7770-cdbc-4f46-9bd7-b90b34842946.json) |
@@ -914,7 +911,6 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 | [SqlMI Migration Role](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) | [1d335eef-eee1-47fe-a9e0-53214eba8872](roles/1d335eef-eee1-47fe-a9e0-53214eba8872.json) |
 | [SqlVM Migration Role](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) | [ae8036db-e102-405b-a1b9-bae082ea436d](roles/ae8036db-e102-405b-a1b9-bae082ea436d.json) |
 | [SRE Agent Administrator](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) | [e79298df-d852-4c6d-84f9-5d13249d1e55](roles/e79298df-d852-4c6d-84f9-5d13249d1e55.json) |
-| [SRE Agent Agent-to-Agent Caller](roles/40c75cfd-e05f-496e-ab43-b82ca3eb3a16.json) | [40c75cfd-e05f-496e-ab43-b82ca3eb3a16](roles/40c75cfd-e05f-496e-ab43-b82ca3eb3a16.json) |
 | [SRE Agent Author](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) | [eb64ab4c-23eb-4f63-a9c2-27da365f04e7](roles/eb64ab4c-23eb-4f63-a9c2-27da365f04e7.json) |
 | [SRE Agent Reader](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) | [a4b156ac-253f-4a1a-9851-96d62b71b047](roles/a4b156ac-253f-4a1a-9851-96d62b71b047.json) |
 | [SRE Agent Session Contributor](roles/c2ad708c-75ea-4e88-b37d-a2b8729db02e.json) | [c2ad708c-75ea-4e88-b37d-a2b8729db02e](roles/c2ad708c-75ea-4e88-b37d-a2b8729db02e.json) |

@@ -20,7 +20,9 @@
     "Microsoft.App/agents/memory/write",
     "Microsoft.App/agents/scheduledtasks/read",
     "Microsoft.App/agents/scheduledtasks/write",
-    "Microsoft.App/agents/scheduledtasks/delete"
+    "Microsoft.App/agents/scheduledtasks/delete",
+    "Microsoft.App/agents/a2a/read",
+    "Microsoft.App/agents/a2a/connections/read"
   ],
   "NotDataActions": [],
   "AssignableScopes": [

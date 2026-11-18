@@ -11,7 +11,8 @@
     "Microsoft.ApiManagement/service/workspaces/toolServers/write",
     "Microsoft.ApiManagement/aigateways/read",
     "Microsoft.ApiManagement/aigateways/workspaces/toolServers/read",
-    "Microsoft.ApiManagement/aigateways/workspaces/toolServers/write"
+    "Microsoft.ApiManagement/aigateways/workspaces/toolServers/write",
+    "Microsoft.Authorization/roleAssignments/read"
   ],
   "NotActions": [],
   "DataActions": [],

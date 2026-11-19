@@ -3,6 +3,7 @@ This repository documents changes to Azure RBAC roles, by periodically fetching 
 
 | Role Name | Role Id |
 | --- | --- |
+| [A365 Content Safety Policy Operator](roles/76c40f53-2c1e-4841-aeb5-e870be0528ba.json) | [76c40f53-2c1e-4841-aeb5-e870be0528ba](roles/76c40f53-2c1e-4841-aeb5-e870be0528ba.json) |
 | [A365 Gateway Policy Operator](roles/849de3f8-3686-489c-bd02-732984d0c145.json) | [849de3f8-3686-489c-bd02-732984d0c145](roles/849de3f8-3686-489c-bd02-732984d0c145.json) |
 | [Access Review Operator Service Role](roles/76cc9ee4-d5d3-4a45-a930-26add3d73475.json) | [76cc9ee4-d5d3-4a45-a930-26add3d73475](roles/76cc9ee4-d5d3-4a45-a930-26add3d73475.json) |
 | [AcrDelete](roles/c2f4ef07-c644-48eb-af81-4b1b4947fb11.json) | [c2f4ef07-c644-48eb-af81-4b1b4947fb11](roles/c2f4ef07-c644-48eb-af81-4b1b4947fb11.json) |
